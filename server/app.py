@@ -19,7 +19,6 @@ def paystack_webhook():
     sig = request.headers.get("x-paystack-signature", "")
     if not verify_paystack_signature(body, sig):
         return "invalid signature", 400
-    # Handle events if needed
     return "ok", 200
 
 @app.post("/api/license/activate")
@@ -28,14 +27,12 @@ def activate():
     email = (j.get("email") or "").strip().lower()
     reference = (j.get("reference") or "").strip()
     machine_id = (j.get("machine_id") or "").strip()
-
     if not (email and reference and machine_id):
         return jsonify({"ok": False, "error": "email, reference, machine_id required"}), 400
 
     v = verify_transaction(reference)
     if not v.get("status"):
         return jsonify({"ok": False, "error": "verification_failed"}), 400
-
     data = v.get("data") or {}
     if data.get("status") != "success":
         return jsonify({"ok": False, "error": "payment_not_successful"}), 400
@@ -45,29 +42,18 @@ def activate():
         if not lic:
             key = make_license_key(email, reference, settings.PRODUCT_CODE)
             lic = License(
-                email=email,
-                license_key=key,
-                product_code=settings.PRODUCT_CODE,
-                paid_reference=reference,
-                status="active",
-                machine_id=machine_id
+                email=email, license_key=key, product_code=settings.PRODUCT_CODE,
+                paid_reference=reference, status="active", machine_id=machine_id
             )
-            db.add(lic)
-            db.commit()
-            db.refresh(lic)
+            db.add(lic); db.commit(); db.refresh(lic)
         else:
             if lic.machine_id and lic.machine_id != machine_id:
                 return jsonify({"ok": False, "error": "already_activated_on_another_pc"}), 403
             if not lic.machine_id:
-                lic.machine_id = machine_id
-                db.commit()
+                lic.machine_id = machine_id; db.commit()
 
         token = sign_token(f"{lic.license_key}|{lic.machine_id}")
-        return jsonify({
-            "ok": True,
-            "license_key": lic.license_key,
-            "activation_token": token
-        })
+        return jsonify({"ok": True, "license_key": lic.license_key, "activation_token": token})
 
 @app.post("/api/license/check")
 def check():
@@ -75,7 +61,6 @@ def check():
     license_key = (j.get("license_key") or "").strip()
     machine_id = (j.get("machine_id") or "").strip()
     token = (j.get("activation_token") or "").strip()
-
     if not (license_key and machine_id and token):
         return jsonify({"ok": False, "error": "missing_fields"}), 400
 
@@ -83,11 +68,7 @@ def check():
     if not raw:
         return jsonify({"ok": False, "error": "bad_token"}), 401
 
-    parts = raw.split("|")
-    if len(parts) != 2:
-        return jsonify({"ok": False, "error": "token_format"}), 401
-
-    t_key, t_mid = parts
+    t_key, t_mid = raw.split("|") if "|" in raw else ("", "")
     if t_key != license_key or t_mid != machine_id:
         return jsonify({"ok": False, "error": "mismatch"}), 401
 
@@ -97,5 +78,4 @@ def check():
             return jsonify({"ok": False, "error": "invalid_license"}), 403
         if lic.machine_id != machine_id:
             return jsonify({"ok": False, "error": "already_activated_on_another_pc"}), 403
-
     return jsonify({"ok": True, "product": settings.PRODUCT_CODE})

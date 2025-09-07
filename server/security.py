@@ -23,6 +23,6 @@ def verify_paystack_signature(body_bytes: bytes, header_signature: str) -> bool:
     digest = hmac.new(
         settings.PAYSTACK_SECRET_KEY.encode(),
         msg=body_bytes,
-        digestmod=hashlib.sha512
+        digestmod='sha512'
     ).hexdigest()
     return hmac.compare_digest(digest, header_signature)
