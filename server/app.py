@@ -5,13 +5,25 @@ from models import License
 from security import make_license_key, sign_token, unsign_token, verify_paystack_signature
 from paystack import verify_transaction
 from sqlalchemy.orm import Session
+import os
 
 app = Flask(__name__)
 Base.metadata.create_all(bind=engine)
 
+@app.get("/")
+def root():
+    return {"ok": True, "msg": "GO CBT license server running", "product": settings.PRODUCT_CODE}
+
 @app.get("/healthz")
 def healthz():
     return {"ok": True, "product": settings.PRODUCT_CODE}
+
+@app.get("/debug/db")
+def debug_db():
+    url = os.environ.get("DATABASE_URL", "sqlite:///local.db" if settings.DATABASE_URL == "sqlite:///local.db" else "(set)" )
+    if url and url.startswith("postgres://"):
+        url = url.replace("postgres://", "postgresql://", 1)
+    return {"DATABASE_URL": url}
 
 @app.post("/paystack/webhook")
 def paystack_webhook():
@@ -52,7 +64,7 @@ def activate():
             if not lic.machine_id:
                 lic.machine_id = machine_id; db.commit()
 
-        token = sign_token(f"{lic.license_key}|{lic.machine_id}")
+        token = sign_token("{}|{}".format(lic.license_key, lic.machine_id))
         return jsonify({"ok": True, "license_key": lic.license_key, "activation_token": token})
 
 @app.post("/api/license/check")
@@ -68,7 +80,7 @@ def check():
     if not raw:
         return jsonify({"ok": False, "error": "bad_token"}), 401
 
-    t_key, t_mid = raw.split("|") if "|" in raw else ("", "")
+    t_key, t_mid = raw.split("|") if "|" in raw else ("","" )
     if t_key != license_key or t_mid != machine_id:
         return jsonify({"ok": False, "error": "mismatch"}), 401
 
