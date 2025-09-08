@@ -9,3 +9,6 @@ class Settings:
     MAX_DEVICES = int(os.environ.get("MAX_DEVICES", "1"))
 
 settings = Settings()
+if settings.DATABASE_URL.startswith("postgres://"):
+    settings.DATABASE_URL = settings.DATABASE_URL.replace("postgres://", "postgresql://", 1)
+
