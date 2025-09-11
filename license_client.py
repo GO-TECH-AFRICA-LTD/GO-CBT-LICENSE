@@ -1,63 +1,75 @@
-# license_client.py
-import hashlib, json, os, platform, uuid
-import requests
+# license_client.py — align with server: /api/license/activate + /api/license/check
+import os, json, platform, hashlib, requests, pathlib
 
-LICENSE_CACHE = os.path.join(os.path.expanduser("~"), ".gocbt_license.json")
-SERVER_BASE = os.environ.get("GOCBT_SERVER", "https://YOUR-RENDER-APP.onrender.com")
+SERVER = os.environ.get("GOCBT_SERVER", "https://go-cbt-license.onrender.com").rstrip("/")
+TIMEOUT = (6, 12)  # (connect, read)
+STATE_FILE = "license_state.json"  # saved alongside the EXE/py
 
-def _get_machine_id() -> str:
+def _machine_id() -> str:
+    basis = f"{platform.node()}|{platform.system()}|{platform.machine()}|{platform.processor()}"
+    return hashlib.sha256(basis.encode("utf-8", errors="ignore")).hexdigest()
+
+def _state_path() -> str:
+    # keep it simple: local folder; if you prefer %APPDATA%, adjust here
+    return str(pathlib.Path(STATE_FILE).resolve())
+
+def _load_state() -> dict:
+    p = _state_path()
     try:
-        node = uuid.getnode()
+        with open(p, "r", encoding="utf-8") as f:
+            j = json.load(f)
+            return j if isinstance(j, dict) else {}
     except Exception:
-        node = 0
-    salt = "gocbt-salt-v1"
-    raw = f"{platform.system()}|{platform.machine()}|{platform.node()}|{node}|{salt}"
-    return hashlib.sha256(raw.encode()).hexdigest()
+        return {}
 
-def _save_cache(data: dict):
+def _save_state(license_key: str, activation_token: str):
+    data = {
+        "license_key": license_key,
+        "activation_token": activation_token,
+        "machine_id": _machine_id(),
+    }
     try:
-        with open(LICENSE_CACHE, "w", encoding="utf-8") as f:
+        with open(_state_path(), "w", encoding="utf-8") as f:
             json.dump(data, f)
     except Exception:
         pass
 
-def _load_cache() -> dict:
+def activate_with_reference(email: str, reference: str) -> dict:
+    """
+    POSTS to /api/license/activate with {email, reference, machine_id}.
+    On success, saves {license_key, activation_token, machine_id} locally.
+    Returns {ok: bool, ...}
+    """
+    url = f"{SERVER}/api/license/activate"
+    payload = {"email": email, "reference": reference, "machine_id": _machine_id()}
     try:
-        with open(LICENSE_CACHE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return {}
-
-def activate_with_reference(email: str, reference: str):
-    mid = _get_machine_id()
-    url = f"{SERVER_BASE}/api/license/activate"
-    r = requests.post(url, json={
-        "email": email, "reference": reference, "machine_id": mid
-    }, timeout=25)
-    j = r.json()
-    if j.get("ok"):
-        data = {
-            "email": email,
-            "license_key": j["license_key"],
-            "activation_token": j["activation_token"],
-            "machine_id": mid
-        }
-        _save_cache(data)
-    return j
+        r = requests.post(url, json=payload, timeout=TIMEOUT)
+        r.raise_for_status()
+        data = r.json()
+        if isinstance(data, dict) and data.get("ok") and data.get("license_key") and data.get("activation_token"):
+            _save_state(data["license_key"], data["activation_token"])
+        return data if isinstance(data, dict) else {"ok": False, "error": f"bad response: {data!r}"}
+    except Exception as e:
+        return {"ok": False, "error": str(e)}
 
 def check_activation() -> dict:
-    data = _load_cache()
-    req = {
-        "license_key": data.get("license_key",""),
-        "activation_token": data.get("activation_token",""),
-        "machine_id": data.get("machine_id") or _get_machine_id()
-    }
-    if not all(req.values()):
-        return {"ok": False, "reason": "not_activated"}
+    """
+    POSTS to /api/license/check with saved {license_key, machine_id, activation_token}.
+    Returns {ok: bool, ...}
+    """
+    st = _load_state()
+    lic = st.get("license_key")
+    tok = st.get("activation_token")
+    mid = st.get("machine_id") or _machine_id()
+    if not (lic and tok and mid):
+        return {"ok": False, "error": "not_activated"}
 
-    url = f"{SERVER_BASE}/api/license/check"
+    url = f"{SERVER}/api/license/check"
+    payload = {"license_key": lic, "machine_id": mid, "activation_token": tok}
     try:
-        r = requests.post(url, json=req, timeout=20)
-        return r.json()
+        r = requests.post(url, json=payload, timeout=TIMEOUT)
+        r.raise_for_status()
+        data = r.json()
+        return data if isinstance(data, dict) else {"ok": False, "error": f"bad response: {data!r}"}
     except Exception as e:
-        return {"ok": False, "reason": f"net_error: {e}"}
+        return {"ok": False, "error": str(e)}
