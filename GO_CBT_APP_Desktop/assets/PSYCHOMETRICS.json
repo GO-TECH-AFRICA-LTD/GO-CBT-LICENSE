@@ -1,0 +1,5502 @@
+[
+  {
+    "question_number": 1,
+    "question": "(Numerical Reasoning) What is the next number in the sequence: 3, 6, 12, 24, ?",
+    "options": {
+      "A": "36",
+      "B": "48",
+      "C": "50",
+      "D": "30"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 2,
+    "question": "(Verbal Reasoning) Choose the word most opposite in meaning to \"vigilant\":",
+    "options": {
+      "A": "Watchful",
+      "B": "Sleepy",
+      "C": "Alert",
+      "D": "Observant"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 3,
+    "question": "(Logical Reasoning) All fish can swim. Some fish are sharks. Therefore:",
+    "options": {
+      "A": "All sharks are fish",
+      "B": "All sharks can swim",
+      "C": "Some sharks can't swim",
+      "D": "Sharks are not fish"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 4,
+    "question": "(Abstract Reasoning) What comes next in the series: \u25b3, \u25cb, \u25a1, \u25b3, \u25cb, ?",
+    "options": {
+      "A": "\u25b3",
+      "B": "\u25cb",
+      "C": "\u25a1",
+      "D": "\u25c7"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 5,
+    "question": "(Critical Thinking) A good decision is best made when:",
+    "options": {
+      "A": "You act on impulse",
+      "B": "You consult social media",
+      "C": "You evaluate facts and outcomes",
+      "D": "You guess what works"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 6,
+    "question": "(Emotional Intelligence) Your colleague receives negative feedback and appears withdrawn. What should you do?",
+    "options": {
+      "A": "Ignore them",
+      "B": "Gossip about it",
+      "C": "Show empathy and check in",
+      "D": "Tell the boss"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 7,
+    "question": "(Situational Judgement) A team member arrives late repeatedly. What's the best first step?",
+    "options": {
+      "A": "Publicly scold them",
+      "B": "Ignore the issue",
+      "C": "Privately ask why it's happening",
+      "D": "Report them to HR immediately"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 8,
+    "question": "(Personality and Work Style) A person who prefers deadlines and detailed plans likely scores high in:",
+    "options": {
+      "A": "Openness",
+      "B": "Conscientiousness",
+      "C": "Extraversion",
+      "D": "Neuroticism"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 9,
+    "question": "(Syllogism) All leaders are readers. Some readers are students. Therefore:",
+    "options": {
+      "A": "All students are leaders",
+      "B": "Some leaders are students",
+      "C": "Some readers may be leaders",
+      "D": "No student is a leader"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 10,
+    "question": "(Leadership Aptitude) An ethical leader is most likely to:",
+    "options": {
+      "A": "Seek personal gain",
+      "B": "Manipulate outcomes",
+      "C": "Act with transparency",
+      "D": "Avoid accountability"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 11,
+    "question": "(Numerical Reasoning) A bag contains 12 red balls and 8 green balls. What is the probability of randomly picking a green ball?",
+    "options": {
+      "A": "1/3",
+      "B": "2/5",
+      "C": "2/3",
+      "D": "3/5"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 12,
+    "question": "(Verbal Reasoning) Choose the word that is most similar in meaning to \"meticulous\":",
+    "options": {
+      "A": "Careless",
+      "B": "Precise",
+      "C": "Casual",
+      "D": "Rough"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 13,
+    "question": "(Logical Reasoning) If all engineers are logical, and Ada is an engineer, then:",
+    "options": {
+      "A": "Ada is not logical",
+      "B": "Ada might be logical",
+      "C": "Ada is logical",
+      "D": "Ada is careless"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 14,
+    "question": "(Abstract Reasoning) Identify the pattern: A1, B2, C3, D4, ?",
+    "options": {
+      "A": "F5",
+      "B": "E5",
+      "C": "E6",
+      "D": "F4"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 15,
+    "question": "(Critical Thinking) The ability to examine assumptions and evidence is known as:",
+    "options": {
+      "A": "Emotional intelligence",
+      "B": "Verbal fluency",
+      "C": "Critical thinking",
+      "D": "Abstract reasoning"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 16,
+    "question": "(Emotional Intelligence) Self-awareness involves:",
+    "options": {
+      "A": "Ignoring your emotions",
+      "B": "Understanding your feelings and reactions",
+      "C": "Copying others' emotions",
+      "D": "Overreacting to stress"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 17,
+    "question": "(Situational Judgement) A coworker takes credit for your idea. What should you do?",
+    "options": {
+      "A": "Retaliate",
+      "B": "Do nothing",
+      "C": "Raise it respectfully with them or your supervisor",
+      "D": "Sabotage their next idea"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 18,
+    "question": "(Personality and Work Style) A person scoring high in openness is likely to:",
+    "options": {
+      "A": "Prefer familiar routines",
+      "B": "Resist change",
+      "C": "Seek novelty and variety",
+      "D": "Avoid responsibility"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 19,
+    "question": "(Syllogism) All teachers are educated. All professors are teachers. Therefore:",
+    "options": {
+      "A": "All professors are educated",
+      "B": "All educated people are teachers",
+      "C": "Some professors are not educated",
+      "D": "No professor is a teacher"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 20,
+    "question": "(Leadership Aptitude) A transformational leader primarily:",
+    "options": {
+      "A": "Controls decisions alone",
+      "B": "Inspires and motivates others",
+      "C": "Punishes failure",
+      "D": "Avoids responsibility"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 21,
+    "question": "(Numerical Reasoning) 40 is what percentage of 160?",
+    "options": {
+      "A": "15%",
+      "B": "20%",
+      "C": "25%",
+      "D": "30%"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 22,
+    "question": "(Verbal Reasoning) Choose the opposite of \"transparent\":",
+    "options": {
+      "A": "Open",
+      "B": "Honest",
+      "C": "Clear",
+      "D": "Deceptive"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 23,
+    "question": "(Logical Reasoning) If some A are B and all B are C, then:",
+    "options": {
+      "A": "Some A are not C",
+      "B": "All A are C",
+      "C": "Some A are C",
+      "D": "All C are A"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 24,
+    "question": "(Abstract Reasoning) Identify the missing shape: \u2605, \u25b2, \u2605, \u25b2, ?",
+    "options": {
+      "A": "\u25b2",
+      "B": "\u2605",
+      "C": "\u25ef",
+      "D": "\u25a0"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 25,
+    "question": "(Critical Thinking) Which trait best supports critical thinking?",
+    "options": {
+      "A": "Obedience",
+      "B": "Assumption",
+      "C": "Curiosity",
+      "D": "Laziness"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 26,
+    "question": "(Emotional Intelligence) You made a mistake on a group task. What should you do?",
+    "options": {
+      "A": "Deny it",
+      "B": "Blame someone else",
+      "C": "Take responsibility and learn from it",
+      "D": "Avoid the team"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 27,
+    "question": "(Situational Judgement) During a meeting, someone interrupts you repeatedly. What\u2019s the most professional response?",
+    "options": {
+      "A": "Walk out",
+      "B": "Yell at them",
+      "C": "Wait and address it calmly later",
+      "D": "Interrupt them too"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 28,
+    "question": "(Personality and Work Style) Which personality trait is most associated with being cooperative and kind?",
+    "options": {
+      "A": "Openness",
+      "B": "Agreeableness",
+      "C": "Conscientiousness",
+      "D": "Neuroticism"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 29,
+    "question": "(Syllogism) All honest people are trustworthy. No thieves are honest. Therefore:",
+    "options": {
+      "A": "Some thieves are trustworthy",
+      "B": "No trustworthy people are honest",
+      "C": "No thieves are trustworthy",
+      "D": "All trustworthy people are thieves"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 30,
+    "question": "(Leadership Aptitude) Which quality best describes a servant leader?",
+    "options": {
+      "A": "Domineering",
+      "B": "Self-centered",
+      "C": "Empathetic",
+      "D": "Controlling"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 31,
+    "question": "(Numerical Reasoning) A basket contains 5 apples, 3 oranges, and 2 bananas. What fraction of the basket is oranges?",
+    "options": {
+      "A": "3/10",
+      "B": "3/5",
+      "C": "2/5",
+      "D": "1/5"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 32,
+    "question": "(Verbal Reasoning) Choose the word that best fits: \"The lecture was so \\_\\_\\_\\_ that students fell asleep.\"",
+    "options": {
+      "A": "Interesting",
+      "B": "Exciting",
+      "C": "Dull",
+      "D": "Riveting"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 33,
+    "question": "(Logical Reasoning) If all birds can fly and penguins are birds, what conclusion can you draw?",
+    "options": {
+      "A": "Penguins can fly",
+      "B": "Penguins cannot fly",
+      "C": "All birds are penguins",
+      "D": "Some birds cannot fly"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 34,
+    "question": "(Abstract Reasoning) What comes next in the sequence: 5, 10, 20, 40, ?",
+    "options": {
+      "A": "45",
+      "B": "60",
+      "C": "80",
+      "D": "100"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 35,
+    "question": "(Critical Thinking) What\u2019s the best way to evaluate an argument?",
+    "options": {
+      "A": "Judge the speaker",
+      "B": "Focus on emotion",
+      "C": "Check logic and evidence",
+      "D": "Rely on popularity"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 36,
+    "question": "(Emotional Intelligence) Which of the following indicates low emotional intelligence?",
+    "options": {
+      "A": "Understanding others",
+      "B": "Ignoring feedback",
+      "C": "Admitting mistakes",
+      "D": "Being empathetic"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 37,
+    "question": "(Situational Judgement) You overhear a colleague spreading false rumors. What should you do?",
+    "options": {
+      "A": "Join in",
+      "B": "Report it immediately",
+      "C": "Clarify facts and discourage the behavior",
+      "D": "Record it secretly"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 38,
+    "question": "(Personality and Work Style) People high in extraversion often:",
+    "options": {
+      "A": "Prefer solitude",
+      "B": "Avoid new experiences",
+      "C": "Enjoy social interaction",
+      "D": "Lack energy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 39,
+    "question": "(Syllogism) All fruits have seeds. Mango is a fruit. Therefore:",
+    "options": {
+      "A": "Mango is a seed",
+      "B": "Mango has seeds",
+      "C": "Mango is not a fruit",
+      "D": "Mango is a vegetable"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 40,
+    "question": "(Leadership Aptitude) An authoritative leader primarily:",
+    "options": {
+      "A": "Listens only to themselves",
+      "B": "Inspires trust while enforcing structure",
+      "C": "Avoids setting goals",
+      "D": "Delegates everything"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 41,
+    "question": "(Numerical Reasoning) If a car travels at 60 km/h for 3 hours, how far does it go?",
+    "options": {
+      "A": "180 km",
+      "B": "200 km",
+      "C": "120 km",
+      "D": "150 km"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 42,
+    "question": "(Verbal Reasoning) The opposite of \"expand\" is:",
+    "options": {
+      "A": "Enlarge",
+      "B": "Grow",
+      "C": "Contract",
+      "D": "Develop"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 43,
+    "question": "(Logical Reasoning) If no cats are dogs and all dogs bark, which is true?",
+    "options": {
+      "A": "All cats bark",
+      "B": "Some cats bark",
+      "C": "No cats bark",
+      "D": "Nothing can be concluded about cats barking"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 44,
+    "question": "(Abstract Reasoning) What is next in the sequence: 2, 3, 5, 8, 12, ?",
+    "options": {
+      "A": "17",
+      "B": "15",
+      "C": "13",
+      "D": "16"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 45,
+    "question": "(Critical Thinking) A biased report is likely to:",
+    "options": {
+      "A": "Be well-balanced",
+      "B": "Contain emotional language",
+      "C": "Use verified sources",
+      "D": "Avoid assumptions"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 46,
+    "question": "(Emotional Intelligence) Recognizing your emotional triggers helps in:",
+    "options": {
+      "A": "Avoiding teamwork",
+      "B": "Managing stress better",
+      "C": "Reacting impulsively",
+      "D": "Creating conflicts"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 47,
+    "question": "(Situational Judgement) A new employee is struggling. What\u2019s your best approach?",
+    "options": {
+      "A": "Criticize them publicly",
+      "B": "Avoid helping",
+      "C": "Offer guidance",
+      "D": "Report them immediately"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 48,
+    "question": "(Personality and Work Style) A person scoring low in neuroticism is likely to be:",
+    "options": {
+      "A": "Easily stressed",
+      "B": "Calm and stable",
+      "C": "Impulsive",
+      "D": "Emotionally volatile"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 49,
+    "question": "(Syllogism) No athletes are lazy. Some students are athletes. Therefore:",
+    "options": {
+      "A": "All students are lazy",
+      "B": "Some students are not lazy",
+      "C": "All athletes are students",
+      "D": "No student is lazy"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 50,
+    "question": "(Leadership Aptitude) Which behavior best defines emotional intelligence in leadership?",
+    "options": {
+      "A": "Avoiding employee feedback",
+      "B": "Reacting with anger",
+      "C": "Managing emotions constructively",
+      "D": "Ignoring team morale"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 51,
+    "question": "(Numerical Reasoning) What is 25% of 160?",
+    "options": {
+      "A": "30",
+      "B": "35",
+      "C": "40",
+      "D": "45"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 52,
+    "question": "(Verbal Reasoning) Choose the synonym of \"fragile\":",
+    "options": {
+      "A": "Strong",
+      "B": "Durable",
+      "C": "Delicate",
+      "D": "Thick"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 53,
+    "question": "(Logical Reasoning) All managers are trained. Some employees are managers. Therefore:",
+    "options": {
+      "A": "All employees are trained",
+      "B": "Some employees may be trained",
+      "C": "No employee is trained",
+      "D": "Training is unnecessary"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 54,
+    "question": "(Abstract Reasoning) Identify the pattern: \u25b2, \u25ef, \u25fc, \u25b2, \u25ef, ?",
+    "options": {
+      "A": "\u25fc",
+      "B": "\u25b2",
+      "C": "\u25ef",
+      "D": "\u25c7"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 55,
+    "question": "(Critical Thinking) When a conclusion is made without evidence, it's called:",
+    "options": {
+      "A": "Deduction",
+      "B": "Inference",
+      "C": "Assumption",
+      "D": "Analysis"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 56,
+    "question": "(Emotional Intelligence) Understanding another\u2019s perspective is called:",
+    "options": {
+      "A": "Sympathy",
+      "B": "Logic",
+      "C": "Empathy",
+      "D": "Reaction"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 57,
+    "question": "(Situational Judgement) During conflict in a team, the best initial step is:",
+    "options": {
+      "A": "Take sides",
+      "B": "Ignore it",
+      "C": "Seek mutual understanding",
+      "D": "Escalate immediately"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 58,
+    "question": "(Personality and Work Style) Introverts are more likely to:",
+    "options": {
+      "A": "Thrive in solitude",
+      "B": "Dominate conversations",
+      "C": "Enjoy noisy environments",
+      "D": "Seek attention"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 59,
+    "question": "(Syllogism) All cars are vehicles. Some vehicles are not trucks. Therefore:",
+    "options": {
+      "A": "All cars are trucks",
+      "B": "Some cars are not trucks",
+      "C": "Some trucks are not vehicles",
+      "D": "No cars are trucks"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 60,
+    "question": "(Leadership Aptitude) Effective delegation involves:",
+    "options": {
+      "A": "Avoiding communication",
+      "B": "Assigning tasks clearly with trust",
+      "C": "Doing all tasks alone",
+      "D": "Micromanaging every detail"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 61,
+    "question": "(Numerical Reasoning) If you buy 3 items at \u20a6200 each and get 10% discount, what is the total cost?",
+    "options": {
+      "A": "\u20a6540",
+      "B": "\u20a6600",
+      "C": "\u20a6570",
+      "D": "\u20a6580"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 62,
+    "question": "(Verbal Reasoning) The antonym of \"generous\" is:",
+    "options": {
+      "A": "Giving",
+      "B": "Kind",
+      "C": "Selfless",
+      "D": "Stingy"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 63,
+    "question": "(Logical Reasoning) If no teachers are lazy and John is a teacher, then:",
+    "options": {
+      "A": "John is lazy",
+      "B": "John may be lazy",
+      "C": "John is not lazy",
+      "D": "John is not a teacher"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 64,
+    "question": "(Abstract Reasoning) Identify the next number: 1, 4, 9, 16, ?",
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "30",
+      "D": "36"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 65,
+    "question": "(Critical Thinking) Which of these is most objective?",
+    "options": {
+      "A": "Personal belief",
+      "B": "Emotional reaction",
+      "C": "Data-based report",
+      "D": "Gut feeling"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 66,
+    "question": "(Emotional Intelligence) What best shows emotional regulation?",
+    "options": {
+      "A": "Reacting with rage",
+      "B": "Responding calmly under stress",
+      "C": "Crying uncontrollably",
+      "D": "Suppressing all feelings"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 67,
+    "question": "(Situational Judgement) You\u2019re asked to lead a team unfamiliar with you. What\u2019s your first move?",
+    "options": {
+      "A": "Set rules and ignore feedback",
+      "B": "Build rapport and clarify goals",
+      "C": "Enforce authority",
+      "D": "Avoid responsibility"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 68,
+    "question": "(Personality and Work Style) People who prefer structure and routine are likely:",
+    "options": {
+      "A": "Neurotic",
+      "B": "Open",
+      "C": "Conscientious",
+      "D": "Disorganized"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 69,
+    "question": "(Syllogism) All flowers need sunlight. Roses are flowers. Therefore:",
+    "options": {
+      "A": "Roses don\u2019t need sunlight",
+      "B": "Roses may need sunlight",
+      "C": "Roses need sunlight",
+      "D": "Roses are not flowers"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 70,
+    "question": "(Leadership Aptitude) A visionary leader is most likely to:",
+    "options": {
+      "A": "Focus only on current tasks",
+      "B": "Fear innovation",
+      "C": "Inspire toward a future goal",
+      "D": "Avoid risk"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 71,
+    "question": "(Numerical Reasoning) A class of 50 students has 20 girls. What percentage are boys?",
+    "options": {
+      "A": "40%",
+      "B": "50%",
+      "C": "60%",
+      "D": "30%"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 72,
+    "question": "(Verbal Reasoning) Choose the synonym of \"swift\":",
+    "options": {
+      "A": "Slow",
+      "B": "Rapid",
+      "C": "Lazy",
+      "D": "Gentle"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 73,
+    "question": "(Logical Reasoning) All rectangles are polygons. Some polygons are not squares. Therefore:",
+    "options": {
+      "A": "All squares are polygons",
+      "B": "No rectangles are squares",
+      "C": "Some rectangles are squares",
+      "D": "Not all polygons are rectangles"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 74,
+    "question": "(Abstract Reasoning) What is next in the pattern: A2, B4, C6, D8, ?",
+    "options": {
+      "A": "E9",
+      "B": "E10",
+      "C": "F10",
+      "D": "F9"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 75,
+    "question": "(Critical Thinking) Which term refers to a flaw in reasoning?",
+    "options": {
+      "A": "Fallacy",
+      "B": "Fact",
+      "C": "Assumption",
+      "D": "Truth"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 76,
+    "question": "(Emotional Intelligence) A person high in EQ is likely to:",
+    "options": {
+      "A": "Avoid social contact",
+      "B": "Be unaware of others' feelings",
+      "C": "Handle conflict peacefully",
+      "D": "Blame others constantly"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 77,
+    "question": "(Situational Judgement) A colleague is consistently late to meetings. What\u2019s the most constructive action?",
+    "options": {
+      "A": "Complain to others",
+      "B": "Report them immediately",
+      "C": "Speak with them privately",
+      "D": "Ignore it"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 78,
+    "question": "(Personality and Work Style) A person who adapts quickly to change likely scores high in:",
+    "options": {
+      "A": "Openness",
+      "B": "Neuroticism",
+      "C": "Conscientiousness",
+      "D": "Introversion"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 79,
+    "question": "(Syllogism) Some artists are painters. All painters are creative. Therefore:",
+    "options": {
+      "A": "Some artists are creative",
+      "B": "All artists are painters",
+      "C": "No artist is creative",
+      "D": "Painters are not creative"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 80,
+    "question": "(Leadership Aptitude) An indecisive leader may lead to:",
+    "options": {
+      "A": "Stronger morale",
+      "B": "Fast execution",
+      "C": "Team frustration",
+      "D": "Effective strategy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 81,
+    "question": "(Numerical Reasoning) 20% of 80 is:",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "18"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 82,
+    "question": "(Verbal Reasoning) Antonym of \"humble\" is:",
+    "options": {
+      "A": "Proud",
+      "B": "Modest",
+      "C": "Quiet",
+      "D": "Shy"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 83,
+    "question": "(Logical Reasoning) If all birds lay eggs and penguins are birds, then:",
+    "options": {
+      "A": "Penguins do not lay eggs",
+      "B": "Penguins lay eggs",
+      "C": "All birds are penguins",
+      "D": "No birds lay eggs"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 84,
+    "question": "(Abstract Reasoning) Complete the series: 10, 9, 7, 4, ?",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "0",
+      "D": "-1"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 85,
+    "question": "(Critical Thinking) Which is the best evidence in support of a claim?",
+    "options": {
+      "A": "Testimonial",
+      "B": "Verified data",
+      "C": "Rumor",
+      "D": "Anecdote"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 86,
+    "question": "(Emotional Intelligence) Emotional self-control is:",
+    "options": {
+      "A": "Avoiding people",
+      "B": "Shouting during conflict",
+      "C": "Managing responses constructively",
+      "D": "Ignoring feelings"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 87,
+    "question": "(Situational Judgement) Your boss gives unclear instructions. What do you do?",
+    "options": {
+      "A": "Make assumptions",
+      "B": "Complain to coworkers",
+      "C": "Ask for clarification",
+      "D": "Do nothing"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 88,
+    "question": "(Personality and Work Style) High conscientiousness is linked to:",
+    "options": {
+      "A": "Carelessness",
+      "B": "Irresponsibility",
+      "C": "Reliability",
+      "D": "Indifference"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 89,
+    "question": "(Syllogism) All metal conducts electricity. Copper is a metal. Therefore:",
+    "options": {
+      "A": "Copper conducts electricity",
+      "B": "Copper does not conduct",
+      "C": "All conductors are copper",
+      "D": "No conclusion can be made"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 90,
+    "question": "(Leadership Aptitude) Democratic leaders often:",
+    "options": {
+      "A": "Ignore opinions",
+      "B": "Make decisions alone",
+      "C": "Encourage team input",
+      "D": "Avoid leadership"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 91,
+    "question": "(Numerical Reasoning) If you spend \u20a675 from \u20a6200, what percentage is left?",
+    "options": {
+      "A": "25%",
+      "B": "37.5%",
+      "C": "62.5%",
+      "D": "50%"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 92,
+    "question": "(Verbal Reasoning) Choose the best synonym of \"diligent\":",
+    "options": {
+      "A": "Lazy",
+      "B": "Careful",
+      "C": "Indifferent",
+      "D": "Reckless"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 93,
+    "question": "(Logical Reasoning) If some A are B and all B are C, which is correct?",
+    "options": {
+      "A": "Some A are C",
+      "B": "All A are C",
+      "C": "No A is C",
+      "D": "All C are A"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 94,
+    "question": "(Abstract Reasoning) Pattern: 1, 3, 6, 10, 15, ?",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "23"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 95,
+    "question": "(Critical Thinking) To test a claim logically, you should:",
+    "options": {
+      "A": "Guess the answer",
+      "B": "Use verified evidence",
+      "C": "Ask no questions",
+      "D": "Believe social media"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 96,
+    "question": "(Emotional Intelligence) People with high EQ:",
+    "options": {
+      "A": "Ignore feedback",
+      "B": "Criticize publicly",
+      "C": "Understand others' needs",
+      "D": "React impulsively"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 97,
+    "question": "(Situational Judgement) A mistake is discovered in your team\u2019s report. What\u2019s the best action?",
+    "options": {
+      "A": "Hide it",
+      "B": "Blame others",
+      "C": "Correct it and inform stakeholders",
+      "D": "Ignore it"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 98,
+    "question": "(Personality and Work Style) High agreeableness means:",
+    "options": {
+      "A": "Argumentative",
+      "B": "Cooperative",
+      "C": "Critical",
+      "D": "Competitive"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 99,
+    "question": "(Syllogism) All engineers are problem-solvers. Some students are engineers. Therefore:",
+    "options": {
+      "A": "All students are engineers",
+      "B": "Some students are problem-solvers",
+      "C": "No student is a problem-solver",
+      "D": "All problem-solvers are students"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 100,
+    "question": "(Leadership Aptitude) Which of these is a core component of transformational leadership?",
+    "options": {
+      "A": "Dictatorship",
+      "B": "Fear",
+      "C": "Inspiration",
+      "D": "Isolation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 101,
+    "question": "(Numerical Reasoning) If 5 workers complete a task in 10 days, how many days will 10 workers take?",
+    "options": {
+      "A": "20",
+      "B": "5",
+      "C": "10",
+      "D": "15"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 102,
+    "question": "(Verbal Reasoning) What is the opposite of \"complex\"?",
+    "options": {
+      "A": "Difficult",
+      "B": "Intricate",
+      "C": "Simple",
+      "D": "Complicated"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 103,
+    "question": "(Logical Reasoning) All actors are performers. No performer is shy. Therefore:",
+    "options": {
+      "A": "All actors are shy",
+      "B": "Some performers are actors",
+      "C": "No actor is shy",
+      "D": "All shy people are actors"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 104,
+    "question": "(Abstract Reasoning) Sequence: 100, 90, 81, 73, ?",
+    "options": {
+      "A": "66",
+      "B": "64",
+      "C": "65",
+      "D": "62"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 105,
+    "question": "(Critical Thinking) Which of the following strengthens an argument?",
+    "options": {
+      "A": "Personal opinion",
+      "B": "Logical evidence",
+      "C": "Emotional appeal",
+      "D": "Repetition"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 106,
+    "question": "(Emotional Intelligence) What is the first step in managing conflict?",
+    "options": {
+      "A": "Avoid it",
+      "B": "Listen actively",
+      "C": "Escalate immediately",
+      "D": "Take sides"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 107,
+    "question": "(Situational Judgement) If a team member lacks motivation, what should a leader do first?",
+    "options": {
+      "A": "Assign more work",
+      "B": "Fire them",
+      "C": "Understand their concerns",
+      "D": "Ignore the situation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 108,
+    "question": "(Personality and Work Style) High levels of neuroticism often indicate:",
+    "options": {
+      "A": "Emotional stability",
+      "B": "Calmness",
+      "C": "Stress sensitivity",
+      "D": "Confidence"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 109,
+    "question": "(Syllogism) All scientists are curious. No curious person is lazy. Therefore:",
+    "options": {
+      "A": "All scientists are lazy",
+      "B": "No scientist is lazy",
+      "C": "Some lazy people are scientists",
+      "D": "Scientists are not curious"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 110,
+    "question": "(Leadership Aptitude) Which leadership style involves giving freedom to subordinates to make decisions?",
+    "options": {
+      "A": "Autocratic",
+      "B": "Laissez-faire",
+      "C": "Transactional",
+      "D": "Bureaucratic"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 111,
+    "question": "(Numerical Reasoning) What is the average of 12, 18, 24, and 30?",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "23"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 112,
+    "question": "(Verbal Reasoning) Choose the synonym of \"resilient\":",
+    "options": {
+      "A": "Fragile",
+      "B": "Vulnerable",
+      "C": "Strong",
+      "D": "Weak"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 113,
+    "question": "(Logical Reasoning) If some P are Q and all Q are R, then:",
+    "options": {
+      "A": "All P are R",
+      "B": "Some P are R",
+      "C": "No P is R",
+      "D": "All R are Q"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 114,
+    "question": "(Abstract Reasoning) Find the next shape: \u25fc, \u25cf, \u25b2, \u25fc, \u25cf, ?",
+    "options": {
+      "A": "\u25b2",
+      "B": "\u25fc",
+      "C": "\u25ef",
+      "D": "\u25c6"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 115,
+    "question": "(Critical Thinking) What is required for reflective thinking?",
+    "options": {
+      "A": "External praise",
+      "B": "Time pressure",
+      "C": "Self-assessment",
+      "D": "Guesswork"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 116,
+    "question": "(Emotional Intelligence) A person who manages stress well shows:",
+    "options": {
+      "A": "Emotional immaturity",
+      "B": "Lack of awareness",
+      "C": "Self-regulation",
+      "D": "Manipulation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 117,
+    "question": "(Situational Judgement) You're leading a team of diverse opinions. What improves unity?",
+    "options": {
+      "A": "Favoritism",
+      "B": "Encouraging inclusive dialogue",
+      "C": "Enforcing silence",
+      "D": "Avoiding group discussions"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 118,
+    "question": "(Personality and Work Style) Individuals with low extraversion are likely to:",
+    "options": {
+      "A": "Be outgoing",
+      "B": "Prefer large crowds",
+      "C": "Value solitude",
+      "D": "Thrive in group settings"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 119,
+    "question": "(Syllogism) All fruits grow on trees. Mango is a fruit. Therefore:",
+    "options": {
+      "A": "Mango grows on trees",
+      "B": "Mango is not a fruit",
+      "C": "Mango doesn\u2019t grow on trees",
+      "D": "Mango is a vegetable"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 120,
+    "question": "(Leadership Aptitude) Ethical leadership prioritizes:",
+    "options": {
+      "A": "Personal gain",
+      "B": "Transparency and fairness",
+      "C": "Aggressive tactics",
+      "D": "Popularity"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 121,
+    "question": "(Numerical Reasoning) 3/4 of 60 is:",
+    "options": {
+      "A": "45",
+      "B": "40",
+      "C": "30",
+      "D": "50"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 122,
+    "question": "(Verbal Reasoning) Antonym of \"abundant\":",
+    "options": {
+      "A": "Plentiful",
+      "B": "Scarce",
+      "C": "Generous",
+      "D": "Enough"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 123,
+    "question": "(Logical Reasoning) All squares are rectangles. Some rectangles are not red. Therefore:",
+    "options": {
+      "A": "All squares are red",
+      "B": "Some squares are not red",
+      "C": "Some rectangles are red",
+      "D": "Squares are not rectangles"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 124,
+    "question": "(Abstract Reasoning) Complete the series: 2, 4, 7, 11, 16, ?",
+    "options": {
+      "A": "21",
+      "B": "22",
+      "C": "23",
+      "D": "24"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 125,
+    "question": "(Critical Thinking) Which is a sign of weak reasoning?",
+    "options": {
+      "A": "Using multiple perspectives",
+      "B": "Ignoring evidence",
+      "C": "Using logic",
+      "D": "Seeking feedback"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 126,
+    "question": "(Emotional Intelligence) Social awareness involves:",
+    "options": {
+      "A": "Dominating a conversation",
+      "B": "Understanding others' feelings",
+      "C": "Being manipulative",
+      "D": "Ignoring cues"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 127,
+    "question": "(Situational Judgement) In a stressful situation, you should:",
+    "options": {
+      "A": "Yell",
+      "B": "Stay silent",
+      "C": "Panic",
+      "D": "Pause and respond rationally"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 128,
+    "question": "(Personality and Work Style) A person who enjoys trying new things likely scores high in:",
+    "options": {
+      "A": "Agreeableness",
+      "B": "Openness",
+      "C": "Neuroticism",
+      "D": "Conscientiousness"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 129,
+    "question": "(Syllogism) All writers are thinkers. Some thinkers are philosophers. Therefore:",
+    "options": {
+      "A": "All writers are philosophers",
+      "B": "Some writers are philosophers",
+      "C": "Some philosophers are thinkers",
+      "D": "No writer is a philosopher"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 130,
+    "question": "(Leadership Aptitude) A good leader is expected to:",
+    "options": {
+      "A": "Avoid responsibility",
+      "B": "Provide clear direction",
+      "C": "Follow always",
+      "D": "Work in isolation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 131,
+    "question": "(Numerical Reasoning) Increase of 20% on \u20a6500 is:",
+    "options": {
+      "A": "\u20a6520",
+      "B": "\u20a6580",
+      "C": "\u20a6600",
+      "D": "\u20a6620"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 132,
+    "question": "(Verbal Reasoning) What\u2019s the synonym of \u201cinnovative\u201d?",
+    "options": {
+      "A": "Conventional",
+      "B": "Creative",
+      "C": "Old-fashioned",
+      "D": "Predictable"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 133,
+    "question": "(Logical Reasoning) All lions are animals. Some animals are not carnivores. Therefore:",
+    "options": {
+      "A": "All lions are carnivores",
+      "B": "All carnivores are lions",
+      "C": "Some lions may not be carnivores",
+      "D": "No valid conclusion"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 134,
+    "question": "(Abstract Reasoning) Series: 1, 2, 4, 8, 16, ?",
+    "options": {
+      "A": "24",
+      "B": "30",
+      "C": "32",
+      "D": "40"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 135,
+    "question": "(Critical Thinking) What weakens a conclusion?",
+    "options": {
+      "A": "Supporting data",
+      "B": "Logical progression",
+      "C": "Contradictory evidence",
+      "D": "Verified source"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 136,
+    "question": "(Emotional Intelligence) Recognizing others\u2019 emotions is part of:",
+    "options": {
+      "A": "Self-motivation",
+      "B": "Self-awareness",
+      "C": "Social awareness",
+      "D": "Aggression"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 137,
+    "question": "(Situational Judgement) A colleague seems unusually quiet. What\u2019s the most empathetic approach?",
+    "options": {
+      "A": "Ignore it",
+      "B": "Spread gossip",
+      "C": "Ask how they\u2019re feeling",
+      "D": "Avoid them"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 138,
+    "question": "(Personality and Work Style) A risk-taking, energetic person likely scores high in:",
+    "options": {
+      "A": "Openness",
+      "B": "Conscientiousness",
+      "C": "Neuroticism",
+      "D": "Extraversion"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 139,
+    "question": "(Syllogism) All programmers use logic. Daniel is a programmer. Therefore:",
+    "options": {
+      "A": "Daniel is logical",
+      "B": "Daniel uses a keyboard",
+      "C": "Daniel is not a programmer",
+      "D": "All logic users are programmers"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 140,
+    "question": "(Leadership Aptitude) Which leadership style blends control with consultation?",
+    "options": {
+      "A": "Laissez-faire",
+      "B": "Transformational",
+      "C": "Democratic",
+      "D": "Autocratic"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 141,
+    "question": "(Numerical Reasoning) What is the square root of 225?",
+    "options": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 142,
+    "question": "(Verbal Reasoning) The opposite of \"optimistic\" is:",
+    "options": {
+      "A": "Cheerful",
+      "B": "Confident",
+      "C": "Pessimistic",
+      "D": "Hopeful"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 143,
+    "question": "(Logical Reasoning) No reptiles are warm-blooded. All snakes are reptiles. Therefore:",
+    "options": {
+      "A": "All snakes are warm-blooded",
+      "B": "Snakes are not reptiles",
+      "C": "No snake is warm-blooded",
+      "D": "Some snakes are warm-blooded"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 144,
+    "question": "(Abstract Reasoning) Complete the pattern: 1, 4, 9, 16, 25, ?",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "36",
+      "D": "40"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 145,
+    "question": "(Critical Thinking) Which is an example of a hasty generalization?",
+    "options": {
+      "A": "Based on one event, assuming all are similar",
+      "B": "Reviewing all facts before deciding",
+      "C": "Analyzing from multiple perspectives",
+      "D": "Waiting for more data"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 146,
+    "question": "(Emotional Intelligence) A manager with high EQ is most likely to:",
+    "options": {
+      "A": "Dismiss team concerns",
+      "B": "Empathize and respond calmly",
+      "C": "Shout during meetings",
+      "D": "Avoid communication"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 147,
+    "question": "(Situational Judgement) You notice your team is overwhelmed. What's the best action?",
+    "options": {
+      "A": "Add more tasks",
+      "B": "Criticize them",
+      "C": "Reassign workload fairly",
+      "D": "Ignore the issue"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 148,
+    "question": "(Personality and Work Style) A perfectionist is likely high in:",
+    "options": {
+      "A": "Agreeableness",
+      "B": "Openness",
+      "C": "Conscientiousness",
+      "D": "Neuroticism"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 149,
+    "question": "(Syllogism) All squares are rectangles. All rectangles have four sides. Therefore:",
+    "options": {
+      "A": "Squares don\u2019t have four sides",
+      "B": "Squares have four sides",
+      "C": "No square has four sides",
+      "D": "Some squares lack sides"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 150,
+    "question": "(Leadership Aptitude) Which of the following is a leadership competency?",
+    "options": {
+      "A": "Dishonesty",
+      "B": "Lack of vision",
+      "C": "Strategic thinking",
+      "D": "Avoiding accountability"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 151,
+    "question": "(Numerical Reasoning) A man spends \u20a6360, which is 60% of his salary. What is his salary?",
+    "options": {
+      "A": "\u20a6600",
+      "B": "\u20a6500",
+      "C": "\u20a6480",
+      "D": "\u20a6420"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 152,
+    "question": "(Verbal Reasoning) Choose the synonym of \u201cprompt\u201d:",
+    "options": {
+      "A": "Late",
+      "B": "Timely",
+      "C": "Delay",
+      "D": "Hesitate"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 153,
+    "question": "(Logical Reasoning) All poets are writers. Some writers are not readers. Therefore:",
+    "options": {
+      "A": "All poets are readers",
+      "B": "Some poets are not writers",
+      "C": "No conclusion can be made about poets and readers",
+      "D": "All readers are poets"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 154,
+    "question": "(Abstract Reasoning) Sequence: 2, 5, 10, 17, ?",
+    "options": {
+      "A": "26",
+      "B": "30",
+      "C": "36",
+      "D": "20"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 155,
+    "question": "(Critical Thinking) To reduce bias, one should:",
+    "options": {
+      "A": "Rely on instinct",
+      "B": "Examine assumptions",
+      "C": "Avoid facts",
+      "D": "Believe rumors"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 156,
+    "question": "(Emotional Intelligence) A key benefit of self-awareness is:",
+    "options": {
+      "A": "Defensiveness",
+      "B": "Aggression",
+      "C": "Improved decision-making",
+      "D": "Denial"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 157,
+    "question": "(Situational Judgement) You are given unclear instructions. What do you do?",
+    "options": {
+      "A": "Make a guess",
+      "B": "Complain to others",
+      "C": "Seek clarification",
+      "D": "Ignore the task"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 158,
+    "question": "(Personality and Work Style) High openness indicates a person who:",
+    "options": {
+      "A": "Fears change",
+      "B": "Prefers routine",
+      "C": "Embraces new experiences",
+      "D": "Resists innovation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 159,
+    "question": "(Syllogism) All parents are caregivers. Some caregivers are nurses. Therefore:",
+    "options": {
+      "A": "All parents are nurses",
+      "B": "Some parents may be nurses",
+      "C": "All nurses are parents",
+      "D": "No parents are nurses"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 160,
+    "question": "(Leadership Aptitude) The best way to earn trust as a leader is through:",
+    "options": {
+      "A": "Manipulation",
+      "B": "Consistency and integrity",
+      "C": "Secrecy",
+      "D": "Favouritism"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 161,
+    "question": "(Numerical Reasoning) What is 10% of 450?",
+    "options": {
+      "A": "40",
+      "B": "50",
+      "C": "45",
+      "D": "60"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 162,
+    "question": "(Verbal Reasoning) Which word is closest in meaning to \u201canalyze\u201d?",
+    "options": {
+      "A": "Destroy",
+      "B": "Examine",
+      "C": "Forget",
+      "D": "Assume"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 163,
+    "question": "(Logical Reasoning) All CEOs are decision-makers. David is a CEO. Therefore:",
+    "options": {
+      "A": "David avoids decisions",
+      "B": "David is a decision-maker",
+      "C": "David is not a CEO",
+      "D": "CEOs are not leaders"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 164,
+    "question": "(Abstract Reasoning) Identify the next in the sequence: 2, 3, 5, 8, 12, ?",
+    "options": {
+      "A": "16",
+      "B": "17",
+      "C": "18",
+      "D": "20"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 165,
+    "question": "(Critical Thinking) Which option best represents logical evaluation?",
+    "options": {
+      "A": "Following emotion",
+      "B": "Ignoring details",
+      "C": "Using reasoned judgment",
+      "D": "Blind loyalty"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 166,
+    "question": "(Emotional Intelligence) The ability to stay calm in pressure situations is:",
+    "options": {
+      "A": "Intuition",
+      "B": "Self-regulation",
+      "C": "Avoidance",
+      "D": "Carelessness"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 167,
+    "question": "(Situational Judgement) A team member is quiet and withdrawn. You should:",
+    "options": {
+      "A": "Ignore it",
+      "B": "Ask if everything is okay",
+      "C": "Complain to others",
+      "D": "Avoid them"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 168,
+    "question": "(Personality and Work Style) People who are empathetic and cooperative are usually high in:",
+    "options": {
+      "A": "Openness",
+      "B": "Agreeableness",
+      "C": "Neuroticism",
+      "D": "Extraversion"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 169,
+    "question": "(Syllogism) No reptiles are mammals. All snakes are reptiles. Therefore:",
+    "options": {
+      "A": "Some snakes are mammals",
+      "B": "Snakes are mammals",
+      "C": "Snakes are not mammals",
+      "D": "All mammals are snakes"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 170,
+    "question": "(Leadership Aptitude) A situational leader:",
+    "options": {
+      "A": "Applies the same method every time",
+      "B": "Adapts style to the context",
+      "C": "Avoids decision-making",
+      "D": "Relies solely on instinct"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 171,
+    "question": "(Numerical Reasoning) What is 12% of 250?",
+    "options": {
+      "A": "30",
+      "B": "25",
+      "C": "28",
+      "D": "27"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 172,
+    "question": "(Verbal Reasoning) The opposite of \"expand\" is:",
+    "options": {
+      "A": "Extend",
+      "B": "Widen",
+      "C": "Contract",
+      "D": "Continue"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 173,
+    "question": "(Logical Reasoning) All squares have equal sides. A rectangle has unequal sides. Therefore:",
+    "options": {
+      "A": "A rectangle is a square",
+      "B": "A square is a rectangle",
+      "C": "Rectangles and squares are identical",
+      "D": "Squares are not polygons"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 174,
+    "question": "(Abstract Reasoning) Series: 1, 3, 6, 10, 15, ?",
+    "options": {
+      "A": "21",
+      "B": "22",
+      "C": "19",
+      "D": "18"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 175,
+    "question": "(Critical Thinking) Cherry-picking data means:",
+    "options": {
+      "A": "Considering all facts",
+      "B": "Selecting only favorable evidence",
+      "C": "Using accurate statistics",
+      "D": "Avoiding bias"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 176,
+    "question": "(Emotional Intelligence) Showing care for how others feel is:",
+    "options": {
+      "A": "Sympathy",
+      "B": "Empathy",
+      "C": "Ignorance",
+      "D": "Reaction"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 177,
+    "question": "(Situational Judgement) If you receive unexpected negative feedback, the best first step is to:",
+    "options": {
+      "A": "Argue immediately",
+      "B": "Reflect on the feedback",
+      "C": "Dismiss it",
+      "D": "Complain to others"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 178,
+    "question": "(Personality and Work Style) A person who thrives in social settings likely scores high in:",
+    "options": {
+      "A": "Introversion",
+      "B": "Neuroticism",
+      "C": "Extraversion",
+      "D": "Conscientiousness"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 179,
+    "question": "(Syllogism) All books have pages. Notebooks are books. Therefore:",
+    "options": {
+      "A": "Notebooks don\u2019t have pages",
+      "B": "Some notebooks have pages",
+      "C": "Notebooks have pages",
+      "D": "No notebook is a book"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 180,
+    "question": "(Leadership Aptitude) Visionary leadership focuses on:",
+    "options": {
+      "A": "Present only",
+      "B": "Short-term tactics",
+      "C": "Long-term direction",
+      "D": "Avoiding change"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 181,
+    "question": "(Numerical Reasoning) If 5 pencils cost \u20a6250, what is the cost of 1 pencil?",
+    "options": {
+      "A": "\u20a650",
+      "B": "\u20a655",
+      "C": "\u20a660",
+      "D": "\u20a645"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 182,
+    "question": "(Verbal Reasoning) Synonym of \u201cconstructive\u201d is:",
+    "options": {
+      "A": "Negative",
+      "B": "Helpful",
+      "C": "Destructive",
+      "D": "Biased"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 183,
+    "question": "(Logical Reasoning) If all cars are vehicles and no vehicles are buildings, then:",
+    "options": {
+      "A": "Cars are buildings",
+      "B": "All buildings are cars",
+      "C": "No car is a building",
+      "D": "Cars can be buildings"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 184,
+    "question": "(Abstract Reasoning) Sequence: 3, 6, 12, 24, ?",
+    "options": {
+      "A": "36",
+      "B": "40",
+      "C": "48",
+      "D": "50"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 185,
+    "question": "(Critical Thinking) What is a red herring in argument?",
+    "options": {
+      "A": "Supporting data",
+      "B": "Irrelevant distraction",
+      "C": "Verified claim",
+      "D": "Logical fact"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 186,
+    "question": "(Emotional Intelligence) Being aware of your own emotional triggers helps you:",
+    "options": {
+      "A": "Avoid people",
+      "B": "Blame others",
+      "C": "Manage reactions",
+      "D": "Stay silent"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 187,
+    "question": "(Situational Judgement) You observe unethical behavior. What should you do?",
+    "options": {
+      "A": "Stay quiet",
+      "B": "Ignore it",
+      "C": "Report it to the appropriate authority",
+      "D": "Spread it as gossip"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 188,
+    "question": "(Personality and Work Style) Which trait reflects emotional stability?",
+    "options": {
+      "A": "High neuroticism",
+      "B": "High openness",
+      "C": "Low neuroticism",
+      "D": "Low extraversion"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 189,
+    "question": "(Syllogism) All humans are mortal. Socrates is a human. Therefore:",
+    "options": {
+      "A": "Socrates is immortal",
+      "B": "Socrates is not human",
+      "C": "Socrates is mortal",
+      "D": "No conclusion"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 190,
+    "question": "(Leadership Aptitude) What drives a servant leader?",
+    "options": {
+      "A": "Control",
+      "B": "Power",
+      "C": "Service to others",
+      "D": "Competition"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 191,
+    "question": "(Numerical Reasoning) 30% of 90 is:",
+    "options": {
+      "A": "25",
+      "B": "26",
+      "C": "27",
+      "D": "28"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 192,
+    "question": "(Verbal Reasoning) Antonym of \u201cflexible\u201d is:",
+    "options": {
+      "A": "Rigid",
+      "B": "Agile",
+      "C": "Adaptive",
+      "D": "Fluid"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 193,
+    "question": "(Logical Reasoning) If some A are B, and some B are C, then:",
+    "options": {
+      "A": "All A are C",
+      "B": "Some A may be C",
+      "C": "No A is C",
+      "D": "All B are A"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 194,
+    "question": "(Abstract Reasoning) What comes next: 4, 8, 16, 32, ?",
+    "options": {
+      "A": "48",
+      "B": "64",
+      "C": "60",
+      "D": "40"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 195,
+    "question": "(Critical Thinking) Valid reasoning avoids:",
+    "options": {
+      "A": "Emotion",
+      "B": "Evidence",
+      "C": "Assumption",
+      "D": "Bias"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 196,
+    "question": "(Emotional Intelligence) A leader with empathy will:",
+    "options": {
+      "A": "Disregard staff concerns",
+      "B": "Value only results",
+      "C": "Understand team emotions",
+      "D": "Focus on rules only"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 197,
+    "question": "(Situational Judgement) Your team is underperforming. What\u2019s your next step?",
+    "options": {
+      "A": "Punish them",
+      "B": "Identify root causes",
+      "C": "Ignore it",
+      "D": "Fire them all"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 198,
+    "question": "(Personality and Work Style) Low conscientiousness is linked to:",
+    "options": {
+      "A": "Carelessness",
+      "B": "Reliability",
+      "C": "Punctuality",
+      "D": "Order"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 199,
+    "question": "(Syllogism) All poets are emotional. Some emotional people are not poets. Therefore:",
+    "options": {
+      "A": "All emotional people are poets",
+      "B": "Some emotional people are poets",
+      "C": "Poets are not emotional",
+      "D": "No emotional person is a poet"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 200,
+    "question": "(Leadership Aptitude) Leadership by fear leads to:",
+    "options": {
+      "A": "High morale",
+      "B": "Loyalty",
+      "C": "Resentment",
+      "D": "Creativity"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 201,
+    "question": "(Numerical Reasoning) What is the value of 15% of 80?",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 202,
+    "question": "(Verbal Reasoning) The opposite of \u201csincere\u201d is:",
+    "options": {
+      "A": "Honest",
+      "B": "Genuine",
+      "C": "Deceitful",
+      "D": "Open"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 203,
+    "question": "(Logical Reasoning) All mountains are high. Mount Everest is a mountain. Therefore:",
+    "options": {
+      "A": "Mount Everest is low",
+      "B": "Mount Everest is not a mountain",
+      "C": "Mount Everest is high",
+      "D": "Mount Everest is cold"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 204,
+    "question": "(Abstract Reasoning) Identify the missing number: 2, 6, 12, 20, ?",
+    "options": {
+      "A": "30",
+      "B": "26",
+      "C": "28",
+      "D": "24"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 205,
+    "question": "(Critical Thinking) When analyzing multiple solutions, a critical thinker:",
+    "options": {
+      "A": "Picks the first idea",
+      "B": "Chooses based on popularity",
+      "C": "Compares pros and cons",
+      "D": "Avoids making decisions"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 206,
+    "question": "(Emotional Intelligence) A person who shouts when corrected shows poor:",
+    "options": {
+      "A": "Motivation",
+      "B": "Logic",
+      "C": "Emotional regulation",
+      "D": "Intelligence"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 207,
+    "question": "(Situational Judgement) You overhear a coworker being mistreated. You should:",
+    "options": {
+      "A": "Stay out of it",
+      "B": "Speak up or report it appropriately",
+      "C": "Join the mistreatment",
+      "D": "Laugh at the situation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 208,
+    "question": "(Personality and Work Style) An employee with high agreeableness will likely:",
+    "options": {
+      "A": "Create tension",
+      "B": "Cooperate with others",
+      "C": "Avoid responsibility",
+      "D": "Work independently always"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 209,
+    "question": "(Syllogism) No fish are mammals. All whales are mammals. Therefore:",
+    "options": {
+      "A": "No whale is a fish",
+      "B": "Some whales are fish",
+      "C": "All fish are whales",
+      "D": "Whales are fish"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 210,
+    "question": "(Leadership Aptitude) The primary role of a leader in crisis is to:",
+    "options": {
+      "A": "Blame others",
+      "B": "Maintain calm and direction",
+      "C": "Hide from responsibility",
+      "D": "Wait for others to lead"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 211,
+    "question": "(Numerical Reasoning) If 3 pens cost \u20a690, how much do 5 pens cost?",
+    "options": {
+      "A": "\u20a6120",
+      "B": "\u20a6140",
+      "C": "\u20a6150",
+      "D": "\u20a6160"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 212,
+    "question": "(Verbal Reasoning) Choose the synonym of \u201cbrilliant\u201d:",
+    "options": {
+      "A": "Average",
+      "B": "Dull",
+      "C": "Bright",
+      "D": "Slow"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 213,
+    "question": "(Logical Reasoning) If all B are A, and some C are B, then:",
+    "options": {
+      "A": "Some C are A",
+      "B": "No C is A",
+      "C": "All A are C",
+      "D": "A are not related to C"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 214,
+    "question": "(Abstract Reasoning) Pattern: 5, 10, 17, 26, ?",
+    "options": {
+      "A": "35",
+      "B": "36",
+      "C": "37",
+      "D": "38"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 215,
+    "question": "(Critical Thinking) If a conclusion doesn't follow logically, it is called:",
+    "options": {
+      "A": "Sound",
+      "B": "Strong",
+      "C": "Fallacious",
+      "D": "Deductive"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 216,
+    "question": "(Emotional Intelligence) Which trait is key in teamwork?",
+    "options": {
+      "A": "Self-awareness",
+      "B": "Self-praise",
+      "C": "Isolation",
+      "D": "Ignorance"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 217,
+    "question": "(Situational Judgement) If you're being micromanaged, what's the best action?",
+    "options": {
+      "A": "Quit",
+      "B": "React angrily",
+      "C": "Open a calm discussion with your supervisor",
+      "D": "Ignore instructions"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 218,
+    "question": "(Personality and Work Style) An anxious and moody person likely scores high in:",
+    "options": {
+      "A": "Openness",
+      "B": "Agreeableness",
+      "C": "Neuroticism",
+      "D": "Extraversion"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 219,
+    "question": "(Syllogism) All bees can sting. Some bees are queens. Therefore:",
+    "options": {
+      "A": "All queens can sting",
+      "B": "Some queens may sting",
+      "C": "All stings are from queens",
+      "D": "No queen stings"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 220,
+    "question": "(Leadership Aptitude) Which is a transformational leadership trait?",
+    "options": {
+      "A": "Inspiring vision",
+      "B": "Avoiding communication",
+      "C": "Demanding loyalty",
+      "D": "Fear-based control"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 221,
+    "question": "(Numerical Reasoning) The difference between 12% and 20% of 200 is:",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "16",
+      "D": "18"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 222,
+    "question": "(Verbal Reasoning) Antonym of \u201crigid\u201d:",
+    "options": {
+      "A": "Flexible",
+      "B": "Inflexible",
+      "C": "Unbending",
+      "D": "Solid"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 223,
+    "question": "(Logical Reasoning) All men are mortal. Kings are men. Therefore:",
+    "options": {
+      "A": "Kings are immortal",
+      "B": "Kings are not men",
+      "C": "Kings are mortal",
+      "D": "Kings don\u2019t exist"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 224,
+    "question": "(Abstract Reasoning) Series: A1, C3, E5, G7, ?",
+    "options": {
+      "A": "H8",
+      "B": "I9",
+      "C": "I7",
+      "D": "I9"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 225,
+    "question": "(Critical Thinking) The best way to improve a decision is to:",
+    "options": {
+      "A": "Rush it",
+      "B": "Avoid input",
+      "C": "Seek alternative viewpoints",
+      "D": "Go with the crowd"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 226,
+    "question": "(Emotional Intelligence) Someone with high EQ is likely to:",
+    "options": {
+      "A": "Ignore feelings",
+      "B": "Manipulate others",
+      "C": "Show empathy",
+      "D": "Overreact"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 227,
+    "question": "(Situational Judgement) You forgot a deadline. What should you do?",
+    "options": {
+      "A": "Blame others",
+      "B": "Admit the mistake and fix it",
+      "C": "Hide it",
+      "D": "Quit the task"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 228,
+    "question": "(Personality and Work Style) Low conscientiousness may result in:",
+    "options": {
+      "A": "Poor planning",
+      "B": "Goal setting",
+      "C": "Productivity",
+      "D": "Organization"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 229,
+    "question": "(Syllogism) All intelligent people read. Some readers are not intelligent. Therefore:",
+    "options": {
+      "A": "Some readers are intelligent",
+      "B": "No reader is intelligent",
+      "C": "Reading causes intelligence",
+      "D": "All intelligent people are readers"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 230,
+    "question": "(Leadership Aptitude) Micromanagement usually leads to:",
+    "options": {
+      "A": "Creativity",
+      "B": "Empowerment",
+      "C": "Demotivation",
+      "D": "Autonomy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 231,
+    "question": "(Numerical Reasoning) \u2156 of 100 is:",
+    "options": {
+      "A": "35",
+      "B": "40",
+      "C": "45",
+      "D": "50"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 232,
+    "question": "(Verbal Reasoning) Choose the synonym of \u201cprecise\u201d:",
+    "options": {
+      "A": "Rough",
+      "B": "Vague",
+      "C": "Exact",
+      "D": "Soft"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 233,
+    "question": "(Logical Reasoning) No dogs are cats. All cats are animals. Therefore:",
+    "options": {
+      "A": "All dogs are animals",
+      "B": "Some animals are not dogs",
+      "C": "No dogs are animals",
+      "D": "Dogs are cats"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 234,
+    "question": "(Abstract Reasoning) Series: 1, 1, 2, 3, 5, 8, ?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 235,
+    "question": "(Critical Thinking) What weakens an argument?",
+    "options": {
+      "A": "Logical fallacy",
+      "B": "Relevant data",
+      "C": "Supporting facts",
+      "D": "Valid references"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 236,
+    "question": "(Emotional Intelligence) Empathy is:",
+    "options": {
+      "A": "Ignoring emotions",
+      "B": "Understanding your own feelings only",
+      "C": "Understanding how others feel",
+      "D": "Disagreeing politely"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 237,
+    "question": "(Situational Judgement) You\u2019re double-booked for meetings. Best action?",
+    "options": {
+      "A": "Skip both",
+      "B": "Attend none",
+      "C": "Reschedule one appropriately",
+      "D": "Ignore both"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 238,
+    "question": "(Personality and Work Style) People low in extraversion may prefer:",
+    "options": {
+      "A": "Group discussions",
+      "B": "Loud environments",
+      "C": "Solitary tasks",
+      "D": "Social events"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 239,
+    "question": "(Syllogism) All metal objects conduct electricity. Spoons are metal objects. Therefore:",
+    "options": {
+      "A": "Spoons don\u2019t conduct electricity",
+      "B": "All spoons are plastic",
+      "C": "Spoons conduct electricity",
+      "D": "Spoons are wooden"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 240,
+    "question": "(Leadership Aptitude) What defines authentic leadership?",
+    "options": {
+      "A": "Manipulation",
+      "B": "Transparency and honesty",
+      "C": "Secretive decision-making",
+      "D": "Popularity"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 241,
+    "question": "(Numerical Reasoning) Increase \u20a6400 by 25%. New amount?",
+    "options": {
+      "A": "\u20a6450",
+      "B": "\u20a6500",
+      "C": "\u20a6525",
+      "D": "\u20a6480"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 242,
+    "question": "(Verbal Reasoning) Antonym of \u201cenhance\u201d:",
+    "options": {
+      "A": "Improve",
+      "B": "Worsen",
+      "C": "Brighten",
+      "D": "Strengthen"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 243,
+    "question": "(Logical Reasoning) All squares are rectangles. Some rectangles are not squares. Therefore:",
+    "options": {
+      "A": "All rectangles are squares",
+      "B": "Some rectangles are not squares",
+      "C": "Squares aren\u2019t rectangles",
+      "D": "Squares are circles"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 244,
+    "question": "(Abstract Reasoning) What comes next: 10, 20, 40, 80, ?",
+    "options": {
+      "A": "160",
+      "B": "180",
+      "C": "100",
+      "D": "90"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 245,
+    "question": "(Critical Thinking) When you ignore evidence against your view, it's called:",
+    "options": {
+      "A": "Bias",
+      "B": "Balance",
+      "C": "Precision",
+      "D": "Analysis"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 246,
+    "question": "(Emotional Intelligence) A good listener demonstrates:",
+    "options": {
+      "A": "Selfishness",
+      "B": "Distraction",
+      "C": "Respect and empathy",
+      "D": "Talking over others"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 247,
+    "question": "(Situational Judgement) Conflict between teammates arises. First action?",
+    "options": {
+      "A": "Let it escalate",
+      "B": "Avoid it",
+      "C": "Facilitate calm resolution",
+      "D": "Punish both sides"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 248,
+    "question": "(Personality and Work Style) A very tidy, punctual employee is high in:",
+    "options": {
+      "A": "Openness",
+      "B": "Neuroticism",
+      "C": "Conscientiousness",
+      "D": "Extraversion"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 249,
+    "question": "(Syllogism) Some books are fiction. All fiction is imaginative. Therefore:",
+    "options": {
+      "A": "Some books are imaginative",
+      "B": "No book is imaginative",
+      "C": "All books are fiction",
+      "D": "Fiction is not imaginative"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 250,
+    "question": "(Leadership Aptitude) The most effective leaders often:",
+    "options": {
+      "A": "Demand obedience",
+      "B": "Avoid responsibility",
+      "C": "Inspire and empower",
+      "D": "Lead with fear"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 251,
+    "question": "(Numerical Reasoning) What is \u2153 of 120?",
+    "options": {
+      "A": "30",
+      "B": "40",
+      "C": "45",
+      "D": "50"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 252,
+    "question": "(Verbal Reasoning) Choose the antonym of \u201cgenerous\u201d:",
+    "options": {
+      "A": "Kind",
+      "B": "Selfless",
+      "C": "Stingy",
+      "D": "Helpful"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 253,
+    "question": "(Logical Reasoning) If all X are Y, and no Y are Z, then:",
+    "options": {
+      "A": "All X are Z",
+      "B": "No X is Z",
+      "C": "All Z are Y",
+      "D": "Some X are Z"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 254,
+    "question": "(Abstract Reasoning) Sequence: 9, 18, 36, 72, ?",
+    "options": {
+      "A": "100",
+      "B": "108",
+      "C": "144",
+      "D": "120"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 255,
+    "question": "(Critical Thinking) An argument is valid if:",
+    "options": {
+      "A": "It makes sense emotionally",
+      "B": "It has logical structure",
+      "C": "It is popular",
+      "D": "It is repeated often"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 256,
+    "question": "(Emotional Intelligence) A key sign of self-regulation is:",
+    "options": {
+      "A": "Emotional outbursts",
+      "B": "Calm response under pressure",
+      "C": "Avoidance of emotion",
+      "D": "Passive behavior"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 257,
+    "question": "(Situational Judgement) You missed a team meeting due to personal error. What should you do?",
+    "options": {
+      "A": "Ignore it",
+      "B": "Apologize and ask for updates",
+      "C": "Pretend you were there",
+      "D": "Blame your calendar"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 258,
+    "question": "(Personality and Work Style) An employee open to new ideas shows high:",
+    "options": {
+      "A": "Neuroticism",
+      "B": "Extraversion",
+      "C": "Openness to experience",
+      "D": "Conscientiousness"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 259,
+    "question": "(Syllogism) All fruits have seeds. Mango is a fruit. Therefore:",
+    "options": {
+      "A": "Mango has no seeds",
+      "B": "Mango is a vegetable",
+      "C": "Mango has seeds",
+      "D": "Mango is not a fruit"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 260,
+    "question": "(Leadership Aptitude) Leadership that encourages staff input is:",
+    "options": {
+      "A": "Autocratic",
+      "B": "Participative",
+      "C": "Laissez-faire",
+      "D": "Bureaucratic"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 261,
+    "question": "(Numerical Reasoning) 60% of 150 is:",
+    "options": {
+      "A": "80",
+      "B": "85",
+      "C": "90",
+      "D": "95"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 262,
+    "question": "(Verbal Reasoning) The word \u201cterminate\u201d is closest in meaning to:",
+    "options": {
+      "A": "Begin",
+      "B": "End",
+      "C": "Improve",
+      "D": "Pause"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 263,
+    "question": "(Logical Reasoning) Some nurses are kind. All kind people are helpful. Therefore:",
+    "options": {
+      "A": "All nurses are helpful",
+      "B": "Some nurses are helpful",
+      "C": "All helpful people are nurses",
+      "D": "Nurses are not kind"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 264,
+    "question": "(Abstract Reasoning) Pattern: \u25b2, \u25cb, \u25b2, \u25a1, \u25b2, \u25cb, \u25b2, ?, ?",
+    "options": {
+      "A": "\u25a1, \u25cb",
+      "B": "\u25cb, \u25b2",
+      "C": "\u25a1, \u25b2",
+      "D": "\u25cb, \u25a1"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 265,
+    "question": "(Critical Thinking) Which is an example of circular reasoning?",
+    "options": {
+      "A": "Repeating the conclusion as proof",
+      "B": "Using evidence to prove a point",
+      "C": "Considering counterarguments",
+      "D": "Evaluating alternatives"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 266,
+    "question": "(Emotional Intelligence) A manager shows EQ by:",
+    "options": {
+      "A": "Ignoring team mood",
+      "B": "Recognizing and managing emotions",
+      "C": "Dismissing concerns",
+      "D": "Staying distant"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 267,
+    "question": "(Situational Judgement) Your supervisor gives unclear instructions. You should:",
+    "options": {
+      "A": "Guess what to do",
+      "B": "Ask for clarification",
+      "C": "Ignore the task",
+      "D": "Avoid the supervisor"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 268,
+    "question": "(Personality and Work Style) People who prefer routine and structure are likely:",
+    "options": {
+      "A": "High in conscientiousness",
+      "B": "Low in openness",
+      "C": "High in neuroticism",
+      "D": "High in agreeableness"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 269,
+    "question": "(Syllogism) No birds are mammals. All parrots are birds. Therefore:",
+    "options": {
+      "A": "Parrots are mammals",
+      "B": "Some parrots are mammals",
+      "C": "Parrots are not mammals",
+      "D": "All mammals are birds"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 270,
+    "question": "(Leadership Aptitude) What leadership style delegates authority but still supervises?",
+    "options": {
+      "A": "Autocratic",
+      "B": "Transformational",
+      "C": "Democratic",
+      "D": "Laissez-faire"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 271,
+    "question": "(Numerical Reasoning) What is 25% of 320?",
+    "options": {
+      "A": "70",
+      "B": "75",
+      "C": "80",
+      "D": "85"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 272,
+    "question": "(Verbal Reasoning) The opposite of \u201cabundant\u201d is:",
+    "options": {
+      "A": "Scarce",
+      "B": "Plentiful",
+      "C": "Overflowing",
+      "D": "Numerous"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 273,
+    "question": "(Logical Reasoning) If some A are B, and all B are C, then:",
+    "options": {
+      "A": "Some A are C",
+      "B": "No A is C",
+      "C": "All A are C",
+      "D": "C are not related to A"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 274,
+    "question": "(Abstract Reasoning) Series: 1, 4, 9, 16, 25, ?",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "36",
+      "D": "40"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 275,
+    "question": "(Critical Thinking) Which of these is not a cognitive bias?",
+    "options": {
+      "A": "Confirmation bias",
+      "B": "Hindsight bias",
+      "C": "Logical fallacy",
+      "D": "Gravity bias"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 276,
+    "question": "(Emotional Intelligence) Being emotionally intelligent helps you:",
+    "options": {
+      "A": "Suppress your feelings",
+      "B": "Recognize and manage emotions",
+      "C": "Avoid feedback",
+      "D": "Dismiss others\u2019 concerns"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 277,
+    "question": "(Situational Judgement) You are unable to meet a deadline. Best response?",
+    "options": {
+      "A": "Keep quiet",
+      "B": "Communicate in advance and renegotiate",
+      "C": "Blame others",
+      "D": "Submit substandard work"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 278,
+    "question": "(Personality and Work Style) A low score in agreeableness may show as:",
+    "options": {
+      "A": "Compassion",
+      "B": "Cooperation",
+      "C": "Hostility",
+      "D": "Empathy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 279,
+    "question": "(Syllogism) All humans need oxygen. John is a human. Therefore:",
+    "options": {
+      "A": "John does not need oxygen",
+      "B": "John needs oxygen",
+      "C": "Only John needs oxygen",
+      "D": "John is not human"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 280,
+    "question": "(Leadership Aptitude) What trait defines visionary leadership?",
+    "options": {
+      "A": "Short-term focus",
+      "B": "Detailed micromanagement",
+      "C": "Long-term goal setting",
+      "D": "Avoiding change"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 281,
+    "question": "(Numerical Reasoning) What is the simple average of 10, 20, and 30?",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "30"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 282,
+    "question": "(Verbal Reasoning) Antonym of \u201cfrequent\u201d:",
+    "options": {
+      "A": "Often",
+      "B": "Constant",
+      "C": "Rare",
+      "D": "Regular"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 283,
+    "question": "(Logical Reasoning) If all apples are fruits and some fruits are red, then:",
+    "options": {
+      "A": "All apples are red",
+      "B": "Some apples may be red",
+      "C": "No apple is red",
+      "D": "Fruits are not apples"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 284,
+    "question": "(Abstract Reasoning) Complete the sequence: 2, 5, 10, 17, ?",
+    "options": {
+      "A": "25",
+      "B": "26",
+      "C": "24",
+      "D": "28"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 285,
+    "question": "(Critical Thinking) What is the goal of critical thinking?",
+    "options": {
+      "A": "Emotional judgment",
+      "B": "Logical and rational decision-making",
+      "C": "Quick reaction",
+      "D": "Avoiding responsibility"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 286,
+    "question": "(Emotional Intelligence) When a colleague is upset, showing concern shows:",
+    "options": {
+      "A": "Sympathy",
+      "B": "Avoidance",
+      "C": "Apathy",
+      "D": "Empathy"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 287,
+    "question": "(Situational Judgement) A customer is angry and shouting. What should you do?",
+    "options": {
+      "A": "Walk away",
+      "B": "Yell back",
+      "C": "Remain calm and listen",
+      "D": "Blame them"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 288,
+    "question": "(Personality and Work Style) Someone who adapts quickly is likely high in:",
+    "options": {
+      "A": "Neuroticism",
+      "B": "Rigidity",
+      "C": "Openness",
+      "D": "Resistance"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 289,
+    "question": "(Syllogism) All animals need water. Camels are animals. Therefore:",
+    "options": {
+      "A": "Camels do not need water",
+      "B": "Camels need water",
+      "C": "Only camels need water",
+      "D": "Water is not needed"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 290,
+    "question": "(Leadership Aptitude) Which quality is essential for ethical leadership?",
+    "options": {
+      "A": "Secrecy",
+      "B": "Integrity",
+      "C": "Avoidance",
+      "D": "Popularity"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 291,
+    "question": "(Numerical Reasoning) What is the sum of 13, 17, and 20?",
+    "options": {
+      "A": "40",
+      "B": "50",
+      "C": "60",
+      "D": "70"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 292,
+    "question": "(Verbal Reasoning) A synonym for \u201cdiligent\u201d is:",
+    "options": {
+      "A": "Lazy",
+      "B": "Hardworking",
+      "C": "Careless",
+      "D": "Slow"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 293,
+    "question": "(Logical Reasoning) All birds can fly. Penguins are birds. Therefore:",
+    "options": {
+      "A": "Penguins can fly",
+      "B": "Penguins are not birds",
+      "C": "All birds are penguins",
+      "D": "Some birds cannot fly"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 294,
+    "question": "(Abstract Reasoning) Identify the next in the pattern: \u25ef, \u25ef, \u25b3, \u25ef, \u25ef, \u25b3, ?",
+    "options": {
+      "A": "\u25ef",
+      "B": "\u25b3",
+      "C": "\u25a1",
+      "D": "-"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 295,
+    "question": "(Critical Thinking) Which step strengthens decision-making?",
+    "options": {
+      "A": "Avoiding facts",
+      "B": "Considering alternatives",
+      "C": "Emotional bias",
+      "D": "Blind following"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 296,
+    "question": "(Emotional Intelligence) Managing your emotional response to criticism is:",
+    "options": {
+      "A": "Reactiveness",
+      "B": "Self-regulation",
+      "C": "Aggression",
+      "D": "Suppression"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 297,
+    "question": "(Situational Judgement) If you feel overworked, what is the best action?",
+    "options": {
+      "A": "Shout at colleagues",
+      "B": "Take unapproved leave",
+      "C": "Communicate with your supervisor",
+      "D": "Do nothing"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 298,
+    "question": "(Personality and Work Style) A detail-oriented person likely scores high in:",
+    "options": {
+      "A": "Openness",
+      "B": "Extraversion",
+      "C": "Conscientiousness",
+      "D": "Neuroticism"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 299,
+    "question": "(Syllogism) All engineers are professionals. Some professionals are teachers. Therefore:",
+    "options": {
+      "A": "Some engineers are teachers",
+      "B": "No engineer is a teacher",
+      "C": "Some professionals may be engineers",
+      "D": "All teachers are engineers"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 300,
+    "question": "(Leadership Aptitude) A leader with poor communication will likely face:",
+    "options": {
+      "A": "Enhanced clarity",
+      "B": "Confusion among followers",
+      "C": "Greater transparency",
+      "D": "Stronger support"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 301,
+    "question": "(Numerical Reasoning) What is the product of 9 and 6?",
+    "options": {
+      "A": "45",
+      "B": "54",
+      "C": "63",
+      "D": "48"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 302,
+    "question": "(Verbal Reasoning) Choose the antonym of \u201cexpand\u201d:",
+    "options": {
+      "A": "Enlarge",
+      "B": "Extend",
+      "C": "Contract",
+      "D": "Broaden"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 303,
+    "question": "(Logical Reasoning) If all roses are flowers and all flowers are plants, then:",
+    "options": {
+      "A": "All plants are roses",
+      "B": "Some plants are not roses",
+      "C": "All roses are plants",
+      "D": "Flowers are not roses"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 304,
+    "question": "(Abstract Reasoning) Sequence: 2, 4, 8, 16, ?",
+    "options": {
+      "A": "24",
+      "B": "30",
+      "C": "32",
+      "D": "36"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 305,
+    "question": "(Critical Thinking) A strong argument must include:",
+    "options": {
+      "A": "Popular opinion",
+      "B": "Logical structure and evidence",
+      "C": "Emotional appeal",
+      "D": "Anecdotes only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 306,
+    "question": "(Emotional Intelligence) A key indicator of emotional intelligence is:",
+    "options": {
+      "A": "Ignoring other people's feelings",
+      "B": "Quick temper",
+      "C": "Self-awareness",
+      "D": "Arrogance"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 307,
+    "question": "(Situational Judgement) A colleague wrongly accuses you. What is your best first action?",
+    "options": {
+      "A": "Confront them aggressively",
+      "B": "Report them immediately",
+      "C": "Seek clarification calmly",
+      "D": "Ignore them"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 308,
+    "question": "(Personality and Work Style) A person who finishes tasks ahead of deadline likely scores high in:",
+    "options": {
+      "A": "Agreeableness",
+      "B": "Extraversion",
+      "C": "Neuroticism",
+      "D": "Conscientiousness"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 309,
+    "question": "(Syllogism) All engineers are logical. James is not logical. Therefore:",
+    "options": {
+      "A": "James is an engineer",
+      "B": "James is not an engineer",
+      "C": "All logical people are engineers",
+      "D": "James is logical"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 310,
+    "question": "(Leadership Aptitude) A servant leader primarily focuses on:",
+    "options": {
+      "A": "Power",
+      "B": "Command",
+      "C": "Team needs",
+      "D": "Self-interest"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 311,
+    "question": "(Numerical Reasoning) If a car travels at 60 km/h, how far will it go in 4 hours?",
+    "options": {
+      "A": "180 km",
+      "B": "220 km",
+      "C": "240 km",
+      "D": "200 km"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 312,
+    "question": "(Verbal Reasoning) Choose the synonym of \u201celevate\u201d:",
+    "options": {
+      "A": "Raise",
+      "B": "Lower",
+      "C": "Reduce",
+      "D": "Decline"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 313,
+    "question": "(Logical Reasoning) All managers are leaders. Some leaders are not efficient. Therefore:",
+    "options": {
+      "A": "All managers are efficient",
+      "B": "No manager is efficient",
+      "C": "Some managers may not be efficient",
+      "D": "All leaders are managers"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 314,
+    "question": "(Abstract Reasoning) Identify the next number: 7, 14, 28, 56, ?",
+    "options": {
+      "A": "100",
+      "B": "112",
+      "C": "108",
+      "D": "118"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 315,
+    "question": "(Critical Thinking) What improves the reliability of an argument?",
+    "options": {
+      "A": "Unverified claims",
+      "B": "Source credibility",
+      "C": "Loud repetition",
+      "D": "Personal beliefs"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 316,
+    "question": "(Emotional Intelligence) People with high emotional intelligence usually:",
+    "options": {
+      "A": "Ignore group dynamics",
+      "B": "Disregard others\u2019 feelings",
+      "C": "Express empathy and understanding",
+      "D": "Avoid social interaction"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 317,
+    "question": "(Situational Judgement) You are given a new responsibility outside your experience. You should:",
+    "options": {
+      "A": "Reject it immediately",
+      "B": "Ask for support and guidance",
+      "C": "Pretend you know how to do it",
+      "D": "Pass it to someone else"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 318,
+    "question": "(Personality and Work Style) Which trait is common to high performers?",
+    "options": {
+      "A": "Laziness",
+      "B": "Disorganization",
+      "C": "Discipline",
+      "D": "Impulsiveness"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 319,
+    "question": "(Syllogism) All laptops are electronic devices. Some electronic devices are phones. Therefore:",
+    "options": {
+      "A": "All laptops are phones",
+      "B": "Some laptops are phones",
+      "C": "Some phones are laptops",
+      "D": "Some electronic devices are laptops"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 320,
+    "question": "(Leadership Aptitude) Effective leaders handle criticism by:",
+    "options": {
+      "A": "Ignoring it",
+      "B": "Reacting angrily",
+      "C": "Listening and reflecting",
+      "D": "Blaming others"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 321,
+    "question": "(Numerical Reasoning) What is the next number in the sequence: 5, 10, 20, 40, ?",
+    "options": {
+      "A": "50",
+      "B": "60",
+      "C": "80",
+      "D": "100"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 322,
+    "question": "(Verbal Reasoning) Antonym of \u201cobscure\u201d:",
+    "options": {
+      "A": "Clear",
+      "B": "Cloudy",
+      "C": "Dim",
+      "D": "Hazy"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 323,
+    "question": "(Logical Reasoning) All green fruits are unripe. All unripe fruits are hard. Therefore:",
+    "options": {
+      "A": "All green fruits are hard",
+      "B": "All hard fruits are green",
+      "C": "Some green fruits are ripe",
+      "D": "No hard fruit is green"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 324,
+    "question": "(Abstract Reasoning) Pattern: \u25b3, \u25a2, \u25ef, \u25b3, \u25a2, \u25ef, ?",
+    "options": {
+      "A": "\u25b3",
+      "B": "\u25a2",
+      "C": "\u25ef",
+      "D": "\u25c9"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 325,
+    "question": "(Critical Thinking) Confirmation bias occurs when you:",
+    "options": {
+      "A": "Seek diverse opinions",
+      "B": "Ignore facts",
+      "C": "Only accept evidence that supports your view",
+      "D": "Always doubt yourself"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 326,
+    "question": "(Emotional Intelligence) You receive negative feedback. An emotionally intelligent response is to:",
+    "options": {
+      "A": "Take offense",
+      "B": "Listen and reflect",
+      "C": "Get angry",
+      "D": "Disregard it"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 327,
+    "question": "(Situational Judgement) A team member is constantly late. You should:",
+    "options": {
+      "A": "Publicly shame them",
+      "B": "Report them immediately",
+      "C": "Discuss the issue privately",
+      "D": "Avoid them"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 328,
+    "question": "(Personality and Work Style) Low openness often results in:",
+    "options": {
+      "A": "Embracing new ideas",
+      "B": "Resistance to change",
+      "C": "Adaptability",
+      "D": "Innovation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 329,
+    "question": "(Syllogism) All readers are thinkers. Some thinkers are writers. Therefore:",
+    "options": {
+      "A": "All readers are writers",
+      "B": "Some writers are readers",
+      "C": "Some thinkers may be readers",
+      "D": "No reader is a writer"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 330,
+    "question": "(Leadership Aptitude) An autocratic leader:",
+    "options": {
+      "A": "Shares decisions",
+      "B": "Encourages participation",
+      "C": "Makes decisions alone",
+      "D": "Focuses on team growth"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 331,
+    "question": "(Numerical Reasoning) If you buy 3 items at \u20a6150 each, what is the total cost?",
+    "options": {
+      "A": "\u20a6350",
+      "B": "\u20a6400",
+      "C": "\u20a6450",
+      "D": "\u20a6500"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 332,
+    "question": "(Verbal Reasoning) The synonym of \u201cswift\u201d is:",
+    "options": {
+      "A": "Slow",
+      "B": "Quick",
+      "C": "Lazy",
+      "D": "Sudden"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 333,
+    "question": "(Logical Reasoning) All workers need rest. John is a worker. Therefore:",
+    "options": {
+      "A": "John doesn't need rest",
+      "B": "John is not a worker",
+      "C": "John needs rest",
+      "D": "All rest is for John"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 334,
+    "question": "(Abstract Reasoning) Sequence: 3, 6, 11, 18, 27, ?",
+    "options": {
+      "A": "34",
+      "B": "36",
+      "C": "38",
+      "D": "39"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 335,
+    "question": "(Critical Thinking) Which of the following strengthens an argument?",
+    "options": {
+      "A": "False data",
+      "B": "Logical fallacies",
+      "C": "Verified evidence",
+      "D": "Personal bias"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 336,
+    "question": "(Emotional Intelligence) A person who manages stress well demonstrates:",
+    "options": {
+      "A": "Avoidance",
+      "B": "Poor coping",
+      "C": "Emotional resilience",
+      "D": "Impulsiveness"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 337,
+    "question": "(Situational Judgement) A customer asks a question you don\u2019t know. You should:",
+    "options": {
+      "A": "Guess",
+      "B": "Ignore them",
+      "C": "Admit and find the answer",
+      "D": "Tell them to Google it"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 338,
+    "question": "(Personality and Work Style) A person who avoids social events may be low in:",
+    "options": {
+      "A": "Neuroticism",
+      "B": "Conscientiousness",
+      "C": "Openness",
+      "D": "Extraversion"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 339,
+    "question": "(Syllogism) All reptiles are cold-blooded. Snakes are reptiles. Therefore:",
+    "options": {
+      "A": "Snakes are warm-blooded",
+      "B": "Snakes are birds",
+      "C": "Snakes are cold-blooded",
+      "D": "Snakes have feathers"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 340,
+    "question": "(Leadership Aptitude) Good leaders handle mistakes by:",
+    "options": {
+      "A": "Blaming others",
+      "B": "Denying responsibility",
+      "C": "Taking accountability and correcting them",
+      "D": "Ignoring them"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 341,
+    "question": "(Numerical Reasoning) A man spends \u20a63,000 from his \u20a610,000 salary. What is left?",
+    "options": {
+      "A": "\u20a66,000",
+      "B": "\u20a67,000",
+      "C": "\u20a68,000",
+      "D": "\u20a69,000"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 342,
+    "question": "(Verbal Reasoning) Choose the antonym of \u201cfragile\u201d:",
+    "options": {
+      "A": "Breakable",
+      "B": "Sturdy",
+      "C": "Delicate",
+      "D": "Brittle"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 343,
+    "question": "(Logical Reasoning) If no apples are vegetables, and all apples are fruits, then:",
+    "options": {
+      "A": "No fruit is a vegetable",
+      "B": "All vegetables are fruits",
+      "C": "Some fruits are not vegetables",
+      "D": "All fruits are apples"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 344,
+    "question": "(Abstract Reasoning) Pattern: A, C, F, J, O, ?",
+    "options": {
+      "A": "R",
+      "B": "S",
+      "C": "T",
+      "D": "U"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 345,
+    "question": "(Critical Thinking) When evaluating arguments, critical thinkers look for:",
+    "options": {
+      "A": "Fallacies",
+      "B": "Personal feelings",
+      "C": "Authority bias",
+      "D": "Illogical conclusions"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 346,
+    "question": "(Emotional Intelligence) High EQ in the workplace leads to:",
+    "options": {
+      "A": "More conflict",
+      "B": "Miscommunication",
+      "C": "Better teamwork",
+      "D": "Poor performance"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 347,
+    "question": "(Situational Judgement) You\u2019ve been promoted. What should you do first?",
+    "options": {
+      "A": "Celebrate alone",
+      "B": "Ignore your new team",
+      "C": "Understand your responsibilities",
+      "D": "Demand obedience"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 348,
+    "question": "(Personality and Work Style) High conscientiousness is associated with:",
+    "options": {
+      "A": "Carelessness",
+      "B": "Laziness",
+      "C": "Precision",
+      "D": "Procrastination"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 349,
+    "question": "(Syllogism) All musicians are creative. Some teachers are musicians. Therefore:",
+    "options": {
+      "A": "Some teachers are creative",
+      "B": "All teachers are creative",
+      "C": "No teacher is creative",
+      "D": "Teachers are not musicians"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 350,
+    "question": "(Leadership Aptitude) Which of these is NOT a leadership trait?",
+    "options": {
+      "A": "Vision",
+      "B": "Integrity",
+      "C": "Laziness",
+      "D": "Empathy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 351,
+    "question": "(Numerical Reasoning) Find the missing number: 2, 5, 10, 17, ?",
+    "options": {
+      "A": "26",
+      "B": "24",
+      "C": "27",
+      "D": "28"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 352,
+    "question": "(Verbal Reasoning) Which word is opposite in meaning to \u201coptimistic\u201d?",
+    "options": {
+      "A": "Joyful",
+      "B": "Negative",
+      "C": "Hopeful",
+      "D": "Cheerful"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 353,
+    "question": "(Logical Reasoning) All fast foods are unhealthy. Burgers are fast foods. Therefore:",
+    "options": {
+      "A": "Burgers are healthy",
+      "B": "Burgers are expensive",
+      "C": "Burgers are unhealthy",
+      "D": "Burgers are not fast food"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 354,
+    "question": "(Abstract Reasoning) What comes next: 1, 4, 9, 16, ?",
+    "options": {
+      "A": "20",
+      "B": "23",
+      "C": "25",
+      "D": "30"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 355,
+    "question": "(Critical Thinking) What weakens an argument?",
+    "options": {
+      "A": "Verified facts",
+      "B": "Consistency",
+      "C": "Logical fallacies",
+      "D": "Reliable sources"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 356,
+    "question": "(Emotional Intelligence) People with low emotional intelligence often:",
+    "options": {
+      "A": "Reflect before reacting",
+      "B": "Consider others",
+      "C": "React impulsively",
+      "D": "Apologize easily"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 357,
+    "question": "(Situational Judgement) You\u2019re asked to do something unethical. Best response?",
+    "options": {
+      "A": "Go ahead",
+      "B": "Refuse politely and report it",
+      "C": "Blame your colleague",
+      "D": "Delay it"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 358,
+    "question": "(Personality and Work Style) Introverts prefer:",
+    "options": {
+      "A": "Large crowds",
+      "B": "Social events",
+      "C": "Quiet environments",
+      "D": "Loud discussions"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 359,
+    "question": "(Syllogism) All tablets are gadgets. Some gadgets are computers. Therefore:",
+    "options": {
+      "A": "Tablets are computers",
+      "B": "Some tablets are computers",
+      "C": "Some gadgets are tablets",
+      "D": "Computers are tablets"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 360,
+    "question": "(Leadership Aptitude) The ability to motivate others is:",
+    "options": {
+      "A": "Avoidance",
+      "B": "Delegation",
+      "C": "Influence",
+      "D": "Indifference"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 361,
+    "question": "(Numerical Reasoning) What is 12% of 250?",
+    "options": {
+      "A": "30",
+      "B": "25",
+      "C": "28",
+      "D": "32"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 362,
+    "question": "(Verbal Reasoning) A synonym for \u201ctiny\u201d is:",
+    "options": {
+      "A": "Huge",
+      "B": "Massive",
+      "C": "Small",
+      "D": "Gigantic"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 363,
+    "question": "(Logical Reasoning) All insects have six legs. Butterflies are insects. Therefore:",
+    "options": {
+      "A": "Butterflies have eight legs",
+      "B": "Butterflies are reptiles",
+      "C": "Butterflies have six legs",
+      "D": "Butterflies are not insects"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 364,
+    "question": "(Abstract Reasoning) Which number completes the pattern: 3, 6, 12, 24, ?",
+    "options": {
+      "A": "30",
+      "B": "36",
+      "C": "48",
+      "D": "60"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 365,
+    "question": "(Critical Thinking) Ignoring opposing viewpoints shows:",
+    "options": {
+      "A": "Open-mindedness",
+      "B": "Confirmation bias",
+      "C": "Clarity",
+      "D": "Confidence"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 366,
+    "question": "(Emotional Intelligence) You see a teammate struggling. You should:",
+    "options": {
+      "A": "Ignore it",
+      "B": "Offer help or support",
+      "C": "Criticize",
+      "D": "Avoid them"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 367,
+    "question": "(Situational Judgement) Your boss gives urgent feedback. Best action?",
+    "options": {
+      "A": "Disregard it",
+      "B": "Reflect and improve",
+      "C": "Complain to others",
+      "D": "React angrily"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 368,
+    "question": "(Personality and Work Style) High extraversion often leads to:",
+    "options": {
+      "A": "Isolation",
+      "B": "Active social interaction",
+      "C": "Quietness",
+      "D": "Reserved behavior"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 369,
+    "question": "(Syllogism) All oranges are fruits. All fruits are edible. Therefore:",
+    "options": {
+      "A": "Oranges are not fruits",
+      "B": "Oranges are not edible",
+      "C": "Oranges are edible",
+      "D": "Edibles are not oranges"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 370,
+    "question": "(Leadership Aptitude) A strategic leader focuses on:",
+    "options": {
+      "A": "Emotional conflict",
+      "B": "Day-to-day gossip",
+      "C": "Long-term goals",
+      "D": "Immediate reactions"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 371,
+    "question": "(Numerical Reasoning) What is the average of 8, 12, and 16?",
+    "options": {
+      "A": "12",
+      "B": "10",
+      "C": "14",
+      "D": "13"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 372,
+    "question": "(Verbal Reasoning) Antonym of \u201cearly\u201d:",
+    "options": {
+      "A": "Timely",
+      "B": "Fast",
+      "C": "Late",
+      "D": "Sharp"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 373,
+    "question": "(Logical Reasoning) If no dogs are cats, and all cats are animals, then:",
+    "options": {
+      "A": "All dogs are cats",
+      "B": "No animals are dogs",
+      "C": "Some animals are not dogs",
+      "D": "Dogs are animals"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 374,
+    "question": "(Abstract Reasoning) Identify the next in the sequence: 2, 4, 7, 11, ?",
+    "options": {
+      "A": "14",
+      "B": "16",
+      "C": "15",
+      "D": "17"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 375,
+    "question": "(Critical Thinking) Overgeneralizing a single incident is called:",
+    "options": {
+      "A": "Evidence",
+      "B": "Hasty generalization",
+      "C": "Research",
+      "D": "Logic"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 376,
+    "question": "(Emotional Intelligence) Emotional self-awareness helps in:",
+    "options": {
+      "A": "Miscommunication",
+      "B": "Empathy",
+      "C": "Confusion",
+      "D": "Isolation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 377,
+    "question": "(Situational Judgement) You notice a drop in team morale. You should:",
+    "options": {
+      "A": "Add pressure",
+      "B": "Ignore it",
+      "C": "Identify and address the cause",
+      "D": "Complain"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 378,
+    "question": "(Personality and Work Style) Low neuroticism usually means:",
+    "options": {
+      "A": "High emotional stability",
+      "B": "More worry",
+      "C": "Greater stress",
+      "D": "Frequent anger"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 379,
+    "question": "(Syllogism) All students are human. Some humans are not teachers. Therefore:",
+    "options": {
+      "A": "All students are teachers",
+      "B": "Some humans are not students",
+      "C": "All teachers are students",
+      "D": "Students are not humans"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 380,
+    "question": "(Leadership Aptitude) A leader who gives feedback frequently is promoting:",
+    "options": {
+      "A": "Confusion",
+      "B": "Growth",
+      "C": "Conflict",
+      "D": "Ignorance"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 381,
+    "question": "(Numerical Reasoning) Increase \u20a6600 by 15%. What is the new amount?",
+    "options": {
+      "A": "\u20a6690",
+      "B": "\u20a6660",
+      "C": "\u20a6700",
+      "D": "\u20a6720"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 382,
+    "question": "(Verbal Reasoning) A synonym of \u201cbrief\u201d is:",
+    "options": {
+      "A": "Long",
+      "B": "Quick",
+      "C": "Short",
+      "D": "Lasting"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 383,
+    "question": "(Logical Reasoning) All doctors are educated. Some educated people are poor. Therefore:",
+    "options": {
+      "A": "All doctors are poor",
+      "B": "No doctor is poor",
+      "C": "Some educated people may be doctors",
+      "D": "Doctors are uneducated"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 384,
+    "question": "(Abstract Reasoning) Identify the next number: 1, 3, 6, 10, ?",
+    "options": {
+      "A": "13",
+      "B": "15",
+      "C": "14",
+      "D": "16"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 385,
+    "question": "(Critical Thinking) Challenging your assumptions is part of:",
+    "options": {
+      "A": "Passive thinking",
+      "B": "Critical thinking",
+      "C": "Lazy reasoning",
+      "D": "Bias"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 386,
+    "question": "(Emotional Intelligence) People with high EQ tend to:",
+    "options": {
+      "A": "Misread cues",
+      "B": "Isolate themselves",
+      "C": "Navigate emotions well",
+      "D": "Ignore conflict"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 387,
+    "question": "(Situational Judgement) You're offered a better job but unsure. You should:",
+    "options": {
+      "A": "Accept immediately",
+      "B": "Decline without thought",
+      "C": "Evaluate pros and cons",
+      "D": "Delay without reason"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 388,
+    "question": "(Personality and Work Style) Someone scoring low on openness is unlikely to:",
+    "options": {
+      "A": "Follow tradition",
+      "B": "Try new experiences",
+      "C": "Prefer stability",
+      "D": "Seek routine"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 389,
+    "question": "(Syllogism) All buses are vehicles. Some vehicles are bikes. Therefore:",
+    "options": {
+      "A": "Some buses are bikes",
+      "B": "No bike is a vehicle",
+      "C": "Some vehicles may be buses",
+      "D": "Buses are not vehicles"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 390,
+    "question": "(Leadership Aptitude) Transformational leaders inspire by:",
+    "options": {
+      "A": "Giving orders",
+      "B": "Sharing vision",
+      "C": "Threatening team",
+      "D": "Ignoring feedback"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 391,
+    "question": "(Numerical Reasoning) What is the square of 15?",
+    "options": {
+      "A": "215",
+      "B": "220",
+      "C": "225",
+      "D": "230"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 392,
+    "question": "(Verbal Reasoning) Antonym of \u201cinclude\u201d:",
+    "options": {
+      "A": "Add",
+      "B": "Welcome",
+      "C": "Accept",
+      "D": "Exclude"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 393,
+    "question": "(Logical Reasoning) No fish can walk. All salmon are fish. Therefore:",
+    "options": {
+      "A": "Salmon can walk",
+      "B": "Some salmon can walk",
+      "C": "Salmon cannot walk",
+      "D": "Fish are salmon"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 394,
+    "question": "(Abstract Reasoning) What comes next: 4, 7, 13, 25, ?",
+    "options": {
+      "A": "33",
+      "B": "38",
+      "C": "40",
+      "D": "49"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 395,
+    "question": "(Critical Thinking) Logical conclusions rely on:",
+    "options": {
+      "A": "Emotion",
+      "B": "Authority",
+      "C": "Evidence",
+      "D": "Guesswork"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 396,
+    "question": "(Emotional Intelligence) Emotional empathy allows one to:",
+    "options": {
+      "A": "Dismiss feelings",
+      "B": "Criticize others",
+      "C": "Feel what others feel",
+      "D": "Isolate oneself"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 397,
+    "question": "(Situational Judgement) You observe fraud at work. What should you do?",
+    "options": {
+      "A": "Do nothing",
+      "B": "Join them",
+      "C": "Report through proper channels",
+      "D": "Talk about it online"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 398,
+    "question": "(Personality and Work Style) People who plan ahead are likely:",
+    "options": {
+      "A": "Spontaneous",
+      "B": "Unpredictable",
+      "C": "Conscientious",
+      "D": "Disagreeable"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 399,
+    "question": "(Syllogism) Some fruits are sweet. All sweet things are enjoyable. Therefore:",
+    "options": {
+      "A": "All fruits are enjoyable",
+      "B": "Some fruits may be enjoyable",
+      "C": "No fruits are enjoyable",
+      "D": "Sweet things are fruits"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 400,
+    "question": "(Leadership Aptitude) Delegating tasks effectively shows:",
+    "options": {
+      "A": "Weakness",
+      "B": "Trust and leadership",
+      "C": "Laziness",
+      "D": "Avoidance"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 401,
+    "question": "(Numerical Reasoning) If a product costs \u20a62,500 and is sold at a 20% discount, what is the selling price?",
+    "options": {
+      "A": "\u20a62,000",
+      "B": "\u20a62,200",
+      "C": "\u20a62,400",
+      "D": "\u20a62,600"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 402,
+    "question": "(Verbal Reasoning) Which word is closest in meaning to \u201ccautious\u201d?",
+    "options": {
+      "A": "Reckless",
+      "B": "Careful",
+      "C": "Rude",
+      "D": "Hasty"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 403,
+    "question": "(Logical Reasoning) If all lecturers are professionals, and some professionals are authors, then:",
+    "options": {
+      "A": "All lecturers are authors",
+      "B": "Some authors are not lecturers",
+      "C": "Some lecturers may be authors",
+      "D": "No lecturer is an author"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 404,
+    "question": "(Abstract Reasoning) What comes next in the series: 2, 3, 5, 8, 12, ?",
+    "options": {
+      "A": "15",
+      "B": "17",
+      "C": "18",
+      "D": "20"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 405,
+    "question": "(Critical Thinking) Which of the following is a characteristic of a weak argument?",
+    "options": {
+      "A": "Use of statistics",
+      "B": "Clear reasoning",
+      "C": "Logical fallacy",
+      "D": "Valid evidence"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 406,
+    "question": "(Emotional Intelligence) Which behavior indicates self-regulation?",
+    "options": {
+      "A": "Shouting in anger",
+      "B": "Storming out of meetings",
+      "C": "Pausing before responding",
+      "D": "Blaming others"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 407,
+    "question": "(Situational Judgement) A colleague takes credit for your work. What should you do?",
+    "options": {
+      "A": "Fight back",
+      "B": "Calmly discuss it privately",
+      "C": "Complain to everyone",
+      "D": "Ignore and let it go"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 408,
+    "question": "(Personality and Work Style) Which trait best predicts punctuality and discipline?",
+    "options": {
+      "A": "Extraversion",
+      "B": "Openness",
+      "C": "Conscientiousness",
+      "D": "Agreeableness"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 409,
+    "question": "(Syllogism) All pens are writing tools. No pencil is a pen. Therefore:",
+    "options": {
+      "A": "No pencil is a writing tool",
+      "B": "Some writing tools are not pencils",
+      "C": "All writing tools are pencils",
+      "D": "All pencils are pens"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 410,
+    "question": "(Leadership Aptitude) A leader who motivates employees by setting a good example is using:",
+    "options": {
+      "A": "Coercion",
+      "B": "Delegation",
+      "C": "Modeling behavior",
+      "D": "Command and control"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 411,
+    "question": "(Numerical Reasoning) A store increases a price from \u20a6500 to \u20a6600. What is the percentage increase?",
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "25%"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 412,
+    "question": "(Verbal Reasoning) The opposite of \u201cartificial\u201d is:",
+    "options": {
+      "A": "Imitated",
+      "B": "Synthetic",
+      "C": "Natural",
+      "D": "Fake"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 413,
+    "question": "(Logical Reasoning) All graduates have degrees. Bola is not a graduate. Therefore:",
+    "options": {
+      "A": "Bola has a degree",
+      "B": "Bola might have a degree",
+      "C": "Bola does not have a degree",
+      "D": "Nothing can be concluded"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 414,
+    "question": "(Abstract Reasoning) What comes next: 1, 4, 10, 22, 46, ?",
+    "options": {
+      "A": "45",
+      "B": "46",
+      "C": "94",
+      "D": "49"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 415,
+    "question": "(Critical Thinking) Which of the following is an assumption?",
+    "options": {
+      "A": "A statement proven by facts",
+      "B": "A conclusion supported by logic",
+      "C": "Something accepted without proof",
+      "D": "A calculated measurement"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 416,
+    "question": "(Emotional Intelligence) A team member is sad and withdrawn. You should:",
+    "options": {
+      "A": "Avoid them",
+      "B": "Confront them harshly",
+      "C": "Show concern and ask if they\u2019re okay",
+      "D": "Report them immediately"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 417,
+    "question": "(Situational Judgement) During a group task, you disagree with the leader. What should you do?",
+    "options": {
+      "A": "Start your own group",
+      "B": "Refuse to work",
+      "C": "Share your views respectfully",
+      "D": "Leave the meeting"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 418,
+    "question": "(Personality and Work Style) Which trait is associated with exploring new cultures?",
+    "options": {
+      "A": "Openness",
+      "B": "Conscientiousness",
+      "C": "Neuroticism",
+      "D": "Agreeableness"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 419,
+    "question": "(Syllogism) Some doctors are lecturers. All lecturers are professionals. Therefore:",
+    "options": {
+      "A": "All doctors are professionals",
+      "B": "Some professionals are doctors",
+      "C": "All professionals are lecturers",
+      "D": "No doctor is a professional"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 420,
+    "question": "(Leadership Aptitude) An effective leader encourages:",
+    "options": {
+      "A": "Fear and silence",
+      "B": "Conflict and blame",
+      "C": "Growth and feedback",
+      "D": "Competition over collaboration"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 421,
+    "question": "(Numerical Reasoning) If 25% of a number is 50, what is the number?",
+    "options": {
+      "A": "100",
+      "B": "150",
+      "C": "200",
+      "D": "250"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 422,
+    "question": "(Verbal Reasoning) Choose the word that means the same as \u201cgenuine\u201d:",
+    "options": {
+      "A": "Fake",
+      "B": "Original",
+      "C": "False",
+      "D": "Artificial"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 423,
+    "question": "(Logical Reasoning) If all musicians are creative and John is a musician, then:",
+    "options": {
+      "A": "John is not creative",
+      "B": "John is possibly creative",
+      "C": "John is creative",
+      "D": "John dislikes music"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 424,
+    "question": "(Abstract Reasoning) What completes the pattern: 4, 9, 16, 25, ?",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "36",
+      "D": "38"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 425,
+    "question": "(Critical Thinking) What weakens an argument?",
+    "options": {
+      "A": "Repetition",
+      "B": "Strong evidence",
+      "C": "Valid logic",
+      "D": "Inconsistencies"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 426,
+    "question": "(Emotional Intelligence) You feel overwhelmed at work. What should you do?",
+    "options": {
+      "A": "Stay silent",
+      "B": "Ignore the workload",
+      "C": "Communicate and seek support",
+      "D": "Quit immediately"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 427,
+    "question": "(Situational Judgement) You are asked to take on an extra task, but you're overloaded. What should you do?",
+    "options": {
+      "A": "Accept silently",
+      "B": "Decline rudely",
+      "C": "Explain your workload respectfully",
+      "D": "Complain to everyone"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 428,
+    "question": "(Personality and Work Style) Which personality trait helps most with adapting to change?",
+    "options": {
+      "A": "Neuroticism",
+      "B": "Agreeableness",
+      "C": "Openness",
+      "D": "Stubbornness"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 429,
+    "question": "(Syllogism) All chairs are furniture. Some furniture is made of wood. Therefore:",
+    "options": {
+      "A": "All chairs are wooden",
+      "B": "Some chairs may be wooden",
+      "C": "No chairs are furniture",
+      "D": "Chairs are not wooden"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 430,
+    "question": "(Leadership Aptitude) A visionary leader is primarily concerned with:",
+    "options": {
+      "A": "Short-term tasks",
+      "B": "Office politics",
+      "C": "Long-term direction",
+      "D": "Personal image"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 431,
+    "question": "(Numerical Reasoning) What is the simple interest on \u20a610,000 at 5% for 2 years?",
+    "options": {
+      "A": "\u20a6800",
+      "B": "\u20a61,000",
+      "C": "\u20a61,200",
+      "D": "\u20a6500"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 432,
+    "question": "(Verbal Reasoning) Opposite of \u201cinclude\u201d:",
+    "options": {
+      "A": "Accept",
+      "B": "Contain",
+      "C": "Incorporate",
+      "D": "Exclude"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 433,
+    "question": "(Logical Reasoning) All stars shine. The sun is a star. Therefore:",
+    "options": {
+      "A": "The sun doesn\u2019t shine",
+      "B": "The sun shines",
+      "C": "The sun is not a star",
+      "D": "All stars are suns"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 434,
+    "question": "(Abstract Reasoning) Sequence: 2, 5, 10, 17, ?",
+    "options": {
+      "A": "24",
+      "B": "26",
+      "C": "30",
+      "D": "33"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 435,
+    "question": "(Critical Thinking) Which of the following is NOT critical thinking?",
+    "options": {
+      "A": "Evaluating evidence",
+      "B": "Accepting assumptions blindly",
+      "C": "Identifying fallacies",
+      "D": "Drawing conclusions"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 436,
+    "question": "(Emotional Intelligence) Which action reflects emotional awareness?",
+    "options": {
+      "A": "Ignoring stress",
+      "B": "Recognizing frustration and calming down",
+      "C": "Acting on impulse",
+      "D": "Yelling when angry"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 437,
+    "question": "(Situational Judgement) A team member keeps missing deadlines. Best approach?",
+    "options": {
+      "A": "Fire them",
+      "B": "Complain behind their back",
+      "C": "Discuss expectations privately",
+      "D": "Ignore it"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 438,
+    "question": "(Personality and Work Style) Which trait is most important for task completion?",
+    "options": {
+      "A": "Openness",
+      "B": "Extraversion",
+      "C": "Conscientiousness",
+      "D": "Neuroticism"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 439,
+    "question": "(Syllogism) All metals conduct electricity. Gold is a metal. Therefore:",
+    "options": {
+      "A": "Gold does not conduct electricity",
+      "B": "Gold is not metal",
+      "C": "Gold conducts electricity",
+      "D": "Gold is plastic"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 440,
+    "question": "(Leadership Aptitude) What is a key skill of a strategic leader?",
+    "options": {
+      "A": "Complaining",
+      "B": "Vision setting",
+      "C": "Gossiping",
+      "D": "Copying others"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 441,
+    "question": "(Numerical Reasoning) Divide 144 by 12. What is the result?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 442,
+    "question": "(Verbal Reasoning) What is the synonym of \u201cabundant\u201d?",
+    "options": {
+      "A": "Scarce",
+      "B": "Plentiful",
+      "C": "Empty",
+      "D": "Limited"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 443,
+    "question": "(Logical Reasoning) All dogs bark. Rex is a dog. Therefore:",
+    "options": {
+      "A": "Rex doesn't bark",
+      "B": "Rex might be a dog",
+      "C": "Rex barks",
+      "D": "Rex is a cat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 444,
+    "question": "(Abstract Reasoning) What comes next in the sequence: 6, 11, 17, 24, ?",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "33",
+      "D": "35"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 445,
+    "question": "(Critical Thinking) A red herring fallacy involves:",
+    "options": {
+      "A": "Using strong evidence",
+      "B": "Distracting from the main issue",
+      "C": "Providing detailed analysis",
+      "D": "Offering logical proof"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 446,
+    "question": "(Emotional Intelligence) A person who avoids overreacting under pressure shows:",
+    "options": {
+      "A": "Impulsiveness",
+      "B": "Panic",
+      "C": "Self-control",
+      "D": "Anger"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 447,
+    "question": "(Situational Judgement) You're placed on a team with someone you\u2019ve had issues with. You should:",
+    "options": {
+      "A": "Request a transfer immediately",
+      "B": "Try to collaborate professionally",
+      "C": "Ignore the team",
+      "D": "Sabotage the project"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 448,
+    "question": "(Personality and Work Style) Which trait correlates with creativity?",
+    "options": {
+      "A": "Openness",
+      "B": "Neuroticism",
+      "C": "Conscientiousness",
+      "D": "Agreeableness"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 449,
+    "question": "(Syllogism) All fruits have seeds. Mango is a fruit. Therefore:",
+    "options": {
+      "A": "Mango has seeds",
+      "B": "Mango has no seeds",
+      "C": "Mango is a vegetable",
+      "D": "All fruits are mangoes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 450,
+    "question": "(Leadership Aptitude) Servant leaders prioritize:",
+    "options": {
+      "A": "Their own needs",
+      "B": "The team\u2019s development",
+      "C": "Power and control",
+      "D": "Status and fame"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 451,
+    "question": "(Numerical Reasoning) What is the square root of 121?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 452,
+    "question": "(Verbal Reasoning) Choose the antonym of \u201cwise\u201d:",
+    "options": {
+      "A": "Clever",
+      "B": "Intelligent",
+      "C": "Foolish",
+      "D": "Smart"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 453,
+    "question": "(Logical Reasoning) All books are sources of knowledge. A novel is a book. Therefore:",
+    "options": {
+      "A": "Novels are not sources of knowledge",
+      "B": "Some novels are not books",
+      "C": "Novels are sources of knowledge",
+      "D": "Books are novels"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 454,
+    "question": "(Abstract Reasoning) Identify the next number: 5, 10, 20, 40, ?",
+    "options": {
+      "A": "45",
+      "B": "60",
+      "C": "70",
+      "D": "80"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 455,
+    "question": "(Critical Thinking) Critical thinkers often ask:",
+    "options": {
+      "A": "Why is this true?",
+      "B": "Who said so?",
+      "C": "When can I believe anything?",
+      "D": "How can I ignore this?"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 456,
+    "question": "(Emotional Intelligence) A person who understands others' feelings is showing:",
+    "options": {
+      "A": "Arrogance",
+      "B": "Bias",
+      "C": "Empathy",
+      "D": "Judgment"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 457,
+    "question": "(Situational Judgement) You made a mistake that affects your team. What\u2019s the best step?",
+    "options": {
+      "A": "Deny it",
+      "B": "Shift the blame",
+      "C": "Accept responsibility and work to fix it",
+      "D": "Hide the error"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 458,
+    "question": "(Personality and Work Style) Which of these people is most likely to meet deadlines?",
+    "options": {
+      "A": "Disorganized",
+      "B": "Conscientious",
+      "C": "Careless",
+      "D": "Impulsive"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 459,
+    "question": "(Syllogism) All engineers are professionals. Some professionals are lecturers. Therefore:",
+    "options": {
+      "A": "Some lecturers are engineers",
+      "B": "All lecturers are professionals",
+      "C": "Some engineers may be lecturers",
+      "D": "No engineers are lecturers"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 460,
+    "question": "(Leadership Aptitude) A leader who avoids making decisions is showing:",
+    "options": {
+      "A": "Decisiveness",
+      "B": "Strategy",
+      "C": "Indecision",
+      "D": "Boldness"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 461,
+    "question": "(Numerical Reasoning) A worker earns \u20a61,200 daily. How much does he earn in 15 days?",
+    "options": {
+      "A": "\u20a617,000",
+      "B": "\u20a618,000",
+      "C": "\u20a619,000",
+      "D": "\u20a620,000"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 462,
+    "question": "(Verbal Reasoning) The opposite of \u201cconstruct\u201d is:",
+    "options": {
+      "A": "Build",
+      "B": "Destroy",
+      "C": "Plan",
+      "D": "Create"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 463,
+    "question": "(Logical Reasoning) All phones need batteries. This device is a phone. Therefore:",
+    "options": {
+      "A": "It doesn't need a battery",
+      "B": "It needs a battery",
+      "C": "It is not a phone",
+      "D": "It needs a charger"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 464,
+    "question": "(Abstract Reasoning) What comes next in the pattern: 3, 8, 15, 24, ?",
+    "options": {
+      "A": "30",
+      "B": "35",
+      "C": "40",
+      "D": "45"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 465,
+    "question": "(Critical Thinking) Which of the following is essential to critical thinking?",
+    "options": {
+      "A": "Blind belief",
+      "B": "Reflection",
+      "C": "Emotion",
+      "D": "Bias"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 466,
+    "question": "(Emotional Intelligence) When someone receives negative feedback, emotional intelligence enables them to:",
+    "options": {
+      "A": "Retaliate",
+      "B": "Reflect and adjust",
+      "C": "Blame others",
+      "D": "Feel insulted"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 467,
+    "question": "(Situational Judgement) A junior colleague is struggling with a task you know well. What should you do?",
+    "options": {
+      "A": "Let them figure it out",
+      "B": "Offer guidance",
+      "C": "Criticize them",
+      "D": "Report them"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 468,
+    "question": "(Personality and Work Style) Who is most likely to excel in repetitive jobs?",
+    "options": {
+      "A": "Low conscientious person",
+      "B": "High neuroticism person",
+      "C": "Conscientious and patient person",
+      "D": "Impulsive person"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 469,
+    "question": "(Syllogism) All round objects roll. A ball is round. Therefore:",
+    "options": {
+      "A": "A ball cannot roll",
+      "B": "A ball is flat",
+      "C": "A ball rolls",
+      "D": "A ball is square"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 470,
+    "question": "(Leadership Aptitude) Leaders with vision often:",
+    "options": {
+      "A": "Focus only on the present",
+      "B": "Micromanage",
+      "C": "Inspire long-term goals",
+      "D": "Ignore team ideas"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 471,
+    "question": "(Numerical Reasoning) Increase \u20a61,500 by 10%. What\u2019s the result?",
+    "options": {
+      "A": "\u20a61,550",
+      "B": "\u20a61,600",
+      "C": "\u20a61,650",
+      "D": "\u20a61,700"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 472,
+    "question": "(Verbal Reasoning) Antonym of \u201cexpand\u201d:",
+    "options": {
+      "A": "Grow",
+      "B": "Extend",
+      "C": "Shrink",
+      "D": "Spread"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 473,
+    "question": "(Logical Reasoning) All cars require fuel. Electric cars don\u2019t use petrol. Therefore:",
+    "options": {
+      "A": "Electric cars use fuel",
+      "B": "Electric cars run on petrol",
+      "C": "Electric cars don\u2019t require petrol",
+      "D": "Electric cars are useless"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 474,
+    "question": "(Abstract Reasoning) What completes the series: 2, 6, 12, 20, ?",
+    "options": {
+      "A": "28",
+      "B": "30",
+      "C": "32",
+      "D": "34"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 475,
+    "question": "(Critical Thinking) Spotting contradictions in someone's statement shows:",
+    "options": {
+      "A": "Misunderstanding",
+      "B": "Illogicality",
+      "C": "Attentiveness",
+      "D": "Aggression"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 476,
+    "question": "(Emotional Intelligence) A person crying during a meeting is best supported by:",
+    "options": {
+      "A": "Public attention",
+      "B": "Harsh words",
+      "C": "Private empathy",
+      "D": "Sarcasm"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 477,
+    "question": "(Situational Judgement) A colleague always interrupts you. You should:",
+    "options": {
+      "A": "Start shouting",
+      "B": "Speak to them calmly",
+      "C": "Ignore forever",
+      "D": "Avoid meetings"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 478,
+    "question": "(Personality and Work Style) Disagreeable people are likely to:",
+    "options": {
+      "A": "Cooperate often",
+      "B": "Avoid conflicts",
+      "C": "Be confrontational",
+      "D": "Be empathetic"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 479,
+    "question": "(Syllogism) Some employees are students. All students are ambitious. Therefore:",
+    "options": {
+      "A": "All employees are ambitious",
+      "B": "Some employees are ambitious",
+      "C": "No employee is ambitious",
+      "D": "Students are not ambitious"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 480,
+    "question": "(Leadership Aptitude) A leader who seeks advice before making decisions is:",
+    "options": {
+      "A": "Insecure",
+      "B": "Collaborative",
+      "C": "Irresponsible",
+      "D": "Weak"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 481,
+    "question": "(Numerical Reasoning) Multiply 18 by 5.",
+    "options": {
+      "A": "80",
+      "B": "85",
+      "C": "90",
+      "D": "95"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 482,
+    "question": "(Verbal Reasoning) The word \u201cvivid\u201d means:",
+    "options": {
+      "A": "Dull",
+      "B": "Bright",
+      "C": "Faint",
+      "D": "Weak"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 483,
+    "question": "(Logical Reasoning) No reptiles have fur. All snakes are reptiles. Therefore:",
+    "options": {
+      "A": "Snakes have fur",
+      "B": "Snakes do not have fur",
+      "C": "Reptiles are snakes",
+      "D": "Fur is for snakes"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 484,
+    "question": "(Abstract Reasoning) Sequence: 10, 20, 40, 80, ?",
+    "options": {
+      "A": "100",
+      "B": "120",
+      "C": "160",
+      "D": "180"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 485,
+    "question": "(Critical Thinking) The ability to draw a conclusion based on facts is:",
+    "options": {
+      "A": "Daydreaming",
+      "B": "Bias",
+      "C": "Inference",
+      "D": "Emotion"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 486,
+    "question": "(Emotional Intelligence) Emotional self-awareness helps in:",
+    "options": {
+      "A": "Making careless decisions",
+      "B": "Understanding yourself",
+      "C": "Reacting without thought",
+      "D": "Avoiding people"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 487,
+    "question": "(Situational Judgement) You\u2019re promoted above older colleagues. What should you do?",
+    "options": {
+      "A": "Boast about it",
+      "B": "Build respect and team spirit",
+      "C": "Act superior",
+      "D": "Show off power"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 488,
+    "question": "(Personality and Work Style) Which of these people is most organized?",
+    "options": {
+      "A": "Spontaneous",
+      "B": "Impulsive",
+      "C": "Conscientious",
+      "D": "Distracted"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 489,
+    "question": "(Syllogism) All cats have whiskers. Simba is a cat. Therefore:",
+    "options": {
+      "A": "Simba doesn\u2019t have whiskers",
+      "B": "Simba might have whiskers",
+      "C": "Simba has whiskers",
+      "D": "Simba is not a cat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 490,
+    "question": "(Leadership Aptitude) Great leaders create:",
+    "options": {
+      "A": "Fear",
+      "B": "Confusion",
+      "C": "Direction and vision",
+      "D": "Gossip"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 491,
+    "question": "(Numerical Reasoning) If a phone costs \u20a645,000 and is sold for \u20a636,000, what is the loss percentage?",
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "25%"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 492,
+    "question": "(Verbal Reasoning) The antonym of \u201cgenerous\u201d is:",
+    "options": {
+      "A": "Kind",
+      "B": "Stingy",
+      "C": "Grateful",
+      "D": "Thoughtful"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 493,
+    "question": "(Logical Reasoning) All metals are solid. Mercury is a metal. Therefore:",
+    "options": {
+      "A": "Mercury is solid",
+      "B": "Mercury is a gas",
+      "C": "Mercury is water",
+      "D": "Mercury is not metal"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 494,
+    "question": "(Abstract Reasoning) What comes next in the series: 7, 14, 28, 56, ?",
+    "options": {
+      "A": "70",
+      "B": "84",
+      "C": "112",
+      "D": "120"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 495,
+    "question": "(Critical Thinking) When evaluating claims, we must:",
+    "options": {
+      "A": "Trust our instincts only",
+      "B": "Ignore evidence",
+      "C": "Seek supporting facts",
+      "D": "Believe every source"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 496,
+    "question": "(Emotional Intelligence) The ability to delay gratification shows:",
+    "options": {
+      "A": "Weakness",
+      "B": "Impulsiveness",
+      "C": "Emotional maturity",
+      "D": "Lack of interest"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 497,
+    "question": "(Situational Judgement) A client is angry over a delay. Your response?",
+    "options": {
+      "A": "Shout back",
+      "B": "Apologize and explain",
+      "C": "Walk away",
+      "D": "Escalate without speaking"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 498,
+    "question": "(Personality and Work Style) Low openness leads to:",
+    "options": {
+      "A": "Curiosity",
+      "B": "Resistance to change",
+      "C": "Exploration",
+      "D": "Innovation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 499,
+    "question": "(Syllogism) All pilots are trained. James is not trained. Therefore:",
+    "options": {
+      "A": "James is a pilot",
+      "B": "James may be a pilot",
+      "C": "James is not a pilot",
+      "D": "James trains pilots"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 500,
+    "question": "(Leadership Aptitude) What defines a transformational leader?",
+    "options": {
+      "A": "Fear-based control",
+      "B": "Status quo mindset",
+      "C": "Inspiring change and development",
+      "D": "Refusing feedback"
+    },
+    "answer": "C"
+  }
+]

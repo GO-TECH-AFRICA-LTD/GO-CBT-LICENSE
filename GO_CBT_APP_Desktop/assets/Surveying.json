@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "question": "The professional body that regulates Surveying practice in Nigeria is?",
+    "options": {
+      "A": "Nigerian Institute of Town Planners",
+      "B": "Nigerian Institution of Surveyors",
+      "C": "Council for the Regulation of Engineering in Nigeria",
+      "D": "Institute of Chartered Surveyors"
+    },
+    "correct_option": "B",
+    "correct_answer": "Nigerian Institution of Surveyors"
+  },
+  {
+    "id": 2,
+    "question": "The statutory authority that regulates surveyors and surveying practice in Nigeria is?",
+    "options": {
+      "A": "Surveyors Council of Nigeria (SURCON)",
+      "B": "Nigerian Institution of Surveyors (NIS)",
+      "C": "Council for the Regulation of Engineering in Nigeria (COREN)",
+      "D": "Ministry of Works"
+    },
+    "correct_option": "A",
+    "correct_answer": "Surveyors Council of Nigeria (SURCON)"
+  },
+  {
+    "id": 3,
+    "question": "The Surveyors Council of Nigeria (SURCON) was established by which decree?",
+    "options": {
+      "A": "Decree 44 of 1989",
+      "B": "Decree 23 of 1990",
+      "C": "Decree 55 of 1982",
+      "D": "Decree 72 of 1993"
+    },
+    "correct_option": "A",
+    "correct_answer": "Decree 44 of 1989"
+  },
+  {
+    "id": 4,
+    "question": "Who is regarded as the father of modern surveying in Nigeria?",
+    "options": {
+      "A": "Obafemi Awolowo",
+      "B": "Herbert Macaulay",
+      "C": "Samuel Manuwa",
+      "D": "Nnamdi Azikiwe"
+    },
+    "correct_option": "B",
+    "correct_answer": "Herbert Macaulay"
+  },
+  {
+    "id": 5,
+    "question": "Which instrument is used for measuring horizontal and vertical angles?",
+    "options": {
+      "A": "Compass",
+      "B": "Theodolite",
+      "C": "Level staff",
+      "D": "Ranging rod"
+    },
+    "correct_option": "B",
+    "correct_answer": "Theodolite"
+  },
+  {
+    "id": 6,
+    "question": "In surveying, a \u201cbenchmark\u201d refers to?",
+    "options": {
+      "A": "A fixed reference point of known elevation",
+      "B": "A temporary ranging mark",
+      "C": "A surveyor\u2019s handbook",
+      "D": "A survey map copy"
+    },
+    "correct_option": "A",
+    "correct_answer": "A fixed reference point of known elevation"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is not a type of surveying?",
+    "options": {
+      "A": "Cadastral surveying",
+      "B": "Hydrographic surveying",
+      "C": "Aerial surveying",
+      "D": "Astronomic astrology"
+    },
+    "correct_option": "D",
+    "correct_answer": "Astronomic astrology"
+  },
+  {
+    "id": 8,
+    "question": "The Nigerian Institution of Surveyors was founded in what year?",
+    "options": {
+      "A": "1934",
+      "B": "1960",
+      "C": "1975",
+      "D": "1989"
+    },
+    "correct_option": "A",
+    "correct_answer": "1934"
+  },
+  {
+    "id": 9,
+    "question": "The first Nigerian President of the Nigerian Institution of Surveyors was?",
+    "options": {
+      "A": "Herbert Macaulay",
+      "B": "Surveyor C.T. Olumide",
+      "C": "Surveyor Victor Adekunle",
+      "D": "Surveyor Fadahunsi"
+    },
+    "correct_option": "B",
+    "correct_answer": "Surveyor C.T. Olumide"
+  },
+  {
+    "id": 10,
+    "question": "The Survey Coordination Act regulates?",
+    "options": {
+      "A": "Payment of land rents",
+      "B": "Standards for survey plans",
+      "C": "Building approvals",
+      "D": "Road construction"
+    },
+    "correct_option": "B",
+    "correct_answer": "Standards for survey plans"
+  },
+  {
+    "id": 11,
+    "question": "The process of determining positions on, above, or beneath the earth\u2019s surface is called?",
+    "options": {
+      "A": "Astronomy",
+      "B": "Surveying",
+      "C": "Geology",
+      "D": "Cartography"
+    },
+    "correct_option": "B",
+    "correct_answer": "Surveying"
+  },
+  {
+    "id": 12,
+    "question": "The instrument used for measuring short distances in chain surveying is?",
+    "options": {
+      "A": "Theodolite",
+      "B": "Chain or tape",
+      "C": "Level",
+      "D": "Compass"
+    },
+    "correct_option": "B",
+    "correct_answer": "Chain or tape"
+  },
+  {
+    "id": 13,
+    "question": "Which Nigerian law makes survey plans compulsory for land registration?",
+    "options": {
+      "A": "Land Use Act 1978",
+      "B": "Survey Coordination Act 1962",
+      "C": "Decree 44 of 1989",
+      "D": "National Boundary Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "Land Use Act 1978"
+  },
+  {
+    "id": 14,
+    "question": "The Land Use Act of 1978 vests land ownership in?",
+    "options": {
+      "A": "Traditional rulers",
+      "B": "State Governors",
+      "C": "Local Government Chairmen",
+      "D": "Federal Government"
+    },
+    "correct_option": "B",
+    "correct_answer": "State Governors"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following survey methods relies on angular measurement only?",
+    "options": {
+      "A": "Triangulation",
+      "B": "Traversing",
+      "C": "Chain surveying",
+      "D": "Levelling"
+    },
+    "correct_option": "A",
+    "correct_answer": "Triangulation"
+  },
+  {
+    "id": 16,
+    "question": "A cadastral survey is mainly concerned with?",
+    "options": {
+      "A": "Boundary demarcation",
+      "B": "Soil testing",
+      "C": "River depth measurement",
+      "D": "Road construction"
+    },
+    "correct_option": "A",
+    "correct_answer": "Boundary demarcation"
+  },
+  {
+    "id": 17,
+    "question": "Which coordinate system is commonly used in Nigeria?",
+    "options": {
+      "A": "UTM (Universal Transverse Mercator)",
+      "B": "Polar Coordinates",
+      "C": "Mercator Simple Grid",
+      "D": "Conic Projection Grid"
+    },
+    "correct_option": "A",
+    "correct_answer": "UTM (Universal Transverse Mercator)"
+  },
+  {
+    "id": 18,
+    "question": "The primary output of a surveyor\u2019s work is a?",
+    "options": {
+      "A": "Title deed",
+      "B": "Survey plan",
+      "C": "Construction permit",
+      "D": "Deed of assignment"
+    },
+    "correct_option": "B",
+    "correct_answer": "Survey plan"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is not part of geodetic surveying?",
+    "options": {
+      "A": "Large area mapping",
+      "B": "Earth curvature consideration",
+      "C": "Long distance triangulation",
+      "D": "Soil classification"
+    },
+    "correct_option": "D",
+    "correct_answer": "Soil classification"
+  },
+  {
+    "id": 20,
+    "question": "In Nigeria, who is legally empowered to sign survey plans?",
+    "options": {
+      "A": "Civil Engineers",
+      "B": "Town Planners",
+      "C": "Licensed Surveyors",
+      "D": "Architects"
+    },
+    "correct_option": "C",
+    "correct_answer": "Licensed Surveyors"
+  },
+  {
+    "id": 21,
+    "question": "The process of checking survey measurements for accuracy is called?",
+    "options": {
+      "A": "Levelling",
+      "B": "Adjustment",
+      "C": "Orientation",
+      "D": "Contouring"
+    },
+    "correct_option": "B",
+    "correct_answer": "Adjustment"
+  },
+  {
+    "id": 22,
+    "question": "The angular difference between true north and magnetic north is known as?",
+    "options": {
+      "A": "Latitude",
+      "B": "Declination",
+      "C": "Altitude",
+      "D": "Azimuth"
+    },
+    "correct_option": "B",
+    "correct_answer": "Declination"
+  },
+  {
+    "id": 23,
+    "question": "The agency responsible for national mapping in Nigeria is?",
+    "options": {
+      "A": "Ministry of Environment",
+      "B": "Office of the Surveyor-General of the Federation (OSGOF)",
+      "C": "Nigerian Institute of Town Planners",
+      "D": "Ministry of Works"
+    },
+    "correct_option": "B",
+    "correct_answer": "Office of the Surveyor-General of the Federation (OSGOF)"
+  },
+  {
+    "id": 24,
+    "question": "The instrument used for differential levelling is?",
+    "options": {
+      "A": "Theodolite",
+      "B": "Dumpy level",
+      "C": "Compass",
+      "D": "Plane table"
+    },
+    "correct_option": "B",
+    "correct_answer": "Dumpy level"
+  },
+  {
+    "id": 25,
+    "question": "In surveying, \u201cbacksight\u201d refers to?",
+    "options": {
+      "A": "The first staff reading taken from a new instrument position",
+      "B": "The last staff reading before moving instrument",
+      "C": "The height of instrument",
+      "D": "A wrong observation"
+    },
+    "correct_option": "A",
+    "correct_answer": "The first staff reading taken from a new instrument position"
+  },
+  {
+    "id": 26,
+    "question": "The Nigerian legal instrument guiding survey practice is called?",
+    "options": {
+      "A": "Surveyors Registration Act",
+      "B": "SURCON Act",
+      "C": "Survey Coordination Act",
+      "D": "Land Reform Act"
+    },
+    "correct_option": "C",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 27,
+    "question": "Which type of survey is required for coastal navigation charts?",
+    "options": {
+      "A": "Topographic survey",
+      "B": "Hydrographic survey",
+      "C": "Geodetic survey",
+      "D": "Cadastral survey"
+    },
+    "correct_option": "B",
+    "correct_answer": "Hydrographic survey"
+  },
+  {
+    "id": 28,
+    "question": "The art of representing the earth on a flat surface is known as?",
+    "options": {
+      "A": "Topography",
+      "B": "Geology",
+      "C": "Cartography",
+      "D": "Photogrammetry"
+    },
+    "correct_option": "C",
+    "correct_answer": "Cartography"
+  },
+  {
+    "id": 29,
+    "question": "Which of these is used in GPS-based surveying?",
+    "options": {
+      "A": "Prisms",
+      "B": "Satellites",
+      "C": "Chains",
+      "D": "Ranging rods"
+    },
+    "correct_option": "B",
+    "correct_answer": "Satellites"
+  },
+  {
+    "id": 30,
+    "question": "Which body conducts professional examinations for surveyors in Nigeria?",
+    "options": {
+      "A": "SURCON",
+      "B": "NIS",
+      "C": "COREN",
+      "D": "NSE"
+    },
+    "correct_option": "A",
+    "correct_answer": "SURCON"
+  },
+  {
+    "id": 31,
+    "question": "The Land Use Act empowers Local Governments to grant customary rights of occupancy on land not exceeding?",
+    "options": {
+      "A": "250 hectares for agricultural purposes",
+      "B": "500 hectares for grazing",
+      "C": "50 hectares for residential",
+      "D": "100 hectares for industrial"
+    },
+    "correct_option": "A",
+    "correct_answer": "250 hectares for agricultural purposes"
+  },
+  {
+    "id": 32,
+    "question": "Which coordinate datum is adopted in Nigeria?",
+    "options": {
+      "A": "Minna datum",
+      "B": "WGS 84",
+      "C": "Greenwich datum",
+      "D": "Clarke datum"
+    },
+    "correct_option": "A",
+    "correct_answer": "Minna datum"
+  },
+  {
+    "id": 33,
+    "question": "In Nigeria, survey beacons are used to?",
+    "options": {
+      "A": "Indicate soil type",
+      "B": "Mark boundary points",
+      "C": "Indicate water flow",
+      "D": "Show elevation"
+    },
+    "correct_option": "B",
+    "correct_answer": "Mark boundary points"
+  },
+  {
+    "id": 34,
+    "question": "The \u201codolite\u201d was the forerunner of which modern instrument?",
+    "options": {
+      "A": "Compass",
+      "B": "Theodolite",
+      "C": "Level",
+      "D": "GPS"
+    },
+    "correct_option": "B",
+    "correct_answer": "Theodolite"
+  },
+  {
+    "id": 35,
+    "question": "What is the average accuracy of a cadastral survey in Nigeria?",
+    "options": {
+      "A": "1:1,000",
+      "B": "1:2,500",
+      "C": "1:5,000",
+      "D": "1:10,000"
+    },
+    "correct_option": "A",
+    "correct_answer": "1:1,000"
+  },
+  {
+    "id": 36,
+    "question": "Who is the professional head of survey activities at the Federal level in Nigeria?",
+    "options": {
+      "A": "Minister of Lands",
+      "B": "Surveyor-General of the Federation",
+      "C": "Permanent Secretary of Works",
+      "D": "Chairman of SURCON"
+    },
+    "correct_option": "B",
+    "correct_answer": "Surveyor-General of the Federation"
+  },
+  {
+    "id": 37,
+    "question": "What does GIS stand for?",
+    "options": {
+      "A": "Geographic Information System",
+      "B": "Geological Information Scheme",
+      "C": "General Infrastructure Survey",
+      "D": "Ground Imaging System"
+    },
+    "correct_option": "A",
+    "correct_answer": "Geographic Information System"
+  },
+  {
+    "id": 38,
+    "question": "The process of measuring land to determine ownership is?",
+    "options": {
+      "A": "Cartography",
+      "B": "Cadastral surveying",
+      "C": "Hydrography",
+      "D": "Engineering survey"
+    },
+    "correct_option": "B",
+    "correct_answer": "Cadastral surveying"
+  },
+  {
+    "id": 39,
+    "question": "The act of converting field observations into a map is?",
+    "options": {
+      "A": "Charting",
+      "B": "Plotting",
+      "C": "Levelling",
+      "D": "Mapping"
+    },
+    "correct_option": "B",
+    "correct_answer": "Plotting"
+  },
+  {
+    "id": 40,
+    "question": "In surveying, a \u201ccontour line\u201d represents?",
+    "options": {
+      "A": "Equal altitude points",
+      "B": "Equal distances",
+      "C": "Boundary points",
+      "D": "Geodetic stations"
+    },
+    "correct_option": "A",
+    "correct_answer": "Equal altitude points"
+  },
+  {
+    "id": 41,
+    "question": "A closed traverse is one that?",
+    "options": {
+      "A": "Starts and ends at the same point",
+      "B": "Has unequal angles",
+      "C": "Uses only straight lines",
+      "D": "Cannot be adjusted"
+    },
+    "correct_option": "A",
+    "correct_answer": "Starts and ends at the same point"
+  },
+  {
+    "id": 42,
+    "question": "The graphical method of solving traverse problems is called?",
+    "options": {
+      "A": "Radiation method",
+      "B": "Bowditch method",
+      "C": "Coordinate method",
+      "D": "Graphical adjustment"
+    },
+    "correct_option": "D",
+    "correct_answer": "Graphical adjustment"
+  },
+  {
+    "id": 43,
+    "question": "In Nigeria, a survey plan must carry what to be valid in court?",
+    "options": {
+      "A": "The Governor\u2019s consent",
+      "B": "Licensed surveyor\u2019s seal and signature",
+      "C": "Lawyer\u2019s endorsement",
+      "D": "Local government chairman\u2019s approval"
+    },
+    "correct_option": "B",
+    "correct_answer": "Licensed surveyor\u2019s seal and signature"
+  },
+  {
+    "id": 44,
+    "question": "What is the unit of measurement for horizontal angles?",
+    "options": {
+      "A": "Radians",
+      "B": "Degrees",
+      "C": "Percentage",
+      "D": "Gradians"
+    },
+    "correct_option": "B",
+    "correct_answer": "Degrees"
+  },
+  {
+    "id": 45,
+    "question": "The chain used in chain surveying in Nigeria usually has a length of?",
+    "options": {
+      "A": "10 meters",
+      "B": "20 meters",
+      "C": "30 meters",
+      "D": "50 meters"
+    },
+    "correct_option": "C",
+    "correct_answer": "30 meters"
+  },
+  {
+    "id": 46,
+    "question": "In plane table surveying, which of the following is not required?",
+    "options": {
+      "A": "Alidade",
+      "B": "Drawing sheet",
+      "C": "Theodolite",
+      "D": "Tripod"
+    },
+    "correct_option": "C",
+    "correct_answer": "Theodolite"
+  },
+  {
+    "id": 47,
+    "question": "The science of measuring heights and depths of water bodies is?",
+    "options": {
+      "A": "Hydrology",
+      "B": "Hydrography",
+      "C": "Hydraulics",
+      "D": "Hydrostatics"
+    },
+    "correct_option": "B",
+    "correct_answer": "Hydrography"
+  },
+  {
+    "id": 48,
+    "question": "What is the first action in a topographic survey?",
+    "options": {
+      "A": "Levelling",
+      "B": "Reconnaissance",
+      "C": "Contouring",
+      "D": "Plotting"
+    },
+    "correct_option": "B",
+    "correct_answer": "Reconnaissance"
+  },
+  {
+    "id": 49,
+    "question": "The Nigerian Institution of Surveyors holds its annual general meeting known as?",
+    "options": {
+      "A": "Surveyors Retreat",
+      "B": "Survey Congress",
+      "C": "Annual General Meeting (AGM)",
+      "D": "Surveyors\u2019 Assembly"
+    },
+    "correct_option": "C",
+    "correct_answer": "Annual General Meeting (AGM)"
+  },
+  {
+    "id": 50,
+    "question": "A leveling staff is graduated in?",
+    "options": {
+      "A": "Centimeters and meters",
+      "B": "Feet and inches",
+      "C": "Radians",
+      "D": "Chains"
+    },
+    "correct_option": "A",
+    "correct_answer": "Centimeters and meters"
+  },
+  {
+    "id": 51,
+    "question": "The surveying method commonly used in urban land subdivision is?",
+    "options": {
+      "A": "Chain surveying",
+      "B": "Cadastral surveying",
+      "C": "Hydrographic surveying",
+      "D": "Triangulation"
+    },
+    "correct_option": "B",
+    "correct_answer": "Cadastral surveying"
+  },
+  {
+    "id": 52,
+    "question": "Which Nigerian state houses the Office of the Surveyor-General of the Federation?",
+    "options": {
+      "A": "Lagos",
+      "B": "Enugu",
+      "C": "Abuja (FCT)",
+      "D": "Kaduna"
+    },
+    "correct_option": "C",
+    "correct_answer": "Abuja (FCT)"
+  },
+  {
+    "id": 53,
+    "question": "In surveying, \u201corientation\u201d means?",
+    "options": {
+      "A": "Aligning the map with north",
+      "B": "Drawing neat survey plans",
+      "C": "Balancing levels",
+      "D": "Dividing distances"
+    },
+    "correct_option": "A",
+    "correct_answer": "Aligning the map with north"
+  },
+  {
+    "id": 54,
+    "question": "The compulsory color for survey beacons in Nigeria is?",
+    "options": {
+      "A": "Blue and white",
+      "B": "Red and white",
+      "C": "Black and yellow",
+      "D": "Green and black"
+    },
+    "correct_option": "B",
+    "correct_answer": "Red and white"
+  },
+  {
+    "id": 55,
+    "question": "What is the function of prisms in total station surveying?",
+    "options": {
+      "A": "Distance measurement",
+      "B": "Angle adjustment",
+      "C": "Mapping",
+      "D": "Plotting"
+    },
+    "correct_option": "A",
+    "correct_answer": "Distance measurement"
+  },
+  {
+    "id": 56,
+    "question": "A surveyor who prepares maps from aerial photographs practices?",
+    "options": {
+      "A": "Cartography",
+      "B": "Photogrammetry",
+      "C": "Hydrography",
+      "D": "Levelling"
+    },
+    "correct_option": "B",
+    "correct_answer": "Photogrammetry"
+  },
+  {
+    "id": 57,
+    "question": "What is the minimum accuracy standard for geodetic control surveys in Nigeria?",
+    "options": {
+      "A": "First order",
+      "B": "Third order",
+      "C": "Second order",
+      "D": "Fourth order"
+    },
+    "correct_option": "A",
+    "correct_answer": "First order"
+  },
+  {
+    "id": 58,
+    "question": "A \u201cfore sight\u201d reading in levelling indicates?",
+    "options": {
+      "A": "Final staff reading to establish reduced level",
+      "B": "Intermediate sight for adjustments",
+      "C": "First staff reading at station",
+      "D": "Compass bearing"
+    },
+    "correct_option": "A",
+    "correct_answer": "Final staff reading to establish reduced level"
+  },
+  {
+    "id": 59,
+    "question": "The survey law in Nigeria prohibits surveyors from?",
+    "options": {
+      "A": "Using GPS",
+      "B": "Practicing without a license",
+      "C": "Owning survey equipment",
+      "D": "Teaching surveying in schools"
+    },
+    "correct_option": "B",
+    "correct_answer": "Practicing without a license"
+  },
+  {
+    "id": 60,
+    "question": "Which type of error is eliminated by taking face left and face right observations?",
+    "options": {
+      "A": "Instrumental error",
+      "B": "Cumulative error",
+      "C": "Parallax error",
+      "D": "Systematic error"
+    },
+    "correct_option": "A",
+    "correct_answer": "Instrumental error"
+  },
+  {
+    "id": 61,
+    "question": "The federal agency responsible for Nigeria\u2019s boundaries is?",
+    "options": {
+      "A": "Nigerian Boundary Commission",
+      "B": "Office of the Surveyor-General",
+      "C": "Ministry of Defence",
+      "D": "Supreme Court"
+    },
+    "correct_option": "A",
+    "correct_answer": "Nigerian Boundary Commission"
+  },
+  {
+    "id": 62,
+    "question": "The main advantage of triangulation surveying is?",
+    "options": {
+      "A": "Requires few instruments",
+      "B": "Very rapid and cheap",
+      "C": "High accuracy over long distances",
+      "D": "Needs no skilled labor"
+    },
+    "correct_option": "C",
+    "correct_answer": "High accuracy over long distances"
+  },
+  {
+    "id": 63,
+    "question": "The area of land in Nigeria cannot be legally registered without?",
+    "options": {
+      "A": "Building approval",
+      "B": "Survey plan",
+      "C": "Tax clearance",
+      "D": "Power of attorney"
+    },
+    "correct_option": "B",
+    "correct_answer": "Survey plan"
+  },
+  {
+    "id": 64,
+    "question": "A \u201cranging rod\u201d is usually painted in?",
+    "options": {
+      "A": "Black and white bands",
+      "B": "Blue and yellow bands",
+      "C": "Red and white bands",
+      "D": "Green and red bands"
+    },
+    "correct_option": "C",
+    "correct_answer": "Red and white bands"
+  },
+  {
+    "id": 65,
+    "question": "The difference between geodetic and plane surveying is that geodetic survey?",
+    "options": {
+      "A": "Ignores curvature of the earth",
+      "B": "Considers curvature of the earth",
+      "C": "Uses only tapes",
+      "D": "Is less accurate"
+    },
+    "correct_option": "B",
+    "correct_answer": "Considers curvature of the earth"
+  },
+  {
+    "id": 66,
+    "question": "What is the official journal of the Nigerian Institution of Surveyors?",
+    "options": {
+      "A": "Nigerian Survey Review",
+      "B": "Surveying & Mapping Journal",
+      "C": "Surveying Quarterly",
+      "D": "African Geomatics Review"
+    },
+    "correct_option": "A",
+    "correct_answer": "Nigerian Survey Review"
+  },
+  {
+    "id": 67,
+    "question": "A survey that provides information for road design is?",
+    "options": {
+      "A": "Engineering survey",
+      "B": "Cadastral survey",
+      "C": "Geodetic survey",
+      "D": "Hydrographic survey"
+    },
+    "correct_option": "A",
+    "correct_answer": "Engineering survey"
+  },
+  {
+    "id": 68,
+    "question": "The scale 1:2,500 means?",
+    "options": {
+      "A": "1 cm represents 2.5 cm",
+      "B": "1 cm represents 25 m",
+      "C": "1 cm represents 2,500 cm",
+      "D": "1 cm represents 25 km"
+    },
+    "correct_option": "C",
+    "correct_answer": "1 cm represents 2,500 cm"
+  },
+  {
+    "id": 69,
+    "question": "What is the full meaning of SURCON?",
+    "options": {
+      "A": "Surveyors Registration Council of Nigeria",
+      "B": "Survey Coordination Council of Nigeria",
+      "C": "Surveyors Control of Nigeria",
+      "D": "Surveyors Regulation Council of Nigeria"
+    },
+    "correct_option": "A",
+    "correct_answer": "Surveyors Registration Council of Nigeria"
+  },
+  {
+    "id": 70,
+    "question": "A traverse that does not close properly indicates?",
+    "options": {
+      "A": "Instrumental error",
+      "B": "Angular or linear error",
+      "C": "Wrong plotting",
+      "D": "Magnetic disturbance"
+    },
+    "correct_option": "B",
+    "correct_answer": "Angular or linear error"
+  },
+  {
+    "id": 71,
+    "question": "The survey method commonly used in rough terrain is?",
+    "options": {
+      "A": "Chain surveying",
+      "B": "Triangulation",
+      "C": "Plane tabling",
+      "D": "Hydrographic survey"
+    },
+    "correct_option": "B",
+    "correct_answer": "Triangulation"
+  },
+  {
+    "id": 72,
+    "question": "The science of measuring and representing heights of land features is?",
+    "options": {
+      "A": "Levelling",
+      "B": "Triangulation",
+      "C": "Cartography",
+      "D": "Mapping"
+    },
+    "correct_option": "A",
+    "correct_answer": "Levelling"
+  },
+  {
+    "id": 73,
+    "question": "The surveying method often used for pipeline alignment is?",
+    "options": {
+      "A": "Hydrographic survey",
+      "B": "Engineering survey",
+      "C": "Triangulation",
+      "D": "Astronomical survey"
+    },
+    "correct_option": "B",
+    "correct_answer": "Engineering survey"
+  },
+  {
+    "id": 74,
+    "question": "The first survey school in Nigeria was established in?",
+    "options": {
+      "A": "Enugu",
+      "B": "Lagos",
+      "C": "Kaduna",
+      "D": "Ibadan"
+    },
+    "correct_option": "A",
+    "correct_answer": "Enugu"
+  },
+  {
+    "id": 75,
+    "question": "Theodolite surveys are primarily used for?",
+    "options": {
+      "A": "Angular measurement",
+      "B": "Water depth measurement",
+      "C": "Contour drawing",
+      "D": "GPS correction"
+    },
+    "correct_option": "A",
+    "correct_answer": "Angular measurement"
+  },
+  {
+    "id": 76,
+    "question": "A survey conducted to determine mining boundaries is?",
+    "options": {
+      "A": "Hydrographic survey",
+      "B": "Cadastral survey",
+      "C": "Mining survey",
+      "D": "Geodetic survey"
+    },
+    "correct_option": "C",
+    "correct_answer": "Mining survey"
+  },
+  {
+    "id": 77,
+    "question": "In Nigeria, cadastral survey records are deposited at the?",
+    "options": {
+      "A": "Federal Ministry of Justice",
+      "B": "Surveyor-General\u2019s office",
+      "C": "Nigerian Institute of Architects",
+      "D": "National Assembly"
+    },
+    "correct_option": "B",
+    "correct_answer": "Surveyor-General\u2019s office"
+  },
+  {
+    "id": 78,
+    "question": "The compulsory color for survey pillars in Nigeria is?",
+    "options": {
+      "A": "White",
+      "B": "Black",
+      "C": "Red",
+      "D": "Yellow"
+    },
+    "correct_option": "A",
+    "correct_answer": "White"
+  },
+  {
+    "id": 79,
+    "question": "A closed loop levelling operation checks for?",
+    "options": {
+      "A": "Staff graduation",
+      "B": "Misclosure error",
+      "C": "Orientation",
+      "D": "Traverse angle"
+    },
+    "correct_option": "B",
+    "correct_answer": "Misclosure error"
+  },
+  {
+    "id": 80,
+    "question": "A photogrammetric survey is carried out using?",
+    "options": {
+      "A": "Satellites",
+      "B": "Aerial photographs",
+      "C": "Drones only",
+      "D": "Cartographic sheets"
+    },
+    "correct_option": "B",
+    "correct_answer": "Aerial photographs"
+  },
+  {
+    "id": 81,
+    "question": "The Surveyors Council of Nigeria maintains the register of?",
+    "options": {
+      "A": "Engineers",
+      "B": "Licensed surveyors",
+      "C": "Lawyers",
+      "D": "Town planners"
+    },
+    "correct_option": "B",
+    "correct_answer": "Licensed surveyors"
+  },
+  {
+    "id": 82,
+    "question": "The most accurate method of linear measurement is?",
+    "options": {
+      "A": "Chain",
+      "B": "Tape",
+      "C": "EDM (Electronic Distance Measurement)",
+      "D": "Compass"
+    },
+    "correct_option": "C",
+    "correct_answer": "EDM (Electronic Distance Measurement)"
+  },
+  {
+    "id": 83,
+    "question": "The survey instrument best suited for contour mapping is?",
+    "options": {
+      "A": "Theodolite",
+      "B": "Plane table",
+      "C": "Level",
+      "D": "GPS"
+    },
+    "correct_option": "C",
+    "correct_answer": "Level"
+  },
+  {
+    "id": 84,
+    "question": "What does EDM stand for in surveying?",
+    "options": {
+      "A": "Electronic Distance Measurement",
+      "B": "Electrical Data Mapping",
+      "C": "Engineering Design Method",
+      "D": "Environmental Data Management"
+    },
+    "correct_option": "A",
+    "correct_answer": "Electronic Distance Measurement"
+  },
+  {
+    "id": 85,
+    "question": "The line that connects points of equal magnetic declination is called?",
+    "options": {
+      "A": "Isogon",
+      "B": "Isobar",
+      "C": "Isohyet",
+      "D": "Isotherm"
+    },
+    "correct_option": "A",
+    "correct_answer": "Isogon"
+  },
+  {
+    "id": 86,
+    "question": "In Nigeria, only licensed surveyors can?",
+    "options": {
+      "A": "Teach surveying in universities",
+      "B": "Authenticate survey plans",
+      "C": "Import survey instruments",
+      "D": "Conduct road surveys"
+    },
+    "correct_option": "B",
+    "correct_answer": "Authenticate survey plans"
+  },
+  {
+    "id": 87,
+    "question": "What is the main purpose of reconnaissance in surveying?",
+    "options": {
+      "A": "Marking beacons",
+      "B": "Preliminary inspection of site",
+      "C": "Setting out",
+      "D": "Checking misclosure"
+    },
+    "correct_option": "B",
+    "correct_answer": "Preliminary inspection of site"
+  },
+  {
+    "id": 88,
+    "question": "In survey levelling, \u201cReduced Level\u201d means?",
+    "options": {
+      "A": "Staff length",
+      "B": "Height of a point relative to a datum",
+      "C": "Elevation of instrument",
+      "D": "Difference between foresight and backsight"
+    },
+    "correct_option": "B",
+    "correct_answer": "Height of a point relative to a datum"
+  },
+  {
+    "id": 89,
+    "question": "Which of these is a surveying error caused by temperature changes?",
+    "options": {
+      "A": "Instrumental error",
+      "B": "Personal error",
+      "C": "Natural error",
+      "D": "Random error"
+    },
+    "correct_option": "C",
+    "correct_answer": "Natural error"
+  },
+  {
+    "id": 90,
+    "question": "A survey conducted to prepare flood control maps is?",
+    "options": {
+      "A": "Cadastral survey",
+      "B": "Hydrographic survey",
+      "C": "Engineering survey",
+      "D": "Land survey"
+    },
+    "correct_option": "B",
+    "correct_answer": "Hydrographic survey"
+  },
+  {
+    "id": 91,
+    "question": "In Nigeria, survey plans submitted for land registration must carry?",
+    "options": {
+      "A": "Governor\u2019s consent",
+      "B": "Surveyor\u2019s signature and seal",
+      "C": "Ministry of Justice approval",
+      "D": "Architect\u2019s endorsement"
+    },
+    "correct_option": "B",
+    "correct_answer": "Surveyor\u2019s signature and seal"
+  },
+  {
+    "id": 92,
+    "question": "The Nigerian Institution of Surveyors\u2019 motto is?",
+    "options": {
+      "A": "Truth and Accuracy",
+      "B": "Integrity and Precision",
+      "C": "Accuracy and Fidelity",
+      "D": "Survey for Nation Building"
+    },
+    "correct_option": "C",
+    "correct_answer": "Accuracy and Fidelity"
+  },
+  {
+    "id": 93,
+    "question": "Which of these is a modern survey instrument?",
+    "options": {
+      "A": "Dumpy level",
+      "B": "Total station",
+      "C": "Plane table",
+      "D": "Prismatic compass"
+    },
+    "correct_option": "B",
+    "correct_answer": "Total station"
+  },
+  {
+    "id": 94,
+    "question": "The contour interval depends mainly on?",
+    "options": {
+      "A": "Scale and nature of terrain",
+      "B": "Surveyor\u2019s preference",
+      "C": "Instrument used",
+      "D": "Compass readings"
+    },
+    "correct_option": "A",
+    "correct_answer": "Scale and nature of terrain"
+  },
+  {
+    "id": 95,
+    "question": "A fixed reference used in levelling is called?",
+    "options": {
+      "A": "Benchmark",
+      "B": "Datum line",
+      "C": "Station",
+      "D": "Axis"
+    },
+    "correct_option": "A",
+    "correct_answer": "Benchmark"
+  },
+  {
+    "id": 96,
+    "question": "The legal custodian of federal survey records in Nigeria is?",
+    "options": {
+      "A": "SURCON",
+      "B": "Office of the Surveyor-General of the Federation",
+      "C": "Nigerian Institution of Surveyors",
+      "D": "Federal Ministry of Justice"
+    },
+    "correct_option": "B",
+    "correct_answer": "Office of the Surveyor-General of the Federation"
+  },
+  {
+    "id": 97,
+    "question": "Which of these is used for plotting survey data?",
+    "options": {
+      "A": "CAD software",
+      "B": "EDM",
+      "C": "Compass",
+      "D": "Theodolite"
+    },
+    "correct_option": "A",
+    "correct_answer": "CAD software"
+  },
+  {
+    "id": 98,
+    "question": "The north direction obtained by observing the sun is?",
+    "options": {
+      "A": "True north",
+      "B": "Magnetic north",
+      "C": "Grid north",
+      "D": "Astronomic north"
+    },
+    "correct_option": "D",
+    "correct_answer": "Astronomic north"
+  },
+  {
+    "id": 99,
+    "question": "The common error in chain surveying is caused by?",
+    "options": {
+      "A": "Compass deviation",
+      "B": "Chain sag and temperature",
+      "C": "Staff graduation",
+      "D": "Wind direction"
+    },
+    "correct_option": "B",
+    "correct_answer": "Chain sag and temperature"
+  },
+  {
+    "id": 100,
+    "question": "The official survey mark showing boundary demarcation in Nigeria is?",
+    "options": {
+      "A": "Iron pin",
+      "B": "Survey beacon",
+      "C": "Wooden peg",
+      "D": "White stone"
+    },
+    "correct_option": "B",
+    "correct_answer": "Survey beacon"
+  },
+  {
+    "id": 101,
+    "question": "In geodetic surveying, long distances are measured using?",
+    "options": {
+      "A": "Triangulation and trilateration",
+      "B": "Chains and tapes",
+      "C": "Compass only",
+      "D": "Plane table"
+    },
+    "correct_option": "A",
+    "correct_answer": "Triangulation and trilateration"
+  },
+  {
+    "id": 102,
+    "question": "Which Nigerian survey system is based on Universal Transverse Mercator (UTM)?",
+    "options": {
+      "A": "Minna datum",
+      "B": "WGS 84",
+      "C": "Greenwich datum",
+      "D": "International datum"
+    },
+    "correct_option": "A",
+    "correct_answer": "Minna datum"
+  },
+  {
+    "id": 103,
+    "question": "Which of these is used to measure distances by reflecting light waves?",
+    "options": {
+      "A": "Total station",
+      "B": "Dumpy level",
+      "C": "Plane table",
+      "D": "Ranging rod"
+    },
+    "correct_option": "A",
+    "correct_answer": "Total station"
+  },
+  {
+    "id": 104,
+    "question": "A cadastral survey mainly provides?",
+    "options": {
+      "A": "Elevation data",
+      "B": "Legal land boundaries",
+      "C": "Soil quality",
+      "D": "Hydrological information"
+    },
+    "correct_option": "B",
+    "correct_answer": "Legal land boundaries"
+  },
+  {
+    "id": 105,
+    "question": "The Nigerian law that prohibits duplication of surveys for the same parcel of land is?",
+    "options": {
+      "A": "Land Use Act",
+      "B": "Survey Coordination Act",
+      "C": "Town Planning Act",
+      "D": "National Housing Act"
+    },
+    "correct_option": "B",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 106,
+    "question": "Which type of survey is required before building a bridge across a river?",
+    "options": {
+      "A": "Cadastral survey",
+      "B": "Hydrographic survey",
+      "C": "Engineering survey",
+      "D": "Geodetic survey"
+    },
+    "correct_option": "B",
+    "correct_answer": "Hydrographic survey"
+  },
+  {
+    "id": 107,
+    "question": "The Office of the Surveyor-General of the Federation (OSGOF) is directly under?",
+    "options": {
+      "A": "Ministry of Defence",
+      "B": "Presidency",
+      "C": "Ministry of Works",
+      "D": "Federal Capital Development Authority"
+    },
+    "correct_option": "B",
+    "correct_answer": "Presidency"
+  },
+  {
+    "id": 108,
+    "question": "A geoid is best described as?",
+    "options": {
+      "A": "A level surface coinciding with mean sea level",
+      "B": "A mathematical ellipsoid",
+      "C": "A plane projection",
+      "D": "A flat earth model"
+    },
+    "correct_option": "A",
+    "correct_answer": "A level surface coinciding with mean sea level"
+  },
+  {
+    "id": 109,
+    "question": "Which Nigerian law requires surveyors to deposit copies of their survey plans with the Surveyor-General?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "SURCON Act",
+      "C": "Land Use Act",
+      "D": "Town Planning Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 110,
+    "question": "The best surveying method for determining heights of mountains is?",
+    "options": {
+      "A": "Geodetic triangulation",
+      "B": "Chain surveying",
+      "C": "Plane table surveying",
+      "D": "Hydrographic surveying"
+    },
+    "correct_option": "A",
+    "correct_answer": "Geodetic triangulation"
+  },
+  {
+    "id": 111,
+    "question": "Which survey method uses satellites for positioning?",
+    "options": {
+      "A": "Photogrammetry",
+      "B": "GPS surveying",
+      "C": "Hydrography",
+      "D": "Triangulation"
+    },
+    "correct_option": "B",
+    "correct_answer": "GPS surveying"
+  },
+  {
+    "id": 112,
+    "question": "Which of these is a remote sensing platform?",
+    "options": {
+      "A": "Airplane",
+      "B": "Theodolite",
+      "C": "Level staff",
+      "D": "Prism"
+    },
+    "correct_option": "A",
+    "correct_answer": "Airplane"
+  },
+  {
+    "id": 113,
+    "question": "The Nigerian boundary demarcation between Nigeria and Cameroon was settled mainly by?",
+    "options": {
+      "A": "United Nations and ICJ judgment",
+      "B": "African Union",
+      "C": "British Government",
+      "D": "ECOWAS"
+    },
+    "correct_option": "A",
+    "correct_answer": "United Nations and ICJ judgment"
+  },
+  {
+    "id": 114,
+    "question": "In aerial photogrammetry, the line of flight is also called?",
+    "options": {
+      "A": "Datum line",
+      "B": "Flight strip",
+      "C": "Grid line",
+      "D": "Traverse line"
+    },
+    "correct_option": "B",
+    "correct_answer": "Flight strip"
+  },
+  {
+    "id": 115,
+    "question": "A GIS database must include?",
+    "options": {
+      "A": "Spatial and attribute data",
+      "B": "Soil and vegetation samples",
+      "C": "Only maps",
+      "D": "Land certificates"
+    },
+    "correct_option": "A",
+    "correct_answer": "Spatial and attribute data"
+  },
+  {
+    "id": 116,
+    "question": "The Nigerian cadastral survey is based on which projection?",
+    "options": {
+      "A": "Transverse Mercator",
+      "B": "Lambert Conformal Conic",
+      "C": "Simple Cylindrical",
+      "D": "Polar Stereographic"
+    },
+    "correct_option": "A",
+    "correct_answer": "Transverse Mercator"
+  },
+  {
+    "id": 117,
+    "question": "The International Terrestrial Reference Frame (ITRF) is used in?",
+    "options": {
+      "A": "Geodetic positioning",
+      "B": "Land use planning",
+      "C": "Soil analysis",
+      "D": "Climate study"
+    },
+    "correct_option": "A",
+    "correct_answer": "Geodetic positioning"
+  },
+  {
+    "id": 118,
+    "question": "Which instrument combines electronic distance measurement and angular measurement?",
+    "options": {
+      "A": "Total station",
+      "B": "Compass",
+      "C": "Plane table",
+      "D": "Abney level"
+    },
+    "correct_option": "A",
+    "correct_answer": "Total station"
+  },
+  {
+    "id": 119,
+    "question": "In Nigeria, which agency manages satellite remote sensing?",
+    "options": {
+      "A": "NASRDA (National Space Research and Development Agency)",
+      "B": "SURCON",
+      "C": "OSGOF",
+      "D": "Ministry of Works"
+    },
+    "correct_option": "A",
+    "correct_answer": "NASRDA (National Space Research and Development Agency)"
+  },
+  {
+    "id": 120,
+    "question": "Which error in levelling is due to curvature of the earth?",
+    "options": {
+      "A": "Collimation error",
+      "B": "Curvature error",
+      "C": "Parallax error",
+      "D": "Graduation error"
+    },
+    "correct_option": "B",
+    "correct_answer": "Curvature error"
+  },
+  {
+    "id": 121,
+    "question": "The Minna datum in Nigeria is referenced to which ellipsoid?",
+    "options": {
+      "A": "Clarke 1880",
+      "B": "WGS 84",
+      "C": "Airy 1830",
+      "D": "International 1924"
+    },
+    "correct_option": "A",
+    "correct_answer": "Clarke 1880"
+  },
+  {
+    "id": 122,
+    "question": "The act of determining the position of points on the earth\u2019s surface from photographs is?",
+    "options": {
+      "A": "Photogrammetry",
+      "B": "Cartography",
+      "C": "Hydrography",
+      "D": "Geodesy"
+    },
+    "correct_option": "A",
+    "correct_answer": "Photogrammetry"
+  },
+  {
+    "id": 123,
+    "question": "Which survey technique is most suitable for oil pipeline route survey?",
+    "options": {
+      "A": "Engineering survey",
+      "B": "Hydrographic survey",
+      "C": "Geodetic survey",
+      "D": "Chain survey"
+    },
+    "correct_option": "A",
+    "correct_answer": "Engineering survey"
+  },
+  {
+    "id": 124,
+    "question": "A \u201cdatum\u201d in surveying refers to?",
+    "options": {
+      "A": "A reference system for measurements",
+      "B": "A survey beacon",
+      "C": "A survey license",
+      "D": "A contour interval"
+    },
+    "correct_option": "A",
+    "correct_answer": "A reference system for measurements"
+  },
+  {
+    "id": 125,
+    "question": "Which Nigerian office manages the national geodetic control network?",
+    "options": {
+      "A": "OSGOF",
+      "B": "SURCON",
+      "C": "NIS",
+      "D": "Federal Ministry of Lands"
+    },
+    "correct_option": "A",
+    "correct_answer": "OSGOF"
+  },
+  {
+    "id": 126,
+    "question": "The overlapping area between two consecutive aerial photographs is called?",
+    "options": {
+      "A": "Overlap",
+      "B": "Sidelap",
+      "C": "Parallax zone",
+      "D": "Base"
+    },
+    "correct_option": "A",
+    "correct_answer": "Overlap"
+  },
+  {
+    "id": 127,
+    "question": "The accuracy of GPS positioning in Nigeria is improved by?",
+    "options": {
+      "A": "Differential GPS (DGPS)",
+      "B": "Compass correction",
+      "C": "Longer tapes",
+      "D": "Manual calculation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Differential GPS (DGPS)"
+  },
+  {
+    "id": 128,
+    "question": "The Surveyors Council of Nigeria conducts professional examination at which level?",
+    "options": {
+      "A": "Pupil, Graduate, Professional",
+      "B": "Primary, Secondary, University",
+      "C": "Technician, Artisan, Engineer",
+      "D": "Diploma, Degree, Masters"
+    },
+    "correct_option": "A",
+    "correct_answer": "Pupil, Graduate, Professional"
+  },
+  {
+    "id": 129,
+    "question": "Hydrographic surveying data are mainly used for?",
+    "options": {
+      "A": "Navigation charts",
+      "B": "Soil classification",
+      "C": "Housing allocation",
+      "D": "Electoral boundary"
+    },
+    "correct_option": "A",
+    "correct_answer": "Navigation charts"
+  },
+  {
+    "id": 130,
+    "question": "In Nigeria, cadastral maps are required for?",
+    "options": {
+      "A": "Building plan approval",
+      "B": "Land registration and titling",
+      "C": "Tax clearance",
+      "D": "Boundary disputes only"
+    },
+    "correct_option": "B",
+    "correct_answer": "Land registration and titling"
+  },
+  {
+    "id": 131,
+    "question": "Which is a primary geodetic station in Nigeria?",
+    "options": {
+      "A": "Ido Observatory, Ibadan",
+      "B": "OSGOF Abuja",
+      "C": "Lagos Seaport",
+      "D": "Enugu Airport"
+    },
+    "correct_option": "A",
+    "correct_answer": "Ido Observatory, Ibadan"
+  },
+  {
+    "id": 132,
+    "question": "Which of these is not a Nigerian survey regulation?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "SURCON Decree",
+      "C": "Land Use Act",
+      "D": "National Oil Act"
+    },
+    "correct_option": "D",
+    "correct_answer": "National Oil Act"
+  },
+  {
+    "id": 133,
+    "question": "A GIS layer showing population data represents?",
+    "options": {
+      "A": "Attribute data",
+      "B": "Spatial data",
+      "C": "Raster data",
+      "D": "Vector data"
+    },
+    "correct_option": "A",
+    "correct_answer": "Attribute data"
+  },
+  {
+    "id": 134,
+    "question": "Which satellite was launched by Nigeria for earth observation?",
+    "options": {
+      "A": "NigeriaSat-1",
+      "B": "SurveySat",
+      "C": "NaijaMap",
+      "D": "GeoNigeria"
+    },
+    "correct_option": "A",
+    "correct_answer": "NigeriaSat-1"
+  },
+  {
+    "id": 135,
+    "question": "In Nigeria, the licensing of surveyors is done by?",
+    "options": {
+      "A": "SURCON",
+      "B": "NIS",
+      "C": "OSGOF",
+      "D": "Federal Ministry of Lands"
+    },
+    "correct_option": "A",
+    "correct_answer": "SURCON"
+  },
+  {
+    "id": 136,
+    "question": "The area where two aerial photographs overlap is useful for?",
+    "options": {
+      "A": "Stereo viewing",
+      "B": "Colour balance",
+      "C": "Chain calibration",
+      "D": "Beacon orientation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Stereo viewing"
+  },
+  {
+    "id": 137,
+    "question": "A \u201ctraverse\u201d is best described as?",
+    "options": {
+      "A": "A series of connected survey lines",
+      "B": "A contour map",
+      "C": "A level datum",
+      "D": "A survey license"
+    },
+    "correct_option": "A",
+    "correct_answer": "A series of connected survey lines"
+  },
+  {
+    "id": 138,
+    "question": "Which of these is not an error in GPS surveying?",
+    "options": {
+      "A": "Multipath",
+      "B": "Atmospheric delay",
+      "C": "Chain sag",
+      "D": "Ephemeris error"
+    },
+    "correct_option": "C",
+    "correct_answer": "Chain sag"
+  },
+  {
+    "id": 139,
+    "question": "Which Nigerian law vests control of all survey records in the Surveyor-General?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "SURCON Act",
+      "C": "Land Use Act",
+      "D": "Planning Law"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 140,
+    "question": "In hydrographic surveying, a \u201csounding\u201d means?",
+    "options": {
+      "A": "Measurement of water depth",
+      "B": "Measurement of wave length",
+      "C": "Recording of tides",
+      "D": "Calculation of slope"
+    },
+    "correct_option": "A",
+    "correct_answer": "Measurement of water depth"
+  },
+  {
+    "id": 141,
+    "question": "The Minna datum is located close to which Nigerian city?",
+    "options": {
+      "A": "Minna",
+      "B": "Abuja",
+      "C": "Kaduna",
+      "D": "Lokoja"
+    },
+    "correct_option": "A",
+    "correct_answer": "Minna"
+  },
+  {
+    "id": 142,
+    "question": "Which of the following is an analogue survey instrument?",
+    "options": {
+      "A": "Plane table",
+      "B": "Total station",
+      "C": "GPS receiver",
+      "D": "EDM"
+    },
+    "correct_option": "A",
+    "correct_answer": "Plane table"
+  },
+  {
+    "id": 143,
+    "question": "What is the Nigerian geodetic network used for?",
+    "options": {
+      "A": "National mapping and control surveys",
+      "B": "Tax administration",
+      "C": "Land allocation only",
+      "D": "Electoral zoning"
+    },
+    "correct_option": "A",
+    "correct_answer": "National mapping and control surveys"
+  },
+  {
+    "id": 144,
+    "question": "In surveying, azimuth is measured from?",
+    "options": {
+      "A": "North direction clockwise",
+      "B": "South direction counter-clockwise",
+      "C": "East direction clockwise",
+      "D": "West direction counter-clockwise"
+    },
+    "correct_option": "A",
+    "correct_answer": "North direction clockwise"
+  },
+  {
+    "id": 145,
+    "question": "The angular difference between grid north and true north is called?",
+    "options": {
+      "A": "Convergence",
+      "B": "Declination",
+      "C": "Azimuth",
+      "D": "Latitude"
+    },
+    "correct_option": "A",
+    "correct_answer": "Convergence"
+  },
+  {
+    "id": 146,
+    "question": "In aerial surveying, the principal point is?",
+    "options": {
+      "A": "Point on photo directly below camera lens",
+      "B": "Centre of map",
+      "C": "Highest point on terrain",
+      "D": "Lowest contour line"
+    },
+    "correct_option": "A",
+    "correct_answer": "Point on photo directly below camera lens"
+  },
+  {
+    "id": 147,
+    "question": "Which error arises from incorrect centering of instrument over a station?",
+    "options": {
+      "A": "Instrumental error",
+      "B": "Centering error",
+      "C": "Random error",
+      "D": "Adjustment error"
+    },
+    "correct_option": "B",
+    "correct_answer": "Centering error"
+  },
+  {
+    "id": 148,
+    "question": "Which Nigerian law recognizes the SURCON register in legal matters?",
+    "options": {
+      "A": "SURCON Act",
+      "B": "Survey Coordination Act",
+      "C": "Land Use Act",
+      "D": "National Planning Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "SURCON Act"
+  },
+  {
+    "id": 149,
+    "question": "Which is the primary law governing surveying practice in Nigeria?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "Land Use Act",
+      "C": "SURCON Act",
+      "D": "Evidence Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 150,
+    "question": "Remote sensing is most useful in Nigeria for?",
+    "options": {
+      "A": "Agricultural monitoring",
+      "B": "Passport production",
+      "C": "Banking services",
+      "D": "Road tolling"
+    },
+    "correct_option": "A",
+    "correct_answer": "Agricultural monitoring"
+  },
+  {
+    "id": 151,
+    "question": "Which is a primary function of cadastral surveying in Nigeria?",
+    "options": {
+      "A": "Land titling and registration",
+      "B": "Soil fertility study",
+      "C": "Weather forecasting",
+      "D": "River pollution study"
+    },
+    "correct_option": "A",
+    "correct_answer": "Land titling and registration"
+  },
+  {
+    "id": 152,
+    "question": "In photogrammetry, the apparent shift of an object due to height is called?",
+    "options": {
+      "A": "Relief displacement",
+      "B": "Parallax error",
+      "C": "Datum shift",
+      "D": "Image tilt"
+    },
+    "correct_option": "A",
+    "correct_answer": "Relief displacement"
+  },
+  {
+    "id": 153,
+    "question": "Which organization is responsible for licensing satellite imagery vendors in Nigeria?",
+    "options": {
+      "A": "NASRDA",
+      "B": "SURCON",
+      "C": "NIS",
+      "D": "NCC"
+    },
+    "correct_option": "A",
+    "correct_answer": "NASRDA"
+  },
+  {
+    "id": 154,
+    "question": "The Bowditch method is used for adjusting?",
+    "options": {
+      "A": "Traverse misclosure",
+      "B": "Contour intervals",
+      "C": "Aerial photos",
+      "D": "Benchmarks"
+    },
+    "correct_option": "A",
+    "correct_answer": "Traverse misclosure"
+  },
+  {
+    "id": 155,
+    "question": "Which of these is not a type of survey error?",
+    "options": {
+      "A": "Personal error",
+      "B": "Instrumental error",
+      "C": "Artificial error",
+      "D": "Natural error"
+    },
+    "correct_option": "C",
+    "correct_answer": "Artificial error"
+  },
+  {
+    "id": 156,
+    "question": "Which Nigerian office issues survey coordinates for new projects?",
+    "options": {
+      "A": "Office of the Surveyor-General of the Federation",
+      "B": "SURCON",
+      "C": "Nigerian Institution of Surveyors",
+      "D": "Ministry of Housing"
+    },
+    "correct_option": "A",
+    "correct_answer": "Office of the Surveyor-General of the Federation"
+  },
+  {
+    "id": 157,
+    "question": "A base line in triangulation must be?",
+    "options": {
+      "A": "Accurately measured and short",
+      "B": "Roughly estimated",
+      "C": "Randomly placed",
+      "D": "Taken from contour map"
+    },
+    "correct_option": "A",
+    "correct_answer": "Accurately measured and short"
+  },
+  {
+    "id": 158,
+    "question": "The technique of determining position from measured distances is?",
+    "options": {
+      "A": "Trilateration",
+      "B": "Triangulation",
+      "C": "Traversing",
+      "D": "Levelling"
+    },
+    "correct_option": "A",
+    "correct_answer": "Trilateration"
+  },
+  {
+    "id": 159,
+    "question": "The national surveying and mapping agency in Nigeria is?",
+    "options": {
+      "A": "OSGOF",
+      "B": "SURCON",
+      "C": "NIS",
+      "D": "NASRDA"
+    },
+    "correct_option": "A",
+    "correct_answer": "OSGOF"
+  },
+  {
+    "id": 160,
+    "question": "Which unit measures slope in surveying?",
+    "options": {
+      "A": "Percentage and degrees",
+      "B": "Litres",
+      "C": "Seconds",
+      "D": "Inches"
+    },
+    "correct_option": "A",
+    "correct_answer": "Percentage and degrees"
+  },
+  {
+    "id": 161,
+    "question": "In hydrographic surveying, tides are recorded using a?",
+    "options": {
+      "A": "Tide gauge",
+      "B": "Prismatic compass",
+      "C": "Theodolite",
+      "D": "EDM"
+    },
+    "correct_option": "A",
+    "correct_answer": "Tide gauge"
+  },
+  {
+    "id": 162,
+    "question": "A topographic map is distinguished by?",
+    "options": {
+      "A": "Contour lines",
+      "B": "Boundary marks",
+      "C": "Soil colors",
+      "D": "Beacon numbers"
+    },
+    "correct_option": "A",
+    "correct_answer": "Contour lines"
+  },
+  {
+    "id": 163,
+    "question": "The most suitable method for surveying a forest area is?",
+    "options": {
+      "A": "Plane tabling",
+      "B": "Photogrammetry",
+      "C": "Chain survey",
+      "D": "Compass traverse"
+    },
+    "correct_option": "B",
+    "correct_answer": "Photogrammetry"
+  },
+  {
+    "id": 164,
+    "question": "What does GNSS stand for?",
+    "options": {
+      "A": "Global Navigation Satellite System",
+      "B": "General National Survey System",
+      "C": "Ground Navigation Survey Scheme",
+      "D": "Geographic Network of Surveyors"
+    },
+    "correct_option": "A",
+    "correct_answer": "Global Navigation Satellite System"
+  },
+  {
+    "id": 165,
+    "question": "The coordinate system of Nigeria is divided into how many UTM zones?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_option": "B",
+    "correct_answer": "3"
+  },
+  {
+    "id": 166,
+    "question": "A \u201cgeodetic control point\u201d is?",
+    "options": {
+      "A": "A precisely fixed survey station",
+      "B": "A land boundary marker",
+      "C": "A property corner peg",
+      "D": "A GPS receiver"
+    },
+    "correct_option": "A",
+    "correct_answer": "A precisely fixed survey station"
+  },
+  {
+    "id": 167,
+    "question": "The parallax bar is used in?",
+    "options": {
+      "A": "Stereo plotting",
+      "B": "Levelling",
+      "C": "Triangulation",
+      "D": "Traversing"
+    },
+    "correct_option": "A",
+    "correct_answer": "Stereo plotting"
+  },
+  {
+    "id": 168,
+    "question": "Which Act provides for compulsory deposit of survey plans with Surveyor-General?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "SURCON Act",
+      "C": "Land Use Act",
+      "D": "Evidence Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 169,
+    "question": "What is the most suitable survey for planning a dam?",
+    "options": {
+      "A": "Hydrographic and topographic survey",
+      "B": "Cadastral survey only",
+      "C": "Plane table survey only",
+      "D": "Soil survey"
+    },
+    "correct_option": "A",
+    "correct_answer": "Hydrographic and topographic survey"
+  },
+  {
+    "id": 170,
+    "question": "A raster GIS data model represents?",
+    "options": {
+      "A": "Continuous surfaces",
+      "B": "Discrete points",
+      "C": "Vector polygons",
+      "D": "Survey beacons"
+    },
+    "correct_option": "A",
+    "correct_answer": "Continuous surfaces"
+  },
+  {
+    "id": 171,
+    "question": "The instrument used to measure magnetic bearing is?",
+    "options": {
+      "A": "Prismatic compass",
+      "B": "Theodolite",
+      "C": "Dumpy level",
+      "D": "EDM"
+    },
+    "correct_option": "A",
+    "correct_answer": "Prismatic compass"
+  },
+  {
+    "id": 172,
+    "question": "The Nigerian Institution of Surveyors was formerly known as?",
+    "options": {
+      "A": "Land Surveyors Association",
+      "B": "Licensed Surveyors Society of Nigeria",
+      "C": "Surveyors Association of Nigeria",
+      "D": "Nigerian Surveyors Guild"
+    },
+    "correct_option": "C",
+    "correct_answer": "Surveyors Association of Nigeria"
+  },
+  {
+    "id": 173,
+    "question": "In a topographic map, close contour spacing indicates?",
+    "options": {
+      "A": "Steep slope",
+      "B": "Flat area",
+      "C": "River basin",
+      "D": "Vegetation cover"
+    },
+    "correct_option": "A",
+    "correct_answer": "Steep slope"
+  },
+  {
+    "id": 174,
+    "question": "The Global Positioning System (GPS) was developed by?",
+    "options": {
+      "A": "United States Department of Defense",
+      "B": "United Nations",
+      "C": "NASA Nigeria",
+      "D": "European Space Agency"
+    },
+    "correct_option": "A",
+    "correct_answer": "United States Department of Defense"
+  },
+  {
+    "id": 175,
+    "question": "The Nigerian cadastral system is primarily intended to support?",
+    "options": {
+      "A": "Land administration and management",
+      "B": "Political elections",
+      "C": "Mining only",
+      "D": "River navigation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Land administration and management"
+  },
+  {
+    "id": 176,
+    "question": "In surveying, \u201cbearing\u201d is defined as?",
+    "options": {
+      "A": "Horizontal angle measured from north",
+      "B": "Vertical angle to a star",
+      "C": "Angle of elevation",
+      "D": "Compass declination"
+    },
+    "correct_option": "A",
+    "correct_answer": "Horizontal angle measured from north"
+  },
+  {
+    "id": 177,
+    "question": "A fixed point of known coordinates used in surveys is?",
+    "options": {
+      "A": "Control point",
+      "B": "Boundary beacon",
+      "C": "Offset",
+      "D": "Plot point"
+    },
+    "correct_option": "A",
+    "correct_answer": "Control point"
+  },
+  {
+    "id": 178,
+    "question": "The type of levelling that determines difference in height between two points far apart is?",
+    "options": {
+      "A": "Precise levelling",
+      "B": "Profile levelling",
+      "C": "Reciprocal levelling",
+      "D": "Differential levelling"
+    },
+    "correct_option": "C",
+    "correct_answer": "Reciprocal levelling"
+  },
+  {
+    "id": 179,
+    "question": "The \u201cprincipal plane\u201d of a theodolite is the?",
+    "options": {
+      "A": "Plane of its graduated circle",
+      "B": "Vertical crosshair",
+      "C": "Horizon line",
+      "D": "Level axis"
+    },
+    "correct_option": "A",
+    "correct_answer": "Plane of its graduated circle"
+  },
+  {
+    "id": 180,
+    "question": "Nigeria\u2019s Survey Coordination Act was first enacted in?",
+    "options": {
+      "A": "1962",
+      "B": "1978",
+      "C": "1989",
+      "D": "1993"
+    },
+    "correct_option": "A",
+    "correct_answer": "1962"
+  },
+  {
+    "id": 181,
+    "question": "In GIS, a vector model represents?",
+    "options": {
+      "A": "Points, lines, and polygons",
+      "B": "Continuous surfaces",
+      "C": "Raster grids",
+      "D": "Photographic images"
+    },
+    "correct_option": "A",
+    "correct_answer": "Points, lines, and polygons"
+  },
+  {
+    "id": 182,
+    "question": "Which of these is not an application of surveying?",
+    "options": {
+      "A": "Land demarcation",
+      "B": "Engineering design",
+      "C": "Navigation charts",
+      "D": "Music composition"
+    },
+    "correct_option": "D",
+    "correct_answer": "Music composition"
+  },
+  {
+    "id": 183,
+    "question": "Theodolites are commonly classified as?",
+    "options": {
+      "A": "Transit and non-transit",
+      "B": "Vertical and horizontal",
+      "C": "Optical and mechanical",
+      "D": "Large and small"
+    },
+    "correct_option": "A",
+    "correct_answer": "Transit and non-transit"
+  },
+  {
+    "id": 184,
+    "question": "Which body regulates surveying curriculum in Nigerian universities?",
+    "options": {
+      "A": "NUC (National Universities Commission)",
+      "B": "SURCON",
+      "C": "NIS",
+      "D": "Federal Ministry of Education"
+    },
+    "correct_option": "A",
+    "correct_answer": "NUC (National Universities Commission)"
+  },
+  {
+    "id": 185,
+    "question": "The zero line of longitude passes through?",
+    "options": {
+      "A": "Greenwich, England",
+      "B": "Minna, Nigeria",
+      "C": "Abuja, Nigeria",
+      "D": "New York, USA"
+    },
+    "correct_option": "A",
+    "correct_answer": "Greenwich, England"
+  },
+  {
+    "id": 186,
+    "question": "In hydrographic survey, echo sounders work on the principle of?",
+    "options": {
+      "A": "Sound wave reflection",
+      "B": "Light ray refraction",
+      "C": "Magnetic attraction",
+      "D": "Air pressure variation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Sound wave reflection"
+  },
+  {
+    "id": 187,
+    "question": "Which survey projection is most accurate for small areas?",
+    "options": {
+      "A": "Plane projection",
+      "B": "Mercator projection",
+      "C": "UTM projection",
+      "D": "Conic projection"
+    },
+    "correct_option": "A",
+    "correct_answer": "Plane projection"
+  },
+  {
+    "id": 188,
+    "question": "In Nigeria, land for agricultural purposes under customary rights is granted by?",
+    "options": {
+      "A": "Local Government",
+      "B": "Governor",
+      "C": "SURCON",
+      "D": "Minister of Lands"
+    },
+    "correct_option": "A",
+    "correct_answer": "Local Government"
+  },
+  {
+    "id": 189,
+    "question": "The photogrammetric principle of overlapping photos is known as?",
+    "options": {
+      "A": "Stereoscopy",
+      "B": "Azimuth",
+      "C": "Relief displacement",
+      "D": "Datum correction"
+    },
+    "correct_option": "A",
+    "correct_answer": "Stereoscopy"
+  },
+  {
+    "id": 190,
+    "question": "The Survey Coordination Act requires submission of survey data within?",
+    "options": {
+      "A": "30 days",
+      "B": "90 days",
+      "C": "6 months",
+      "D": "12 months"
+    },
+    "correct_option": "B",
+    "correct_answer": "90 days"
+  },
+  {
+    "id": 191,
+    "question": "The Nigerian cadastral database is managed by?",
+    "options": {
+      "A": "OSGOF",
+      "B": "NIS",
+      "C": "SURCON",
+      "D": "NASRDA"
+    },
+    "correct_option": "A",
+    "correct_answer": "OSGOF"
+  },
+  {
+    "id": 192,
+    "question": "Which of these is not an application of remote sensing?",
+    "options": {
+      "A": "Urban growth monitoring",
+      "B": "Soil fertility analysis",
+      "C": "Land dispute litigation",
+      "D": "Flood mapping"
+    },
+    "correct_option": "C",
+    "correct_answer": "Land dispute litigation"
+  },
+  {
+    "id": 193,
+    "question": "The Nigerian Institution of Surveyors was formally incorporated in?",
+    "options": {
+      "A": "1960",
+      "B": "1966",
+      "C": "1975",
+      "D": "1989"
+    },
+    "correct_option": "B",
+    "correct_answer": "1966"
+  },
+  {
+    "id": 194,
+    "question": "Which survey method is best suited for airports?",
+    "options": {
+      "A": "Engineering survey",
+      "B": "Cadastral survey",
+      "C": "Hydrographic survey",
+      "D": "Photogrammetric survey"
+    },
+    "correct_option": "A",
+    "correct_answer": "Engineering survey"
+  },
+  {
+    "id": 195,
+    "question": "In GIS, \u201cbuffering\u201d is used to?",
+    "options": {
+      "A": "Create zones around features",
+      "B": "Correct errors",
+      "C": "Align coordinates",
+      "D": "Delete duplicates"
+    },
+    "correct_option": "A",
+    "correct_answer": "Create zones around features"
+  },
+  {
+    "id": 196,
+    "question": "In surveying, the term \u201cmisclosure\u201d refers to?",
+    "options": {
+      "A": "Difference between measured and true value",
+      "B": "Wrong placement of beacons",
+      "C": "Collimation adjustment",
+      "D": "Compass deviation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Difference between measured and true value"
+  },
+  {
+    "id": 197,
+    "question": "Theodolite least count is usually?",
+    "options": {
+      "A": "20 seconds",
+      "B": "1 degree",
+      "C": "5 minutes",
+      "D": "10 seconds"
+    },
+    "correct_option": "A",
+    "correct_answer": "20 seconds"
+  },
+  {
+    "id": 198,
+    "question": "Which Nigerian decree established SURCON?",
+    "options": {
+      "A": "Decree 44 of 1989",
+      "B": "Decree 23 of 1977",
+      "C": "Decree 11 of 1968",
+      "D": "Decree 72 of 1993"
+    },
+    "correct_option": "A",
+    "correct_answer": "Decree 44 of 1989"
+  },
+  {
+    "id": 199,
+    "question": "The survey of Nigeria-Cameroon boundary was largely carried out by?",
+    "options": {
+      "A": "United Nations boundary experts",
+      "B": "SURCON alone",
+      "C": "ECOWAS",
+      "D": "African Union"
+    },
+    "correct_option": "A",
+    "correct_answer": "United Nations boundary experts"
+  },
+  {
+    "id": 200,
+    "question": "The Nigerian Institution of Surveyors headquarters is located in?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Kaduna",
+      "D": "Enugu"
+    },
+    "correct_option": "A",
+    "correct_answer": "Abuja"
+  },
+  {
+    "id": 201,
+    "question": "The ethical duty of a Nigerian surveyor includes?",
+    "options": {
+      "A": "Upholding accuracy and integrity",
+      "B": "Prioritizing profit over standards",
+      "C": "Ignoring government regulations",
+      "D": "Avoiding professional exams"
+    },
+    "correct_option": "A",
+    "correct_answer": "Upholding accuracy and integrity"
+  },
+  {
+    "id": 202,
+    "question": "Who issues survey licenses in Nigeria?",
+    "options": {
+      "A": "SURCON",
+      "B": "OSGOF",
+      "C": "NIS",
+      "D": "Federal Ministry of Works"
+    },
+    "correct_option": "A",
+    "correct_answer": "SURCON"
+  },
+  {
+    "id": 203,
+    "question": "A licensed surveyor who signs a false plan is guilty of?",
+    "options": {
+      "A": "Professional misconduct",
+      "B": "Good practice",
+      "C": "Technical innovation",
+      "D": "Boundary adjustment"
+    },
+    "correct_option": "A",
+    "correct_answer": "Professional misconduct"
+  },
+  {
+    "id": 204,
+    "question": "In Nigeria, the Land Use Act of 1978 vests land in?",
+    "options": {
+      "A": "State Governors",
+      "B": "Federal Government",
+      "C": "Local Councils",
+      "D": "Surveyors"
+    },
+    "correct_option": "A",
+    "correct_answer": "State Governors"
+  },
+  {
+    "id": 205,
+    "question": "The penalty for practicing surveying without a license includes?",
+    "options": {
+      "A": "Fines and imprisonment",
+      "B": "Free membership of NIS",
+      "C": "Automatic recognition",
+      "D": "Promotion to Surveyor-General"
+    },
+    "correct_option": "A",
+    "correct_answer": "Fines and imprisonment"
+  },
+  {
+    "id": 206,
+    "question": "Survey beacons are protected under which Nigerian law?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "SURCON Act",
+      "C": "Criminal Code",
+      "D": "Land Use Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 207,
+    "question": "The Surveyor-General of a state in Nigeria is appointed by?",
+    "options": {
+      "A": "The Governor",
+      "B": "SURCON",
+      "C": "The Senate",
+      "D": "NIS"
+    },
+    "correct_option": "A",
+    "correct_answer": "The Governor"
+  },
+  {
+    "id": 208,
+    "question": "The duty of SURCON includes?",
+    "options": {
+      "A": "Registering surveyors",
+      "B": "Training lawyers",
+      "C": "Conducting elections",
+      "D": "Issuing building permits"
+    },
+    "correct_option": "A",
+    "correct_answer": "Registering surveyors"
+  },
+  {
+    "id": 209,
+    "question": "The term \u201cstrata survey\u201d is used in Nigeria mainly for?",
+    "options": {
+      "A": "Multi-level property ownership",
+      "B": "River depth measurement",
+      "C": "Boundary marking",
+      "D": "Rural mapping"
+    },
+    "correct_option": "A",
+    "correct_answer": "Multi-level property ownership"
+  },
+  {
+    "id": 210,
+    "question": "In Nigeria, cadastral surveys must be tied to?",
+    "options": {
+      "A": "National geodetic control network",
+      "B": "Town planning maps",
+      "C": "Traditional boundaries only",
+      "D": "Private benchmarks"
+    },
+    "correct_option": "A",
+    "correct_answer": "National geodetic control network"
+  },
+  {
+    "id": 211,
+    "question": "Destroying a government survey beacon is punishable under?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "SURCON Act",
+      "C": "Land Use Act",
+      "D": "National Assembly Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 212,
+    "question": "Which agency produces official topographic maps of Nigeria?",
+    "options": {
+      "A": "OSGOF",
+      "B": "NIS",
+      "C": "SURCON",
+      "D": "Ministry of Environment"
+    },
+    "correct_option": "A",
+    "correct_answer": "OSGOF"
+  },
+  {
+    "id": 213,
+    "question": "A surveyor found guilty of negligence may face?",
+    "options": {
+      "A": "Professional suspension",
+      "B": "Promotion",
+      "C": "Automatic license renewal",
+      "D": "Free equipment"
+    },
+    "correct_option": "A",
+    "correct_answer": "Professional suspension"
+  },
+  {
+    "id": 214,
+    "question": "The Land Use Act categorizes land into?",
+    "options": {
+      "A": "Urban and rural",
+      "B": "Public and private",
+      "C": "Developed and undeveloped",
+      "D": "Industrial and agricultural"
+    },
+    "correct_option": "A",
+    "correct_answer": "Urban and rural"
+  },
+  {
+    "id": 215,
+    "question": "Which Nigerian court admits survey plans as evidence?",
+    "options": {
+      "A": "High Court",
+      "B": "Magistrate Court",
+      "C": "Sharia Court",
+      "D": "Customary Court"
+    },
+    "correct_option": "A",
+    "correct_answer": "High Court"
+  },
+  {
+    "id": 216,
+    "question": "Who maintains the register of licensed surveyors in Nigeria?",
+    "options": {
+      "A": "SURCON",
+      "B": "NIS",
+      "C": "OSGOF",
+      "D": "Federal Ministry of Justice"
+    },
+    "correct_option": "A",
+    "correct_answer": "SURCON"
+  },
+  {
+    "id": 217,
+    "question": "A surveyor who deliberately misrepresents boundary positions is guilty of?",
+    "options": {
+      "A": "Professional misconduct",
+      "B": "Civic duty",
+      "C": "Accurate practice",
+      "D": "Boundary orientation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Professional misconduct"
+  },
+  {
+    "id": 218,
+    "question": "Which Nigerian law provides guidelines for approval of survey jobs?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "SURCON Act",
+      "C": "Land Use Act",
+      "D": "Nigerian Constitution"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 219,
+    "question": "What is the main objective of cadastral surveys in Nigeria?",
+    "options": {
+      "A": "Secure land tenure",
+      "B": "Control floods",
+      "C": "Manage forests",
+      "D": "Build dams"
+    },
+    "correct_option": "A",
+    "correct_answer": "Secure land tenure"
+  },
+  {
+    "id": 220,
+    "question": "The Nigerian Institution of Surveyors Code of Ethics requires surveyors to?",
+    "options": {
+      "A": "Be honest and objective",
+      "B": "Conceal survey errors",
+      "C": "Work without supervision",
+      "D": "Avoid professional exams"
+    },
+    "correct_option": "A",
+    "correct_answer": "Be honest and objective"
+  },
+  {
+    "id": 221,
+    "question": "An unlicensed surveyor is also referred to as?",
+    "options": {
+      "A": "Quack",
+      "B": "Technician",
+      "C": "Graduate",
+      "D": "Artisan"
+    },
+    "correct_option": "A",
+    "correct_answer": "Quack"
+  },
+  {
+    "id": 222,
+    "question": "What is the highest sanction SURCON can impose on a registered surveyor?",
+    "options": {
+      "A": "Striking off from the register",
+      "B": "Warning letter",
+      "C": "Transfer to another state",
+      "D": "Promotion to Surveyor-General"
+    },
+    "correct_option": "A",
+    "correct_answer": "Striking off from the register"
+  },
+  {
+    "id": 223,
+    "question": "The \u201csurvey plan\u201d in Nigeria must contain?",
+    "options": {
+      "A": "North arrow, scale, coordinates, beacons",
+      "B": "Owner\u2019s photograph",
+      "C": "Court affidavit",
+      "D": "Political party symbol"
+    },
+    "correct_option": "A",
+    "correct_answer": "North arrow, scale, coordinates, beacons"
+  },
+  {
+    "id": 224,
+    "question": "Which body conducts continuous professional development for surveyors?",
+    "options": {
+      "A": "NIS",
+      "B": "SURCON",
+      "C": "OSGOF",
+      "D": "Ministry of Works"
+    },
+    "correct_option": "A",
+    "correct_answer": "NIS"
+  },
+  {
+    "id": 225,
+    "question": "A surveyor who charges below approved fees violates?",
+    "options": {
+      "A": "Professional ethics",
+      "B": "Civic laws",
+      "C": "University regulations",
+      "D": "Electoral rules"
+    },
+    "correct_option": "A",
+    "correct_answer": "Professional ethics"
+  },
+  {
+    "id": 226,
+    "question": "Survey plans must show?",
+    "options": {
+      "A": "Beacons, bearings, distances",
+      "B": "Soil fertility",
+      "C": "Population size",
+      "D": "Road traffic counts"
+    },
+    "correct_option": "A",
+    "correct_answer": "Beacons, bearings, distances"
+  },
+  {
+    "id": 227,
+    "question": "Land allocation in the FCT is tied to survey data approved by?",
+    "options": {
+      "A": "Surveyor-General of the Federation",
+      "B": "SURCON",
+      "C": "Minister of Finance",
+      "D": "Attorney-General"
+    },
+    "correct_option": "A",
+    "correct_answer": "Surveyor-General of the Federation"
+  },
+  {
+    "id": 228,
+    "question": "Nigerian law requires that surveyors?",
+    "options": {
+      "A": "Seal and sign every survey plan",
+      "B": "Employ lawyers in all surveys",
+      "C": "Own construction firms",
+      "D": "Provide free services"
+    },
+    "correct_option": "A",
+    "correct_answer": "Seal and sign every survey plan"
+  },
+  {
+    "id": 229,
+    "question": "Which Nigerian professional association is over 80 years old?",
+    "options": {
+      "A": "Nigerian Institution of Surveyors",
+      "B": "Nigerian Bar Association",
+      "C": "Nigerian Medical Association",
+      "D": "Nigerian Society of Engineers"
+    },
+    "correct_option": "A",
+    "correct_answer": "Nigerian Institution of Surveyors"
+  },
+  {
+    "id": 230,
+    "question": "In land disputes, which document is most relied upon?",
+    "options": {
+      "A": "Survey plan",
+      "B": "Building plan",
+      "C": "Birth certificate",
+      "D": "School certificate"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey plan"
+  },
+  {
+    "id": 231,
+    "question": "Surveyors in Nigeria are prohibited from?",
+    "options": {
+      "A": "Practicing outside their license",
+      "B": "Using GPS",
+      "C": "Employing assistants",
+      "D": "Drawing maps"
+    },
+    "correct_option": "A",
+    "correct_answer": "Practicing outside their license"
+  },
+  {
+    "id": 232,
+    "question": "Which body advises the Federal Government on boundary matters?",
+    "options": {
+      "A": "National Boundary Commission",
+      "B": "SURCON",
+      "C": "NIS",
+      "D": "OSGOF"
+    },
+    "correct_option": "A",
+    "correct_answer": "National Boundary Commission"
+  },
+  {
+    "id": 233,
+    "question": "In Nigerian survey law, \u201ccompulsory deposit\u201d refers to?",
+    "options": {
+      "A": "Lodging survey copies with Surveyor-General",
+      "B": "Paying school fees",
+      "C": "Court fine",
+      "D": "Beacon placement"
+    },
+    "correct_option": "A",
+    "correct_answer": "Lodging survey copies with Surveyor-General"
+  },
+  {
+    "id": 234,
+    "question": "Which Nigerian decree restructured SURCON in 1990s?",
+    "options": {
+      "A": "Decree 44 of 1989",
+      "B": "Decree 23 of 1990",
+      "C": "Decree 55 of 1993",
+      "D": "Decree 72 of 1996"
+    },
+    "correct_option": "A",
+    "correct_answer": "Decree 44 of 1989"
+  },
+  {
+    "id": 235,
+    "question": "A \u201cgeneral boundary survey\u201d shows?",
+    "options": {
+      "A": "Approximate property limits",
+      "B": "Soil layers",
+      "C": "Precise beacon coordinates",
+      "D": "River depth"
+    },
+    "correct_option": "A",
+    "correct_answer": "Approximate property limits"
+  },
+  {
+    "id": 236,
+    "question": "Nigerian law requires surveyors to submit records in?",
+    "options": {
+      "A": "Digital and hard copy",
+      "B": "Oral report",
+      "C": "Political approval",
+      "D": "Religious oath"
+    },
+    "correct_option": "A",
+    "correct_answer": "Digital and hard copy"
+  },
+  {
+    "id": 237,
+    "question": "In Nigeria, unauthorized alteration of survey records is?",
+    "options": {
+      "A": "A criminal offence",
+      "B": "Normal practice",
+      "C": "Civic duty",
+      "D": "Professional upgrade"
+    },
+    "correct_option": "A",
+    "correct_answer": "A criminal offence"
+  },
+  {
+    "id": 238,
+    "question": "The Land Use Act recognizes which type of land rights?",
+    "options": {
+      "A": "Statutory and customary",
+      "B": "Political and civic",
+      "C": "Freehold only",
+      "D": "Leasehold only"
+    },
+    "correct_option": "A",
+    "correct_answer": "Statutory and customary"
+  },
+  {
+    "id": 239,
+    "question": "Which agency manages Nigeria\u2019s international boundaries?",
+    "options": {
+      "A": "National Boundary Commission",
+      "B": "SURCON",
+      "C": "NIS",
+      "D": "Federal High Court"
+    },
+    "correct_option": "A",
+    "correct_answer": "National Boundary Commission"
+  },
+  {
+    "id": 240,
+    "question": "A land survey plan must be lodged at?",
+    "options": {
+      "A": "State Surveyor-General\u2019s office",
+      "B": "SURCON HQ only",
+      "C": "Federal High Court",
+      "D": "Local government council"
+    },
+    "correct_option": "A",
+    "correct_answer": "State Surveyor-General\u2019s office"
+  },
+  {
+    "id": 241,
+    "question": "Which of these is not in the Surveyor\u2019s Oath in Nigeria?",
+    "options": {
+      "A": "Honesty",
+      "B": "Impartiality",
+      "C": "Profit maximization",
+      "D": "Professional integrity"
+    },
+    "correct_option": "C",
+    "correct_answer": "Profit maximization"
+  },
+  {
+    "id": 242,
+    "question": "Who can testify in court to explain survey plans?",
+    "options": {
+      "A": "Licensed surveyor",
+      "B": "Any artisan",
+      "C": "Lawyer without survey knowledge",
+      "D": "Land owner"
+    },
+    "correct_option": "A",
+    "correct_answer": "Licensed surveyor"
+  },
+  {
+    "id": 243,
+    "question": "An overlapping survey plan for same land parcel may lead to?",
+    "options": {
+      "A": "Land dispute",
+      "B": "Economic growth",
+      "C": "Population increase",
+      "D": "River pollution"
+    },
+    "correct_option": "A",
+    "correct_answer": "Land dispute"
+  },
+  {
+    "id": 244,
+    "question": "Survey ethics require surveyors to?",
+    "options": {
+      "A": "Report misconduct of colleagues",
+      "B": "Conceal all errors",
+      "C": "Encourage illegal practice",
+      "D": "Avoid signing documents"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report misconduct of colleagues"
+  },
+  {
+    "id": 245,
+    "question": "The Nigerian Surveyor-General represents Nigeria in?",
+    "options": {
+      "A": "International boundary negotiations",
+      "B": "FIFA meetings",
+      "C": "Aviation licensing",
+      "D": "Police conferences"
+    },
+    "correct_option": "A",
+    "correct_answer": "International boundary negotiations"
+  },
+  {
+    "id": 246,
+    "question": "Cadastral survey disputes are settled mainly by?",
+    "options": {
+      "A": "High Court",
+      "B": "Local council",
+      "C": "SURCON",
+      "D": "Traditional rulers"
+    },
+    "correct_option": "A",
+    "correct_answer": "High Court"
+  },
+  {
+    "id": 247,
+    "question": "Nigerian courts reject survey plans that lack?",
+    "options": {
+      "A": "Licensed surveyor\u2019s signature",
+      "B": "Land owner\u2019s photograph",
+      "C": "Party affiliation",
+      "D": "Ministry stamp"
+    },
+    "correct_option": "A",
+    "correct_answer": "Licensed surveyor\u2019s signature"
+  },
+  {
+    "id": 248,
+    "question": "In Nigeria, quack surveying reduces?",
+    "options": {
+      "A": "Public trust and land security",
+      "B": "Land value appreciation",
+      "C": "Natural disasters",
+      "D": "Population growth"
+    },
+    "correct_option": "A",
+    "correct_answer": "Public trust and land security"
+  },
+  {
+    "id": 249,
+    "question": "A surveyor who acts without integrity violates?",
+    "options": {
+      "A": "Professional ethics",
+      "B": "Land Use Act",
+      "C": "Political code",
+      "D": "Tax regulation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Professional ethics"
+  },
+  {
+    "id": 250,
+    "question": "Which law is supreme in Nigeria regarding land control?",
+    "options": {
+      "A": "Land Use Act 1978",
+      "B": "Survey Coordination Act",
+      "C": "SURCON Act",
+      "D": "Evidence Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "Land Use Act 1978"
+  },
+  {
+    "id": 251,
+    "question": "In Nigeria, who has the power to revoke rights of occupancy?",
+    "options": {
+      "A": "State Governor",
+      "B": "Local Government Chairman",
+      "C": "Surveyor-General",
+      "D": "SURCON Registrar"
+    },
+    "correct_option": "A",
+    "correct_answer": "State Governor"
+  },
+  {
+    "id": 252,
+    "question": "Which of these is considered professional misconduct in surveying?",
+    "options": {
+      "A": "Signing survey plans not personally supervised",
+      "B": "Training pupils under supervision",
+      "C": "Attending CPD workshops",
+      "D": "Reporting errors for correction"
+    },
+    "correct_option": "A",
+    "correct_answer": "Signing survey plans not personally supervised"
+  },
+  {
+    "id": 253,
+    "question": "The office responsible for publishing official survey maps in Nigeria is?",
+    "options": {
+      "A": "OSGOF",
+      "B": "SURCON",
+      "C": "NIS",
+      "D": "Ministry of Justice"
+    },
+    "correct_option": "A",
+    "correct_answer": "OSGOF"
+  },
+  {
+    "id": 254,
+    "question": "In Nigerian land law, a survey plan is admissible if?",
+    "options": {
+      "A": "Signed and sealed by a licensed surveyor",
+      "B": "Written on plain paper",
+      "C": "Endorsed by a village head",
+      "D": "Drawn by a student"
+    },
+    "correct_option": "A",
+    "correct_answer": "Signed and sealed by a licensed surveyor"
+  },
+  {
+    "id": 255,
+    "question": "What is the statutory role of SURCON in Nigeria?",
+    "options": {
+      "A": "Regulating the practice of surveying",
+      "B": "Building highways",
+      "C": "Administering justice in land disputes",
+      "D": "Selling maps to the public"
+    },
+    "correct_option": "A",
+    "correct_answer": "Regulating the practice of surveying"
+  },
+  {
+    "id": 256,
+    "question": "Which Nigerian agency manages international maritime boundaries?",
+    "options": {
+      "A": "National Boundary Commission",
+      "B": "OSGOF",
+      "C": "Nigerian Navy",
+      "D": "SURCON"
+    },
+    "correct_option": "A",
+    "correct_answer": "National Boundary Commission"
+  },
+  {
+    "id": 257,
+    "question": "What is the minimum requirement to become a registered surveyor in Nigeria?",
+    "options": {
+      "A": "Degree in Surveying/Geomatics + SURCON exams",
+      "B": "Any secondary school certificate",
+      "C": "Apprenticeship only",
+      "D": "Building experience"
+    },
+    "correct_option": "A",
+    "correct_answer": "Degree in Surveying/Geomatics + SURCON exams"
+  },
+  {
+    "id": 258,
+    "question": "A \u201cstatutory right of occupancy\u201d is granted by?",
+    "options": {
+      "A": "Governor of a state",
+      "B": "Local government",
+      "C": "SURCON",
+      "D": "OSGOF"
+    },
+    "correct_option": "A",
+    "correct_answer": "Governor of a state"
+  },
+  {
+    "id": 259,
+    "question": "Who keeps custody of survey records in each Nigerian state?",
+    "options": {
+      "A": "State Surveyor-General",
+      "B": "SURCON Registrar",
+      "C": "Minister of Lands",
+      "D": "Local Government Chairman"
+    },
+    "correct_option": "A",
+    "correct_answer": "State Surveyor-General"
+  },
+  {
+    "id": 260,
+    "question": "Which Act empowers SURCON to discipline erring members?",
+    "options": {
+      "A": "Decree 44 of 1989",
+      "B": "Land Use Act",
+      "C": "Evidence Act",
+      "D": "Planning Law"
+    },
+    "correct_option": "A",
+    "correct_answer": "Decree 44 of 1989"
+  },
+  {
+    "id": 261,
+    "question": "A surveyor who accepts jobs far below the approved fee scale is guilty of?",
+    "options": {
+      "A": "Unethical practice",
+      "B": "Good bargaining",
+      "C": "Civic responsibility",
+      "D": "Technical accuracy"
+    },
+    "correct_option": "A",
+    "correct_answer": "Unethical practice"
+  },
+  {
+    "id": 262,
+    "question": "Which Nigerian law prevents duplication of surveys on same land?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "Land Use Act",
+      "C": "Evidence Act",
+      "D": "SURCON Decree"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 263,
+    "question": "The Governor\u2019s consent is mandatory before?",
+    "options": {
+      "A": "Transfer of statutory rights of occupancy",
+      "B": "Buying survey equipment",
+      "C": "Sitting for SURCON exams",
+      "D": "Taking topographic surveys"
+    },
+    "correct_option": "A",
+    "correct_answer": "Transfer of statutory rights of occupancy"
+  },
+  {
+    "id": 264,
+    "question": "Who appoints the Surveyor-General of the Federation?",
+    "options": {
+      "A": "The President",
+      "B": "The Senate",
+      "C": "SURCON",
+      "D": "NIS"
+    },
+    "correct_option": "A",
+    "correct_answer": "The President"
+  },
+  {
+    "id": 265,
+    "question": "Professional negligence in surveying could result in?",
+    "options": {
+      "A": "Land disputes and loss of rights",
+      "B": "Easier land registration",
+      "C": "Reduced beacon cost",
+      "D": "Population growth"
+    },
+    "correct_option": "A",
+    "correct_answer": "Land disputes and loss of rights"
+  },
+  {
+    "id": 266,
+    "question": "Which professional duty is emphasized in the Surveyor\u2019s Oath?",
+    "options": {
+      "A": "Honesty and impartiality",
+      "B": "Free service provision",
+      "C": "Political loyalty",
+      "D": "Economic profit"
+    },
+    "correct_option": "A",
+    "correct_answer": "Honesty and impartiality"
+  },
+  {
+    "id": 267,
+    "question": "A surveyor\u2019s stamp must carry?",
+    "options": {
+      "A": "Name, license number, and SURCON recognition",
+      "B": "Political logo",
+      "C": "Tax ID only",
+      "D": "Land owner\u2019s photograph"
+    },
+    "correct_option": "A",
+    "correct_answer": "Name, license number, and SURCON recognition"
+  },
+  {
+    "id": 268,
+    "question": "What is the role of the National Boundary Commission in Nigeria?",
+    "options": {
+      "A": "Manage internal and external boundaries",
+      "B": "Train survey students",
+      "C": "Issue survey licenses",
+      "D": "Sell mapping software"
+    },
+    "correct_option": "A",
+    "correct_answer": "Manage internal and external boundaries"
+  },
+  {
+    "id": 269,
+    "question": "Which court has original jurisdiction in boundary disputes between states?",
+    "options": {
+      "A": "Supreme Court",
+      "B": "High Court",
+      "C": "Customary Court",
+      "D": "Court of Appeal"
+    },
+    "correct_option": "A",
+    "correct_answer": "Supreme Court"
+  },
+  {
+    "id": 270,
+    "question": "Which Act makes destruction of survey pillars an offence?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "SURCON Decree",
+      "C": "Land Use Act",
+      "D": "Criminal Justice Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 271,
+    "question": "The primary evidence of land ownership in Nigerian courts is?",
+    "options": {
+      "A": "Survey plan",
+      "B": "Marriage certificate",
+      "C": "Driver\u2019s license",
+      "D": "Utility bill"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey plan"
+  },
+  {
+    "id": 272,
+    "question": "A \u201ccustomary right of occupancy\u201d is granted by?",
+    "options": {
+      "A": "Local Government",
+      "B": "State Governor",
+      "C": "SURCON",
+      "D": "OSGOF"
+    },
+    "correct_option": "A",
+    "correct_answer": "Local Government"
+  },
+  {
+    "id": 273,
+    "question": "Which is not part of a Nigerian survey plan?",
+    "options": {
+      "A": "Scale",
+      "B": "North arrow",
+      "C": "Owner\u2019s photograph",
+      "D": "Beacon numbers"
+    },
+    "correct_option": "C",
+    "correct_answer": "Owner\u2019s photograph"
+  },
+  {
+    "id": 274,
+    "question": "The legal custodian of national survey data is?",
+    "options": {
+      "A": "OSGOF",
+      "B": "SURCON",
+      "C": "NIS",
+      "D": "Ministry of Finance"
+    },
+    "correct_option": "A",
+    "correct_answer": "OSGOF"
+  },
+  {
+    "id": 275,
+    "question": "Who has the authority to authenticate Nigeria\u2019s international boundary maps?",
+    "options": {
+      "A": "Surveyor-General of the Federation",
+      "B": "National Assembly",
+      "C": "SURCON",
+      "D": "Minister of Justice"
+    },
+    "correct_option": "A",
+    "correct_answer": "Surveyor-General of the Federation"
+  },
+  {
+    "id": 276,
+    "question": "Quack surveying in Nigeria often leads to?",
+    "options": {
+      "A": "Conflicting survey plans and disputes",
+      "B": "Stronger land tenure",
+      "C": "More accurate maps",
+      "D": "Better ethics"
+    },
+    "correct_option": "A",
+    "correct_answer": "Conflicting survey plans and disputes"
+  },
+  {
+    "id": 277,
+    "question": "A surveyor who refuses to submit survey data for approval violates?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "Evidence Act",
+      "C": "Land Use Act",
+      "D": "SURCON Decree"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 278,
+    "question": "Which body organizes the Annual General Meeting (AGM) for surveyors?",
+    "options": {
+      "A": "Nigerian Institution of Surveyors (NIS)",
+      "B": "SURCON",
+      "C": "OSGOF",
+      "D": "Ministry of Lands"
+    },
+    "correct_option": "A",
+    "correct_answer": "Nigerian Institution of Surveyors (NIS)"
+  },
+  {
+    "id": 279,
+    "question": "An approved survey plan must show?",
+    "options": {
+      "A": "Coordinates, bearings, and distances",
+      "B": "Owner\u2019s bank details",
+      "C": "Lawyer\u2019s signature",
+      "D": "Soil fertility report"
+    },
+    "correct_option": "A",
+    "correct_answer": "Coordinates, bearings, and distances"
+  },
+  {
+    "id": 280,
+    "question": "In Nigeria, the Surveyor-General of a state reports to?",
+    "options": {
+      "A": "The Governor",
+      "B": "SURCON",
+      "C": "Senate",
+      "D": "Federal Surveyor-General"
+    },
+    "correct_option": "A",
+    "correct_answer": "The Governor"
+  },
+  {
+    "id": 281,
+    "question": "A surveyor who deliberately alters beacon coordinates is guilty of?",
+    "options": {
+      "A": "Fraud and misconduct",
+      "B": "Civic responsibility",
+      "C": "Ethical compliance",
+      "D": "Proper adjustment"
+    },
+    "correct_option": "A",
+    "correct_answer": "Fraud and misconduct"
+  },
+  {
+    "id": 282,
+    "question": "Which law governs compulsory acquisition of land in Nigeria?",
+    "options": {
+      "A": "Land Use Act 1978",
+      "B": "Evidence Act",
+      "C": "Survey Coordination Act",
+      "D": "Criminal Code"
+    },
+    "correct_option": "A",
+    "correct_answer": "Land Use Act 1978"
+  },
+  {
+    "id": 283,
+    "question": "The survey profession in Nigeria is primarily regulated to ensure?",
+    "options": {
+      "A": "Accuracy, safety, and public trust",
+      "B": "Free service provision",
+      "C": "Political stability",
+      "D": "Cheap beacon supply"
+    },
+    "correct_option": "A",
+    "correct_answer": "Accuracy, safety, and public trust"
+  },
+  {
+    "id": 284,
+    "question": "What is the penalty for forging a surveyor\u2019s seal?",
+    "options": {
+      "A": "Criminal prosecution and jail term",
+      "B": "Warning letter only",
+      "C": "Free registration",
+      "D": "Land allocation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Criminal prosecution and jail term"
+  },
+  {
+    "id": 285,
+    "question": "Which office verifies international boundary demarcations?",
+    "options": {
+      "A": "OSGOF",
+      "B": "SURCON",
+      "C": "NIS",
+      "D": "Ministry of Defence"
+    },
+    "correct_option": "A",
+    "correct_answer": "OSGOF"
+  },
+  {
+    "id": 286,
+    "question": "In Nigeria, surveyors contribute to revenue generation through?",
+    "options": {
+      "A": "Land registration and titling",
+      "B": "Passport issuance",
+      "C": "Banking services",
+      "D": "Political campaigns"
+    },
+    "correct_option": "A",
+    "correct_answer": "Land registration and titling"
+  },
+  {
+    "id": 287,
+    "question": "Which of these documents is used for court adjudication of land cases?",
+    "options": {
+      "A": "Survey plan",
+      "B": "Employment letter",
+      "C": "Tax clearance",
+      "D": "Driving license"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey plan"
+  },
+  {
+    "id": 288,
+    "question": "Which body sanctions surveyors who aid quacks?",
+    "options": {
+      "A": "SURCON",
+      "B": "OSGOF",
+      "C": "NIS",
+      "D": "High Court"
+    },
+    "correct_option": "A",
+    "correct_answer": "SURCON"
+  },
+  {
+    "id": 289,
+    "question": "A professional surveyor must renew his/her license?",
+    "options": {
+      "A": "Annually",
+      "B": "Every 5 years",
+      "C": "Once in a lifetime",
+      "D": "Only after age 60"
+    },
+    "correct_option": "A",
+    "correct_answer": "Annually"
+  },
+  {
+    "id": 290,
+    "question": "Which of these is a responsibility of a state Surveyor-General?",
+    "options": {
+      "A": "Approving survey plans within the state",
+      "B": "Issuing driving licenses",
+      "C": "Supervising lawyers",
+      "D": "Tax collection"
+    },
+    "correct_option": "A",
+    "correct_answer": "Approving survey plans within the state"
+  },
+  {
+    "id": 291,
+    "question": "In Nigeria, the compulsory color for survey beacons is?",
+    "options": {
+      "A": "Red and white",
+      "B": "Blue and yellow",
+      "C": "Green and black",
+      "D": "Black and yellow"
+    },
+    "correct_option": "A",
+    "correct_answer": "Red and white"
+  },
+  {
+    "id": 292,
+    "question": "A surveyor\u2019s misconduct can lead to?",
+    "options": {
+      "A": "Suspension or deregistration",
+      "B": "Salary increment",
+      "C": "Political appointment",
+      "D": "Beacon supply contract"
+    },
+    "correct_option": "A",
+    "correct_answer": "Suspension or deregistration"
+  },
+  {
+    "id": 293,
+    "question": "Land title disputes in Nigeria are reduced by?",
+    "options": {
+      "A": "Proper cadastral surveys",
+      "B": "Population control",
+      "C": "Export trade",
+      "D": "Religious reforms"
+    },
+    "correct_option": "A",
+    "correct_answer": "Proper cadastral surveys"
+  },
+  {
+    "id": 294,
+    "question": "Which Nigerian office provides base maps for planning projects?",
+    "options": {
+      "A": "OSGOF",
+      "B": "SURCON",
+      "C": "NIS",
+      "D": "Local Government"
+    },
+    "correct_option": "A",
+    "correct_answer": "OSGOF"
+  },
+  {
+    "id": 295,
+    "question": "Which body accredits Surveying/Geomatics programs in Nigerian universities?",
+    "options": {
+      "A": "NUC and SURCON jointly",
+      "B": "NIS only",
+      "C": "OSGOF only",
+      "D": "Ministry of Justice"
+    },
+    "correct_option": "A",
+    "correct_answer": "NUC and SURCON jointly"
+  },
+  {
+    "id": 296,
+    "question": "Who issues \u201cSurvey Instruction\u201d for cadastral surveys in FCT?",
+    "options": {
+      "A": "Surveyor-General of the Federation",
+      "B": "SURCON",
+      "C": "Minister of Finance",
+      "D": "National Boundary Commission"
+    },
+    "correct_option": "A",
+    "correct_answer": "Surveyor-General of the Federation"
+  },
+  {
+    "id": 297,
+    "question": "A valid survey plan for land in Nigeria must indicate?",
+    "options": {
+      "A": "North arrow, coordinates, beacon numbers",
+      "B": "Family lineage",
+      "C": "Religion of land owner",
+      "D": "Tax receipts"
+    },
+    "correct_option": "A",
+    "correct_answer": "North arrow, coordinates, beacon numbers"
+  },
+  {
+    "id": 298,
+    "question": "Which Act governs compensation for land acquired by government?",
+    "options": {
+      "A": "Land Use Act",
+      "B": "Evidence Act",
+      "C": "SURCON Act",
+      "D": "Planning Law"
+    },
+    "correct_option": "A",
+    "correct_answer": "Land Use Act"
+  },
+  {
+    "id": 299,
+    "question": "The SURCON Decree No. 44 of 1989 primarily deals with?",
+    "options": {
+      "A": "Registration and regulation of surveyors",
+      "B": "Payment of land rents",
+      "C": "Court judgments on land",
+      "D": "Tax collection"
+    },
+    "correct_option": "A",
+    "correct_answer": "Registration and regulation of surveyors"
+  },
+  {
+    "id": 300,
+    "question": "A surveyor who withholds survey data from clients is guilty of?",
+    "options": {
+      "A": "Professional misconduct",
+      "B": "Accuracy compliance",
+      "C": "Legal defense",
+      "D": "Technical innovation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Professional misconduct"
+  },
+  {
+    "id": 301,
+    "question": "A client insists you shift a boundary beacon 2 meters inward to favor him in a land dispute. What should you do?",
+    "options": {
+      "A": "Refuse and uphold professional ethics",
+      "B": "Shift it quietly to satisfy client",
+      "C": "Ignore and walk away silently",
+      "D": "Leave job for unlicensed surveyor"
+    },
+    "correct_option": "A",
+    "correct_answer": "Refuse and uphold professional ethics"
+  },
+  {
+    "id": 302,
+    "question": "During a cadastral survey, you discover two overlapping survey plans for the same land. What is your duty?",
+    "options": {
+      "A": "Report to the Surveyor-General for resolution",
+      "B": "Choose the richer client\u2019s plan",
+      "C": "Approve both plans",
+      "D": "Destroy the older plan"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report to the Surveyor-General for resolution"
+  },
+  {
+    "id": 303,
+    "question": "A judge asks you in court to explain technical details of a survey plan. You should?",
+    "options": {
+      "A": "Testify clearly as expert witness",
+      "B": "Remain silent to avoid mistakes",
+      "C": "Refer him to the land owner",
+      "D": "Decline all explanation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Testify clearly as expert witness"
+  },
+  {
+    "id": 304,
+    "question": "A government project requires urgent mapping but your license renewal has expired. What should you do?",
+    "options": {
+      "A": "Suspend the job until renewal",
+      "B": "Proceed since it\u2019s urgent",
+      "C": "Hire a quack to sign",
+      "D": "Submit unsigned plan"
+    },
+    "correct_option": "A",
+    "correct_answer": "Suspend the job until renewal"
+  },
+  {
+    "id": 305,
+    "question": "You notice a colleague using fake survey seals on plans. What is the right action?",
+    "options": {
+      "A": "Report to SURCON",
+      "B": "Keep quiet to protect him",
+      "C": "Join him to profit",
+      "D": "Ignore and focus on your work"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report to SURCON"
+  },
+  {
+    "id": 306,
+    "question": "A land developer offers you bribe to falsify coordinates for a bigger allocation. What is the best response?",
+    "options": {
+      "A": "Reject bribe and maintain accuracy",
+      "B": "Collect and adjust coordinates",
+      "C": "Refer him to another surveyor",
+      "D": "Delay work indefinitely"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reject bribe and maintain accuracy"
+  },
+  {
+    "id": 307,
+    "question": "You are engaged for a survey but another licensed surveyor has already lodged plan for same parcel. What should you do?",
+    "options": {
+      "A": "Stop work and verify with Surveyor-General",
+      "B": "Continue to satisfy client",
+      "C": "Adjust beacons slightly",
+      "D": "Produce unofficial sketch"
+    },
+    "correct_option": "A",
+    "correct_answer": "Stop work and verify with Surveyor-General"
+  },
+  {
+    "id": 308,
+    "question": "A client wants survey plan urgently but demands you skip approval process. What is correct?",
+    "options": {
+      "A": "Refuse and insist on legal approval",
+      "B": "Produce without approval",
+      "C": "Tell him to get court order",
+      "D": "Ignore and exit contract"
+    },
+    "correct_option": "A",
+    "correct_answer": "Refuse and insist on legal approval"
+  },
+  {
+    "id": 309,
+    "question": "During reconnaissance, you find government beacons destroyed. What is the professional action?",
+    "options": {
+      "A": "Report immediately to Surveyor-General",
+      "B": "Replace secretly with wood pegs",
+      "C": "Ignore since not your project",
+      "D": "Adjust coordinates manually"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report immediately to Surveyor-General"
+  },
+  {
+    "id": 310,
+    "question": "A court case depends on your survey plan, but the opposing party challenges its validity. You should?",
+    "options": {
+      "A": "Defend plan with professional evidence",
+      "B": "Withdraw from case",
+      "C": "Alter plan to suit court",
+      "D": "Deny being surveyor"
+    },
+    "correct_option": "A",
+    "correct_answer": "Defend plan with professional evidence"
+  },
+  {
+    "id": 311,
+    "question": "While using GPS, your readings show error due to multipath. What should you do?",
+    "options": {
+      "A": "Re-observe from clearer environment",
+      "B": "Accept current readings",
+      "C": "Adjust arbitrarily",
+      "D": "Leave for client to decide"
+    },
+    "correct_option": "A",
+    "correct_answer": "Re-observe from clearer environment"
+  },
+  {
+    "id": 312,
+    "question": "Your survey assistant mistakenly places beacon at wrong position. What is your duty?",
+    "options": {
+      "A": "Correct error immediately and record properly",
+      "B": "Ignore since client won\u2019t notice",
+      "C": "Leave beacon to save time",
+      "D": "Hide mistake from SURCON"
+    },
+    "correct_option": "A",
+    "correct_answer": "Correct error immediately and record properly"
+  },
+  {
+    "id": 313,
+    "question": "A boundary survey reveals encroachment by a neighbor. As surveyor, what is correct procedure?",
+    "options": {
+      "A": "Record true positions and report to client",
+      "B": "Shift line to avoid conflict",
+      "C": "Ignore encroachment",
+      "D": "Hide details from plan"
+    },
+    "correct_option": "A",
+    "correct_answer": "Record true positions and report to client"
+  },
+  {
+    "id": 314,
+    "question": "You are asked to prepare survey plan without fieldwork to \u201csave cost.\u201d What should you do?",
+    "options": {
+      "A": "Refuse job to maintain integrity",
+      "B": "Produce plan from imagination",
+      "C": "Adjust old plan for client",
+      "D": "Ask unlicensed surveyor to handle"
+    },
+    "correct_option": "A",
+    "correct_answer": "Refuse job to maintain integrity"
+  },
+  {
+    "id": 315,
+    "question": "In FCT, who must approve survey data before land allocation?",
+    "options": {
+      "A": "Surveyor-General of the Federation",
+      "B": "Local Government Chairman",
+      "C": "SURCON Registrar",
+      "D": "Minister of Finance"
+    },
+    "correct_option": "A",
+    "correct_answer": "Surveyor-General of the Federation"
+  },
+  {
+    "id": 316,
+    "question": "A colleague promises to help you \u201cfast-track\u201d approval for a fee. How should you respond?",
+    "options": {
+      "A": "Decline and follow due process",
+      "B": "Pay him secretly",
+      "C": "Ignore approvals altogether",
+      "D": "Withdraw from practice"
+    },
+    "correct_option": "A",
+    "correct_answer": "Decline and follow due process"
+  },
+  {
+    "id": 317,
+    "question": "Your survey reveals that government acquisition overlaps private land. What is the professional action?",
+    "options": {
+      "A": "Report overlap clearly in your plan",
+      "B": "Hide it to favor private owner",
+      "C": "Cancel survey record",
+      "D": "Avoid submitting plan"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report overlap clearly in your plan"
+  },
+  {
+    "id": 318,
+    "question": "You are invited to testify against a colleague accused of forgery. What should you do?",
+    "options": {
+      "A": "Testify truthfully based on facts",
+      "B": "Protect colleague by lying",
+      "C": "Refuse attendance",
+      "D": "Defend him blindly"
+    },
+    "correct_option": "A",
+    "correct_answer": "Testify truthfully based on facts"
+  },
+  {
+    "id": 319,
+    "question": "A client instructs you to reduce beacon numbers to evade fees. Correct action is?",
+    "options": {
+      "A": "Refuse and explain consequences",
+      "B": "Adjust beacon numbers",
+      "C": "Ignore and walk away",
+      "D": "Sign incomplete plan"
+    },
+    "correct_option": "A",
+    "correct_answer": "Refuse and explain consequences"
+  },
+  {
+    "id": 320,
+    "question": "Your survey shows client owns less land than expected. What should you do?",
+    "options": {
+      "A": "Present accurate plan regardless",
+      "B": "Expand plan to please client",
+      "C": "Hide findings from record",
+      "D": "Avoid submission"
+    },
+    "correct_option": "A",
+    "correct_answer": "Present accurate plan regardless"
+  },
+  {
+    "id": 321,
+    "question": "A land dispute requires joint survey by two licensed surveyors. What is expected?",
+    "options": {
+      "A": "Collaborate and produce joint report",
+      "B": "Work separately and compete",
+      "C": "Each prepare own plan",
+      "D": "Avoid joint work"
+    },
+    "correct_option": "A",
+    "correct_answer": "Collaborate and produce joint report"
+  },
+  {
+    "id": 322,
+    "question": "You are asked to demarcate boundary without existing beacons. What is the correct approach?",
+    "options": {
+      "A": "Use control points and official records",
+      "B": "Guess positions from neighbors",
+      "C": "Mark randomly",
+      "D": "Seek client\u2019s description only"
+    },
+    "correct_option": "A",
+    "correct_answer": "Use control points and official records"
+  },
+  {
+    "id": 323,
+    "question": "If a licensed surveyor continuously aids quacks, SURCON can?",
+    "options": {
+      "A": "Deregister him from profession",
+      "B": "Promote him",
+      "C": "Ignore behaviour",
+      "D": "Pay him extra"
+    },
+    "correct_option": "A",
+    "correct_answer": "Deregister him from profession"
+  },
+  {
+    "id": 324,
+    "question": "In case of overlapping statutory rights, which authority decides?",
+    "options": {
+      "A": "Governor of the State",
+      "B": "Local Government",
+      "C": "SURCON",
+      "D": "Traditional council"
+    },
+    "correct_option": "A",
+    "correct_answer": "Governor of the State"
+  },
+  {
+    "id": 325,
+    "question": "A surveyor notices client has forged Governor\u2019s consent on land documents. Next action?",
+    "options": {
+      "A": "Report forgery to authorities",
+      "B": "Ignore since not your business",
+      "C": "Accept forged document",
+      "D": "Submit plan quietly"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report forgery to authorities"
+  },
+  {
+    "id": 326,
+    "question": "Which body prosecutes surveyors who falsify plans in Nigeria?",
+    "options": {
+      "A": "SURCON Tribunal",
+      "B": "NIS",
+      "C": "OSGOF",
+      "D": "High Court of Justice"
+    },
+    "correct_option": "A",
+    "correct_answer": "SURCON Tribunal"
+  },
+  {
+    "id": 327,
+    "question": "Your field assistant is injured on duty. What is your professional duty?",
+    "options": {
+      "A": "Provide first aid and arrange medical care",
+      "B": "Ignore and continue work",
+      "C": "Send him home unpaid",
+      "D": "Replace him immediately"
+    },
+    "correct_option": "A",
+    "correct_answer": "Provide first aid and arrange medical care"
+  },
+  {
+    "id": 328,
+    "question": "A state Surveyor-General orders you to resubmit corrected data. What should you do?",
+    "options": {
+      "A": "Comply with corrections and resubmit",
+      "B": "Refuse because job is complete",
+      "C": "Alter data secretly",
+      "D": "Destroy previous record"
+    },
+    "correct_option": "A",
+    "correct_answer": "Comply with corrections and resubmit"
+  },
+  {
+    "id": 329,
+    "question": "While conducting hydrographic survey, your echo sounder malfunctions. Correct action?",
+    "options": {
+      "A": "Halt and repair/recalibrate instrument",
+      "B": "Continue with faulty data",
+      "C": "Estimate manually without record",
+      "D": "Stop job permanently"
+    },
+    "correct_option": "A",
+    "correct_answer": "Halt and repair/recalibrate instrument"
+  },
+  {
+    "id": 330,
+    "question": "A client insists you backdate survey plan to predate new regulation. What do you do?",
+    "options": {
+      "A": "Refuse and produce correct date",
+      "B": "Accept and change date",
+      "C": "Sign blank plan",
+      "D": "Delay work to avoid refusal"
+    },
+    "correct_option": "A",
+    "correct_answer": "Refuse and produce correct date"
+  },
+  {
+    "id": 331,
+    "question": "You find beacon encroaching on government road alignment. Action?",
+    "options": {
+      "A": "Record and notify authority immediately",
+      "B": "Hide to please client",
+      "C": "Shift line slightly",
+      "D": "Avoid submission"
+    },
+    "correct_option": "A",
+    "correct_answer": "Record and notify authority immediately"
+  },
+  {
+    "id": 332,
+    "question": "Which authority settles disputes between states over boundaries?",
+    "options": {
+      "A": "Supreme Court of Nigeria",
+      "B": "SURCON Tribunal",
+      "C": "Senate",
+      "D": "National Assembly"
+    },
+    "correct_option": "A",
+    "correct_answer": "Supreme Court of Nigeria"
+  },
+  {
+    "id": 333,
+    "question": "Your client offers to pay you extra to overlook errors in his old plan. Correct action?",
+    "options": {
+      "A": "Reject and uphold accuracy",
+      "B": "Accept and ignore",
+      "C": "Adjust to favor him",
+      "D": "Destroy plan quietly"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reject and uphold accuracy"
+  },
+  {
+    "id": 334,
+    "question": "While preparing survey, you notice previous surveyor used wrong scale. What is correct step?",
+    "options": {
+      "A": "Record error and correct in your plan",
+      "B": "Retain wrong scale",
+      "C": "Ignore since client accepts",
+      "D": "Sign both scales"
+    },
+    "correct_option": "A",
+    "correct_answer": "Record error and correct in your plan"
+  },
+  {
+    "id": 335,
+    "question": "A local government chairman demands \u201cfacilitation fee\u201d for approving survey. Correct response?",
+    "options": {
+      "A": "Report corruption and refuse payment",
+      "B": "Pay quickly",
+      "C": "Negotiate smaller fee",
+      "D": "Avoid lodging plan"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report corruption and refuse payment"
+  },
+  {
+    "id": 336,
+    "question": "You are invited to verify boundary between two villages. What is required?",
+    "options": {
+      "A": "Impartial, evidence-based survey report",
+      "B": "Favor richer village",
+      "C": "Use hearsay",
+      "D": "Ignore government records"
+    },
+    "correct_option": "A",
+    "correct_answer": "Impartial, evidence-based survey report"
+  },
+  {
+    "id": 337,
+    "question": "A government agency asks you to adjust boundary to increase state land. Correct action?",
+    "options": {
+      "A": "Decline and present true data",
+      "B": "Accept for favor",
+      "C": "Alter silently",
+      "D": "Avoid submitting record"
+    },
+    "correct_option": "A",
+    "correct_answer": "Decline and present true data"
+  },
+  {
+    "id": 338,
+    "question": "Which law ensures compulsory deposit of survey records in Nigeria?",
+    "options": {
+      "A": "Survey Coordination Act",
+      "B": "SURCON Act",
+      "C": "Land Use Act",
+      "D": "Evidence Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "Survey Coordination Act"
+  },
+  {
+    "id": 339,
+    "question": "Your student survey trainee is caught signing plans illegally. Action?",
+    "options": {
+      "A": "Report and discipline him",
+      "B": "Ignore since he is learner",
+      "C": "Allow for practice",
+      "D": "Destroy evidence quietly"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report and discipline him"
+  },
+  {
+    "id": 340,
+    "question": "A traditional ruler asks you to prepare survey plan on federal land without consent. Correct response?",
+    "options": {
+      "A": "Decline without Governor\u2019s consent",
+      "B": "Accept since he is ruler",
+      "C": "Produce draft quietly",
+      "D": "Submit unsigned sketch"
+    },
+    "correct_option": "A",
+    "correct_answer": "Decline without Governor\u2019s consent"
+  },
+  {
+    "id": 341,
+    "question": "You discover wrong beacons erected by another surveyor in error. Your role is?",
+    "options": {
+      "A": "Report error and lodge correction officially",
+      "B": "Leave them intact",
+      "C": "Move them secretly",
+      "D": "Ignore completely"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report error and lodge correction officially"
+  },
+  {
+    "id": 342,
+    "question": "A colleague asks you to lend your license for fee collection. Correct action?",
+    "options": {
+      "A": "Refuse and report attempt",
+      "B": "Agree to help",
+      "C": "Hide transaction",
+      "D": "Delay response"
+    },
+    "correct_option": "A",
+    "correct_answer": "Refuse and report attempt"
+  },
+  {
+    "id": 343,
+    "question": "During a joint survey, another surveyor falsifies measurements. Correct response?",
+    "options": {
+      "A": "Document facts and report misconduct",
+      "B": "Join him to save time",
+      "C": "Ignore since client pays",
+      "D": "Sign without checking"
+    },
+    "correct_option": "A",
+    "correct_answer": "Document facts and report misconduct"
+  },
+  {
+    "id": 344,
+    "question": "Which Nigerian law protects survey data as legal evidence?",
+    "options": {
+      "A": "Evidence Act",
+      "B": "Survey Coordination Act",
+      "C": "SURCON Decree",
+      "D": "Criminal Code"
+    },
+    "correct_option": "A",
+    "correct_answer": "Evidence Act"
+  },
+  {
+    "id": 345,
+    "question": "Your client disagrees with government boundary demarcation. What is next step?",
+    "options": {
+      "A": "Advise client to seek legal redress",
+      "B": "Adjust line personally",
+      "C": "Destroy beacon",
+      "D": "Ignore dispute"
+    },
+    "correct_option": "A",
+    "correct_answer": "Advise client to seek legal redress"
+  },
+  {
+    "id": 346,
+    "question": "While handling hydrographic survey, you find depth records inconsistent. Correct step?",
+    "options": {
+      "A": "Repeat soundings for accuracy",
+      "B": "Average and submit",
+      "C": "Ignore anomalies",
+      "D": "Delete deeper readings"
+    },
+    "correct_option": "A",
+    "correct_answer": "Repeat soundings for accuracy"
+  },
+  {
+    "id": 347,
+    "question": "In case of conflicting coordinates in survey records, what is best?",
+    "options": {
+      "A": "Refer to official control points",
+      "B": "Choose nearest values",
+      "C": "Use average randomly",
+      "D": "Hide discrepancies"
+    },
+    "correct_option": "A",
+    "correct_answer": "Refer to official control points"
+  },
+  {
+    "id": 348,
+    "question": "A land buyer wants survey plan before transaction. As surveyor you must?",
+    "options": {
+      "A": "Produce valid plan tied to control",
+      "B": "Delay until payment clears",
+      "C": "Ignore legal process",
+      "D": "Use guess coordinates"
+    },
+    "correct_option": "A",
+    "correct_answer": "Produce valid plan tied to control"
+  },
+  {
+    "id": 349,
+    "question": "A government agency rejects your survey plan due to misclosure. Your correct action is?",
+    "options": {
+      "A": "Adjust and resubmit properly",
+      "B": "Argue and refuse",
+      "C": "Submit old copy",
+      "D": "Ignore correction"
+    },
+    "correct_option": "A",
+    "correct_answer": "Adjust and resubmit properly"
+  },
+  {
+    "id": 350,
+    "question": "In a boundary dispute, what is the ultimate authority in Nigeria?",
+    "options": {
+      "A": "Supreme Court of Nigeria",
+      "B": "SURCON",
+      "C": "OSGOF",
+      "D": "National Assembly"
+    },
+    "correct_option": "A",
+    "correct_answer": "Supreme Court of Nigeria"
+  },
+  {
+    "id": 351,
+    "question": "During boundary re-establishment, your GNSS solution shows a 0.45 m shift from archived beacon coords; the archive predates a datum update.",
+    "options": {
+      "A": "Adopt transformed archive coordinates after applying official datum shift",
+      "B": "Use the raw GNSS fix without transformation",
+      "C": "Split the difference between both positions",
+      "D": "Move the beacon to match the old sketch"
+    },
+    "correct_option": "A",
+    "correct_answer": "Adopt transformed archive coordinates after applying official datum shift"
+  },
+  {
+    "id": 352,
+    "question": "A landowner asks you to omit an encroaching fence from the plan to avoid a dispute.",
+    "options": {
+      "A": "Omit the fence but write a note",
+      "B": "Refuse and depict the encroachment accurately",
+      "C": "Show fence only in field book",
+      "D": "Draw fence outside sheet margin"
+    },
+    "correct_option": "B",
+    "correct_answer": "Refuse and depict the encroachment accurately"
+  },
+  {
+    "id": 353,
+    "question": "While staking out a highway centerline, you detect prism constant incorrectly set for the first 3 stations.",
+    "options": {
+      "A": "Apply a uniform shift in CAD only",
+      "B": "Proceed since error is small",
+      "C": "Reobserve affected stations with correct prism constant and recompute",
+      "D": "Average old and new readings"
+    },
+    "correct_option": "C",
+    "correct_answer": "Reobserve affected stations with correct prism constant and recompute"
+  },
+  {
+    "id": 354,
+    "question": "Client needs flood-risk mapping in a riverine estate within 72 hours.",
+    "options": {
+      "A": "Decline without reporting risk",
+      "B": "Submit last year\u2019s contours to save time",
+      "C": "Approximate by eyeballing satellite images",
+      "D": "Acquire recent DEM and tide data; run rapid hydrodynamic/contour analysis; flag uncertainty"
+    },
+    "correct_option": "D",
+    "correct_answer": "Acquire recent DEM and tide data; run rapid hydrodynamic/contour analysis; flag uncertainty"
+  },
+  {
+    "id": 355,
+    "question": "Two families claim a boundary defined by a seasonal stream that has migrated over time.",
+    "options": {
+      "A": "Reference original survey, fix boundary by legal centerline at survey date and note avulsion/erosion",
+      "B": "Adopt current thalweg wherever it lies",
+      "C": "Let elders choose a midpoint",
+      "D": "Ignore hydrology and draw straight line"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reference original survey, fix boundary by legal centerline at survey date and note avulsion/erosion"
+  },
+  {
+    "id": 356,
+    "question": "During topographic pickup, IMU calibration drift is evident in UAV photos.",
+    "options": {
+      "A": "Trust onboard GPS only",
+      "B": "Repeat calibration, re-fly control passes, and reprocess with GCPs",
+      "C": "Rubber-sheet the orthomosaic",
+      "D": "Clip out bad tiles and keep deliverable"
+    },
+    "correct_option": "B",
+    "correct_answer": "Repeat calibration, re-fly control passes, and reprocess with GCPs"
+  },
+  {
+    "id": 357,
+    "question": "A title survey conflicts with a government Right-of-Way (RoW) gazette line.",
+    "options": {
+      "A": "Curve the boundary to avoid RoW",
+      "B": "Ignore RoW to protect the title",
+      "C": "Depict RoW per gazette, annotate conflict, and notify approving authority",
+      "D": "Submit two versions and let client pick"
+    },
+    "correct_option": "C",
+    "correct_answer": "Depict RoW per gazette, annotate conflict, and notify approving authority"
+  },
+  {
+    "id": 358,
+    "question": "You are asked to sign a plan produced by another firm that you did not supervise.",
+    "options": {
+      "A": "Let a pupil sign first",
+      "B": "Sign after verbal assurance",
+      "C": "Sign as \u2018consultant\u2019 without review",
+      "D": "Refuse and insist on personal supervision and checks"
+    },
+    "correct_option": "D",
+    "correct_answer": "Refuse and insist on personal supervision and checks"
+  },
+  {
+    "id": 359,
+    "question": "A marine survey shows echo-sounder dropouts in shallow, turbid areas.",
+    "options": {
+      "A": "Resurvey with appropriate frequency, bar-check, and slower speed",
+      "B": "Interpolate depths across gaps",
+      "C": "Delete dropouts and smooth the surface",
+      "D": "Report only deep areas"
+    },
+    "correct_option": "A",
+    "correct_answer": "Resurvey with appropriate frequency, bar-check, and slower speed"
+  },
+  {
+    "id": 360,
+    "question": "A pipeline route crosses a suspected community burial site.",
+    "options": {
+      "A": "Proceed quietly at night",
+      "B": "Stop works, flag culturally sensitive zone, and escalate for EIA/social approval",
+      "C": "Shift alignment without documentation",
+      "D": "Remove the waypoint from logs"
+    },
+    "correct_option": "B",
+    "correct_answer": "Stop works, flag culturally sensitive zone, and escalate for EIA/social approval"
+  },
+  {
+    "id": 361,
+    "question": "Your RTK corrections intermittently fail due to cellular outages in hilly terrain.",
+    "options": {
+      "A": "Use single-point GPS and average",
+      "B": "Increase rover height and hope for better LTE",
+      "C": "Switch to PPK/static sessions and densify control",
+      "D": "Guess positions from old maps"
+    },
+    "correct_option": "C",
+    "correct_answer": "Switch to PPK/static sessions and densify control"
+  },
+  {
+    "id": 362,
+    "question": "A cadastral beacon is found buried beneath recent paving.",
+    "options": {
+      "A": "Create a new beacon ID",
+      "B": "Adopt the paving edge as boundary",
+      "C": "Place a paint mark and leave",
+      "D": "Expose and verify beacon; re-establish if displaced with documented evidence"
+    },
+    "correct_option": "D",
+    "correct_answer": "Expose and verify beacon; re-establish if displaced with documented evidence"
+  },
+  {
+    "id": 363,
+    "question": "Client wants the plan to show an access road across a parcel he doesn\u2019t own.",
+    "options": {
+      "A": "Reject request; map only observable and lawful appurtenances",
+      "B": "Add a dotted access line without note",
+      "C": "Place \u2018future road\u2019 label to satisfy client",
+      "D": "Show as servitude without deed"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reject request; map only observable and lawful appurtenances"
+  },
+  {
+    "id": 364,
+    "question": "A survey control pillar is vandalized mid-project.",
+    "options": {
+      "A": "Ignore and keep using its last coordinates",
+      "B": "Report officially, re-establish control from higher-order stations",
+      "C": "Estimate with hand compass",
+      "D": "Abandon project deliverables"
+    },
+    "correct_option": "B",
+    "correct_answer": "Report officially, re-establish control from higher-order stations"
+  },
+  {
+    "id": 365,
+    "question": "Your total station shows collimation error outside specs.",
+    "options": {
+      "A": "Tilt instrument to compensate",
+      "B": "Use single face only",
+      "C": "Perform two-face observations, run field collimation test, and adjust",
+      "D": "Switch to tape and compass"
+    },
+    "correct_option": "C",
+    "correct_answer": "Perform two-face observations, run field collimation test, and adjust"
+  },
+  {
+    "id": 366,
+    "question": "Hydrographic survey requires sounding in an area with strong tidal range.",
+    "options": {
+      "A": "Report depths without any datum",
+      "B": "Measure at random times and quote averages",
+      "C": "Use low-tide depths only",
+      "D": "Establish tide gauge and reduce all soundings to chart datum"
+    },
+    "correct_option": "D",
+    "correct_answer": "Establish tide gauge and reduce all soundings to chart datum"
+  },
+  {
+    "id": 367,
+    "question": "The developer pressures you to \u2018round up\u2019 site area to meet planning minimum.",
+    "options": {
+      "A": "Refuse; compute and report true area with method statement",
+      "B": "Round up by 1%",
+      "C": "Stretch one boundary slightly",
+      "D": "Hide raw computations"
+    },
+    "correct_option": "A",
+    "correct_answer": "Refuse; compute and report true area with method statement"
+  },
+  {
+    "id": 368,
+    "question": "Adjacent plots have plans on different datums (Minna vs WGS84).",
+    "options": {
+      "A": "Overlay as-is and eyeball fit",
+      "B": "Transform both to a common official datum and document parameters",
+      "C": "Average coordinates",
+      "D": "Adopt whichever looks tidier"
+    },
+    "correct_option": "B",
+    "correct_answer": "Transform both to a common official datum and document parameters"
+  },
+  {
+    "id": 369,
+    "question": "Community insists on traditional boundary markers that conflict with beaconed lines.",
+    "options": {
+      "A": "Adopt community lines without record",
+      "B": "Replace all beacons with stones",
+      "C": "Show statutory beacons, add advisory note on community claims",
+      "D": "Erase conflicting info"
+    },
+    "correct_option": "C",
+    "correct_answer": "Show statutory beacons, add advisory note on community claims"
+  },
+  {
+    "id": 370,
+    "question": "A UAV flight exceeded NOTAM window due to wind delays.",
+    "options": {
+      "A": "Discard GCPs to save time",
+      "B": "Submit data since imagery looks fine",
+      "C": "Edit timestamps in EXIF",
+      "D": "Document deviation, refly within cleared window, and file incident"
+    },
+    "correct_option": "D",
+    "correct_answer": "Document deviation, refly within cleared window, and file incident"
+  },
+  {
+    "id": 371,
+    "question": "Client disputes your misclosure adjustment on a traverse.",
+    "options": {
+      "A": "Provide adjustment report (Bowditch/least-squares) and residuals for audit",
+      "B": "Delete adjustment file",
+      "C": "Tweak angles to zero error",
+      "D": "Hide computations in PDF only"
+    },
+    "correct_option": "A",
+    "correct_answer": "Provide adjustment report (Bowditch/least-squares) and residuals for audit"
+  },
+  {
+    "id": 372,
+    "question": "You suspect a parallax issue on stereo plotting of a high-rise CBD.",
+    "options": {
+      "A": "Reduce overlap to speed up",
+      "B": "Increase base-height ratio, verify interior orientation, add more GCPs",
+      "C": "Turn off parallax bar",
+      "D": "Assume heights from ground shots"
+    },
+    "correct_option": "B",
+    "correct_answer": "Increase base-height ratio, verify interior orientation, add more GCPs"
+  },
+  {
+    "id": 373,
+    "question": "A wetland buffer is required by regulation; the client wants hard edges.",
+    "options": {
+      "A": "Shrink buffer by 10%",
+      "B": "Snap buffer to parcel lines",
+      "C": "Delineate buffer from hydric soils/topography and cite regulation on plan",
+      "D": "Omit buffer and proceed"
+    },
+    "correct_option": "C",
+    "correct_answer": "Delineate buffer from hydric soils/topography and cite regulation on plan"
+  },
+  {
+    "id": 374,
+    "question": "Control network shows a scale bias after EDM calibration lapse.",
+    "options": {
+      "A": "Stretch CAD drawing only",
+      "B": "Apply an arbitrary 1ppm correction",
+      "C": "Ignore; scale bias is tiny",
+      "D": "Recalibrate EDM; remeasure baselines; recompute scale factor"
+    },
+    "correct_option": "D",
+    "correct_answer": "Recalibrate EDM; remeasure baselines; recompute scale factor"
+  },
+  {
+    "id": 375,
+    "question": "Contract requires ISO-compliant metadata for delivered GIS layers.",
+    "options": {
+      "A": "Populate lineage, accuracy, datum, projection, and QA fields per standard",
+      "B": "Leave metadata blank",
+      "C": "Write \u2018accurate\u2019 in description",
+      "D": "Attach a logo instead"
+    },
+    "correct_option": "A",
+    "correct_answer": "Populate lineage, accuracy, datum, projection, and QA fields per standard"
+  },
+  {
+    "id": 376,
+    "question": "Storm damages temporary benchmarks overnight.",
+    "options": {
+      "A": "Assume no height change",
+      "B": "Relevel from permanent BMs; compare to prior HI; update RLs",
+      "C": "Use last backsight only",
+      "D": "Average foresights"
+    },
+    "correct_option": "B",
+    "correct_answer": "Relevel from permanent BMs; compare to prior HI; update RLs"
+  },
+  {
+    "id": 377,
+    "question": "Client asks you to conceal an adverse survey note before court filing.",
+    "options": {
+      "A": "Hide it in annexure without reference",
+      "B": "Remove the note for now",
+      "C": "Refuse and submit complete, factual survey note",
+      "D": "Use vague language to blur facts"
+    },
+    "correct_option": "C",
+    "correct_answer": "Refuse and submit complete, factual survey note"
+  },
+  {
+    "id": 378,
+    "question": "An estate layout requires tying to state grid, but site is in a canyon with poor sky view.",
+    "options": {
+      "A": "Guess grid bearings from sun",
+      "B": "Rely on single-baseline RTK in canyon",
+      "C": "Use handheld GPS only",
+      "D": "Establish control via static GNSS on ridges and traverse into site"
+    },
+    "correct_option": "D",
+    "correct_answer": "Establish control via static GNSS on ridges and traverse into site"
+  },
+  {
+    "id": 379,
+    "question": "Conflicting deed bearings vs observed bearings after grid convergence correction.",
+    "options": {
+      "A": "Show deed bearings with note; adopt observed grid bearings for coordinates",
+      "B": "Replace deed bearings silently",
+      "C": "Rotate all to fit deed",
+      "D": "Ignore convergence entirely"
+    },
+    "correct_option": "A",
+    "correct_answer": "Show deed bearings with note; adopt observed grid bearings for coordinates"
+  },
+  {
+    "id": 380,
+    "question": "Bridge as-built shows piers off by 35 mm from design.",
+    "options": {
+      "A": "Round to nearest 0 mm",
+      "B": "Report as-built deviations with tolerances and recommend remediation if required",
+      "C": "Shift design to match field",
+      "D": "Hide the deviation"
+    },
+    "correct_option": "B",
+    "correct_answer": "Report as-built deviations with tolerances and recommend remediation if required"
+  },
+  {
+    "id": 381,
+    "question": "NAVD88-equivalent vertical datum requested, but local benchmark is on legacy arbitrary datum.",
+    "options": {
+      "A": "Apply +1.0 m as rule of thumb",
+      "B": "Assume the local datum equals requested",
+      "C": "Transfer heights from leveled connection to official datum and document transformation",
+      "D": "Use ellipsoidal heights instead"
+    },
+    "correct_option": "C",
+    "correct_answer": "Transfer heights from leveled connection to official datum and document transformation"
+  },
+  {
+    "id": 382,
+    "question": "Client wants parcel split into three even areas but the shape is highly irregular.",
+    "options": {
+      "A": "Decline to mark access",
+      "B": "Draw three equal rectangles regardless",
+      "C": "Split by visual thirds",
+      "D": "Propose geometry that balances area while keeping access/servitudes compliant"
+    },
+    "correct_option": "D",
+    "correct_answer": "Propose geometry that balances area while keeping access/servitudes compliant"
+  },
+  {
+    "id": 383,
+    "question": "A mining lease boundary overlaps a community buffer established by statute.",
+    "options": {
+      "A": "Map both layers, state hierarchy of controls, and advise statutory compliance",
+      "B": "Erase the buffer",
+      "C": "Shift the lease line",
+      "D": "Show only the lease to avoid delays"
+    },
+    "correct_option": "A",
+    "correct_answer": "Map both layers, state hierarchy of controls, and advise statutory compliance"
+  },
+  {
+    "id": 384,
+    "question": "Old traverse notes are in grads; your team processed in degrees.",
+    "options": {
+      "A": "Assume grads\u2248degrees",
+      "B": "Convert units consistently and reprocess; update all bearings",
+      "C": "Apply 0.9 factor only",
+      "D": "Flip E/N axes"
+    },
+    "correct_option": "B",
+    "correct_answer": "Convert units consistently and reprocess; update all bearings"
+  },
+  {
+    "id": 385,
+    "question": "Client requests your raw GNSS RINEX for independent QA.",
+    "options": {
+      "A": "Decline without reason",
+      "B": "Provide only the final coordinates",
+      "C": "Provide RINEX, antenna heights, logs, and processing summary",
+      "D": "Send screenshots of map"
+    },
+    "correct_option": "C",
+    "correct_answer": "Provide RINEX, antenna heights, logs, and processing summary"
+  },
+  {
+    "id": 386,
+    "question": "A river cross-section survey needs consistent stationing every 10 m, but boat drifted.",
+    "options": {
+      "A": "Delete outliers only",
+      "B": "Interpolate every 10 m from first three shots",
+      "C": "Accept irregular spacing",
+      "D": "Resection/line-up with bank control and reshoot missed sections"
+    },
+    "correct_option": "D",
+    "correct_answer": "Resection/line-up with bank control and reshoot missed sections"
+  },
+  {
+    "id": 387,
+    "question": "Parcel lies within an area affected by magnetite causing compass disturbance.",
+    "options": {
+      "A": "Avoid magnetic bearings; use astronomic/grid bearings with control",
+      "B": "Ignore and keep compass",
+      "C": "Average multiple compass shots",
+      "D": "Use phone compass"
+    },
+    "correct_option": "A",
+    "correct_answer": "Avoid magnetic bearings; use astronomic/grid bearings with control"
+  },
+  {
+    "id": 388,
+    "question": "You detect network RTK base broadcasting wrong antenna height.",
+    "options": {
+      "A": "Continue; horizontal won\u2019t change",
+      "B": "Cease use; notify provider; recompute with correct height",
+      "C": "Subtract a guess height",
+      "D": "Switch to single point"
+    },
+    "correct_option": "B",
+    "correct_answer": "Cease use; notify provider; recompute with correct height"
+  },
+  {
+    "id": 389,
+    "question": "Client insists title plan scale be 1:800 when regulations require 1:500.",
+    "options": {
+      "A": "Plot 1:800 but label 1:500",
+      "B": "Use 1:800 quietly",
+      "C": "Use the prescribed scale and cite regulation on plan",
+      "D": "Deliver both without notes"
+    },
+    "correct_option": "C",
+    "correct_answer": "Use the prescribed scale and cite regulation on plan"
+  },
+  {
+    "id": 390,
+    "question": "Densification requires adding two control points in a constrained urban core.",
+    "options": {
+      "A": "Derive from Google Maps",
+      "B": "Use one quick GPS shot each",
+      "C": "Occupy only once at noon",
+      "D": "Use short baselines, forced-centering, and double-run observations"
+    },
+    "correct_option": "D",
+    "correct_answer": "Use short baselines, forced-centering, and double-run observations"
+  },
+  {
+    "id": 391,
+    "question": "A contractor asks you to \u2018shift\u2019 setting-out pegs to fit formwork.",
+    "options": {
+      "A": "Refuse; restake correctly and report deviation",
+      "B": "Allow 50 mm tolerance without record",
+      "C": "Let foreman relocate pegs",
+      "D": "Sign a sketch only"
+    },
+    "correct_option": "A",
+    "correct_answer": "Refuse; restake correctly and report deviation"
+  },
+  {
+    "id": 392,
+    "question": "Aerial triangulation bundle adjustment residuals are above tolerance.",
+    "options": {
+      "A": "Accept residuals since map looks okay",
+      "B": "Add/check GCPs and tie points; rerun bundle; document RMSE",
+      "C": "Lower the tolerance threshold",
+      "D": "Smooth contours afterwards"
+    },
+    "correct_option": "B",
+    "correct_answer": "Add/check GCPs and tie points; rerun bundle; document RMSE"
+  },
+  {
+    "id": 393,
+    "question": "Topographic survey around high-voltage lines shows EDM noise.",
+    "options": {
+      "A": "Ignore noisy shots",
+      "B": "Stand closer to the lines",
+      "C": "Use reflectorless with safe offsets and multiple checks",
+      "D": "Turn off instrument tilt comp"
+    },
+    "correct_option": "C",
+    "correct_answer": "Use reflectorless with safe offsets and multiple checks"
+  },
+  {
+    "id": 394,
+    "question": "Stakeout for a retaining wall reveals unexpected subsidence.",
+    "options": {
+      "A": "Proceed and note later",
+      "B": "Stake as designed",
+      "C": "Lift stakes by 50 mm",
+      "D": "Pause works; request geotechnical assessment and adjust design control"
+    },
+    "correct_option": "D",
+    "correct_answer": "Pause works; request geotechnical assessment and adjust design control"
+  },
+  {
+    "id": 395,
+    "question": "Landowner wants beacon numbers renumbered to match family preference.",
+    "options": {
+      "A": "Maintain original numbering per lodged record and add note if re-sequenced",
+      "B": "Renumber freely",
+      "C": "Erase numbers on plan",
+      "D": "Use letters instead"
+    },
+    "correct_option": "A",
+    "correct_answer": "Maintain original numbering per lodged record and add note if re-sequenced"
+  },
+  {
+    "id": 396,
+    "question": "Client wants a quick hydrographic check using a fishing echo sounder.",
+    "options": {
+      "A": "Use fishing sounder but add disclaimer",
+      "B": "Decline; use calibrated survey echo sounder with bar-check",
+      "C": "Estimate with pole only",
+      "D": "Adopt charted depths"
+    },
+    "correct_option": "B",
+    "correct_answer": "Decline; use calibrated survey echo sounder with bar-check"
+  },
+  {
+    "id": 397,
+    "question": "Mixed deeds reference bearings to \u2018true north\u2019 but drawings show \u2018grid north\u2019.",
+    "options": {
+      "A": "Use magnetic north for all",
+      "B": "Change all to grid silently",
+      "C": "State both references; compute convergence; keep bearings consistent",
+      "D": "Rotate to fit parcels visually"
+    },
+    "correct_option": "C",
+    "correct_answer": "State both references; compute convergence; keep bearings consistent"
+  },
+  {
+    "id": 398,
+    "question": "Community boundary runs along a ridge crest; fog reduces visibility during traverse.",
+    "options": {
+      "A": "Accept open traverse",
+      "B": "Guess intermediate points",
+      "C": "Use single backsight only",
+      "D": "Establish intervisible temporary targets or postpone; ensure closure"
+    },
+    "correct_option": "D",
+    "correct_answer": "Establish intervisible temporary targets or postpone; ensure closure"
+  },
+  {
+    "id": 399,
+    "question": "As-built survey detects a culvert invert level 0.12 m higher than design.",
+    "options": {
+      "A": "Report nonconformance with tolerance check and recommend rectification",
+      "B": "Lower the benchmark by 0.12 m",
+      "C": "Ignore as minor",
+      "D": "Hide the invert shot"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report nonconformance with tolerance check and recommend rectification"
+  },
+  {
+    "id": 400,
+    "question": "Your client\u2019s deed area is larger than GIS parcel by 2.3%.",
+    "options": {
+      "A": "Adopt deed area automatically",
+      "B": "Compute deed vs ground; reconcile with control and advise rectification process",
+      "C": "Adopt GIS area automatically",
+      "D": "Split the difference"
+    },
+    "correct_option": "B",
+    "correct_answer": "Compute deed vs ground; reconcile with control and advise rectification process"
+  }
+]

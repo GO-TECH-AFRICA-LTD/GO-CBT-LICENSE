@@ -1,0 +1,4402 @@
+[
+  {
+    "number": 1,
+    "question": "Select the correct term for: Destination Management Organization",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Creative tourism",
+      "C": "Leakage",
+      "D": "DMO"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 2,
+    "question": "Select the correct term for: Responsible travel to natural areas that conserves the environment and improves local well-being",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Creative tourism",
+      "C": "Ecotourism",
+      "D": "Shoulder season"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 3,
+    "question": "Koroso belongs traditionally to which Nigerian ethnic group?",
+    "options": {
+      "A": "Fulani",
+      "B": "Kanuri",
+      "C": "Igbo",
+      "D": "Hausa"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 4,
+    "question": "In which Nigerian state is Yankari Game Reserve located?",
+    "options": {
+      "A": "Cross River",
+      "B": "Bauchi",
+      "C": "FCT",
+      "D": "Kebbi"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 5,
+    "question": "Which tourism/culture term best matches this definition: 'Destination Management Organization'?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Ecotourism",
+      "C": "Dark tourism",
+      "D": "DMO"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 6,
+    "question": "Ashanti Kente weaving is traditionally associated with which place?",
+    "options": {
+      "A": "Kebbi",
+      "B": "Mali",
+      "C": "Ghana",
+      "D": "Senegal"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 7,
+    "question": "The Ofala Festival primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Kogi",
+      "B": "Anambra",
+      "C": "Akwa Ibom",
+      "D": "Sokoto"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 8,
+    "question": "Select the correct term for: Tourism revenue leaving the local economy",
+    "options": {
+      "A": "Leakage",
+      "B": "Intangible cultural heritage",
+      "C": "Heritage impact assessment",
+      "D": "MICE"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 9,
+    "question": "Which body leads global tourism statistics and policy guidance?",
+    "options": {
+      "A": "FAO",
+      "B": "UNICEF",
+      "C": "UNESCO",
+      "D": "UNWTO"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 10,
+    "question": "Which tourism/culture term best matches this definition: 'Tourism that sustains or enhances the geographical character of a place'?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Creative tourism",
+      "C": "Geo-tourism",
+      "D": "Dark tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 11,
+    "question": "Swange belongs traditionally to which Nigerian ethnic group?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Kanuri",
+      "C": "Tiv",
+      "D": "Ibibio"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 12,
+    "question": "Which festival is best known for: Horse parades after Eid?",
+    "options": {
+      "A": "Durbar Festival",
+      "B": "Osun-Osogbo Festival",
+      "C": "Olojo Festival",
+      "D": "Ojude Oba Festival"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 13,
+    "question": "The Nwokoro Boat Regatta primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Rivers",
+      "B": "Anambra",
+      "C": "Yobe",
+      "D": "Imo"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 14,
+    "question": "The Calabar Carnival primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Cross River",
+      "B": "Kogi",
+      "C": "Delta",
+      "D": "Oyo"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 15,
+    "question": "Moai of Easter Island is located in which country?",
+    "options": {
+      "A": "Kenya",
+      "B": "Ghana",
+      "C": "Greece",
+      "D": "Chile"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 16,
+    "question": "In which Nigerian state is the Calabar Carnival held?",
+    "options": {
+      "A": "Cross River",
+      "B": "Delta",
+      "C": "Abia",
+      "D": "Oyo"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 17,
+    "question": "Select the correct term for: Travel to experience heritage, arts, and the way of life of a people",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Cultural tourism",
+      "C": "Overtourism",
+      "D": "Geo-tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 18,
+    "question": "In which Nigerian state is Erin Ijesha Waterfalls located?",
+    "options": {
+      "A": "Ogun",
+      "B": "Cross River",
+      "C": "Nasarawa",
+      "D": "Osun"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 19,
+    "question": "Which tourism/culture term best matches this definition: 'Visiting sites associated with tragedy or death'?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Leakage",
+      "C": "Overtourism",
+      "D": "Cultural tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 20,
+    "question": "The traditional dance 'Sharo Dance' is associated with which ethnic group?",
+    "options": {
+      "A": "Igbo",
+      "B": "Tiv",
+      "C": "Kanuri",
+      "D": "Fulani"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 21,
+    "question": "Grand Canyon is located in which country?",
+    "options": {
+      "A": "USA",
+      "B": "Jordan",
+      "C": "Nigeria",
+      "D": "Algeria"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 22,
+    "question": "In which Nigerian state is the Argungu Fishing Festival held?",
+    "options": {
+      "A": "FCT",
+      "B": "Delta",
+      "C": "Kebbi",
+      "D": "Borno"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 23,
+    "question": "The Durbar Festival primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Yobe",
+      "B": "Niger",
+      "C": "Kano",
+      "D": "Kaduna"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 24,
+    "question": "The instrument 'Goje' is primarily associated with which culture?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Hausa/Fulani",
+      "C": "West Africa",
+      "D": "Igbo"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 25,
+    "question": "Which tourism/culture term best matches this definition: 'Period between peak and off-peak seasons'?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Leakage",
+      "C": "Overtourism",
+      "D": "Shoulder season"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 26,
+    "question": "In which Nigerian state is Kajuru Castle located?",
+    "options": {
+      "A": "Kaduna",
+      "B": "Akwa Ibom",
+      "C": "Niger",
+      "D": "Bayelsa"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 27,
+    "question": "The Argungu Fishing Festival primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Kebbi",
+      "B": "Gombe",
+      "C": "Akwa Ibom",
+      "D": "Abia"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 28,
+    "question": "Select the correct term for: Period between peak and off-peak seasons",
+    "options": {
+      "A": "DMO",
+      "B": "Cultural tourism",
+      "C": "Geo-tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 29,
+    "question": "What does the abbreviation 'UNWTO' stand for in Nigeria's culture/tourism space?",
+    "options": {
+      "A": "National Institute for Cultural Orientation",
+      "B": "National Council for Arts and Culture",
+      "C": "World Tourism Organization",
+      "D": "National Commission for Museums and Monuments"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 30,
+    "question": "Kano City Walls can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Adamawa",
+      "B": "Ogun",
+      "C": "Kano",
+      "D": "Abia"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 31,
+    "question": "Which tourism/culture term best matches this definition: 'Maximum visitors a site can sustain without unacceptable impact'?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Carrying capacity",
+      "C": "Destination branding",
+      "D": "Creative tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 32,
+    "question": "In which Nigerian state is the Eyo Festival held?",
+    "options": {
+      "A": "Ekiti",
+      "B": "Benue",
+      "C": "Lagos",
+      "D": "Cross River"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 33,
+    "question": "Mount Fuji is located in which country?",
+    "options": {
+      "A": "Zimbabwe",
+      "B": "Japan",
+      "C": "Algeria",
+      "D": "Ethiopia"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 34,
+    "question": "The instrument 'Ogene' is primarily associated with which culture?",
+    "options": {
+      "A": "Igbo",
+      "B": "Cross-cultural",
+      "C": "Hausa/Fulani",
+      "D": "Efik"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 35,
+    "question": "In which Nigerian state is Osun-Osogbo Sacred Grove located?",
+    "options": {
+      "A": "Kaduna",
+      "B": "Osun",
+      "C": "Akwa Ibom",
+      "D": "Oyo"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 36,
+    "question": "Acropolis of Athens is located in which country?",
+    "options": {
+      "A": "Ethiopia",
+      "B": "Nigeria",
+      "C": "Greece",
+      "D": "UK"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 37,
+    "question": "Which festival is best known for: Mass fishing contest?",
+    "options": {
+      "A": "Olojo Festival",
+      "B": "New Yam Festival (Iri Ji)",
+      "C": "Nwokoro Boat Regatta",
+      "D": "Argungu Fishing Festival"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 38,
+    "question": "Select the correct term for: Travel involving active participation in creative activities",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Accessible tourism",
+      "C": "Destination branding",
+      "D": "Creative tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 39,
+    "question": "Which tourism/culture term best matches this definition: 'Travel to experience heritage, arts, and the way of life of a people'?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Cultural tourism",
+      "C": "Geo-tourism",
+      "D": "Overtourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 40,
+    "question": "Select the correct term for: Meetings, Incentives, Conferences, and Exhibitions",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "MICE",
+      "C": "Overtourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 41,
+    "question": "The Ojude Oba Festival primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Borno",
+      "B": "Bayelsa",
+      "C": "Ogun",
+      "D": "Taraba"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 42,
+    "question": "Stonehenge is located in which country?",
+    "options": {
+      "A": "South Africa",
+      "B": "UK",
+      "C": "Greece",
+      "D": "Nigeria"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 43,
+    "question": "Ogbunike Caves can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Sokoto",
+      "B": "Edo",
+      "C": "Anambra",
+      "D": "Oyo"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 44,
+    "question": "Zuma Rock can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Zamfara",
+      "B": "Niger",
+      "C": "Imo",
+      "D": "Rivers"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 45,
+    "question": "Table Mountain is located in which country?",
+    "options": {
+      "A": "South Africa",
+      "B": "Nigeria",
+      "C": "Algeria",
+      "D": "Tunisia"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 46,
+    "question": "What is a curator’s primary role in a museum?",
+    "options": {
+      "A": "Preserve and interpret collections",
+      "B": "Sell souvenirs",
+      "C": "Check tickets",
+      "D": "Do customs checks"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 47,
+    "question": "Banff National Park is located in which country?",
+    "options": {
+      "A": "Canada",
+      "B": "Algeria",
+      "C": "Kenya",
+      "D": "Nigeria"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 48,
+    "question": "Which festival is best known for: Onitsha monarch celebration?",
+    "options": {
+      "A": "Ofala Festival",
+      "B": "Calabar Carnival",
+      "C": "New Yam Festival (Iri Ji)",
+      "D": "Osun-Osogbo Festival"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 49,
+    "question": "Benin Moat can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Cross River",
+      "B": "Edo",
+      "C": "Bauchi",
+      "D": "Kogi"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 50,
+    "question": "Which tourism/culture term best matches this definition: 'Meetings, Incentives, Conferences, and Exhibitions'?",
+    "options": {
+      "A": "MICE",
+      "B": "Geo-tourism",
+      "C": "Ecotourism",
+      "D": "Destination branding"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 51,
+    "question": "The instrument 'Udu' is primarily associated with which culture?",
+    "options": {
+      "A": "West Africa",
+      "B": "Yoruba",
+      "C": "Efik",
+      "D": "Igbo"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 52,
+    "question": "The traditional dance 'Bata' is associated with which ethnic group?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Efik",
+      "C": "Fulani",
+      "D": "Tiv"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 53,
+    "question": "Which tourism/culture term best matches this definition: 'Creating a distinct image and promise for a place'?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Accessible tourism",
+      "C": "Carrying capacity",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 54,
+    "question": "Which tourism/culture term best matches this definition: 'Tourism revenue leaving the local economy'?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Leakage",
+      "C": "Dark tourism",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 55,
+    "question": "What does the abbreviation 'UNESCO' stand for in Nigeria's culture/tourism space?",
+    "options": {
+      "A": "United Nations Educational, Scientific and Cultural Organization",
+      "B": "National Institute for Cultural Orientation",
+      "C": "World Tourism Organization",
+      "D": "National Council for Arts and Culture"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 56,
+    "question": "Yankari Game Reserve is famous for which tourism type?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Cultural tourism",
+      "C": "Business tourism",
+      "D": "Medical tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 57,
+    "question": "What is the main aim of destination branding?",
+    "options": {
+      "A": "Create a distinct image and promise",
+      "B": "Limit domestic travel",
+      "C": "Close borders",
+      "D": "Increase taxes"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 58,
+    "question": "Select the correct term for: Maximum visitors a site can sustain without unacceptable impact",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "MICE",
+      "C": "Carrying capacity",
+      "D": "Leakage"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 59,
+    "question": "In which Nigerian state is Kano City Walls located?",
+    "options": {
+      "A": "Kebbi",
+      "B": "Kano",
+      "C": "Osun",
+      "D": "Borno"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 60,
+    "question": "Victoria Falls is located in which country?",
+    "options": {
+      "A": "Zambia/Zimbabwe",
+      "B": "Jordan",
+      "C": "Greece",
+      "D": "Morocco"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 61,
+    "question": "The Osun-Osogbo Festival primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Borno",
+      "B": "Lagos",
+      "C": "Abia",
+      "D": "Osun"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 62,
+    "question": "Which tourism/culture term best matches this definition: 'Excessive visitation that negatively affects residents and heritage'?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Leakage",
+      "C": "Overtourism",
+      "D": "Destination branding"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 63,
+    "question": "Which festival is best known for: Ijebu Ode homage on horses?",
+    "options": {
+      "A": "Ojude Oba Festival",
+      "B": "Osun-Osogbo Festival",
+      "C": "Igue Festival",
+      "D": "Argungu Fishing Festival"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 64,
+    "question": "The instrument 'Shekere' is primarily associated with which culture?",
+    "options": {
+      "A": "Ijaw",
+      "B": "Efik",
+      "C": "West Africa",
+      "D": "Cross-cultural"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 65,
+    "question": "Select the correct term for: Practices, expressions, knowledge like rituals, music, and craftsmanship",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Accessible tourism",
+      "C": "Overtourism",
+      "D": "MICE"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 66,
+    "question": "In which Nigerian state is the Ofala Festival held?",
+    "options": {
+      "A": "Nasarawa",
+      "B": "Abia",
+      "C": "Edo",
+      "D": "Anambra"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 67,
+    "question": "Colosseum is located in which country?",
+    "options": {
+      "A": "Tunisia",
+      "B": "Italy",
+      "C": "UK",
+      "D": "Algeria"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 68,
+    "question": "Select the correct term for: Visiting sites associated with tragedy or death",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Dark tourism",
+      "C": "Shoulder season",
+      "D": "Overtourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 69,
+    "question": "In which Nigerian state is Gurara Waterfalls located?",
+    "options": {
+      "A": "Niger",
+      "B": "Kaduna",
+      "C": "Delta",
+      "D": "Bayelsa"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 70,
+    "question": "Sharo Dance belongs traditionally to which Nigerian ethnic group?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Fulani",
+      "C": "Tiv",
+      "D": "Igbo"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 71,
+    "question": "Great Barrier Reef is located in which country?",
+    "options": {
+      "A": "Tanzania",
+      "B": "Cambodia",
+      "C": "Italy",
+      "D": "Australia"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 72,
+    "question": "The Igue Festival primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Bayelsa",
+      "B": "Bauchi",
+      "C": "Edo",
+      "D": "Imo"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 73,
+    "question": "Select the correct term for: Tourism that sustains or enhances the geographical character of a place",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Accessible tourism",
+      "C": "Intangible cultural heritage",
+      "D": "Ecotourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 74,
+    "question": "Petra is located in which country?",
+    "options": {
+      "A": "Tanzania",
+      "B": "Ethiopia",
+      "C": "South Africa",
+      "D": "Jordan"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 75,
+    "question": "In which Nigerian state is Sukur Cultural Landscape located?",
+    "options": {
+      "A": "Ogun",
+      "B": "Kogi",
+      "C": "Adamawa",
+      "D": "Anambra"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 76,
+    "question": "Select the correct term for: Excessive visitation that negatively affects residents and heritage",
+    "options": {
+      "A": "Overtourism",
+      "B": "Geo-tourism",
+      "C": "Intangible cultural heritage",
+      "D": "DMO"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 77,
+    "question": "Which festival is best known for: Ile-Ife creation rites?",
+    "options": {
+      "A": "Durbar Festival",
+      "B": "Olojo Festival",
+      "C": "Ojude Oba Festival",
+      "D": "Ofala Festival"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 78,
+    "question": "In which Nigerian state is the Olojo Festival held?",
+    "options": {
+      "A": "Yobe",
+      "B": "Kaduna",
+      "C": "Osun",
+      "D": "Kebbi"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 79,
+    "question": "In which Nigerian state is Olumo Rock located?",
+    "options": {
+      "A": "Abia",
+      "B": "Kebbi",
+      "C": "Ogun",
+      "D": "Osun"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 80,
+    "question": "Atilogwu belongs traditionally to which Nigerian ethnic group?",
+    "options": {
+      "A": "Hausa",
+      "B": "Efik",
+      "C": "Kanuri",
+      "D": "Igbo"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 81,
+    "question": "Cross River National Park can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Adamawa",
+      "B": "Cross River",
+      "C": "Akwa Ibom",
+      "D": "Zamfara"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 82,
+    "question": "Nupe mat weaving is traditionally associated with which place?",
+    "options": {
+      "A": "Kebbi",
+      "B": "Kaduna",
+      "C": "Ogun",
+      "D": "Niger"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 83,
+    "question": "Which festival is best known for: Royal rites in Benin?",
+    "options": {
+      "A": "Eyo Festival",
+      "B": "Osun-Osogbo Festival",
+      "C": "Igue Festival",
+      "D": "Durbar Festival"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 84,
+    "question": "The Kano City Walls were originally built for what purpose?",
+    "options": {
+      "A": "Defense",
+      "B": "Religious rites",
+      "C": "Decoration",
+      "D": "Trade"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 85,
+    "question": "Angkor Wat is located in which country?",
+    "options": {
+      "A": "Zimbabwe",
+      "B": "France",
+      "C": "Cambodia",
+      "D": "Egypt"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 86,
+    "question": "Yankari Game Reserve can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Bauchi",
+      "B": "FCT",
+      "C": "Kogi",
+      "D": "Oyo"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 87,
+    "question": "The New Yam Festival (Iri Ji) primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Anambra",
+      "B": "Borno",
+      "C": "Rivers",
+      "D": "Kogi"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 88,
+    "question": "Which sector grouping is represented by MICE?",
+    "options": {
+      "A": "Music, Internet, Cinema, Entertainment",
+      "B": "Museums, Islands, Cruises, Events",
+      "C": "Meetings, Incentives, Conferences, Exhibitions",
+      "D": "Marketing, Insights, Culture, Exports"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 89,
+    "question": "Gurara Waterfalls can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Niger",
+      "B": "Akwa Ibom",
+      "C": "Nasarawa",
+      "D": "Enugu"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 90,
+    "question": "Alhambra is located in which country?",
+    "options": {
+      "A": "Tanzania",
+      "B": "UK",
+      "C": "Spain",
+      "D": "Nigeria"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 91,
+    "question": "Which Nigerian craft uses indigo resist-dye technique?",
+    "options": {
+      "A": "Adire",
+      "B": "Tie-and-tumble",
+      "C": "Kente",
+      "D": "Akwete"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 92,
+    "question": "Which Nigerian city is popularly associated with 'Zuma Rock'?",
+    "options": {
+      "A": "Minna",
+      "B": "Lokoja",
+      "C": "Keffi",
+      "D": "Abuja"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 93,
+    "question": "The traditional dance 'Gese' is associated with which ethnic group?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Efik",
+      "C": "Fulani",
+      "D": "Hausa"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 94,
+    "question": "Serengeti National Park is located in which country?",
+    "options": {
+      "A": "Egypt",
+      "B": "Greece",
+      "C": "Tanzania",
+      "D": "Nigeria"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 95,
+    "question": "Olumo Rock can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Ogun",
+      "B": "Abia",
+      "C": "Ekiti",
+      "D": "Adamawa"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 96,
+    "question": "Select the correct term for: Evaluating effects of development on heritage resources",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Accessible tourism",
+      "C": "Intangible cultural heritage",
+      "D": "Destination branding"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 97,
+    "question": "Louvre Museum is located in which country?",
+    "options": {
+      "A": "China",
+      "B": "USA",
+      "C": "France",
+      "D": "Algeria"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 98,
+    "question": "The traditional dance 'Atilogwu' is associated with which ethnic group?",
+    "options": {
+      "A": "Fulani",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Tiv"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 99,
+    "question": "Which tourism/culture term best matches this definition: 'Evaluating effects of development on heritage resources'?",
+    "options": {
+      "A": "Destination branding",
+      "B": "MICE",
+      "C": "Heritage impact assessment",
+      "D": "Geo-tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 100,
+    "question": "Abeokuta adire is traditionally associated with which place?",
+    "options": {
+      "A": "Kano",
+      "B": "Ogun",
+      "C": "Oyo",
+      "D": "Kaduna"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 101,
+    "question": "Taj Mahal is located in which country?",
+    "options": {
+      "A": "Ethiopia",
+      "B": "Zimbabwe",
+      "C": "Algeria",
+      "D": "India"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 102,
+    "question": "Pyramids of Giza is located in which country?",
+    "options": {
+      "A": "Ethiopia",
+      "B": "South Africa",
+      "C": "Zambia",
+      "D": "Egypt"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 103,
+    "question": "In which Nigerian state is Benin Moat located?",
+    "options": {
+      "A": "Nasarawa",
+      "B": "Plateau",
+      "C": "Edo",
+      "D": "Yobe"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 104,
+    "question": "Ekombi belongs traditionally to which Nigerian ethnic group?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Tiv",
+      "C": "Kanuri",
+      "D": "Efik"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 105,
+    "question": "In which Nigerian state is the Sharo Festival held?",
+    "options": {
+      "A": "Borno",
+      "B": "Benue",
+      "C": "Kano",
+      "D": "Kaduna"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 106,
+    "question": "Erin Ijesha Waterfalls can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Oyo",
+      "B": "Osun",
+      "C": "Abia",
+      "D": "Anambra"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 107,
+    "question": "Which festival is best known for: White-clad masqueraders?",
+    "options": {
+      "A": "Eyo Festival",
+      "B": "New Yam Festival (Iri Ji)",
+      "C": "Olojo Festival",
+      "D": "Igue Festival"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 108,
+    "question": "Which tourism/culture term best matches this definition: 'Practices, expressions, knowledge like rituals, music, and craftsmanship'?",
+    "options": {
+      "A": "MICE",
+      "B": "Leakage",
+      "C": "Dark tourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 109,
+    "question": "What does the abbreviation 'NICO' stand for in Nigeria's culture/tourism space?",
+    "options": {
+      "A": "National Commission for Museums and Monuments",
+      "B": "World Tourism Organization",
+      "C": "United Nations Educational, Scientific and Cultural Organization",
+      "D": "National Institute for Cultural Orientation"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 110,
+    "question": "Great Wall is located in which country?",
+    "options": {
+      "A": "Zimbabwe",
+      "B": "Egypt",
+      "C": "China",
+      "D": "South Africa"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 111,
+    "question": "In which Nigerian state is the Ojude Oba Festival held?",
+    "options": {
+      "A": "Yobe",
+      "B": "Nasarawa",
+      "C": "Ondo",
+      "D": "Ogun"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 112,
+    "question": "‘Iri Ji’ refers to which celebration among the Igbo?",
+    "options": {
+      "A": "Sallah",
+      "B": "Fishing Day",
+      "C": "Hogbetsotso",
+      "D": "New Yam Festival"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 113,
+    "question": "In which Nigerian state is Ogbunike Caves located?",
+    "options": {
+      "A": "Akwa Ibom",
+      "B": "Kogi",
+      "C": "Delta",
+      "D": "Anambra"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 114,
+    "question": "Machu Picchu is located in which country?",
+    "options": {
+      "A": "Ethiopia",
+      "B": "Algeria",
+      "C": "China",
+      "D": "Peru"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 115,
+    "question": "Ile-Ife brass heads is traditionally associated with which place?",
+    "options": {
+      "A": "Ghana",
+      "B": "Osun",
+      "C": "Mali",
+      "D": "Ogun"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 116,
+    "question": "The Olojo Festival primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Osun",
+      "B": "Zamfara",
+      "C": "Gombe",
+      "D": "Ekiti"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 117,
+    "question": "Bida glass beads is traditionally associated with which place?",
+    "options": {
+      "A": "Benue",
+      "B": "Kebbi",
+      "C": "Senegal",
+      "D": "Niger"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 118,
+    "question": "Which festival is best known for: Street parade and costumes?",
+    "options": {
+      "A": "Sharo Festival",
+      "B": "Ojude Oba Festival",
+      "C": "Osun-Osogbo Festival",
+      "D": "Calabar Carnival"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 119,
+    "question": "Calabash carving is traditionally associated with which place?",
+    "options": {
+      "A": "Ghana",
+      "B": "Cameroon",
+      "C": "Kaduna",
+      "D": "Across Nigeria"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 120,
+    "question": "In which Nigerian state is the Nwokoro Boat Regatta held?",
+    "options": {
+      "A": "Rivers",
+      "B": "Nasarawa",
+      "C": "Edo",
+      "D": "Sokoto"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 121,
+    "question": "Which festival is best known for: Sacred grove and river goddess?",
+    "options": {
+      "A": "Osun-Osogbo Festival",
+      "B": "Igue Festival",
+      "C": "Argungu Fishing Festival",
+      "D": "Durbar Festival"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 122,
+    "question": "Benin bronze casting is traditionally associated with which place?",
+    "options": {
+      "A": "Edo",
+      "B": "Osun",
+      "C": "Kano",
+      "D": "Mali"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 123,
+    "question": "The National Arts Theatre is located in which city?",
+    "options": {
+      "A": "Maiduguri",
+      "B": "Uyo",
+      "C": "Enugu",
+      "D": "Lagos"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 124,
+    "question": "The Eyo Festival primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Niger",
+      "B": "Lagos",
+      "C": "Akwa Ibom",
+      "D": "Anambra"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 125,
+    "question": "The traditional dance 'Swange' is associated with which ethnic group?",
+    "options": {
+      "A": "Ibibio",
+      "B": "Fulani",
+      "C": "Tiv",
+      "D": "Efik"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 126,
+    "question": "Which festival is best known for: Harvest thanksgiving?",
+    "options": {
+      "A": "Olojo Festival",
+      "B": "Ojude Oba Festival",
+      "C": "New Yam Festival (Iri Ji)",
+      "D": "Igue Festival"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 127,
+    "question": "Bata belongs traditionally to which Nigerian ethnic group?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Hausa",
+      "C": "Tiv",
+      "D": "Fulani"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 128,
+    "question": "Statue of Liberty is located in which country?",
+    "options": {
+      "A": "Nigeria",
+      "B": "USA",
+      "C": "Tunisia",
+      "D": "Kenya"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 129,
+    "question": "Select the correct term for: Creating a distinct image and promise for a place",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Cultural tourism",
+      "C": "Destination branding",
+      "D": "Accessible tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 130,
+    "question": "In which Nigerian state is Cross River National Park located?",
+    "options": {
+      "A": "Cross River",
+      "B": "Anambra",
+      "C": "FCT",
+      "D": "Borno"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 131,
+    "question": "In which Nigerian state is the Osun-Osogbo Festival held?",
+    "options": {
+      "A": "Bayelsa",
+      "B": "Osun",
+      "C": "Yobe",
+      "D": "Abia"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 132,
+    "question": "Which tourism/culture term best matches this definition: 'Travel involving active participation in creative activities'?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Dark tourism",
+      "C": "Creative tourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 133,
+    "question": "Kajuru Castle can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Edo",
+      "B": "Plateau",
+      "C": "Bayelsa",
+      "D": "Kaduna"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 134,
+    "question": "What does the abbreviation 'NCAC' stand for in Nigeria's culture/tourism space?",
+    "options": {
+      "A": "National Council for Arts and Culture",
+      "B": "World Tourism Organization",
+      "C": "United Nations Educational, Scientific and Cultural Organization",
+      "D": "National Commission for Museums and Monuments"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 135,
+    "question": "Sukur Cultural Landscape can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Niger",
+      "B": "Adamawa",
+      "C": "Plateau",
+      "D": "Bauchi"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 136,
+    "question": "The instrument 'Talking drum (Gangan)' is primarily associated with which culture?",
+    "options": {
+      "A": "Hausa/Fulani",
+      "B": "Yoruba",
+      "C": "Ijaw",
+      "D": "Cross-cultural"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 137,
+    "question": "Gese belongs traditionally to which Nigerian ethnic group?",
+    "options": {
+      "A": "Ibibio",
+      "B": "Yoruba",
+      "C": "Tiv",
+      "D": "Efik"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 138,
+    "question": "The Sharo Festival primarily takes place in which state of Nigeria?",
+    "options": {
+      "A": "Anambra",
+      "B": "FCT",
+      "C": "Borno",
+      "D": "Osun"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 139,
+    "question": "What does the abbreviation 'NTDC' stand for in Nigeria's culture/tourism space?",
+    "options": {
+      "A": "United Nations Educational, Scientific and Cultural Organization",
+      "B": "Nigerian Tourism Development Corporation",
+      "C": "World Tourism Organization",
+      "D": "National Council for Arts and Culture"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 140,
+    "question": "The instrument 'Ekwe slit drum' is primarily associated with which culture?",
+    "options": {
+      "A": "Igbo",
+      "B": "Yoruba",
+      "C": "Efik",
+      "D": "Ijaw"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 141,
+    "question": "Which festival is best known for: Kalabari regatta?",
+    "options": {
+      "A": "Nwokoro Boat Regatta",
+      "B": "Osun-Osogbo Festival",
+      "C": "Sharo Festival",
+      "D": "Ojude Oba Festival"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 142,
+    "question": "In which Nigerian state is the New Yam Festival (Iri Ji) held?",
+    "options": {
+      "A": "Osun",
+      "B": "Abia",
+      "C": "Anambra",
+      "D": "Kaduna"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 143,
+    "question": "In which Nigerian state is the Igue Festival held?",
+    "options": {
+      "A": "Edo",
+      "B": "Nasarawa",
+      "C": "Oyo",
+      "D": "Kogi"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 144,
+    "question": "Osun-Osogbo Sacred Grove can best be described as located in which Nigerian state?",
+    "options": {
+      "A": "Niger",
+      "B": "Kano",
+      "C": "Kebbi",
+      "D": "Osun"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 145,
+    "question": "Which festival is best known for: Fulani flogging rite of passage?",
+    "options": {
+      "A": "Sharo Festival",
+      "B": "Argungu Fishing Festival",
+      "C": "Durbar Festival",
+      "D": "Ojude Oba Festival"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 146,
+    "question": "Select the correct term for: Tourism for people of all abilities",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Heritage impact assessment",
+      "C": "Accessible tourism",
+      "D": "Dark tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 147,
+    "question": "The traditional dance 'Koroso' is associated with which ethnic group?",
+    "options": {
+      "A": "Efik",
+      "B": "Hausa",
+      "C": "Kanuri",
+      "D": "Fulani"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 148,
+    "question": "In which Nigerian state is Zuma Rock located?",
+    "options": {
+      "A": "Zamfara",
+      "B": "Niger",
+      "C": "Imo",
+      "D": "Abia"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 149,
+    "question": "What does the abbreviation 'NCMM' stand for in Nigeria's culture/tourism space?",
+    "options": {
+      "A": "Nigerian Tourism Development Corporation",
+      "B": "World Tourism Organization",
+      "C": "National Commission for Museums and Monuments",
+      "D": "United Nations Educational, Scientific and Cultural Organization"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 150,
+    "question": "Which tourism/culture term best matches this definition: 'Responsible travel to natural areas that conserves the environment and improves local well-being'?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Intangible cultural heritage",
+      "C": "Dark tourism",
+      "D": "DMO"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 151,
+    "question": "Which tourism/culture term best matches this definition: 'Tourism for people of all abilities'?",
+    "options": {
+      "A": "MICE",
+      "B": "Accessible tourism",
+      "C": "Geo-tourism",
+      "D": "Overtourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 152,
+    "question": "In which Nigerian state is the Durbar Festival held?",
+    "options": {
+      "A": "Kano",
+      "B": "Abia",
+      "C": "Taraba",
+      "D": "Bauchi"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 153,
+    "question": "The traditional dance 'Ekombi' is associated with which ethnic group?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Tiv",
+      "C": "Efik",
+      "D": "Ibibio"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 154,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "Dark tourism",
+      "C": "Ecotourism",
+      "D": "Destination branding"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 155,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Cultural tourism",
+      "C": "Shoulder season",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 156,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Cultural tourism",
+      "C": "Heritage impact assessment",
+      "D": "Carrying capacity"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 157,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Intangible cultural heritage",
+      "C": "Overtourism",
+      "D": "Ecotourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 158,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Destination branding",
+      "C": "MICE",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 159,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Leakage",
+      "C": "DMO",
+      "D": "Creative tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 160,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Shoulder season",
+      "C": "Intangible cultural heritage",
+      "D": "Accessible tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 161,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Cultural tourism",
+      "C": "Carrying capacity",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 162,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Intangible cultural heritage",
+      "C": "Cultural tourism",
+      "D": "Accessible tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 163,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Geo-tourism",
+      "C": "Heritage impact assessment",
+      "D": "DMO"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 164,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "DMO",
+      "C": "Heritage impact assessment",
+      "D": "Dark tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 165,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Heritage impact assessment",
+      "C": "Creative tourism",
+      "D": "Ecotourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 166,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Dark tourism",
+      "C": "Cultural tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 167,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Intangible cultural heritage",
+      "C": "Leakage",
+      "D": "Dark tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 168,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Geo-tourism",
+      "C": "Cultural tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 169,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Ecotourism",
+      "C": "Accessible tourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 170,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Geo-tourism",
+      "C": "Heritage impact assessment",
+      "D": "Carrying capacity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 171,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "DMO",
+      "C": "Carrying capacity",
+      "D": "Ecotourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 172,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Accessible tourism",
+      "C": "MICE",
+      "D": "Overtourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 173,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Heritage impact assessment",
+      "C": "Creative tourism",
+      "D": "MICE"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 174,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Accessible tourism",
+      "C": "Cultural tourism",
+      "D": "DMO"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 175,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Heritage impact assessment",
+      "C": "Dark tourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 176,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Carrying capacity",
+      "C": "Geo-tourism",
+      "D": "Overtourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 177,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Leakage",
+      "C": "Accessible tourism",
+      "D": "Overtourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 178,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Leakage",
+      "C": "Creative tourism",
+      "D": "Carrying capacity"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 179,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Carrying capacity",
+      "C": "Heritage impact assessment",
+      "D": "Dark tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 180,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Heritage impact assessment",
+      "C": "Ecotourism",
+      "D": "Creative tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 181,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Intangible cultural heritage",
+      "C": "Heritage impact assessment",
+      "D": "Destination branding"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 182,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "DMO",
+      "C": "Geo-tourism",
+      "D": "Leakage"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 183,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Shoulder season",
+      "C": "Creative tourism",
+      "D": "Ecotourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 184,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Ecotourism",
+      "C": "Accessible tourism",
+      "D": "Geo-tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 185,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Accessible tourism",
+      "C": "Shoulder season",
+      "D": "Cultural tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 186,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Overtourism",
+      "C": "Cultural tourism",
+      "D": "Dark tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 187,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Creative tourism",
+      "C": "Geo-tourism",
+      "D": "Dark tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 188,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Destination branding",
+      "C": "Leakage",
+      "D": "MICE"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 189,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Accessible tourism",
+      "C": "Geo-tourism",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 190,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Shoulder season",
+      "C": "Geo-tourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 191,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "DMO",
+      "C": "Geo-tourism",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 192,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Leakage",
+      "C": "Cultural tourism",
+      "D": "Accessible tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 193,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Creative tourism",
+      "C": "Shoulder season",
+      "D": "Destination branding"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 194,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Dark tourism",
+      "C": "Leakage",
+      "D": "Accessible tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 195,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Heritage impact assessment",
+      "C": "DMO",
+      "D": "Dark tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 196,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Shoulder season",
+      "C": "Destination branding",
+      "D": "Creative tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 197,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Geo-tourism",
+      "C": "Leakage",
+      "D": "Carrying capacity"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 198,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "DMO",
+      "C": "Leakage",
+      "D": "Shoulder season"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 199,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Leakage",
+      "C": "Geo-tourism",
+      "D": "Ecotourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 200,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "DMO",
+      "C": "Ecotourism",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 201,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Overtourism",
+      "C": "Carrying capacity",
+      "D": "Leakage"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 202,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Ecotourism",
+      "C": "Heritage impact assessment",
+      "D": "Overtourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 203,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "Geo-tourism",
+      "C": "MICE",
+      "D": "Shoulder season"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 204,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Destination branding",
+      "C": "Intangible cultural heritage",
+      "D": "DMO"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 205,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Dark tourism",
+      "C": "Leakage",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 206,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Accessible tourism",
+      "C": "MICE",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 207,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "MICE",
+      "C": "Intangible cultural heritage",
+      "D": "Accessible tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 208,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Cultural tourism",
+      "C": "MICE",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 209,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Overtourism",
+      "C": "Intangible cultural heritage",
+      "D": "Dark tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 210,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Carrying capacity",
+      "C": "MICE",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 211,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Ecotourism",
+      "C": "Destination branding",
+      "D": "Geo-tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 212,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Heritage impact assessment",
+      "C": "Accessible tourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 213,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Heritage impact assessment",
+      "C": "Cultural tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 214,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Accessible tourism",
+      "C": "Carrying capacity",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 215,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Destination branding",
+      "C": "Cultural tourism",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 216,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Ecotourism",
+      "C": "Intangible cultural heritage",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 217,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Geo-tourism",
+      "C": "Shoulder season",
+      "D": "Cultural tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 218,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Creative tourism",
+      "C": "Geo-tourism",
+      "D": "Cultural tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 219,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Carrying capacity",
+      "C": "Intangible cultural heritage",
+      "D": "DMO"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 220,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Intangible cultural heritage",
+      "C": "Creative tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 221,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Carrying capacity",
+      "C": "Geo-tourism",
+      "D": "Cultural tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 222,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Dark tourism",
+      "C": "Heritage impact assessment",
+      "D": "Accessible tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 223,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Geo-tourism",
+      "C": "Leakage",
+      "D": "Dark tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 224,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Dark tourism",
+      "C": "DMO",
+      "D": "Shoulder season"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 225,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Heritage impact assessment",
+      "C": "Geo-tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 226,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Cultural tourism",
+      "C": "DMO",
+      "D": "Accessible tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 227,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "DMO",
+      "C": "Leakage",
+      "D": "Shoulder season"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 228,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Shoulder season",
+      "C": "Creative tourism",
+      "D": "Accessible tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 229,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Leakage",
+      "C": "Dark tourism",
+      "D": "Accessible tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 230,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Creative tourism",
+      "C": "Cultural tourism",
+      "D": "Ecotourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 231,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Cultural tourism",
+      "C": "Carrying capacity",
+      "D": "Destination branding"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 232,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Accessible tourism",
+      "C": "Leakage",
+      "D": "Destination branding"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 233,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "MICE",
+      "C": "Leakage",
+      "D": "Geo-tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 234,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Leakage",
+      "C": "DMO",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 235,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Creative tourism",
+      "C": "Cultural tourism",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 236,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Geo-tourism",
+      "C": "Dark tourism",
+      "D": "Destination branding"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 237,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "Carrying capacity",
+      "C": "Dark tourism",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 238,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Dark tourism",
+      "C": "Carrying capacity",
+      "D": "Creative tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 239,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Dark tourism",
+      "C": "Leakage",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 240,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Dark tourism",
+      "C": "Heritage impact assessment",
+      "D": "Shoulder season"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 241,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Destination branding",
+      "C": "MICE",
+      "D": "Carrying capacity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 242,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Destination branding",
+      "C": "Overtourism",
+      "D": "Leakage"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 243,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Accessible tourism",
+      "C": "Destination branding",
+      "D": "Shoulder season"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 244,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Dark tourism",
+      "C": "Ecotourism",
+      "D": "Overtourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 245,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Dark tourism",
+      "C": "Destination branding",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 246,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Geo-tourism",
+      "C": "Intangible cultural heritage",
+      "D": "Ecotourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 247,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "Overtourism",
+      "C": "Destination branding",
+      "D": "Leakage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 248,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Leakage",
+      "C": "Accessible tourism",
+      "D": "DMO"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 249,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Accessible tourism",
+      "C": "Leakage",
+      "D": "MICE"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 250,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Intangible cultural heritage",
+      "C": "Dark tourism",
+      "D": "Carrying capacity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 251,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "DMO",
+      "C": "Accessible tourism",
+      "D": "Geo-tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 252,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Accessible tourism",
+      "C": "MICE",
+      "D": "Cultural tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 253,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Intangible cultural heritage",
+      "C": "Cultural tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 254,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Ecotourism",
+      "C": "Intangible cultural heritage",
+      "D": "Shoulder season"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 255,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Cultural tourism",
+      "C": "Heritage impact assessment",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 256,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Heritage impact assessment",
+      "C": "Destination branding",
+      "D": "Cultural tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 257,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Geo-tourism",
+      "C": "MICE",
+      "D": "Ecotourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 258,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Geo-tourism",
+      "C": "Ecotourism",
+      "D": "Shoulder season"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 259,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "MICE",
+      "C": "Ecotourism",
+      "D": "Creative tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 260,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "MICE",
+      "C": "Carrying capacity",
+      "D": "Cultural tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 261,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Leakage",
+      "C": "Carrying capacity",
+      "D": "Dark tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 262,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Dark tourism",
+      "C": "Accessible tourism",
+      "D": "Overtourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 263,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Destination branding",
+      "C": "MICE",
+      "D": "DMO"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 264,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "DMO",
+      "C": "Dark tourism",
+      "D": "Overtourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 265,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "DMO",
+      "C": "Creative tourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 266,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Geo-tourism",
+      "C": "Ecotourism",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 267,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Cultural tourism",
+      "C": "Accessible tourism",
+      "D": "Leakage"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 268,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Destination branding",
+      "C": "Creative tourism",
+      "D": "Dark tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 269,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Shoulder season",
+      "C": "Accessible tourism",
+      "D": "DMO"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 270,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Geo-tourism",
+      "C": "Heritage impact assessment",
+      "D": "Destination branding"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 271,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Geo-tourism",
+      "C": "Heritage impact assessment",
+      "D": "Destination branding"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 272,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Destination branding",
+      "C": "Ecotourism",
+      "D": "Leakage"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 273,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Shoulder season",
+      "C": "Accessible tourism",
+      "D": "Leakage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 274,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Ecotourism",
+      "C": "Leakage",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 275,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Shoulder season",
+      "C": "Cultural tourism",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 276,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Shoulder season",
+      "C": "Geo-tourism",
+      "D": "Destination branding"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 277,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Accessible tourism",
+      "C": "Carrying capacity",
+      "D": "Destination branding"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 278,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Leakage",
+      "C": "MICE",
+      "D": "Destination branding"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 279,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "DMO",
+      "C": "Dark tourism",
+      "D": "Carrying capacity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 280,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Heritage impact assessment",
+      "C": "Cultural tourism",
+      "D": "DMO"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 281,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Intangible cultural heritage",
+      "C": "Destination branding",
+      "D": "Dark tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 282,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "DMO",
+      "C": "Ecotourism",
+      "D": "Geo-tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 283,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "MICE",
+      "C": "Heritage impact assessment",
+      "D": "Creative tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 284,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Accessible tourism",
+      "C": "Dark tourism",
+      "D": "DMO"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 285,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Creative tourism",
+      "C": "Heritage impact assessment",
+      "D": "Dark tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 286,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Dark tourism",
+      "C": "Cultural tourism",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 287,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Shoulder season",
+      "C": "Ecotourism",
+      "D": "Creative tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 288,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Geo-tourism",
+      "C": "Leakage",
+      "D": "Shoulder season"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 289,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Creative tourism",
+      "C": "Geo-tourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 290,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Carrying capacity",
+      "C": "Ecotourism",
+      "D": "MICE"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 291,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Creative tourism",
+      "C": "DMO",
+      "D": "Cultural tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 292,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Dark tourism",
+      "C": "Overtourism",
+      "D": "DMO"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 293,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Accessible tourism",
+      "C": "Cultural tourism",
+      "D": "Carrying capacity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 294,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Cultural tourism",
+      "C": "Heritage impact assessment",
+      "D": "Leakage"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 295,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Intangible cultural heritage",
+      "C": "Destination branding",
+      "D": "Cultural tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 296,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Geo-tourism",
+      "C": "Leakage",
+      "D": "Destination branding"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 297,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Accessible tourism",
+      "C": "Carrying capacity",
+      "D": "Cultural tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 298,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Creative tourism",
+      "C": "DMO",
+      "D": "Accessible tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 299,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Leakage",
+      "C": "Creative tourism",
+      "D": "Cultural tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 300,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Accessible tourism",
+      "C": "Leakage",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 301,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Dark tourism",
+      "C": "Cultural tourism",
+      "D": "Geo-tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 302,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Accessible tourism",
+      "C": "Leakage",
+      "D": "Carrying capacity"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 303,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Shoulder season",
+      "C": "Cultural tourism",
+      "D": "Accessible tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 304,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Intangible cultural heritage",
+      "C": "Destination branding",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 305,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "DMO",
+      "C": "Carrying capacity",
+      "D": "Shoulder season"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 306,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "DMO",
+      "C": "Heritage impact assessment",
+      "D": "Carrying capacity"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 307,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Carrying capacity",
+      "C": "Shoulder season",
+      "D": "Dark tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 308,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Dark tourism",
+      "C": "Ecotourism",
+      "D": "MICE"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 309,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "DMO",
+      "C": "Dark tourism",
+      "D": "Leakage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 310,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Dark tourism",
+      "C": "Leakage",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 311,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Accessible tourism",
+      "C": "MICE",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 312,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "MICE",
+      "C": "Cultural tourism",
+      "D": "Accessible tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 313,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Creative tourism",
+      "C": "Leakage",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 314,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Dark tourism",
+      "C": "DMO",
+      "D": "Destination branding"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 315,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Accessible tourism",
+      "C": "Leakage",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 316,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Cultural tourism",
+      "C": "Destination branding",
+      "D": "MICE"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 317,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Cultural tourism",
+      "C": "Ecotourism",
+      "D": "MICE"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 318,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "DMO",
+      "C": "Shoulder season",
+      "D": "Carrying capacity"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 319,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Creative tourism",
+      "C": "Accessible tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 320,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Carrying capacity",
+      "C": "Cultural tourism",
+      "D": "Geo-tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 321,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Intangible cultural heritage",
+      "C": "Dark tourism",
+      "D": "Carrying capacity"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 322,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Overtourism",
+      "C": "Dark tourism",
+      "D": "Leakage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 323,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Cultural tourism",
+      "C": "Geo-tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 324,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Intangible cultural heritage",
+      "C": "Leakage",
+      "D": "DMO"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 325,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Dark tourism",
+      "C": "Overtourism",
+      "D": "Creative tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 326,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Cultural tourism",
+      "C": "Intangible cultural heritage",
+      "D": "Creative tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 327,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Dark tourism",
+      "C": "Heritage impact assessment",
+      "D": "Accessible tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 328,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Leakage",
+      "C": "Creative tourism",
+      "D": "DMO"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 329,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Accessible tourism",
+      "C": "Intangible cultural heritage",
+      "D": "Dark tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 330,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Carrying capacity",
+      "C": "Destination branding",
+      "D": "DMO"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 331,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Creative tourism",
+      "C": "Accessible tourism",
+      "D": "Carrying capacity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 332,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Carrying capacity",
+      "C": "Creative tourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 333,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Accessible tourism",
+      "C": "Leakage",
+      "D": "Destination branding"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 334,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "Ecotourism",
+      "C": "Intangible cultural heritage",
+      "D": "Cultural tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 335,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Geo-tourism",
+      "C": "Dark tourism",
+      "D": "Cultural tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 336,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Carrying capacity",
+      "C": "Heritage impact assessment",
+      "D": "DMO"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 337,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Accessible tourism",
+      "C": "Overtourism",
+      "D": "Carrying capacity"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 338,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Dark tourism",
+      "C": "Destination branding",
+      "D": "MICE"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 339,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "DMO",
+      "C": "Geo-tourism",
+      "D": "Accessible tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 340,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Intangible cultural heritage",
+      "C": "Creative tourism",
+      "D": "Dark tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 341,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Creative tourism",
+      "C": "Carrying capacity",
+      "D": "Destination branding"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 342,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Accessible tourism",
+      "C": "Heritage impact assessment",
+      "D": "Creative tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 343,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Geo-tourism",
+      "C": "DMO",
+      "D": "Accessible tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 344,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Dark tourism",
+      "B": "Geo-tourism",
+      "C": "Overtourism",
+      "D": "Creative tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 345,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Leakage",
+      "C": "MICE",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 346,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Destination branding",
+      "C": "DMO",
+      "D": "Geo-tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 347,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Dark tourism",
+      "C": "Creative tourism",
+      "D": "Accessible tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 348,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Destination branding",
+      "C": "Shoulder season",
+      "D": "Leakage"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 349,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Destination branding",
+      "C": "Carrying capacity",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 350,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "MICE",
+      "C": "Accessible tourism",
+      "D": "Destination branding"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 351,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Destination branding",
+      "C": "Carrying capacity",
+      "D": "Creative tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 352,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Overtourism",
+      "C": "Ecotourism",
+      "D": "MICE"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 353,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Ecotourism",
+      "C": "Geo-tourism",
+      "D": "Cultural tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 354,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Carrying capacity",
+      "C": "Heritage impact assessment",
+      "D": "DMO"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 355,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Intangible cultural heritage",
+      "C": "Heritage impact assessment",
+      "D": "Accessible tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 356,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Geo-tourism",
+      "C": "DMO",
+      "D": "MICE"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 357,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Accessible tourism",
+      "C": "Cultural tourism",
+      "D": "Leakage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 358,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Shoulder season",
+      "B": "Intangible cultural heritage",
+      "C": "Carrying capacity",
+      "D": "Creative tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 359,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Carrying capacity",
+      "C": "MICE",
+      "D": "Dark tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 360,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Cultural tourism",
+      "C": "Creative tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 361,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "Dark tourism",
+      "C": "Destination branding",
+      "D": "Leakage"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 362,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "MICE",
+      "C": "Leakage",
+      "D": "Overtourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 363,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Heritage impact assessment",
+      "C": "Shoulder season",
+      "D": "Dark tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 364,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Dark tourism",
+      "C": "Ecotourism",
+      "D": "Leakage"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 365,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "Shoulder season",
+      "C": "Cultural tourism",
+      "D": "Geo-tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 366,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "Cultural tourism",
+      "C": "Overtourism",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 367,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "MICE",
+      "C": "Overtourism",
+      "D": "DMO"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 368,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "MICE",
+      "C": "Intangible cultural heritage",
+      "D": "DMO"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 369,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Heritage impact assessment",
+      "C": "DMO",
+      "D": "MICE"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 370,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Accessible tourism",
+      "C": "MICE",
+      "D": "Carrying capacity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 371,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Geo-tourism",
+      "C": "Destination branding",
+      "D": "Cultural tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 372,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "Carrying capacity",
+      "C": "Geo-tourism",
+      "D": "Overtourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 373,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Intangible cultural heritage",
+      "B": "Creative tourism",
+      "C": "Destination branding",
+      "D": "Accessible tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 374,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Leakage",
+      "C": "Overtourism",
+      "D": "Dark tourism"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 375,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "DMO",
+      "C": "Destination branding",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 376,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Leakage",
+      "B": "Destination branding",
+      "C": "Accessible tourism",
+      "D": "Ecotourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 377,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "DMO",
+      "C": "Leakage",
+      "D": "Accessible tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 378,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Heritage impact assessment",
+      "C": "Creative tourism",
+      "D": "Shoulder season"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 379,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Accessible tourism",
+      "C": "Cultural tourism",
+      "D": "Leakage"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 380,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Accessible tourism",
+      "C": "Dark tourism",
+      "D": "Ecotourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 381,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Geo-tourism",
+      "C": "Carrying capacity",
+      "D": "Ecotourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 382,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Overtourism",
+      "C": "Dark tourism",
+      "D": "Ecotourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 383,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Creative tourism",
+      "C": "MICE",
+      "D": "Cultural tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 384,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "DMO",
+      "B": "Carrying capacity",
+      "C": "Geo-tourism",
+      "D": "Leakage"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 385,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "Accessible tourism",
+      "B": "Leakage",
+      "C": "Geo-tourism",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 386,
+    "question": "In tourism management, what does the concept 'Geo-tourism' refer to?",
+    "options": {
+      "A": "Geo-tourism",
+      "B": "Cultural tourism",
+      "C": "DMO",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 387,
+    "question": "In tourism management, what does the concept 'Accessible tourism' refer to?",
+    "options": {
+      "A": "Destination branding",
+      "B": "Carrying capacity",
+      "C": "Accessible tourism",
+      "D": "Creative tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 388,
+    "question": "In tourism management, what does the concept 'Creative tourism' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "MICE",
+      "C": "Geo-tourism",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 389,
+    "question": "In tourism management, what does the concept 'Dark tourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Dark tourism",
+      "C": "Shoulder season",
+      "D": "Leakage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 390,
+    "question": "In tourism management, what does the concept 'Heritage impact assessment' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "MICE",
+      "C": "Destination branding",
+      "D": "Heritage impact assessment"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 391,
+    "question": "In tourism management, what does the concept 'Destination branding' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Leakage",
+      "C": "Destination branding",
+      "D": "Creative tourism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 392,
+    "question": "In tourism management, what does the concept 'Leakage' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "Leakage",
+      "C": "Creative tourism",
+      "D": "Ecotourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 393,
+    "question": "In tourism management, what does the concept 'Shoulder season' refer to?",
+    "options": {
+      "A": "Heritage impact assessment",
+      "B": "Shoulder season",
+      "C": "Overtourism",
+      "D": "Ecotourism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 394,
+    "question": "In tourism management, what does the concept 'Ecotourism' refer to?",
+    "options": {
+      "A": "Ecotourism",
+      "B": "Cultural tourism",
+      "C": "MICE",
+      "D": "Creative tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 395,
+    "question": "In tourism management, what does the concept 'Cultural tourism' refer to?",
+    "options": {
+      "A": "Cultural tourism",
+      "B": "MICE",
+      "C": "Dark tourism",
+      "D": "Destination branding"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 396,
+    "question": "In tourism management, what does the concept 'Carrying capacity' refer to?",
+    "options": {
+      "A": "Carrying capacity",
+      "B": "DMO",
+      "C": "Overtourism",
+      "D": "MICE"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 397,
+    "question": "In tourism management, what does the concept 'Overtourism' refer to?",
+    "options": {
+      "A": "Overtourism",
+      "B": "Creative tourism",
+      "C": "Ecotourism",
+      "D": "DMO"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 398,
+    "question": "In tourism management, what does the concept 'MICE' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Creative tourism",
+      "C": "Ecotourism",
+      "D": "Accessible tourism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 399,
+    "question": "In tourism management, what does the concept 'DMO' refer to?",
+    "options": {
+      "A": "Creative tourism",
+      "B": "DMO",
+      "C": "Leakage",
+      "D": "Intangible cultural heritage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 400,
+    "question": "In tourism management, what does the concept 'Intangible cultural heritage' refer to?",
+    "options": {
+      "A": "MICE",
+      "B": "Geo-tourism",
+      "C": "Intangible cultural heritage",
+      "D": "Carrying capacity"
+    },
+    "answer": "C"
+  }
+]

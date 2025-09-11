@@ -1,0 +1,6602 @@
+[
+  {
+    "id": 1,
+    "question": "Who formally calls successful candidates to the Nigerian Bar?",
+    "options": {
+      "A": "Nigerian Bar Association",
+      "B": "Body of Benchers",
+      "C": "Council of Legal Education",
+      "D": "Supreme Court"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "The Nigerian Law School is primarily supervised by which body?",
+    "options": {
+      "A": "Body of Benchers",
+      "B": "Council of Legal Education",
+      "C": "Supreme Court of Nigeria",
+      "D": "Attorney-General of the Federation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Which committee investigates and disciplines legal practitioners for professional misconduct?",
+    "options": {
+      "A": "NBA National Executive Committee",
+      "B": "Legal Practitioners Disciplinary Committee (LPDC)",
+      "C": "Council of Legal Education",
+      "D": "Conference Planning Committee"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "question": "In Nigeria, law practice is generally a __________ profession (regarding advocacy and solicitorship).",
+    "options": {
+      "A": "Split",
+      "B": "Fused",
+      "C": "Administrative",
+      "D": "Contractual"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "A person becomes a legal practitioner in Nigeria after call to the Bar and _______.",
+    "options": {
+      "A": "Service year completion",
+      "B": "Enrolment at the Supreme Court",
+      "C": "State Bar registration",
+      "D": "Ministry of Justice clearance"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Which document enables a lawyer to identify themselves on filed court processes in Nigeria?",
+    "options": {
+      "A": "Practising licence card",
+      "B": "NBA seal and stamp",
+      "C": "Call-to-Bar certificate",
+      "D": "University transcript"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "question": "Who chairs the Legal Practitioners Privileges Committee (for conferring SAN rank)?",
+    "options": {
+      "A": "President of the NBA",
+      "B": "Chief Justice of Nigeria",
+      "C": "Attorney-General of the Federation",
+      "D": "President of the Court of Appeal"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "question": "The primary statutory framework regulating legal practitioners in Nigeria is the:",
+    "options": {
+      "A": "Evidence Act",
+      "B": "Legal Practitioners Act",
+      "C": "Court of Appeal Act",
+      "D": "Sheriffs and Civil Process Act"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Which is NOT a typical sanction the LPDC may impose?",
+    "options": {
+      "A": "Friendly warning without record",
+      "B": "Suspension from practice",
+      "C": "Striking the name off the roll",
+      "D": "Admonition and/or costs"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 10,
+    "question": "Nigerian lawyers are restricted from improper advertising primarily by the:",
+    "options": {
+      "A": "Constitution only",
+      "B": "Rules of Professional Conduct",
+      "C": "Criminal Code",
+      "D": "National Assembly Ethics Code"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "The Body of Benchers is best described as a:",
+    "options": {
+      "A": "Trade union",
+      "B": "Statutory body that admits new lawyers",
+      "C": "Political association",
+      "D": "Judicial panel of inquiry"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "An advocate must place the duty to ______ above all other considerations.",
+    "options": {
+      "A": "Client’s wealth",
+      "B": "The court and the cause of justice",
+      "C": "Publicity for the firm",
+      "D": "Popular opinion"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Contingency fee arrangements in Nigeria are generally:",
+    "options": {
+      "A": "Banned in all matters",
+      "B": "Permitted in appropriate civil matters",
+      "C": "Mandatory in commercial disputes",
+      "D": "Required in criminal defence"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "question": "A lawyer’s duty of confidentiality generally:",
+    "options": {
+      "A": "Ends after the brief",
+      "B": "Is waived by media reports",
+      "C": "Survives the end of representation",
+      "D": "Depends on client’s social status"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "A Notary Public in Nigeria is appointed by the:",
+    "options": {
+      "A": "President of the NBA",
+      "B": "Chief Justice of Nigeria",
+      "C": "President of the Court of Appeal",
+      "D": "Chief Judge of the Federal High Court"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "question": "Who primarily issues the official seal/stamp used on court processes by lawyers?",
+    "options": {
+      "A": "Body of Benchers",
+      "B": "Nigerian Bar Association",
+      "C": "Supreme Court Registry",
+      "D": "Council of Legal Education"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "A legal practitioner must avoid conflicts of interest, which means:",
+    "options": {
+      "A": "Acting for all sides to be fair",
+      "B": "Prioritising fees over ethics",
+      "C": "Not representing adverse interests without informed consent",
+      "D": "Withdrawing from every paid brief"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "The rank of Senior Advocate of Nigeria (SAN) recognises:",
+    "options": {
+      "A": "Political affiliation",
+      "B": "Academic rank alone",
+      "C": "Distinction in legal practice and contribution to law",
+      "D": "Years since NYSC"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "When a lawyer holds client money, the funds should be:",
+    "options": {
+      "A": "Kept in a personal savings account",
+      "B": "Mixed with office running funds",
+      "C": "Kept in a designated client account",
+      "D": "Converted to cash for safety"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 20,
+    "question": "A lawyer may properly withdraw from a brief if:",
+    "options": {
+      "A": "The case is unpopular",
+      "B": "The client insists on unethical conduct",
+      "C": "The opposing counsel is senior",
+      "D": "The court is crowded"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "The Nigerian Bar Association (NBA) is primarily a:",
+    "options": {
+      "A": "Government ministry",
+      "B": "Statutory regulator of universities",
+      "C": "Professional association for lawyers",
+      "D": "Judicial arm of government"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "“Right of audience” refers to a lawyer’s:",
+    "options": {
+      "A": "Media interview rights",
+      "B": "Right to appear before a court",
+      "C": "Right to critique judgments publicly",
+      "D": "Right to publish advertisements"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "question": "A lawyer’s lien typically allows the lawyer to:",
+    "options": {
+      "A": "Sell the client’s property",
+      "B": "Retain client papers for unpaid fees (subject to law and ethics)",
+      "C": "Arrest the client",
+      "D": "Write to the judge privately"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 24,
+    "question": "Communication with a represented person on the subject matter of representation should be:",
+    "options": {
+      "A": "Freely done by email",
+      "B": "Through or with consent of their lawyer",
+      "C": "Through court registrars only",
+      "D": "Via social media"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Which is TRUE regarding firm structure for legal practice in Nigeria?",
+    "options": {
+      "A": "Practice as a limited liability company is standard",
+      "B": "Practice is typically as sole practitioner or partnership",
+      "C": "Only government lawyers can be partners",
+      "D": "Foreign corporations routinely own law firms"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Which best expresses a lawyer’s role in court?",
+    "options": {
+      "A": "Sales agent for client",
+      "B": "Minister in the temple of justice",
+      "C": "Public relations officer",
+      "D": "Political advocate"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "question": "Professional privilege protects:",
+    "options": {
+      "A": "All discussions with friends",
+      "B": "Communications between lawyer and client made for legal advice",
+      "C": "Any workplace chat",
+      "D": "Only oral statements in open court"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "The LPDC operates under the:",
+    "options": {
+      "A": "Court of Appeal Rules",
+      "B": "Body of Benchers",
+      "C": "National Assembly Service Commission",
+      "D": "Nigerian Law Reform Commission"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Using the NBA seal/stamp on processes primarily:",
+    "options": {
+      "A": "Guarantees victory",
+      "B": "Shows payment of Bar Practising Fees and validity of signature",
+      "C": "Replaces filing fees",
+      "D": "Authorises ex parte messaging to judges"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "question": "A lawyer must not share legal fees with:",
+    "options": {
+      "A": "A junior associate",
+      "B": "A partner",
+      "C": "A non-lawyer",
+      "D": "Co-counsel"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "question": "When a potential conflict arises, the prudent step is to:",
+    "options": {
+      "A": "Ignore it to avoid delay",
+      "B": "Obtain informed consent where permissible or decline/withdraw",
+      "C": "Announce it at the end of trial",
+      "D": "Delegate to a clerk"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "question": "The Council of Legal Education’s core function includes:",
+    "options": {
+      "A": "Court discipline",
+      "B": "Legal education and training at the Law School",
+      "C": "Drafting criminal laws",
+      "D": "Managing NBA branches"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "question": "A lawyer’s undertaking is regarded as:",
+    "options": {
+      "A": "Mere promise",
+      "B": "Ethically binding and enforceable",
+      "C": "Public policy statement",
+      "D": "Press release"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 34,
+    "question": "“Holding out” as a lawyer without being called/enrolled is:",
+    "options": {
+      "A": "Acceptable if client agrees",
+      "B": "A social media issue only",
+      "C": "Professional misconduct/criminal offence",
+      "D": "A civil wrong without sanction"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 35,
+    "question": "In-house counsel in Nigeria:",
+    "options": {
+      "A": "Are not legal practitioners",
+      "B": "Cannot appear in court at all",
+      "C": "Are legal practitioners if called/enrolled",
+      "D": "Must be SANs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "Private communication with a judge about a pending case is:",
+    "options": {
+      "A": "Clever strategy",
+      "B": "Allowed if polite",
+      "C": "Prohibited ex parte contact (outside proper procedure)",
+      "D": "Required before submissions"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "question": "A lawyer’s fee should be:",
+    "options": {
+      "A": "Arbitrary",
+      "B": "Secret",
+      "C": "Reasonable considering time, novelty, and result",
+      "D": "Fixed by the client alone"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 38,
+    "question": "“Pro bono” service means:",
+    "options": {
+      "A": "Paid premium service",
+      "B": "Free legal service in the public interest",
+      "C": "Government-only work",
+      "D": "Media advocacy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "question": "A lawyer who receives client documents must:",
+    "options": {
+      "A": "Alter them for clarity",
+      "B": "Keep them safe and return on demand, subject to lien",
+      "C": "Post them online",
+      "D": "Forward to opponent for review"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 40,
+    "question": "If a client intends to commit a crime, the lawyer should:",
+    "options": {
+      "A": "Assist quietly",
+      "B": "Ignore it",
+      "C": "Decline/withdraw and avoid facilitating illegality",
+      "D": "Publicise it on social media"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 41,
+    "question": "Conflicts related to former clients primarily involve:",
+    "options": {
+      "A": "Social events",
+      "B": "Substantially related matters and use of confidential information",
+      "C": "Filing fees",
+      "D": "Dress code"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "question": "A lawyer’s letterhead must not:",
+    "options": {
+      "A": "Show office address",
+      "B": "Indicate practice areas",
+      "C": "Mislead or make unverifiable claims",
+      "D": "Include phone numbers"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 43,
+    "question": "The “roll of legal practitioners” is maintained by the:",
+    "options": {
+      "A": "NBA Branches",
+      "B": "Supreme Court of Nigeria",
+      "C": "High Courts",
+      "D": "Council of Legal Education"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 44,
+    "question": "A Nigerian law firm name should avoid:",
+    "options": {
+      "A": "Partners’ surnames",
+      "B": "Misleading claims of government affiliation",
+      "C": "Indicating its city",
+      "D": "Listing email addresses"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "question": "A lawyer should not act where their independent judgment is:",
+    "options": {
+      "A": "Strengthened",
+      "B": "Unaffected",
+      "C": "Materially limited by personal interests",
+      "D": "Well-researched"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 46,
+    "question": "When a client insists on testimony the lawyer knows is false, the lawyer should:",
+    "options": {
+      "A": "Coach the witness to be consistent",
+      "B": "Present it anyway",
+      "C": "Decline to offer false evidence and take remedial steps",
+      "D": "Avoid attending court"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "question": "The rank of SAN primarily confers:",
+    "options": {
+      "A": "Automatic political office",
+      "B": "Enhanced right of audience and precedence",
+      "C": "Corporate shares",
+      "D": "Judicial appointment"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "question": "A junior counsel must:",
+    "options": {
+      "A": "Disobey instructions",
+      "B": "Ignore ethics for speed",
+      "C": "Uphold the RPC and follow lawful instructions",
+      "D": "Sign as senior if absent"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "question": "Client identification and due diligence help prevent:",
+    "options": {
+      "A": "Court sittings",
+      "B": "Legal analysis",
+      "C": "Money laundering and fraud",
+      "D": "Filing fees"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 50,
+    "question": "Fee agreements are best recorded:",
+    "options": {
+      "A": "Orally only",
+      "B": "In a clear written engagement letter",
+      "C": "By text slang",
+      "D": "Not at all"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "question": "A lawyer’s paramount duty in advocacy is to:",
+    "options": {
+      "A": "Entertain spectators",
+      "B": "Advance justice and assist the court",
+      "C": "Please the media",
+      "D": "Shorten every trial"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "question": "Advertising that is permissible is typically:",
+    "options": {
+      "A": "False or misleading claims",
+      "B": "Comparative denigration",
+      "C": "Factual, dignified, and not sensational",
+      "D": "Guaranteed outcomes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "question": "The duty of candour to the court requires lawyers to:",
+    "options": {
+      "A": "Conceal adverse authorities",
+      "B": "Correct material misstatements",
+      "C": "Hide case law from clients",
+      "D": "Refuse questions"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 54,
+    "question": "The primary purpose of pupillage/mentoring in firms is:",
+    "options": {
+      "A": "Political training",
+      "B": "Skills development and ethical grounding",
+      "C": "Social media growth",
+      "D": "Revenue collection"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 55,
+    "question": "A retainer creates:",
+    "options": {
+      "A": "Friendship",
+      "B": "Journalist access",
+      "C": "Lawyer–client relationship and duties",
+      "D": "Court employment"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "question": "A law firm may ethically use:",
+    "options": {
+      "A": "False testimonials",
+      "B": "Unsolicited harassing calls",
+      "C": "Accurate website with contact details",
+      "D": "Inflated success rates"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "question": "A lawyer’s trust account must be:",
+    "options": {
+      "A": "Overdrawn when needed",
+      "B": "Used for office rent",
+      "C": "Separate from personal/office funds",
+      "D": "In foreign currency only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 58,
+    "question": "A conflict can often be cured by:",
+    "options": {
+      "A": "Silence",
+      "B": "Client’s informed consent where permitted",
+      "C": "Media polls",
+      "D": "Court gossip"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 59,
+    "question": "The disciplinary process for serious misconduct ultimately can lead to:",
+    "options": {
+      "A": "Free seminar",
+      "B": "Higher fees",
+      "C": "Disbarment (striking off)",
+      "D": "Birthday note"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "question": "A barrister’s robe and wig in superior courts signify:",
+    "options": {
+      "A": "Fashion",
+      "B": "Allegiance to a party",
+      "C": "Tradition and the solemnity of justice",
+      "D": "Fee level"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "question": "Lawyers must avoid assisting a client in conduct that is:",
+    "options": {
+      "A": "Lawful",
+      "B": "Procedural",
+      "C": "Criminal or fraudulent",
+      "D": "Novel"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "question": "A lawyer appearing late habitually may breach the duty of:",
+    "options": {
+      "A": "Courtesy and respect to court",
+      "B": "Profitability",
+      "C": "Friendship",
+      "D": "Dress code only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "question": "Privileged communications may be disclosed:",
+    "options": {
+      "A": "For social media debates",
+      "B": "To impress friends",
+      "C": "With client’s informed consent or as required by law",
+      "D": "To court clerks informally"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 64,
+    "question": "A lawyer should promptly account for:",
+    "options": {
+      "A": "Personal loans",
+      "B": "Client money and property",
+      "C": "Rumours",
+      "D": "Freebies"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "question": "A firm’s conflict check system primarily aims to:",
+    "options": {
+      "A": "Expand marketing",
+      "B": "Track court sittings",
+      "C": "Detect adverse interests before accepting briefs",
+      "D": "Reduce research"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "question": "Undertakings given by counsel should be:",
+    "options": {
+      "A": "Vague",
+      "B": "Ignored",
+      "C": "Honoured strictly",
+      "D": "Negotiated with clerks"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 67,
+    "question": "Courtesy to opposing counsel entails:",
+    "options": {
+      "A": "Concealing dates",
+      "B": "Threatening messages",
+      "C": "Professional respect and cooperation within rules",
+      "D": "Ex parte chats with the judge"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 68,
+    "question": "If a lawyer’s health impairs representation, they should:",
+    "options": {
+      "A": "Hide it",
+      "B": "Continue regardless",
+      "C": "Take steps to protect client, including withdrawal if necessary",
+      "D": "Transfer to a clerk"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 69,
+    "question": "Serving as both witness and advocate in the same matter is:",
+    "options": {
+      "A": "Always required",
+      "B": "Generally discouraged except where permitted",
+      "C": "Standard practice",
+      "D": "For juniors only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 70,
+    "question": "A lawyer may hold himself out as a specialist:",
+    "options": {
+      "A": "By making unverifiable superlatives",
+      "B": "Only by false guarantees",
+      "C": "If claims are truthful and not misleading",
+      "D": "By insults to peers"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "question": "Branches of the NBA primarily:",
+    "options": {
+      "A": "Appoint judges",
+      "B": "Run private prisons",
+      "C": "Support members and legal development locally",
+      "D": "Legislate for states"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 72,
+    "question": "Payment of Bar Practising Fees (BPF) is linked to:",
+    "options": {
+      "A": "University admission",
+      "B": "Right to appear and NBA seal issuance",
+      "C": "Jury service",
+      "D": "Court holidays"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 73,
+    "question": "“Holding brief” ethically requires the appearing counsel to:",
+    "options": {
+      "A": "Ignore the file",
+      "B": "Seek adjournment only",
+      "C": "Be properly instructed and protect client interests",
+      "D": "Avoid speaking"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 74,
+    "question": "A retainer ends when:",
+    "options": {
+      "A": "Client pays first fee",
+      "B": "Lawyer wishes",
+      "C": "Matter concludes or valid withdrawal occurs",
+      "D": "Court sits"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 75,
+    "question": "Lawyers must keep client files:",
+    "options": {
+      "A": "Publicly accessible",
+      "B": "Scattered",
+      "C": "Secure and retrievable",
+      "D": "With opponents"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 76,
+    "question": "A lawyer who knowingly misleads the court commits:",
+    "options": {
+      "A": "Good advocacy",
+      "B": "A tactical move",
+      "C": "Professional misconduct",
+      "D": "Judicial training"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 77,
+    "question": "Mediation advocacy by lawyers is:",
+    "options": {
+      "A": "Forbidden",
+      "B": "Allowed and encouraged where appropriate",
+      "C": "Reserved for judges",
+      "D": "Only for SANs"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "question": "A firm’s name “Justice Ministry Associates” would likely be:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Preferred",
+      "C": "Misleading (implying government affiliation)",
+      "D": "Mandatory"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 79,
+    "question": "A junior’s duty to the court is:",
+    "options": {
+      "A": "Optional",
+      "B": "Secondary to client instructions",
+      "C": "Paramount alongside the senior’s",
+      "D": "For registrars only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "question": "Client instructions that are illegal should be:",
+    "options": {
+      "A": "Executed quietly",
+      "B": "Negotiated with opponents",
+      "C": "Declined by the lawyer",
+      "D": "Disguised"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 81,
+    "question": "When using social media, a lawyer should avoid:",
+    "options": {
+      "A": "Accurate legal information",
+      "B": "Educational posts",
+      "C": "Revealing confidential client details",
+      "D": "Basic firm contact info"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 82,
+    "question": "The principal test for ineffectiveness from conflict is whether the lawyer’s:",
+    "options": {
+      "A": "Tie colour changed",
+      "B": "Judgment may be materially limited",
+      "C": "Car broke down",
+      "D": "Friend objected"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "question": "“Professional misconduct” includes:",
+    "options": {
+      "A": "Timely filings",
+      "B": "Honest submissions",
+      "C": "Dishonesty, fraud, or gross negligence",
+      "D": "Court decorum"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 84,
+    "question": "A firm handling opposite sides of the same dispute:",
+    "options": {
+      "A": "Shows neutrality",
+      "B": "Is acceptable with silence",
+      "C": "Raises a non-consentable conflict",
+      "D": "Saves costs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 85,
+    "question": "A counsel’s dress in superior courts is governed by:",
+    "options": {
+      "A": "Casual taste",
+      "B": "Firm policy only",
+      "C": "Court rules and legal tradition",
+      "D": "Weather"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "question": "A lawyer’s promise to the court:",
+    "options": {
+      "A": "Is casual",
+      "B": "May be ignored later",
+      "C": "Must be honoured or varied with leave",
+      "D": "Depends on client mood"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 87,
+    "question": "A lawyer should keep contemporaneous time and work records to:",
+    "options": {
+      "A": "Enter lotteries",
+      "B": "Inflate bills",
+      "C": "Support fair billing and accountability",
+      "D": "Enter politics"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 88,
+    "question": "When a client discharges a lawyer, the lawyer should:",
+    "options": {
+      "A": "Retain files forever without reason",
+      "B": "Withhold all documents",
+      "C": "Deliver the file subject to lien and transition duties",
+      "D": "Destroy the file immediately"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "question": "In legal writing, candour requires citing:",
+    "options": {
+      "A": "Only favourable cases",
+      "B": "No statutes",
+      "C": "Material adverse authority not disclosed by the other side",
+      "D": "Anonymous blogs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 90,
+    "question": "A lawyer negotiating settlement must:",
+    "options": {
+      "A": "Make false statements of material fact",
+      "B": "Misstate the law",
+      "C": "Remain truthful and act in client’s lawful interests",
+      "D": "Avoid consulting the client"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 91,
+    "question": "An ex-parte application is appropriate when:",
+    "options": {
+      "A": "Opponent is annoying",
+      "B": "Law permits and urgency/justice demands it",
+      "C": "Media is present",
+      "D": "Judge requests privately"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "question": "Fee-sharing with a foreign non-lawyer consultancy is:",
+    "options": {
+      "A": "Encouraged",
+      "B": "Ethically neutral",
+      "C": "Prohibited",
+      "D": "Mandatory"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 93,
+    "question": "Lawyers must supervise non-lawyer staff to ensure:",
+    "options": {
+      "A": "Social events",
+      "B": "Compliance with legal ethics and confidentiality",
+      "C": "Marketing giveaways",
+      "D": "Political alignment"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 94,
+    "question": "Where a client admits guilt privately in a criminal matter, counsel must:",
+    "options": {
+      "A": "Fabricate alibi",
+      "B": "Present false evidence",
+      "C": "Uphold confidentiality and test the prosecution’s case lawfully",
+      "D": "Inform the press"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 95,
+    "question": "A firm’s anti-money-laundering policy helps to:",
+    "options": {
+      "A": "Delay filings",
+      "B": "Reduce staff",
+      "C": "Detect suspicious transactions",
+      "D": "Avoid research"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 96,
+    "question": "A practitioner suspended by LPDC:",
+    "options": {
+      "A": "May keep practising quietly",
+      "B": "Can only practise in chambers",
+      "C": "Must cease legal practice during suspension",
+      "D": "Can appear with a senior"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 97,
+    "question": "A court process signed without a genuine lawyer’s signature/seal risks being:",
+    "options": {
+      "A": "Automatically winning",
+      "B": "A mere decoration",
+      "C": "Incompetent until properly regularised under applicable rules",
+      "D": "Superior authority"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 98,
+    "question": "A lawyer’s public comments on pending cases should be:",
+    "options": {
+      "A": "Prejudicial and speculative",
+      "B": "Aimed at influencing the tribunal improperly",
+      "C": "Restrained and respectful of fair trial",
+      "D": "Aggressive and absolute"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 99,
+    "question": "When two clients’ interests diverge mid-brief, counsel should:",
+    "options": {
+      "A": "Represent both zealously regardless",
+      "B": "Inform neither",
+      "C": "Disclose, seek consent where permitted, or withdraw",
+      "D": "Ask the registrar to decide"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 100,
+    "question": "The overarching purpose of professional ethics is to:",
+    "options": {
+      "A": "Increase profits",
+      "B": "Impress the public only",
+      "C": "Protect the integrity of the legal system and client interests",
+      "D": "Shorten examinations"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 101,
+    "question": "The body charged by law to oversee legal education in Nigeria is the:",
+    "options": {
+      "A": "Body of Benchers",
+      "B": "Council of Legal Education",
+      "C": "Supreme Court of Nigeria",
+      "D": "Federal Judicial Service Commission"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 102,
+    "question": "Which body performs the formal “Call to Bar” ceremony?",
+    "options": {
+      "A": "Nigerian Bar Association",
+      "B": "Supreme Court of Nigeria",
+      "C": "Body of Benchers",
+      "D": "Legal Aid Council of Nigeria"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 103,
+    "question": "After Call to Bar, a person becomes entitled to practise upon:",
+    "options": {
+      "A": "NBA branch induction",
+      "B": "Payment of chamber dues",
+      "C": "NYSC completion",
+      "D": "Enrolment of name at the Supreme Court"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 104,
+    "question": "The Nigerian Bar Association (NBA) is best described as a:",
+    "options": {
+      "A": "Government ministry",
+      "B": "Voluntary professional association of lawyers",
+      "C": "Political party",
+      "D": "Court registry"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 105,
+    "question": "The Legal Practitioners Disciplinary Committee (LPDC) functions under the:",
+    "options": {
+      "A": "Court of Appeal Rules",
+      "B": "Body of Benchers",
+      "C": "National Assembly Service Commission",
+      "D": "Federal Ministry of Justice"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 106,
+    "question": "The rank of Senior Advocate of Nigeria (SAN) is conferred by the:",
+    "options": {
+      "A": "Council of Legal Education",
+      "B": "National Judicial Council",
+      "C": "Legal Practitioners Privileges Committee",
+      "D": "Nigerian Law Reform Commission"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 107,
+    "question": "A lawyer’s first duty in litigation is to:",
+    "options": {
+      "A": "Win at all costs",
+      "B": "The court and the administration of justice",
+      "C": "The client’s relatives",
+      "D": "The media"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 108,
+    "question": "Client funds in a lawyer’s custody should be kept in:",
+    "options": {
+      "A": "The firm’s salary account",
+      "B": "A client (trust) account separate from office funds",
+      "C": "A personal current account",
+      "D": "Cash in safe"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 109,
+    "question": "Professional privilege covers communications made:",
+    "options": {
+      "A": "For gossip",
+      "B": "For legal advice and representation",
+      "C": "For political debates",
+      "D": "For social media posts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 110,
+    "question": "A lawyer must avoid conflicts of interest by:",
+    "options": {
+      "A": "Representing all sides equally",
+      "B": "Obtaining informed consent where permissible or declining",
+      "C": "Ignoring ethical rules for fees",
+      "D": "Hiding the conflict"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 111,
+    "question": "Which document typically authenticates a lawyer’s signature on court processes?",
+    "options": {
+      "A": "Call-to-Bar notice",
+      "B": "NBA stamp and seal",
+      "C": "Company letterhead",
+      "D": "Driver’s licence"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 112,
+    "question": "Fee-sharing is generally prohibited with:",
+    "options": {
+      "A": "Partners",
+      "B": "Non-lawyers",
+      "C": "Co-counsel",
+      "D": "Employed associates"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 113,
+    "question": "A law firm name must not:",
+    "options": {
+      "A": "Indicate partners’ surnames",
+      "B": "Mislead as to government affiliation",
+      "C": "Show contact details",
+      "D": "Indicate practice areas"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "question": "A lawyer who knows a witness intends to give false evidence must:",
+    "options": {
+      "A": "Keep quiet",
+      "B": "Present it anyway",
+      "C": "Decline to adduce the false evidence and take remedial steps",
+      "D": "Seek media support"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 115,
+    "question": "The roll of legal practitioners is maintained by the:",
+    "options": {
+      "A": "NBA national secretariat",
+      "B": "Court of Appeal",
+      "C": "Supreme Court of Nigeria",
+      "D": "Federal High Court"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 116,
+    "question": "Which is a recognised NBA Section?",
+    "options": {
+      "A": "Section on Corporate Strategy (SCS)",
+      "B": "Section on Public Interest and Development Law (SPIDEL)",
+      "C": "Section on Political Affairs (SPA)",
+      "D": "Section on Judicial Appointments (SJA)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 117,
+    "question": "Unprofessional touting/solicitation is:",
+    "options": {
+      "A": "Encouraged for marketing",
+      "B": "Allowed if tasteful",
+      "C": "Prohibited by Rules of Professional Conduct",
+      "D": "Required for juniors"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 118,
+    "question": "A Notary Public in Nigeria is appointed by the:",
+    "options": {
+      "A": "Attorney-General of the Federation",
+      "B": "Chief Judge of the FCT",
+      "C": "Chief Justice of Nigeria",
+      "D": "President of the NBA"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 119,
+    "question": "The LPDC’s most severe sanction is:",
+    "options": {
+      "A": "Admonition",
+      "B": "Suspension",
+      "C": "Striking off the roll (disbarment)",
+      "D": "Fine payable to the registry"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 120,
+    "question": "A valid retainer typically creates a:",
+    "options": {
+      "A": "Friendship obligation",
+      "B": "Political relationship",
+      "C": "Lawyer–client relationship with duties",
+      "D": "Bank–customer relationship"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 121,
+    "question": "A counsel’s undertaking is regarded as:",
+    "options": {
+      "A": "A casual promise",
+      "B": "A publicity statement",
+      "C": "Ethically binding and strictly to be honoured",
+      "D": "A negotiable slogan"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 122,
+    "question": "Candour to the court requires counsel to:",
+    "options": {
+      "A": "Conceal adverse authority",
+      "B": "Avoid answering questions",
+      "C": "Correct material misstatements",
+      "D": "Criticise the judge publicly"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 123,
+    "question": "Which is an appropriate description of Nigerian practice regarding advocacy/solicitorship?",
+    "options": {
+      "A": "Split profession",
+      "B": "Fused profession",
+      "C": "Academic only",
+      "D": "Clerical"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 124,
+    "question": "A lawyer’s public comments on pending cases should be:",
+    "options": {
+      "A": "Prejudicial",
+      "B": "Speculative",
+      "C": "Restrained and consistent with fair trial rights",
+      "D": "Harshly accusatory"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 125,
+    "question": "Right of audience means the right to:",
+    "options": {
+      "A": "Advertise on TV",
+      "B": "Appear before a court/tribunal",
+      "C": "Interview jurors",
+      "D": "Host press conferences"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 126,
+    "question": "A law firm may ethically maintain a website that is:",
+    "options": {
+      "A": "Misleading and comparative",
+      "B": "Filled with unverifiable claims",
+      "C": "Accurate, dignified, and not deceptive",
+      "D": "Focused on guaranteed outcomes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 127,
+    "question": "Payment of Bar Practising Fees (BPF) is linked to:",
+    "options": {
+      "A": "Pension rights",
+      "B": "Eligibility to affix NBA stamp/seal and appear",
+      "C": "Election voting rights",
+      "D": "Academic promotions"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "question": "“Without prejudice” communications generally relate to:",
+    "options": {
+      "A": "Threats",
+      "B": "Settlement negotiations",
+      "C": "Political speeches",
+      "D": "Media interviews"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 129,
+    "question": "The Legal Aid Council of Nigeria primarily:",
+    "options": {
+      "A": "Accredits universities",
+      "B": "Confers SAN",
+      "C": "Provides legal aid to indigent persons",
+      "D": "Appoints judges"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 130,
+    "question": "A lawyer’s file management must ensure records are:",
+    "options": {
+      "A": "Publicly accessible",
+      "B": "Randomly stored",
+      "C": "Secure, confidential, and retrievable",
+      "D": "Posted online"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 131,
+    "question": "A junior counsel’s duty to the court is:",
+    "options": {
+      "A": "Optional",
+      "B": "Subordinate to client’s illegal demands",
+      "C": "Paramount alongside the senior’s",
+      "D": "For registrars only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 132,
+    "question": "Ex parte applications should be brought only when:",
+    "options": {
+      "A": "The opponent is unfriendly",
+      "B": "The media is present",
+      "C": "Permitted by law and justice/urgency requires",
+      "D": "The case is complex"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 133,
+    "question": "Conflict checks in a firm primarily aim to:",
+    "options": {
+      "A": "Increase marketing leads",
+      "B": "Detect adverse interests before engagement",
+      "C": "Reduce research time",
+      "D": "Impress clients"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 134,
+    "question": "A counsel repeatedly late to court may breach duties of:",
+    "options": {
+      "A": "Fashion",
+      "B": "Profit",
+      "C": "Courtesy and respect to the court",
+      "D": "Silence"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 135,
+    "question": "A suspended practitioner:",
+    "options": {
+      "A": "May appear with a senior",
+      "B": "May practise in chambers only",
+      "C": "Must cease legal practice during suspension",
+      "D": "May sign processes secretly"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 136,
+    "question": "In settlement negotiations, a lawyer must:",
+    "options": {
+      "A": "Misstate material facts",
+      "B": "Remain truthful and act within the law",
+      "C": "Hide the client’s position from the client",
+      "D": "Threaten the judge"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 137,
+    "question": "Privileged communications may be disclosed:",
+    "options": {
+      "A": "To entertain friends",
+      "B": "For social media debates",
+      "C": "With client’s informed consent or as required by law",
+      "D": "For office gossip"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 138,
+    "question": "The Rules of Professional Conduct primarily regulate:",
+    "options": {
+      "A": "Only judges",
+      "B": "Lawyers’ ethical duties and conduct",
+      "C": "Police investigations",
+      "D": "Legislative drafting"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 139,
+    "question": "A “Chinese wall”/information barrier is used to:",
+    "options": {
+      "A": "Decorate chambers",
+      "B": "Prevent money laundering",
+      "C": "Manage conflicts in limited circumstances",
+      "D": "Replace consent"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 140,
+    "question": "Counsel must not communicate with a represented person about the matter except:",
+    "options": {
+      "A": "Through or with consent of that person’s lawyer",
+      "B": "Via social media",
+      "C": "Through clerks only",
+      "D": "In the courtroom hallway"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 141,
+    "question": "A firm’s AML policy chiefly helps to detect:",
+    "options": {
+      "A": "Court holidays",
+      "B": "Suspicious transactions",
+      "C": "Staff birthdays",
+      "D": "Media trends"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 142,
+    "question": "A lawyer can withdraw from a brief if the client:",
+    "options": {
+      "A": "Is unpopular",
+      "B": "Insists on unethical/illegal conduct",
+      "C": "Forgets to call",
+      "D": "Is quiet"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 143,
+    "question": "In superior courts, counsel attire (wig and gown) symbolises:",
+    "options": {
+      "A": "Party allegiance",
+      "B": "Wealth",
+      "C": "Tradition and solemnity of justice",
+      "D": "Fashion trends"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 144,
+    "question": "A firm may state practice areas if the claims are:",
+    "options": {
+      "A": "Exaggerated",
+      "B": "Misleading",
+      "C": "Truthful and verifiable",
+      "D": "Ridiculing competitors"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 145,
+    "question": "Use of the NBA seal on processes principally:",
+    "options": {
+      "A": "Guarantees success",
+      "B": "Shows BPF compliance/validity of signature",
+      "C": "Replaces filing fees",
+      "D": "Creates automatic jurisdiction"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 146,
+    "question": "A lawyer must supervise non-lawyer staff to ensure:",
+    "options": {
+      "A": "Political alignment",
+      "B": "Compliance with ethics/confidentiality",
+      "C": "Marketing giveaways",
+      "D": "Social events"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 147,
+    "question": "If two clients’ interests diverge mid-brief, counsel should:",
+    "options": {
+      "A": "Represent both regardless",
+      "B": "Disclose and seek consent where permissible, or withdraw",
+      "C": "Ignore the issue",
+      "D": "Ask the registrar to decide informally"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 148,
+    "question": "A lawyer may describe themselves as a specialist only if:",
+    "options": {
+      "A": "The claim is truthful and not misleading",
+      "B": "It insults peers",
+      "C": "It guarantees outcomes",
+      "D": "It uses unverifiable superlatives"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 149,
+    "question": "The Body of Benchers is composed mainly of:",
+    "options": {
+      "A": "Only law students",
+      "B": "Judges and distinguished legal practitioners",
+      "C": "Police officers",
+      "D": "Civil engineers"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 150,
+    "question": "The Legal Practitioners Act primarily:",
+    "options": {
+      "A": "Regulates football",
+      "B": "Establishes/controls the legal profession",
+      "C": "Creates the National Assembly",
+      "D": "Governs taxation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 151,
+    "question": "In-house counsel who are properly called and enrolled are:",
+    "options": {
+      "A": "Not legal practitioners",
+      "B": "Legal practitioners",
+      "C": "SANs automatically",
+      "D": "Prohibited from legal work"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 152,
+    "question": "“Holding brief” requires the appearing counsel to be:",
+    "options": {
+      "A": "Uninstructed",
+      "B": "Properly instructed and able to protect client’s interests",
+      "C": "Silent throughout",
+      "D": "Present only for adjournment"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 153,
+    "question": "A lawyer’s fee should be:",
+    "options": {
+      "A": "Arbitrary",
+      "B": "Reasonable considering time, skill, and result",
+      "C": "Fixed by the opponent",
+      "D": "Hidden from client"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 154,
+    "question": "A lawyer should promptly account for:",
+    "options": {
+      "A": "Rumours",
+      "B": "Client money/property",
+      "C": "Staff salaries",
+      "D": "Press inquiries"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 155,
+    "question": "Private communications with a judge about a pending case are:",
+    "options": {
+      "A": "Clever strategy",
+      "B": "Allowed if polite",
+      "C": "Prohibited ex parte contact",
+      "D": "Encouraged for seniors"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 156,
+    "question": "A lawyer must keep client files:",
+    "options": {
+      "A": "Scattered",
+      "B": "Secure and retrievable",
+      "C": "With opponents",
+      "D": "On social media"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 157,
+    "question": "Mediation by lawyers is:",
+    "options": {
+      "A": "Forbidden",
+      "B": "Allowed and often encouraged",
+      "C": "Reserved for SANs",
+      "D": "Judicial only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 158,
+    "question": "A firm cannot represent adverse interests in:",
+    "options": {
+      "A": "Unrelated matters",
+      "B": "The same dispute (non-consentable conflict)",
+      "C": "Different cities",
+      "D": "Different industries"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 159,
+    "question": "A lawyer may refuse a brief if:",
+    "options": {
+      "A": "The fee is reasonable",
+      "B": "Capacity/conflict/ethics issues exist",
+      "C": "The client is courteous",
+      "D": "The case is interesting"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 160,
+    "question": "“Pro bono” service means:",
+    "options": {
+      "A": "Paid premium service",
+      "B": "Free legal service in public interest",
+      "C": "Government-only work",
+      "D": "Social media advocacy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 161,
+    "question": "A firm’s letterhead must not contain:",
+    "options": {
+      "A": "Practice areas",
+      "B": "Misleading claims",
+      "C": "Contact details",
+      "D": "Office addresses"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 162,
+    "question": "When client intends an unlawful act, counsel should:",
+    "options": {
+      "A": "Assist quietly",
+      "B": "Ignore it",
+      "C": "Decline/withdraw and not facilitate illegality",
+      "D": "Post online"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 163,
+    "question": "A lawyer’s lien typically allows counsel to:",
+    "options": {
+      "A": "Sell client’s property",
+      "B": "Retain papers for unpaid fees (subject to law/ethics)",
+      "C": "Arrest the client",
+      "D": "Punish the client"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 164,
+    "question": "The LPPC’s function is to:",
+    "options": {
+      "A": "Regulate elections",
+      "B": "Confer SAN",
+      "C": "Train police",
+      "D": "Manage prisons"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 165,
+    "question": "The NBA national officers include the:",
+    "options": {
+      "A": "Chief Justice",
+      "B": "President of the NBA",
+      "C": "Senate President",
+      "D": "Inspector-General of Police"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 166,
+    "question": "An engagement letter should:",
+    "options": {
+      "A": "Be avoided",
+      "B": "Be oral only",
+      "C": "Clearly set scope, fees, and responsibilities",
+      "D": "Promise guaranteed outcomes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 167,
+    "question": "A lawyer must not present evidence they know is:",
+    "options": {
+      "A": "Helpful",
+      "B": "Neutral",
+      "C": "False",
+      "D": "Relevant"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 168,
+    "question": "“Fit and proper person” in admission/discipline primarily concerns:",
+    "options": {
+      "A": "Dress sense",
+      "B": "Moral character and integrity",
+      "C": "Wealth",
+      "D": "Political views"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 169,
+    "question": "A counsel’s promise to the court (undertaking) must be:",
+    "options": {
+      "A": "Ignored later",
+      "B": "Honoured or varied with leave",
+      "C": "Treated as PR",
+      "D": "Delegated to clerks"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 170,
+    "question": "The principal regulator of law school curriculum is the:",
+    "options": {
+      "A": "Body of Benchers",
+      "B": "Council of Legal Education",
+      "C": "National Assembly",
+      "D": "Court registrars"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 171,
+    "question": "Lawyers should avoid fee arrangements that:",
+    "options": {
+      "A": "Are reasonable",
+      "B": "Involve fee-splitting with non-lawyers",
+      "C": "Are documented",
+      "D": "Are agreed in writing"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 172,
+    "question": "Misleading the court amounts to:",
+    "options": {
+      "A": "Smart advocacy",
+      "B": "Professional misconduct",
+      "C": "Mere discourtesy",
+      "D": "A civil wrong only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 173,
+    "question": "An information barrier may permit a firm to act where:",
+    "options": {
+      "A": "Same dispute for both sides",
+      "B": "Adverse interests are directly opposed",
+      "C": "Conflicts are screenable and law allows",
+      "D": "Client forbids"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 174,
+    "question": "Which is TRUE of SANs?",
+    "options": {
+      "A": "They get automatic judicial office",
+      "B": "They have precedence and certain privileges of audience",
+      "C": "They own court buildings",
+      "D": "They cannot do solicitor’s work"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 175,
+    "question": "A law firm may be constituted as:",
+    "options": {
+      "A": "Partnership or sole practice (not a regular LLC for practice)",
+      "B": "Political association",
+      "C": "Government parastatal",
+      "D": "Sports club"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 176,
+    "question": "Confidentiality obligations generally:",
+    "options": {
+      "A": "End with the brief",
+      "B": "Survive the representation",
+      "C": "Depend on client status",
+      "D": "Depend on fees paid"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 177,
+    "question": "Accepting a matter beyond competence without supervision/training breaches:",
+    "options": {
+      "A": "Fashion rules",
+      "B": "Duty of competence",
+      "C": "Parking laws",
+      "D": "None"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 178,
+    "question": "A lawyer must promptly inform the client of:",
+    "options": {
+      "A": "Party politics",
+      "B": "Material developments in the case",
+      "C": "Colleagues’ birthdays",
+      "D": "Court gossip"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 179,
+    "question": "Using threats of criminal prosecution solely to gain civil advantage is:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Mandatory",
+      "C": "Improper",
+      "D": "Required by banks"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 180,
+    "question": "A counsel should be courteous to:",
+    "options": {
+      "A": "Only the judge",
+      "B": "Only client",
+      "C": "Court and opposing counsel",
+      "D": "Media"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 181,
+    "question": "The proper remedy for counsel with impaired health affecting a brief is to:",
+    "options": {
+      "A": "Hide it",
+      "B": "Continue regardless",
+      "C": "Take steps to protect client, including withdrawal if necessary",
+      "D": "Transfer to messenger"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 182,
+    "question": "“Chambers” in Nigerian practice generally refers to:",
+    "options": {
+      "A": "Police office",
+      "B": "Law firm/office",
+      "C": "University hall",
+      "D": "Court cell"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 183,
+    "question": "A counsel’s dress code in court is governed by:",
+    "options": {
+      "A": "Firm whim",
+      "B": "Court rules and custom",
+      "C": "Media polls",
+      "D": "Client preference"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 184,
+    "question": "A lawyer should avoid directly contacting the judge about a pending matter because it is:",
+    "options": {
+      "A": "Efficient",
+      "B": "Expected",
+      "C": "Prohibited ex parte contact",
+      "D": "PR"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 185,
+    "question": "An agreement to receive a commission from a non-lawyer for client referrals is:",
+    "options": {
+      "A": "Encouraged",
+      "B": "Neutral",
+      "C": "Prohibited",
+      "D": "Required"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 186,
+    "question": "A lawyer must keep records of client money to:",
+    "options": {
+      "A": "Inflate bills",
+      "B": "Support accountability and proper accounting",
+      "C": "Enter lotteries",
+      "D": "Enter politics"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 187,
+    "question": "A process signed by a non-lawyer in a lawyer’s name is:",
+    "options": {
+      "A": "Acceptable",
+      "B": "A mere irregularity without consequence",
+      "C": "Potentially incompetent/improper",
+      "D": "Encouraged"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 188,
+    "question": "A junior who signs for a senior without authority commits:",
+    "options": {
+      "A": "Innovation",
+      "B": "Mere courtesy",
+      "C": "Misconduct",
+      "D": "Office routine"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 189,
+    "question": "In cross-examination, counsel must not:",
+    "options": {
+      "A": "Be firm but fair",
+      "B": "Misstate evidence deliberately",
+      "C": "Use proper questions",
+      "D": "Test credibility"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 190,
+    "question": "A lawyer should not accept gifts that:",
+    "options": {
+      "A": "Are of nominal value",
+      "B": "Create obligations or compromise independence",
+      "C": "Are disclosed to client",
+      "D": "Are from family"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 191,
+    "question": "A “client account” should be:",
+    "options": {
+      "A": "Overdrawn when needed",
+      "B": "Mixed with office funds",
+      "C": "Segregated and reconciled",
+      "D": "Used for salaries"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 192,
+    "question": "When acting as witness and advocate in same cause, the default rule is:",
+    "options": {
+      "A": "Always required",
+      "B": "Generally discouraged except where permitted",
+      "C": "Mandatory for juniors",
+      "D": "Only for SANs"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 193,
+    "question": "A lawyer must keep appointments and court dates primarily due to duty of:",
+    "options": {
+      "A": "Profit",
+      "B": "Diligence and courtesy",
+      "C": "Entertainment",
+      "D": "Politics"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 194,
+    "question": "A “retainer” usually sets out:",
+    "options": {
+      "A": "Entertainment budget",
+      "B": "Scope of work, fees, and responsibilities",
+      "C": "Judge’s preferences",
+      "D": "Police protocol"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 195,
+    "question": "A firm using “Ministry of Justice Partners” as name is likely:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Preferred",
+      "C": "Misleading",
+      "D": "Required"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 196,
+    "question": "A counsel should not assert personal knowledge of facts in:",
+    "options": {
+      "A": "Submissions to court",
+      "B": "Client meetings",
+      "C": "Academic lectures",
+      "D": "Internal memos"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 197,
+    "question": "A lawyer’s statements to third parties must be:",
+    "options": {
+      "A": "Inflated",
+      "B": "Threatening",
+      "C": "Truthful and not misleading",
+      "D": "Sarcastic"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 198,
+    "question": "When a client changes counsel, the previous lawyer should:",
+    "options": {
+      "A": "Destroy the file",
+      "B": "Keep the file forever",
+      "C": "Deliver the file subject to lien and transition duties",
+      "D": "Publicise the dispute"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 199,
+    "question": "“Touting” includes seeking professional employment by:",
+    "options": {
+      "A": "Reputation and fit conduct",
+      "B": "Harassing phone calls or runners",
+      "C": "Publishing the firm’s address",
+      "D": "Listing practice areas"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 200,
+    "question": "The overarching aim of legal ethics is to:",
+    "options": {
+      "A": "Maximise publicity",
+      "B": "Entertain the public",
+      "C": "Uphold justice and protect client/public confidence",
+      "D": "Shorten trials"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 201,
+    "question": "Which body conducts the formal Call to Bar ceremony in Nigeria?",
+    "options": {
+      "A": "Nigerian Bar Association",
+      "B": "Body of Benchers",
+      "C": "Council of Legal Education",
+      "D": "Supreme Court of Nigeria"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 202,
+    "question": "Who maintains the roll of legal practitioners in Nigeria?",
+    "options": {
+      "A": "Council of Legal Education",
+      "B": "Body of Benchers Secretariat",
+      "C": "Supreme Court of Nigeria",
+      "D": "Federal Ministry of Justice"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 203,
+    "question": "Which committee confers the rank of Senior Advocate of Nigeria (SAN)?",
+    "options": {
+      "A": "National Judicial Council",
+      "B": "Council of Legal Education",
+      "C": "Nigerian Bar Association",
+      "D": "Legal Practitioners Privileges Committee"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 204,
+    "question": "Regarding advocacy and solicitorship, the Nigerian legal profession is generally a ______ profession.",
+    "options": {
+      "A": "Split",
+      "B": "Fused",
+      "C": "Academic",
+      "D": "Contractual"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 205,
+    "question": "After Call to Bar, a person becomes entitled to practise upon ______.",
+    "options": {
+      "A": "Payment of chamber dues",
+      "B": "Admission to an NBA Section",
+      "C": "Enrolment of their name at the Supreme Court",
+      "D": "Registration with the High Court registry"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 206,
+    "question": "Which instrument primarily sets out day-to-day ethical duties of Nigerian lawyers?",
+    "options": {
+      "A": "Evidence Act",
+      "B": "Constitution of Nigeria",
+      "C": "Legal Aid Act",
+      "D": "Rules of Professional Conduct (RPC)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 207,
+    "question": "Client funds held by counsel should be kept in a:",
+    "options": {
+      "A": "Personal current account",
+      "B": "Separate client (trust) account",
+      "C": "Office petty cash",
+      "D": "Staff welfare account"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 208,
+    "question": "Professional legal privilege protects communications made:",
+    "options": {
+      "A": "For public relations",
+      "B": "For legal advice/representation",
+      "C": "For political debates",
+      "D": "For firm marketing"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 209,
+    "question": "A lawyer who knows a witness intends to give false evidence must:",
+    "options": {
+      "A": "Proceed and let the court decide",
+      "B": "Coach the witness to be consistent",
+      "C": "Decline to adduce the false evidence and take remedial steps",
+      "D": "Avoid attending court that day"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 210,
+    "question": "Use of the NBA stamp/seal on processes primarily:",
+    "options": {
+      "A": "Guarantees victory",
+      "B": "Shows BPF compliance/validity of signature",
+      "C": "Replaces filing fees",
+      "D": "Creates automatic jurisdiction"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 211,
+    "question": "The Legal Practitioners Disciplinary Committee (LPDC) operates under the:",
+    "options": {
+      "A": "Federal High Court",
+      "B": "Body of Benchers",
+      "C": "Court of Appeal",
+      "D": "National Assembly Service Commission"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 212,
+    "question": "The most severe LPDC sanction is:",
+    "options": {
+      "A": "Admonition",
+      "B": "Suspension",
+      "C": "Striking off the roll (disbarment)",
+      "D": "Fine to the registry"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 213,
+    "question": "A Notary Public in Nigeria is appointed by the:",
+    "options": {
+      "A": "Attorney-General",
+      "B": "President of the NBA",
+      "C": "Chief Justice of Nigeria",
+      "D": "Chief Judge of the FHC"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 214,
+    "question": "A lawyer may withdraw from a brief if the client:",
+    "options": {
+      "A": "Is no longer popular",
+      "B": "Insists on unethical/illegal conduct",
+      "C": "Missed a meeting",
+      "D": "Queried the fees"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 215,
+    "question": "The NBA is best described as a:",
+    "options": {
+      "A": "Government ministry",
+      "B": "Professional association of lawyers",
+      "C": "Political party",
+      "D": "Court registry"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 216,
+    "question": "“Right of audience” refers to a lawyer’s right to:",
+    "options": {
+      "A": "Advertise on TV",
+      "B": "Appear before a court/tribunal",
+      "C": "Interview jurors",
+      "D": "Host press conferences"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 217,
+    "question": "Fee sharing is prohibited with:",
+    "options": {
+      "A": "Partners",
+      "B": "Non-lawyers",
+      "C": "Co-counsel",
+      "D": "Employed associates"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 218,
+    "question": "A firm name must not:",
+    "options": {
+      "A": "Use partners’ surnames",
+      "B": "Mislead as to government affiliation",
+      "C": "Indicate contact details",
+      "D": "State practice areas truthfully"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 219,
+    "question": "Payment of Bar Practising Fees (BPF) is linked to a lawyer’s:",
+    "options": {
+      "A": "Voting in national elections",
+      "B": "Eligibility to affix the NBA seal and appear",
+      "C": "Right to act as judge",
+      "D": "Immigration status"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 220,
+    "question": "Confidentiality generally:",
+    "options": {
+      "A": "Ends with the retainer",
+      "B": "Survives the representation",
+      "C": "Depends on client’s wealth",
+      "D": "Depends on media coverage"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 221,
+    "question": "Which NBA Section focuses on business and commercial practice?",
+    "options": {
+      "A": "Section on Litigation and Arbitration (SLA)",
+      "B": "Section on Business Law (SBL)",
+      "C": "Section on Political Affairs (SPA)",
+      "D": "Section on Disciplinary Matters (SDM)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 222,
+    "question": "“SPIDEL” within the NBA stands for Section on:",
+    "options": {
+      "A": "Private Investment & Development Law",
+      "B": "Public Interest & Development Law",
+      "C": "Professional Indemnity & Dispute Law",
+      "D": "Procurement Integrity & Due Law"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 223,
+    "question": "A counsel’s undertaking is regarded as:",
+    "options": {
+      "A": "A social promise",
+      "B": "A publicity statement",
+      "C": "Ethically binding and strictly to be honoured",
+      "D": "A negotiable slogan"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 224,
+    "question": "When two clients’ interests become directly adverse in the same matter, the conflict is generally:",
+    "options": {
+      "A": "Harmless",
+      "B": "Curable by silence",
+      "C": "Non-consentable; counsel must not act for both",
+      "D": "Managed by paralegals"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 225,
+    "question": "Ex parte applications should be brought only when:",
+    "options": {
+      "A": "The opponent is unfriendly",
+      "B": "Media is present",
+      "C": "Permitted by law and justice/urgency requires",
+      "D": "The case is complex"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 226,
+    "question": "A lawyer’s fee should be:",
+    "options": {
+      "A": "Arbitrary",
+      "B": "Reasonable considering time, skill, novelty and result",
+      "C": "Fixed by the opponent",
+      "D": "Hidden from the client"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 227,
+    "question": "A lawyer’s lien typically allows counsel to:",
+    "options": {
+      "A": "Sell client property",
+      "B": "Retain papers for unpaid fees (subject to law/ethics)",
+      "C": "Arrest the client",
+      "D": "Punish the client"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 228,
+    "question": "A firm’s anti-money-laundering (AML) policy chiefly helps to detect:",
+    "options": {
+      "A": "Court holidays",
+      "B": "Suspicious transactions",
+      "C": "Staff birthdays",
+      "D": "Media trends"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 229,
+    "question": "“Holding out” as a lawyer without call/enrolment is:",
+    "options": {
+      "A": "Acceptable with consent",
+      "B": "A social media issue only",
+      "C": "Professional misconduct and/or a criminal offence",
+      "D": "A civil wrong without sanction"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 230,
+    "question": "A law firm may be constituted as:",
+    "options": {
+      "A": "Regular limited-liability company for practice",
+      "B": "Sole practice or partnership (permitted forms)",
+      "C": "Government parastatal",
+      "D": "Sports club"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 231,
+    "question": "In-house counsel properly called/enrolled are:",
+    "options": {
+      "A": "Not legal practitioners",
+      "B": "Legal practitioners",
+      "C": "SANs automatically",
+      "D": "Prohibited from legal work"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 232,
+    "question": "A “Chinese wall”/information barrier is used to:",
+    "options": {
+      "A": "Decorate chambers",
+      "B": "Replace consent in same-dispute conflicts",
+      "C": "Manage screenable conflicts where law allows",
+      "D": "Block client access"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 233,
+    "question": "During negotiations, a lawyer must:",
+    "options": {
+      "A": "Bluff with false statements of material fact",
+      "B": "Misstate the law",
+      "C": "Remain truthful while advancing lawful client interests",
+      "D": "Avoid consulting the client"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 234,
+    "question": "Private communication with a judge about a pending case is:",
+    "options": {
+      "A": "Clever strategy",
+      "B": "Allowed if polite",
+      "C": "Prohibited ex parte contact",
+      "D": "Required before submissions"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 235,
+    "question": "In superior courts, traditional attire (wig and gown) symbolises:",
+    "options": {
+      "A": "Party allegiance",
+      "B": "Fee level",
+      "C": "Tradition and the solemnity of justice",
+      "D": "Fashion trends"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 236,
+    "question": "“Without prejudice” correspondence usually relates to:",
+    "options": {
+      "A": "Political speeches",
+      "B": "Settlement negotiations",
+      "C": "Media interviews",
+      "D": "Judicial appointments"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 237,
+    "question": "A junior’s duty to the court is:",
+    "options": {
+      "A": "Optional",
+      "B": "Secondary to client’s illegal demands",
+      "C": "Paramount alongside the senior’s",
+      "D": "For registrars only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 238,
+    "question": "A retainer letter should:",
+    "options": {
+      "A": "Promise guaranteed outcomes",
+      "B": "Be oral only",
+      "C": "Clearly set scope, fees, and responsibilities",
+      "D": "Avoid fee terms"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 239,
+    "question": "A lawyer may refuse a brief if:",
+    "options": {
+      "A": "The fee is reasonable",
+      "B": "Capacity/conflict/ethics issues exist",
+      "C": "The client is courteous",
+      "D": "The case is interesting"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 240,
+    "question": "Pro bono service means:",
+    "options": {
+      "A": "Paid premium service",
+      "B": "Free legal service in the public interest",
+      "C": "Government-only work",
+      "D": "Social media advocacy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 241,
+    "question": "Which is TRUE of SANs?",
+    "options": {
+      "A": "Automatic judicial office",
+      "B": "Ownership of court buildings",
+      "C": "Precedence and certain privileges of audience",
+      "D": "Prohibition from solicitor’s work"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 242,
+    "question": "If a client intends to commit a crime, counsel should:",
+    "options": {
+      "A": "Assist quietly",
+      "B": "Ignore it",
+      "C": "Decline/withdraw and avoid facilitating illegality",
+      "D": "Publicise it on social media"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 243,
+    "question": "A lawyer’s statements to third parties must be:",
+    "options": {
+      "A": "Inflated",
+      "B": "Threatening",
+      "C": "Truthful and not misleading",
+      "D": "Sarcastic"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 244,
+    "question": "Mediation by lawyers is:",
+    "options": {
+      "A": "Forbidden",
+      "B": "Allowed and often encouraged",
+      "C": "Reserved for SANs",
+      "D": "Judicial only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 245,
+    "question": "A counsel must not assert personal knowledge of facts in:",
+    "options": {
+      "A": "Submissions to court",
+      "B": "Client interviews",
+      "C": "Academic lectures",
+      "D": "Internal memos"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 246,
+    "question": "A firm cannot represent adverse interests in:",
+    "options": {
+      "A": "Unrelated matters",
+      "B": "The same dispute (non-consentable conflict)",
+      "C": "Different cities",
+      "D": "Different industries"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 247,
+    "question": "Lawyers must supervise non-lawyer staff to ensure:",
+    "options": {
+      "A": "Political alignment",
+      "B": "Compliance with ethics/confidentiality",
+      "C": "Marketing giveaways",
+      "D": "Social events"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 248,
+    "question": "Privileged communications may be disclosed:",
+    "options": {
+      "A": "To entertain friends",
+      "B": "For social media debates",
+      "C": "With client’s informed consent or as required by law",
+      "D": "For office gossip"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 249,
+    "question": "A suspended practitioner:",
+    "options": {
+      "A": "May practise in chambers only",
+      "B": "Must cease legal practice during suspension",
+      "C": "May appear with a senior",
+      "D": "May sign processes secretly"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 250,
+    "question": "A process signed without a genuine lawyer’s signature/seal risks being:",
+    "options": {
+      "A": "Automatically winning",
+      "B": "A mere decoration",
+      "C": "Incompetent until properly regularised under applicable rules",
+      "D": "Superior authority"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 251,
+    "question": "Courtesy to opposing counsel entails:",
+    "options": {
+      "A": "Concealing dates",
+      "B": "Threatening messages",
+      "C": "Professional respect and cooperation within rules",
+      "D": "Ex parte chats with the judge"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 252,
+    "question": "If health impairs representation, counsel should:",
+    "options": {
+      "A": "Hide it",
+      "B": "Continue regardless",
+      "C": "Take steps to protect client, including withdrawal if necessary",
+      "D": "Transfer to a clerk"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 253,
+    "question": "Serving as both witness and advocate in the same cause is:",
+    "options": {
+      "A": "Always required",
+      "B": "Generally discouraged except where permitted",
+      "C": "Standard for juniors",
+      "D": "Only for SANs"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 254,
+    "question": "A lawyer should keep contemporaneous records mainly to:",
+    "options": {
+      "A": "Inflate bills",
+      "B": "Support fair billing/accountability",
+      "C": "Enter lotteries",
+      "D": "Impress the media"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 255,
+    "question": "In legal writing, candour requires citing:",
+    "options": {
+      "A": "Only favourable cases",
+      "B": "No statutes",
+      "C": "Material adverse authority not disclosed by the other side",
+      "D": "Anonymous blogs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 256,
+    "question": "A law firm website is ethical when it is:",
+    "options": {
+      "A": "Misleading/comparative",
+      "B": "Filled with unverifiable claims",
+      "C": "Accurate, dignified, and not deceptive",
+      "D": "Focused on guaranteed outcomes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 257,
+    "question": "Using threats of criminal prosecution solely to gain civil advantage is:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Mandatory",
+      "C": "Improper",
+      "D": "Required by banks"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 258,
+    "question": "A lawyer’s paramount duty in advocacy is to:",
+    "options": {
+      "A": "Entertain spectators",
+      "B": "Advance justice and assist the court",
+      "C": "Please the media",
+      "D": "Shorten every trial"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 259,
+    "question": "A firm’s conflict-check system primarily aims to:",
+    "options": {
+      "A": "Expand marketing",
+      "B": "Detect adverse interests before accepting briefs",
+      "C": "Reduce research",
+      "D": "Track court holidays"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 260,
+    "question": "When a client changes counsel, the previous lawyer should:",
+    "options": {
+      "A": "Destroy the file",
+      "B": "Keep the file forever",
+      "C": "Deliver the file subject to lien and transition duties",
+      "D": "Publicise the dispute"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 261,
+    "question": "The NBA Section on Legal Practice (SLP) focuses mainly on:",
+    "options": {
+      "A": "Mining law",
+      "B": "Litigation and professional development",
+      "C": "Electioneering",
+      "D": "Maritime administration"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 262,
+    "question": "A firm name like “Ministry of Justice Partners” is likely:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Preferred",
+      "C": "Misleading as implying government affiliation",
+      "D": "Required"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 263,
+    "question": "Client identification and due diligence aim to prevent:",
+    "options": {
+      "A": "Legal analysis",
+      "B": "Money laundering and fraud",
+      "C": "Filing fees",
+      "D": "Court sittings"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "question": "Lawyers must avoid assisting a client in conduct that is:",
+    "options": {
+      "A": "Lawful",
+      "B": "Procedural",
+      "C": "Criminal or fraudulent",
+      "D": "Novel"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 265,
+    "question": "A counsel appearing late habitually may breach duties of:",
+    "options": {
+      "A": "Profit",
+      "B": "Diligence and courtesy to the court",
+      "C": "Entertainment",
+      "D": "Politics"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 266,
+    "question": "An information barrier cannot cure conflicts in:",
+    "options": {
+      "A": "Different, unrelated matters",
+      "B": "The same dispute between opposing parties",
+      "C": "Matters in different branches",
+      "D": "Government policy work"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 267,
+    "question": "A lawyer may describe themselves as a specialist only if the claim is:",
+    "options": {
+      "A": "Unverifiable",
+      "B": "Truthful and not misleading",
+      "C": "Insulting to peers",
+      "D": "Based on guaranteed outcomes"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 268,
+    "question": "When client instructions are illegal, counsel should:",
+    "options": {
+      "A": "Execute quietly",
+      "B": "Negotiate with opponents",
+      "C": "Decline and/or withdraw",
+      "D": "Disguise the act"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 269,
+    "question": "Communications with a represented person about the matter should be:",
+    "options": {
+      "A": "Done via DMs",
+      "B": "Through or with consent of that person’s lawyer",
+      "C": "Through court clerks only",
+      "D": "In the hallway"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 270,
+    "question": "A lawyer should promptly account for:",
+    "options": {
+      "A": "Staff salaries",
+      "B": "Client money/property",
+      "C": "Rumours",
+      "D": "Freebies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 271,
+    "question": "“Touting” includes seeking briefs by:",
+    "options": {
+      "A": "Reputation and fit conduct",
+      "B": "Harassing calls or runners",
+      "C": "Publishing the firm’s address",
+      "D": "Listing practice areas"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 272,
+    "question": "A lawyer must not present evidence they know is:",
+    "options": {
+      "A": "Helpful",
+      "B": "Neutral",
+      "C": "False",
+      "D": "Relevant"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 273,
+    "question": "A junior who signs for a senior without authority commits:",
+    "options": {
+      "A": "Innovation",
+      "B": "Mere courtesy",
+      "C": "Misconduct",
+      "D": "Office routine"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 274,
+    "question": "In cross-examination, counsel must not:",
+    "options": {
+      "A": "Be firm but fair",
+      "B": "Misstate evidence deliberately",
+      "C": "Use proper questions",
+      "D": "Test credibility"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 275,
+    "question": "A lawyer should not accept gifts that:",
+    "options": {
+      "A": "Are nominal",
+      "B": "Create obligations or compromise independence",
+      "C": "Are disclosed to client",
+      "D": "Are from family"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 276,
+    "question": "Which body provides legal aid to indigent persons?",
+    "options": {
+      "A": "Council of Legal Education",
+      "B": "Legal Aid Council of Nigeria",
+      "C": "National Judicial Council",
+      "D": "Nigerian Law Reform Commission"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 277,
+    "question": "The Body of Benchers mainly comprises:",
+    "options": {
+      "A": "Law students",
+      "B": "Judges and distinguished legal practitioners",
+      "C": "Civil engineers",
+      "D": "Police officers"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 278,
+    "question": "A lawyer’s public comments on pending cases should be:",
+    "options": {
+      "A": "Prejudicial",
+      "B": "Speculative",
+      "C": "Restrained and consistent with fair trial",
+      "D": "Aggressive"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 279,
+    "question": "A firm’s client files should be kept:",
+    "options": {
+      "A": "Publicly accessible",
+      "B": "Secure and retrievable",
+      "C": "With opponents",
+      "D": "On social media"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 280,
+    "question": "A counsel’s promise to the court must be:",
+    "options": {
+      "A": "Ignored later",
+      "B": "Honoured or varied with leave",
+      "C": "Treated as PR",
+      "D": "Delegated to clerks"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 281,
+    "question": "The principal purpose of professional ethics is to:",
+    "options": {
+      "A": "Increase profits",
+      "B": "Protect the integrity of the legal system and client interests",
+      "C": "Impress the public only",
+      "D": "Shorten examinations"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 282,
+    "question": "A process signed by a non-lawyer using a lawyer’s name is:",
+    "options": {
+      "A": "Acceptable",
+      "B": "A mere irregularity without consequence",
+      "C": "Potentially incompetent/improper",
+      "D": "Encouraged"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 283,
+    "question": "If two clients’ interests diverge mid-brief, counsel should:",
+    "options": {
+      "A": "Represent both zealously regardless",
+      "B": "Disclose and seek consent where permissible, or withdraw",
+      "C": "Ignore the issue",
+      "D": "Ask the registrar to decide informally"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 284,
+    "question": "A law firm may ethically advertise by:",
+    "options": {
+      "A": "Using false testimonials",
+      "B": "Unsolicited harassing calls",
+      "C": "Accurate, dignified information",
+      "D": "Guaranteed outcomes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 285,
+    "question": "A lawyer’s duty of competence requires:",
+    "options": {
+      "A": "Ignoring unfamiliar areas",
+      "B": "Acquiring necessary skill or associating with someone competent",
+      "C": "Delegating to non-lawyers only",
+      "D": "Relying on media posts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 286,
+    "question": "The LPPC is chaired by the:",
+    "options": {
+      "A": "President of the NBA",
+      "B": "Chief Justice of Nigeria",
+      "C": "Attorney-General of the Federation",
+      "D": "President, Court of Appeal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 287,
+    "question": "“Chambers” in Nigerian practice usually refers to a:",
+    "options": {
+      "A": "Police office",
+      "B": "Law firm/office",
+      "C": "University hall",
+      "D": "Court cell"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 288,
+    "question": "A counsel should keep appointments and court dates out of duty of:",
+    "options": {
+      "A": "Profit",
+      "B": "Diligence and courtesy",
+      "C": "Entertainment",
+      "D": "Politics"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 289,
+    "question": "When client money is received, the lawyer should:",
+    "options": {
+      "A": "Mix with office funds",
+      "B": "Place in a client account and account promptly",
+      "C": "Convert to cash for safety",
+      "D": "Delay banking"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 290,
+    "question": "During settlement talks, counsel must:",
+    "options": {
+      "A": "Hide material facts when asked directly",
+      "B": "Remain truthful and act within the law",
+      "C": "Threaten the judge",
+      "D": "Misstate the law"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 291,
+    "question": "The NBA seal/stamp is typically issued by the:",
+    "options": {
+      "A": "Supreme Court registry",
+      "B": "Nigerian Bar Association",
+      "C": "Council of Legal Education",
+      "D": "Court of Appeal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 292,
+    "question": "A junior must:",
+    "options": {
+      "A": "Disobey instructions",
+      "B": "Ignore ethics for speed",
+      "C": "Uphold the RPC and follow lawful instructions",
+      "D": "Sign as senior if absent"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 293,
+    "question": "Which is NOT a typical LPDC power?",
+    "options": {
+      "A": "Admonition/costs",
+      "B": "Suspension",
+      "C": "Striking off",
+      "D": "Awarding criminal sentences"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 294,
+    "question": "A lawyer’s dress code in court is governed by:",
+    "options": {
+      "A": "Firm whim",
+      "B": "Court rules/custom",
+      "C": "Media polls",
+      "D": "Client preference"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 295,
+    "question": "Which NBA Section focuses on public interest advocacy?",
+    "options": {
+      "A": "SLP",
+      "B": "SPIDEL",
+      "C": "SBL",
+      "D": "SJA"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 296,
+    "question": "A lawyer should promptly inform the client of:",
+    "options": {
+      "A": "Party politics",
+      "B": "Material developments in the case",
+      "C": "Colleagues’ birthdays",
+      "D": "Court gossip"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 297,
+    "question": "If a represented person contacts counsel directly about the matter, counsel should:",
+    "options": {
+      "A": "Engage fully",
+      "B": "Reply on social media",
+      "C": "Direct them to, or obtain consent from, their lawyer",
+      "D": "Ignore ethics"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 298,
+    "question": "A law firm letterhead must not contain:",
+    "options": {
+      "A": "Practice areas",
+      "B": "Misleading claims",
+      "C": "Contact details",
+      "D": "Office addresses"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 299,
+    "question": "When the retainer ends, the lawyer should:",
+    "options": {
+      "A": "Keep all documents forever",
+      "B": "Withhold all documents unreasonably",
+      "C": "Deliver the file subject to lien and transition duties",
+      "D": "Destroy the file immediately"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 300,
+    "question": "The overarching aim of disciplinary control of lawyers is to:",
+    "options": {
+      "A": "Maximise publicity",
+      "B": "Maintain professional standards and public confidence",
+      "C": "Entertain the public",
+      "D": "Shorten trials"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 301,
+    "question": "Admission to practise law in Nigeria ultimately requires Call to Bar and what additional step?",
+    "options": {
+      "A": "NBA branch clearance",
+      "B": "Pledge before the Chief Judge",
+      "C": "Enrolment of name at the Supreme Court",
+      "D": "Payment of chamber dues"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 302,
+    "question": "Which body conducts the formal Call to Bar ceremony?",
+    "options": {
+      "A": "Council of Legal Education",
+      "B": "Supreme Court of Nigeria",
+      "C": "Nigerian Bar Association",
+      "D": "Body of Benchers"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 303,
+    "question": "Which committee confers the rank of Senior Advocate of Nigeria (SAN)?",
+    "options": {
+      "A": "Council of Legal Education",
+      "B": "Legal Practitioners Privileges Committee",
+      "C": "National Judicial Council",
+      "D": "Legal Aid Council"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 304,
+    "question": "The Nigerian legal profession is best described as a ______ profession regarding advocacy/solicitorship.",
+    "options": {
+      "A": "Split",
+      "B": "Administrative",
+      "C": "Fused",
+      "D": "Contractual"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 305,
+    "question": "The principal ethical instrument regulating Nigerian lawyers is the:",
+    "options": {
+      "A": "Civil Procedure Rules",
+      "B": "Evidence Act",
+      "C": "Rules of Professional Conduct (RPC)",
+      "D": "Criminal Code"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 306,
+    "question": "Client money received by a firm should be placed primarily in a:",
+    "options": {
+      "A": "Staff welfare account",
+      "B": "Office running account",
+      "C": "Client (trust) account",
+      "D": "Petty cash drawer"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 307,
+    "question": "Professional legal privilege generally protects communications made:",
+    "options": {
+      "A": "For public relations",
+      "B": "For political debates",
+      "C": "For legal advice or representation",
+      "D": "For marketing"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 308,
+    "question": "A lawyer aware a witness intends to lie must:",
+    "options": {
+      "A": "Proceed and let the court decide",
+      "B": "Coach the witness to “stay consistent”",
+      "C": "Decline to adduce false evidence and take remedial steps",
+      "D": "Ignore the issue if client insists"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 309,
+    "question": "The use of the NBA stamp/seal on processes primarily:",
+    "options": {
+      "A": "Guarantees success",
+      "B": "Creates jurisdiction",
+      "C": "Shows BPF compliance and authenticity of signature",
+      "D": "Waives filing fees"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 310,
+    "question": "The LPDC operates under the authority of the:",
+    "options": {
+      "A": "Court of Appeal",
+      "B": "Federal High Court",
+      "C": "Body of Benchers",
+      "D": "Ministry of Justice"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 311,
+    "question": "The most severe sanction the LPDC may impose is:",
+    "options": {
+      "A": "Warning",
+      "B": "Fine",
+      "C": "Striking off the roll (disbarment)",
+      "D": "Training course"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 312,
+    "question": "Notaries Public in Nigeria are appointed by the:",
+    "options": {
+      "A": "Attorney-General of the Federation",
+      "B": "President of the NBA",
+      "C": "Chief Justice of Nigeria",
+      "D": "Chief Judge of the FCT"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 313,
+    "question": "The NBA is primarily a:",
+    "options": {
+      "A": "Government ministry",
+      "B": "Political party",
+      "C": "Professional association of lawyers",
+      "D": "Court registry"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 314,
+    "question": "“Right of audience” refers to the right to:",
+    "options": {
+      "A": "Advertise on TV",
+      "B": "Host press conferences",
+      "C": "Appear before a court/tribunal",
+      "D": "Petition the legislature"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 315,
+    "question": "Fee sharing with which category is prohibited?",
+    "options": {
+      "A": "Partners",
+      "B": "Co-counsel",
+      "C": "Non-lawyers",
+      "D": "Employed associates"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 316,
+    "question": "A firm name must not:",
+    "options": {
+      "A": "Use partners’ surnames",
+      "B": "Indicate practice areas truthfully",
+      "C": "Mislead as to government affiliation",
+      "D": "List contact details"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 317,
+    "question": "Payment of Bar Practising Fees (BPF) is linked to a lawyer’s:",
+    "options": {
+      "A": "Right to contest elections",
+      "B": "Eligibility to affix NBA stamp/seal and appear",
+      "C": "Right to sit as judge",
+      "D": "Admission to a university"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 318,
+    "question": "A lawyer’s duty of confidentiality generally:",
+    "options": {
+      "A": "Ends with the brief",
+      "B": "Depends on fees paid",
+      "C": "Survives the representation",
+      "D": "Ends after 30 days"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 319,
+    "question": "Which NBA Section focuses on business and commercial practice?",
+    "options": {
+      "A": "SLP",
+      "B": "SPIDEL",
+      "C": "SBL",
+      "D": "SJA"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 320,
+    "question": "SPIDEL within the NBA stands for Section on:",
+    "options": {
+      "A": "Procurement Integrity & Due Law",
+      "B": "Private Investment & Development Law",
+      "C": "Public Interest & Development Law",
+      "D": "Professional Indemnity & Dispute Law"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 321,
+    "question": "A counsel’s undertaking to the court is:",
+    "options": {
+      "A": "A mere courtesy",
+      "B": "A publicity statement",
+      "C": "Ethically binding and strictly to be honoured",
+      "D": "A negotiable slogan"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 322,
+    "question": "A direct adversity between two current clients in the same matter is typically:",
+    "options": {
+      "A": "Harmless",
+      "B": "Curable by silence",
+      "C": "A non-consentable conflict",
+      "D": "Left to the registrar"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 323,
+    "question": "Ex parte applications should be brought only when:",
+    "options": {
+      "A": "The case is complex",
+      "B": "The opponent is unfriendly",
+      "C": "Permitted by law and urgency/justice requires",
+      "D": "Media interest is high"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 324,
+    "question": "A lawyer’s fee should be:",
+    "options": {
+      "A": "Arbitrary",
+      "B": "Fixed by opponent",
+      "C": "Reasonable given time, skill, novelty and result",
+      "D": "Hidden from client"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 325,
+    "question": "A lawyer’s lien typically allows counsel to:",
+    "options": {
+      "A": "Sell client property",
+      "B": "Retain papers for unpaid fees (subject to law/ethics)",
+      "C": "Arrest the client",
+      "D": "Punish the client"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 326,
+    "question": "A firm’s anti-money-laundering policy chiefly helps detect:",
+    "options": {
+      "A": "Staff birthdays",
+      "B": "Suspicious transactions",
+      "C": "Court holidays",
+      "D": "Media trends"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 327,
+    "question": "“Holding out” as a lawyer without call/enrolment is:",
+    "options": {
+      "A": "Acceptable if client agrees",
+      "B": "A civil wrong only",
+      "C": "Professional misconduct and/or a criminal offence",
+      "D": "A social media issue"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 328,
+    "question": "Permitted organisational forms for private practice are mainly:",
+    "options": {
+      "A": "Government parastatal",
+      "B": "Sole practice or partnership",
+      "C": "Regular LLC for legal practice",
+      "D": "Sports club"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 329,
+    "question": "Properly called/enrolled in-house counsel are:",
+    "options": {
+      "A": "Not legal practitioners",
+      "B": "Legal practitioners",
+      "C": "SANs automatically",
+      "D": "Prohibited from legal work"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 330,
+    "question": "A “Chinese wall”/information barrier is used to:",
+    "options": {
+      "A": "Replace consent in same-dispute conflicts",
+      "B": "Decorate chambers",
+      "C": "Manage screenable conflicts where law allows",
+      "D": "Block client access"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 331,
+    "question": "During negotiations, counsel must:",
+    "options": {
+      "A": "Misstate material facts",
+      "B": "Threaten the judge",
+      "C": "Remain truthful while advancing lawful client interests",
+      "D": "Avoid consulting the client"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 332,
+    "question": "Private communication with a judge about a pending case is:",
+    "options": {
+      "A": "Clever strategy",
+      "B": "Allowed if polite",
+      "C": "Prohibited ex parte contact",
+      "D": "Required before submissions"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 333,
+    "question": "In superior courts, traditional attire (wig and gown) symbolises:",
+    "options": {
+      "A": "Fashion trends",
+      "B": "Party allegiance",
+      "C": "Tradition and solemnity of justice",
+      "D": "Fee level"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 334,
+    "question": "“Without prejudice” correspondence typically relates to:",
+    "options": {
+      "A": "Media interviews",
+      "B": "Settlement negotiations",
+      "C": "Judicial appointments",
+      "D": "Political rallies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 335,
+    "question": "A junior counsel’s duty to the court is:",
+    "options": {
+      "A": "Optional",
+      "B": "Secondary to client’s illegal demands",
+      "C": "Paramount alongside the senior’s",
+      "D": "For registrars only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 336,
+    "question": "A retainer letter should:",
+    "options": {
+      "A": "Promise guaranteed outcomes",
+      "B": "Be oral only",
+      "C": "Clearly state scope, fees, and responsibilities",
+      "D": "Avoid fee terms"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 337,
+    "question": "Counsel may refuse a brief where:",
+    "options": {
+      "A": "The fee is fair",
+      "B": "Capacity/conflict/ethics issues exist",
+      "C": "The case is interesting",
+      "D": "The client is courteous"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 338,
+    "question": "Pro bono service means:",
+    "options": {
+      "A": "Government-only work",
+      "B": "Paid premium service",
+      "C": "Free legal service in the public interest",
+      "D": "Social media advocacy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 339,
+    "question": "SANs primarily enjoy:",
+    "options": {
+      "A": "Ownership of court buildings",
+      "B": "Automatic judicial office",
+      "C": "Precedence and certain privileges of audience",
+      "D": "Prohibition from solicitor’s work"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 340,
+    "question": "If a client intends a crime, counsel should:",
+    "options": {
+      "A": "Assist quietly",
+      "B": "Ignore it",
+      "C": "Decline/withdraw and avoid facilitating illegality",
+      "D": "Post online"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 341,
+    "question": "Statements to third parties by a lawyer must be:",
+    "options": {
+      "A": "Threatening",
+      "B": "Inflated",
+      "C": "Truthful and not misleading",
+      "D": "Sarcastic"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 342,
+    "question": "Mediation by lawyers is:",
+    "options": {
+      "A": "Forbidden",
+      "B": "Reserved for SANs",
+      "C": "Allowed and often encouraged",
+      "D": "Judicial only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 343,
+    "question": "Counsel must not assert personal knowledge of facts in:",
+    "options": {
+      "A": "Client interviews",
+      "B": "Academic lectures",
+      "C": "Internal memos",
+      "D": "Submissions to court"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 344,
+    "question": "A firm cannot represent adverse interests in:",
+    "options": {
+      "A": "Different cities",
+      "B": "Different industries",
+      "C": "The same dispute (non-consentable conflict)",
+      "D": "Unrelated matters"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 345,
+    "question": "Lawyers must supervise non-lawyer staff to ensure:",
+    "options": {
+      "A": "Political alignment",
+      "B": "Marketing giveaways",
+      "C": "Compliance with ethics/confidentiality",
+      "D": "Social events"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 346,
+    "question": "Privileged communications may be disclosed:",
+    "options": {
+      "A": "To entertain friends",
+      "B": "For office gossip",
+      "C": "With client’s informed consent or as required by law",
+      "D": "For social media debates"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 347,
+    "question": "A practitioner under suspension:",
+    "options": {
+      "A": "May appear with a senior",
+      "B": "May sign processes secretly",
+      "C": "Must cease legal practice",
+      "D": "May practise in chambers only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 348,
+    "question": "A process signed without a genuine lawyer’s signature/seal risks being:",
+    "options": {
+      "A": "Automatically winning",
+      "B": "A mere decoration",
+      "C": "Incompetent until properly regularised under applicable rules",
+      "D": "Superior authority"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 349,
+    "question": "Courtesy to opposing counsel entails:",
+    "options": {
+      "A": "Threatening messages",
+      "B": "Ex parte chats with the judge",
+      "C": "Professional respect and cooperation within rules",
+      "D": "Concealing dates"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 350,
+    "question": "If health impairs representation, counsel should:",
+    "options": {
+      "A": "Hide it",
+      "B": "Continue regardless",
+      "C": "Protect the client, including withdrawal if necessary",
+      "D": "Transfer to a clerk"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 351,
+    "question": "Serving as both advocate and witness in the same cause is:",
+    "options": {
+      "A": "Always required",
+      "B": "Generally discouraged except where permitted",
+      "C": "Standard for juniors",
+      "D": "Only for SANs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 352,
+    "question": "Keeping contemporaneous records mainly supports:",
+    "options": {
+      "A": "Media publicity",
+      "B": "Fair billing/accountability",
+      "C": "Lottery entries",
+      "D": "Office gossip"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 353,
+    "question": "Candour in written briefs requires citing:",
+    "options": {
+      "A": "Only favourable cases",
+      "B": "Anonymous blogs",
+      "C": "Material adverse authority where applicable",
+      "D": "No statutes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 354,
+    "question": "A law firm website is proper when it is:",
+    "options": {
+      "A": "Misleading/comparative",
+      "B": "Focused on guaranteed outcomes",
+      "C": "Accurate, dignified and not deceptive",
+      "D": "Filled with unverifiable claims"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 355,
+    "question": "Threatening criminal prosecution solely for civil advantage is:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Required by banks",
+      "C": "Improper",
+      "D": "Mandatory"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 356,
+    "question": "A lawyer’s paramount duty in advocacy is to:",
+    "options": {
+      "A": "Entertain spectators",
+      "B": "Please the media",
+      "C": "Advance justice and assist the court",
+      "D": "Shorten every trial"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 357,
+    "question": "A conflict-check system primarily aims to:",
+    "options": {
+      "A": "Expand marketing",
+      "B": "Track court holidays",
+      "C": "Detect adverse interests before accepting briefs",
+      "D": "Reduce research"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 358,
+    "question": "On change of counsel, the previous lawyer should:",
+    "options": {
+      "A": "Publicise the dispute",
+      "B": "Destroy the file",
+      "C": "Deliver the file subject to lien and transition duties",
+      "D": "Keep the file forever"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 359,
+    "question": "The NBA Section on Legal Practice (SLP) focuses on:",
+    "options": {
+      "A": "Electioneering",
+      "B": "Litigation/professional development",
+      "C": "Maritime administration",
+      "D": "Mining law"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 360,
+    "question": "A name like “Ministry of Justice Partners” is likely:",
+    "options": {
+      "A": "Preferred",
+      "B": "Required",
+      "C": "Misleading as implying government affiliation",
+      "D": "Acceptable"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 361,
+    "question": "Client identification and due diligence primarily prevent:",
+    "options": {
+      "A": "Legal analysis",
+      "B": "Money laundering and fraud",
+      "C": "Filing fees",
+      "D": "Court sittings"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 362,
+    "question": "Lawyers must not assist a client in conduct that is:",
+    "options": {
+      "A": "Lawful",
+      "B": "Procedural",
+      "C": "Criminal or fraudulent",
+      "D": "Novel"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 363,
+    "question": "Habitual lateness to court breaches duties of:",
+    "options": {
+      "A": "Profit",
+      "B": "Diligence and courtesy to the court",
+      "C": "Politics",
+      "D": "Entertainment"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 364,
+    "question": "Information barriers cannot cure conflicts in:",
+    "options": {
+      "A": "Matters in different branches",
+      "B": "Different, unrelated matters",
+      "C": "The same dispute between opposing parties",
+      "D": "Government policy work"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 365,
+    "question": "A lawyer may describe themselves as a specialist only if claims are:",
+    "options": {
+      "A": "Unverifiable",
+      "B": "Truthful and not misleading",
+      "C": "Insulting to peers",
+      "D": "Based on guaranteed outcomes"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 366,
+    "question": "When instructions are illegal, counsel should:",
+    "options": {
+      "A": "Execute quietly",
+      "B": "Disguise the act",
+      "C": "Decline and/or withdraw",
+      "D": "Negotiate with opponents"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 367,
+    "question": "Communicating with a represented person about the matter should be:",
+    "options": {
+      "A": "Via direct DMs",
+      "B": "Through or with consent of that person’s lawyer",
+      "C": "Through court clerks only",
+      "D": "In the hallway"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 368,
+    "question": "Lawyers must promptly account for:",
+    "options": {
+      "A": "Freebies",
+      "B": "Rumours",
+      "C": "Client money/property",
+      "D": "Staff salaries"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 369,
+    "question": "“Touting” includes seeking briefs by:",
+    "options": {
+      "A": "Reputation and fit conduct",
+      "B": "Publishing firm address",
+      "C": "Harassing calls or runners",
+      "D": "Listing practice areas"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 370,
+    "question": "Lawyers must not present evidence they know is:",
+    "options": {
+      "A": "Helpful",
+      "B": "Relevant",
+      "C": "False",
+      "D": "Neutral"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 371,
+    "question": "A junior who signs for a senior without authority commits:",
+    "options": {
+      "A": "Innovation",
+      "B": "Misconduct",
+      "C": "Mere courtesy",
+      "D": "Office routine"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 372,
+    "question": "In cross-examination, counsel must not:",
+    "options": {
+      "A": "Test credibility",
+      "B": "Use proper questions",
+      "C": "Misstate evidence deliberately",
+      "D": "Be firm but fair"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 373,
+    "question": "Gifts that create obligations or compromise independence should be:",
+    "options": {
+      "A": "Disclosed and accepted",
+      "B": "Accepted if nominal",
+      "C": "Declined",
+      "D": "Given to charity and proceed"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 374,
+    "question": "Which body provides legal aid to indigent persons?",
+    "options": {
+      "A": "National Judicial Council",
+      "B": "Legal Aid Council of Nigeria",
+      "C": "Nigerian Law Reform Commission",
+      "D": "Council of Legal Education"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 375,
+    "question": "The Body of Benchers mainly comprises:",
+    "options": {
+      "A": "Law students",
+      "B": "Civil engineers",
+      "C": "Police officers",
+      "D": "Judges and distinguished legal practitioners"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 376,
+    "question": "Public comment on pending cases by counsel should be:",
+    "options": {
+      "A": "Prejudicial",
+      "B": "Restrained and consistent with fair trial",
+      "C": "Aggressive",
+      "D": "Speculative"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 377,
+    "question": "Client files should be:",
+    "options": {
+      "A": "On social media",
+      "B": "With opponents",
+      "C": "Secure and retrievable",
+      "D": "Publicly accessible"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 378,
+    "question": "A promise to the court by counsel must be:",
+    "options": {
+      "A": "Ignored later",
+      "B": "Honoured or varied with leave",
+      "C": "Treated as PR",
+      "D": "Delegated to clerks"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 379,
+    "question": "The primary purpose of professional ethics is to:",
+    "options": {
+      "A": "Impress the public only",
+      "B": "Increase profits",
+      "C": "Protect the integrity of the legal system and client interests",
+      "D": "Shorten examinations"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 380,
+    "question": "A process signed by a non-lawyer in a lawyer’s name is:",
+    "options": {
+      "A": "Encouraged",
+      "B": "Potentially incompetent/improper",
+      "C": "A mere irregularity without consequence",
+      "D": "Acceptable"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 381,
+    "question": "If two clients’ interests diverge mid-brief, counsel should:",
+    "options": {
+      "A": "Ignore the issue",
+      "B": "Ask the registrar informally",
+      "C": "Disclose and seek consent where permissible, or withdraw",
+      "D": "Represent both zealously regardless"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 382,
+    "question": "Ethical advertising by a firm may include:",
+    "options": {
+      "A": "False testimonials",
+      "B": "Guaranteed outcomes",
+      "C": "Accurate, dignified information",
+      "D": "Unsolicited harassing calls"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 383,
+    "question": "Duty of competence requires:",
+    "options": {
+      "A": "Relying on media posts",
+      "B": "Delegating to non-lawyers only",
+      "C": "Acquiring needed skill or associating with someone competent",
+      "D": "Ignoring unfamiliar areas"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 384,
+    "question": "The LPPC is chaired by the:",
+    "options": {
+      "A": "Attorney-General of the Federation",
+      "B": "President of the NBA",
+      "C": "Chief Justice of Nigeria",
+      "D": "President, Court of Appeal"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 385,
+    "question": "“Chambers” in Nigerian practice refers to a:",
+    "options": {
+      "A": "Court cell",
+      "B": "University hall",
+      "C": "Police office",
+      "D": "Law firm/office"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 386,
+    "question": "Keeping court appointments primarily reflects:",
+    "options": {
+      "A": "Entertainment",
+      "B": "Politics",
+      "C": "Diligence and courtesy",
+      "D": "Profit"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 387,
+    "question": "On receiving client money, the lawyer should:",
+    "options": {
+      "A": "Delay banking",
+      "B": "Convert to cash for safety",
+      "C": "Place in a client account and account promptly",
+      "D": "Mix with office funds"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 388,
+    "question": "In settlement talks, counsel must:",
+    "options": {
+      "A": "Threaten the judge",
+      "B": "Misstate the law",
+      "C": "Remain truthful and act within the law",
+      "D": "Hide material facts when asked directly"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 389,
+    "question": "Who issues the NBA seal/stamp to practising lawyers?",
+    "options": {
+      "A": "Supreme Court registry",
+      "B": "Council of Legal Education",
+      "C": "Nigerian Bar Association",
+      "D": "Court of Appeal"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 390,
+    "question": "A junior must:",
+    "options": {
+      "A": "Sign as senior if absent",
+      "B": "Ignore ethics for speed",
+      "C": "Uphold the RPC and follow lawful instructions",
+      "D": "Disobey instructions"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 391,
+    "question": "Which is NOT a typical LPDC power?",
+    "options": {
+      "A": "Suspension",
+      "B": "Striking off",
+      "C": "Admonition/costs",
+      "D": "Imposing criminal sentences"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 392,
+    "question": "Court dress for counsel is governed by:",
+    "options": {
+      "A": "Client preference",
+      "B": "Media polls",
+      "C": "Court rules/custom",
+      "D": "Firm whim"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 393,
+    "question": "Which NBA Section focuses on public-interest advocacy?",
+    "options": {
+      "A": "SBL",
+      "B": "SLP",
+      "C": "SPIDEL",
+      "D": "SJA"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 394,
+    "question": "A lawyer should promptly inform a client of:",
+    "options": {
+      "A": "Colleagues’ birthdays",
+      "B": "Court gossip",
+      "C": "Material developments in the case",
+      "D": "Party politics"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 395,
+    "question": "If a represented person contacts counsel about the matter, counsel should:",
+    "options": {
+      "A": "Engage fully",
+      "B": "Reply on social media",
+      "C": "Direct them to, or obtain consent from, their lawyer",
+      "D": "Ignore ethics"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 396,
+    "question": "A firm letterhead must not contain:",
+    "options": {
+      "A": "Practice areas",
+      "B": "Misleading claims",
+      "C": "Contact details",
+      "D": "Office addresses"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 397,
+    "question": "When a retainer ends, the lawyer should:",
+    "options": {
+      "A": "Keep all documents forever",
+      "B": "Deliver the file subject to lien and transition duties",
+      "C": "Destroy the file immediately",
+      "D": "Withhold all documents unreasonably"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 398,
+    "question": "Disciplinary control of lawyers aims primarily to:",
+    "options": {
+      "A": "Entertain the public",
+      "B": "Maximise publicity",
+      "C": "Maintain professional standards and public confidence",
+      "D": "Shorten trials"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 399,
+    "question": "Mandatory continuing legal education (MCLE) in Nigeria chiefly promotes:",
+    "options": {
+      "A": "Political alignment",
+      "B": "Revenue only",
+      "C": "Ongoing competence and professionalism",
+      "D": "Social media growth"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 400,
+    "question": "A counsel must never knowingly assist a client to:",
+    "options": {
+      "A": "File proper documents",
+      "B": "Negotiate settlement",
+      "C": "Engage in criminal or fraudulent conduct",
+      "D": "Seek ADR options"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 401,
+    "question": "Which body issues the formal Call-to-Bar certificate to new lawyers in Nigeria?",
+    "options": {
+      "A": "Council of Legal Education",
+      "B": "Supreme Court of Nigeria",
+      "C": "Nigerian Bar Association",
+      "D": "Body of Benchers"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 402,
+    "question": "Which item authenticates a Nigerian lawyer’s signature on court processes?",
+    "options": {
+      "A": "Practising licence card",
+      "B": "NBA stamp and seal",
+      "C": "Firm letterhead",
+      "D": "Bar finals result slip"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 403,
+    "question": "The most severe sanction the LPDC may impose is:",
+    "options": {
+      "A": "Fine",
+      "B": "Warning",
+      "C": "Striking off the roll (disbarment)",
+      "D": "Costs only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 404,
+    "question": "After Call to Bar, a person becomes a legal practitioner upon:",
+    "options": {
+      "A": "Passing NYSC",
+      "B": "Joining an NBA Section",
+      "C": "Opening chambers",
+      "D": "Enrolment of their name at the Supreme Court"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 405,
+    "question": "The primary statute governing legal practitioners in Nigeria is the:",
+    "options": {
+      "A": "Evidence Act",
+      "B": "Legal Practitioners Act",
+      "C": "Criminal Code",
+      "D": "Sheriffs and Civil Process Act"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 406,
+    "question": "A Notary Public in Nigeria is appointed by the:",
+    "options": {
+      "A": "Attorney-General of the Federation",
+      "B": "President of the NBA",
+      "C": "Chief Justice of Nigeria",
+      "D": "Chief Judge of the FCT"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 407,
+    "question": "Regarding advocacy and solicitorship, the Nigerian legal profession is generally:",
+    "options": {
+      "A": "Split",
+      "B": "Administrative only",
+      "C": "Fused",
+      "D": "Contractual"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 408,
+    "question": "A lawyer who knows a witness will testify falsely should:",
+    "options": {
+      "A": "Proceed and let the court decide",
+      "B": "Seek media support",
+      "C": "Decline to adduce the false evidence and take remedial steps",
+      "D": "Avoid the sitting"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 409,
+    "question": "Client funds received by a lawyer should be kept in a:",
+    "options": {
+      "A": "Personal account",
+      "B": "Office overhead account",
+      "C": "Client (trust) account",
+      "D": "Safe at home"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 410,
+    "question": "Which body operates under the Body of Benchers to discipline legal practitioners?",
+    "options": {
+      "A": "National Judicial Council",
+      "B": "Federal Judicial Service Commission",
+      "C": "Legal Practitioners Disciplinary Committee",
+      "D": "Council of Legal Education"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 411,
+    "question": "The use of the NBA stamp/seal primarily evidences:",
+    "options": {
+      "A": "Guaranteed success",
+      "B": "Valid court jurisdiction",
+      "C": "Payment of Bar Practising Fees and authenticity of signature",
+      "D": "Court approval of arguments"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 412,
+    "question": "An advocate’s paramount duty during proceedings is to the:",
+    "options": {
+      "A": "Media",
+      "B": "Client’s relatives",
+      "C": "Court and the administration of justice",
+      "D": "Firm’s brand"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 413,
+    "question": "The rank of SAN is conferred by the:",
+    "options": {
+      "A": "National Assembly",
+      "B": "Court of Appeal Rules Committee",
+      "C": "Legal Practitioners Privileges Committee",
+      "D": "Council of Legal Education"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 414,
+    "question": "“Right of audience” refers to a lawyer’s right to:",
+    "options": {
+      "A": "Run political campaigns",
+      "B": "Appear before a court/tribunal",
+      "C": "Advertise on television",
+      "D": "Hold press conferences in court"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 415,
+    "question": "A law firm name must not:",
+    "options": {
+      "A": "Use partners’ surnames",
+      "B": "Truthfully state practice areas",
+      "C": "Mislead as to government affiliation",
+      "D": "Show contact details"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 416,
+    "question": "Lawyers must not share legal fees with:",
+    "options": {
+      "A": "Partners",
+      "B": "Non-lawyers",
+      "C": "Co-counsel",
+      "D": "Employed associates"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 417,
+    "question": "Which NBA Section focuses on business/commercial practice?",
+    "options": {
+      "A": "Section on Legal Practice (SLP)",
+      "B": "Section on Public Interest and Development Law (SPIDEL)",
+      "C": "Section on Business Law (SBL)",
+      "D": "Section on Criminal Justice Administration (SCJA)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 418,
+    "question": "SPIDEL within the NBA stands for Section on:",
+    "options": {
+      "A": "Procurement Integrity & Due Law",
+      "B": "Private Investment & Development Law",
+      "C": "Public Interest & Development Law",
+      "D": "Professional Indemnity & Dispute Law"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 419,
+    "question": "A counsel’s undertaking given to a court or colleague is:",
+    "options": {
+      "A": "Mere courtesy",
+      "B": "Marketing language",
+      "C": "Ethically binding and must be honoured",
+      "D": "Optional if inconvenient"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 420,
+    "question": "Ex parte applications should be filed only when:",
+    "options": {
+      "A": "The opponent is unfriendly",
+      "B": "Media interest is high",
+      "C": "Permitted by law and urgency/justice requires",
+      "D": "The case is complex"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 421,
+    "question": "Confidentiality owed to a client generally:",
+    "options": {
+      "A": "Ends with the retainer",
+      "B": "Depends on fees paid",
+      "C": "Survives the representation",
+      "D": "Expires after one year"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 422,
+    "question": "A lawyer’s fee should be:",
+    "options": {
+      "A": "Arbitrary",
+      "B": "Reasonable given time, skill, novelty and result",
+      "C": "Fixed by the opponent",
+      "D": "Hidden from the client"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 423,
+    "question": "A lawyer’s lien allows counsel to:",
+    "options": {
+      "A": "Sell the client’s property",
+      "B": "Retain papers for unpaid fees (subject to law/ethics)",
+      "C": "Arrest the client",
+      "D": "Punish the client"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 424,
+    "question": "“Holding out” as a lawyer without being called/enrolled is:",
+    "options": {
+      "A": "Acceptable if client agrees",
+      "B": "A civil wrong only",
+      "C": "Professional misconduct and/or a criminal offence",
+      "D": "A social media issue"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 425,
+    "question": "Properly called/enrolled in-house counsel are:",
+    "options": {
+      "A": "Not legal practitioners",
+      "B": "Legal practitioners",
+      "C": "Automatically SANs",
+      "D": "Prohibited from legal work"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 426,
+    "question": "“Without prejudice” correspondence ordinarily relates to:",
+    "options": {
+      "A": "Political statements",
+      "B": "Settlement negotiations",
+      "C": "Judicial appointments",
+      "D": "Press releases"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 427,
+    "question": "During settlement, a lawyer must:",
+    "options": {
+      "A": "Threaten the judge",
+      "B": "Misstate material facts",
+      "C": "Remain truthful while advancing lawful client interests",
+      "D": "Avoid client consultation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 428,
+    "question": "The NBA is best described as a:",
+    "options": {
+      "A": "Government ministry",
+      "B": "Political party",
+      "C": "Professional association of lawyers",
+      "D": "Court registry"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 429,
+    "question": "A law firm website is ethical when it is:",
+    "options": {
+      "A": "Misleading/comparative",
+      "B": "Focused on guaranteed outcomes",
+      "C": "Accurate, dignified and not deceptive",
+      "D": "Filled with unverifiable claims"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 430,
+    "question": "Private communication with a judge about a pending case is:",
+    "options": {
+      "A": "Clever strategy",
+      "B": "Allowed if polite",
+      "C": "Prohibited ex parte contact",
+      "D": "Required before filings"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 431,
+    "question": "The overarching aim of professional ethics is to:",
+    "options": {
+      "A": "Increase profits",
+      "B": "Impress the public",
+      "C": "Protect the integrity of the legal system and client interests",
+      "D": "Shorten trials"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 432,
+    "question": "If two current clients become directly adverse in the same matter, the conflict is generally:",
+    "options": {
+      "A": "Harmless",
+      "B": "Curable by silence",
+      "C": "Non-consentable; counsel must not act for both",
+      "D": "Left to a clerk"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 433,
+    "question": "A firm’s AML policy chiefly helps detect:",
+    "options": {
+      "A": "Staff birthdays",
+      "B": "Suspicious transactions",
+      "C": "Public holidays",
+      "D": "Court renovations"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 434,
+    "question": "Lawyers must supervise non-lawyer staff to ensure:",
+    "options": {
+      "A": "Political alignment",
+      "B": "Compliance with ethics/confidentiality",
+      "C": "Viral marketing",
+      "D": "Social event planning"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 435,
+    "question": "The LPPC is chaired by the:",
+    "options": {
+      "A": "President of the NBA",
+      "B": "Chief Justice of Nigeria",
+      "C": "Attorney-General of the Federation",
+      "D": "President, Court of Appeal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 436,
+    "question": "Mandatory Continuing Legal Education (MCLE) primarily promotes:",
+    "options": {
+      "A": "Social media presence",
+      "B": "Revenue for courts",
+      "C": "Ongoing competence and professionalism",
+      "D": "Political influence"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 437,
+    "question": "Client identification and due diligence aim to prevent:",
+    "options": {
+      "A": "Legal analysis",
+      "B": "Money laundering and fraud",
+      "C": "Filing fees",
+      "D": "Witness attendance"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 438,
+    "question": "Habitual lateness to court breaches duties of:",
+    "options": {
+      "A": "Profit",
+      "B": "Diligence and courtesy",
+      "C": "Politics",
+      "D": "Public relations"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 439,
+    "question": "A process signed by a non-lawyer in a lawyer’s name is:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Potentially incompetent/improper",
+      "C": "A mere decoration",
+      "D": "Encouraged"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 440,
+    "question": "When a client changes counsel, the previous lawyer should:",
+    "options": {
+      "A": "Destroy the file",
+      "B": "Keep the file forever",
+      "C": "Deliver the file subject to lien and transition duties",
+      "D": "Publicise the dispute"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 441,
+    "question": "Counsel must not assert personal knowledge of facts in:",
+    "options": {
+      "A": "Internal memos",
+      "B": "Client interviews",
+      "C": "Submissions to court",
+      "D": "Academic lectures"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 442,
+    "question": "Lawyers must not assist clients to engage in conduct that is:",
+    "options": {
+      "A": "Lawful",
+      "B": "Procedural",
+      "C": "Criminal or fraudulent",
+      "D": "Novel"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 443,
+    "question": "A junior who signs for a senior without authority commits:",
+    "options": {
+      "A": "Innovation",
+      "B": "Misconduct",
+      "C": "Mere courtesy",
+      "D": "Office routine"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 444,
+    "question": "In cross-examination, counsel must not:",
+    "options": {
+      "A": "Test credibility",
+      "B": "Use proper questions",
+      "C": "Misstate evidence deliberately",
+      "D": "Be firm but fair"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 445,
+    "question": "Gifts that compromise independence or create obligations should be:",
+    "options": {
+      "A": "Accepted if declared",
+      "B": "Accepted if nominal",
+      "C": "Declined",
+      "D": "Re-gifted to staff"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 446,
+    "question": "Legal Aid Council of Nigeria primarily:",
+    "options": {
+      "A": "Accredits universities",
+      "B": "Provides legal aid to indigent persons",
+      "C": "Confers SAN",
+      "D": "Appoints judges"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 447,
+    "question": "The Body of Benchers mainly comprises:",
+    "options": {
+      "A": "Law students",
+      "B": "Civil engineers",
+      "C": "Police officers",
+      "D": "Judges and distinguished legal practitioners"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 448,
+    "question": "Public comment on pending cases by counsel should be:",
+    "options": {
+      "A": "Prejudicial",
+      "B": "Restrained and consistent with fair-trial rights",
+      "C": "Aggressive",
+      "D": "Speculative"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 449,
+    "question": "Client files should be kept:",
+    "options": {
+      "A": "On social media",
+      "B": "With opponents",
+      "C": "Secure and retrievable",
+      "D": "Publicly accessible"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 450,
+    "question": "A counsel’s promise to the court must be:",
+    "options": {
+      "A": "Ignored later",
+      "B": "Honoured or varied with leave",
+      "C": "Treated as PR",
+      "D": "Delegated to clerks"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 451,
+    "question": "Lawyers must not present evidence they know is:",
+    "options": {
+      "A": "Helpful",
+      "B": "Relevant",
+      "C": "False",
+      "D": "Neutral"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 452,
+    "question": "When client instructions are illegal, counsel should:",
+    "options": {
+      "A": "Execute quietly",
+      "B": "Disguise the act",
+      "C": "Decline and/or withdraw",
+      "D": "Negotiate with opponents"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 453,
+    "question": "Communication with a represented person about the matter should be:",
+    "options": {
+      "A": "By direct DM",
+      "B": "Through or with consent of that person’s lawyer",
+      "C": "Through court clerks only",
+      "D": "In the hallway"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 454,
+    "question": "Lawyers must promptly account for:",
+    "options": {
+      "A": "Freebies",
+      "B": "Rumours",
+      "C": "Client money/property",
+      "D": "Staff salaries"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 455,
+    "question": "“Touting” includes seeking briefs by:",
+    "options": {
+      "A": "Reputation and fit conduct",
+      "B": "Publishing firm address",
+      "C": "Harassing calls or runners",
+      "D": "Listing practice areas"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 456,
+    "question": "A junior must:",
+    "options": {
+      "A": "Sign as senior if absent",
+      "B": "Ignore ethics for speed",
+      "C": "Uphold the RPC and follow lawful instructions",
+      "D": "Disobey instructions"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 457,
+    "question": "Which is NOT a typical LPDC power?",
+    "options": {
+      "A": "Suspension",
+      "B": "Striking off",
+      "C": "Admonition/costs",
+      "D": "Imposing criminal sentences"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 458,
+    "question": "Court dress for counsel is governed by:",
+    "options": {
+      "A": "Firm whim",
+      "B": "Court rules/custom",
+      "C": "Media polls",
+      "D": "Client preference"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 459,
+    "question": "Which NBA Section focuses on public-interest advocacy?",
+    "options": {
+      "A": "SBL",
+      "B": "SPIDEL",
+      "C": "SLP",
+      "D": "SJA"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 460,
+    "question": "A lawyer should promptly inform the client of:",
+    "options": {
+      "A": "Colleagues’ birthdays",
+      "B": "Court gossip",
+      "C": "Material developments in the case",
+      "D": "Party politics"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 461,
+    "question": "If a represented person contacts counsel on the matter, counsel should:",
+    "options": {
+      "A": "Engage fully",
+      "B": "Reply on social media",
+      "C": "Direct them to, or obtain consent from, their lawyer",
+      "D": "Ignore ethics"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 462,
+    "question": "A firm letterhead must not contain:",
+    "options": {
+      "A": "Practice areas",
+      "B": "Misleading claims",
+      "C": "Contact details",
+      "D": "Office addresses"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 463,
+    "question": "When a retainer ends, the lawyer should:",
+    "options": {
+      "A": "Keep all documents forever",
+      "B": "Deliver the file subject to lien and transition duties",
+      "C": "Destroy the file immediately",
+      "D": "Withhold all documents unreasonably"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 464,
+    "question": "Disciplinary control of lawyers aims primarily to:",
+    "options": {
+      "A": "Entertain the public",
+      "B": "Maximise publicity",
+      "C": "Maintain professional standards and public confidence",
+      "D": "Shorten trials"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 465,
+    "question": "Lawyers should keep contemporaneous records to support:",
+    "options": {
+      "A": "Media publicity",
+      "B": "Fair billing and accountability",
+      "C": "Lottery entries",
+      "D": "Political engagements"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 466,
+    "question": "Professional privilege most directly protects:",
+    "options": {
+      "A": "Chats with friends",
+      "B": "Communications for legal advice/representation",
+      "C": "All office talk",
+      "D": "Marketing messages"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 467,
+    "question": "“Holding brief” ethically requires appearing counsel to be:",
+    "options": {
+      "A": "Uninstructed",
+      "B": "Properly instructed and able to protect client interests",
+      "C": "Silent throughout",
+      "D": "Present only for adjournment"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 468,
+    "question": "Lawyers may truthfully describe themselves as specialists only if claims are:",
+    "options": {
+      "A": "Unverifiable",
+      "B": "Truthful and not misleading",
+      "C": "Insulting to peers",
+      "D": "Based on guaranteed outcomes"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 469,
+    "question": "A firm cannot represent adverse interests in:",
+    "options": {
+      "A": "Different cities",
+      "B": "Different industries",
+      "C": "The same dispute (non-consentable conflict)",
+      "D": "Unrelated matters"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 470,
+    "question": "A lawyer’s statements to third parties must be:",
+    "options": {
+      "A": "Threatening",
+      "B": "Inflated",
+      "C": "Truthful and not misleading",
+      "D": "Sarcastic"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 471,
+    "question": "The NBA seal/stamp is typically issued by the:",
+    "options": {
+      "A": "Supreme Court registry",
+      "B": "Nigerian Bar Association",
+      "C": "Council of Legal Education",
+      "D": "Court of Appeal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 472,
+    "question": "Payment of Bar Practising Fees (BPF) is linked to:",
+    "options": {
+      "A": "Jury service",
+      "B": "Eligibility to affix the NBA seal and appear",
+      "C": "Election to public office",
+      "D": "Right to sit as judge"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 473,
+    "question": "In superior courts, the wig and gown signify:",
+    "options": {
+      "A": "Fashion trends",
+      "B": "Party allegiance",
+      "C": "Tradition and the solemnity of justice",
+      "D": "Fee level"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 474,
+    "question": "A firm name like “Ministry of Justice Partners” is likely:",
+    "options": {
+      "A": "Preferred",
+      "B": "Required",
+      "C": "Misleading as implying government affiliation",
+      "D": "Acceptable"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 475,
+    "question": "The principal test for conflict is whether the lawyer’s:",
+    "options": {
+      "A": "Tie colour changed",
+      "B": "Judgment may be materially limited",
+      "C": "Car broke down",
+      "D": "Friend objected"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 476,
+    "question": "Mediation by lawyers is:",
+    "options": {
+      "A": "Forbidden",
+      "B": "Reserved for SANs only",
+      "C": "Allowed and often encouraged",
+      "D": "For judges only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 477,
+    "question": "Lawyers must avoid assisting a client in conduct that is:",
+    "options": {
+      "A": "Lawful",
+      "B": "Procedural",
+      "C": "Criminal or fraudulent",
+      "D": "Novel"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 478,
+    "question": "The NBA Section on Legal Practice (SLP) focuses on:",
+    "options": {
+      "A": "Mining law",
+      "B": "Litigation/professional development",
+      "C": "Electioneering",
+      "D": "Maritime administration"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 479,
+    "question": "Client funds in a trust account should be:",
+    "options": {
+      "A": "Mixed with office funds",
+      "B": "Reconciled and accounted for promptly",
+      "C": "Used for salaries temporarily",
+      "D": "Withdrawn as cash for safety"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 480,
+    "question": "A lawyer’s promise (undertaking) to the court must be:",
+    "options": {
+      "A": "Ignored later",
+      "B": "Honoured or varied with leave",
+      "C": "Treated as PR",
+      "D": "Delegated to clerks"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 481,
+    "question": "Lawyers must not coach witnesses to:",
+    "options": {
+      "A": "Tell the truth",
+      "B": "Falsify testimony",
+      "C": "Be clear",
+      "D": "Be concise"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 482,
+    "question": "When two clients’ interests diverge mid-brief, counsel should:",
+    "options": {
+      "A": "Represent both zealously regardless",
+      "B": "Disclose and seek consent where permissible, or withdraw",
+      "C": "Ignore the issue",
+      "D": "Ask the registrar informally"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 483,
+    "question": "Ethical firm advertising may include:",
+    "options": {
+      "A": "False testimonials",
+      "B": "Guaranteed outcomes",
+      "C": "Accurate, dignified information",
+      "D": "Harassing cold calls"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 484,
+    "question": "Duty of competence requires a lawyer to:",
+    "options": {
+      "A": "Ignore unfamiliar areas",
+      "B": "Acquire necessary skill or associate with someone competent",
+      "C": "Delegate to non-lawyers only",
+      "D": "Rely on media posts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 485,
+    "question": "“Chambers” in Nigerian practice typically refers to a:",
+    "options": {
+      "A": "Court cell",
+      "B": "Law firm/office",
+      "C": "University hall",
+      "D": "Police office"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 486,
+    "question": "Keeping court appointments primarily reflects the duty of:",
+    "options": {
+      "A": "Entertainment",
+      "B": "Diligence and courtesy",
+      "C": "Politics",
+      "D": "Profit"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 487,
+    "question": "On receiving client money, the lawyer should:",
+    "options": {
+      "A": "Delay banking",
+      "B": "Convert to cash",
+      "C": "Place in a client account and account promptly",
+      "D": "Mix with office funds"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 488,
+    "question": "In settlement talks, counsel must:",
+    "options": {
+      "A": "Threaten the judge",
+      "B": "Misstate the law",
+      "C": "Remain truthful and act within the law",
+      "D": "Hide material facts when asked directly"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 489,
+    "question": "Which body maintains the roll of legal practitioners?",
+    "options": {
+      "A": "High Court registries",
+      "B": "Supreme Court of Nigeria",
+      "C": "Council of Legal Education",
+      "D": "NBA branches"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 490,
+    "question": "A junior’s duty is to:",
+    "options": {
+      "A": "Disobey instructions",
+      "B": "Uphold the RPC and follow lawful instructions",
+      "C": "Sign as senior if absent",
+      "D": "Ignore ethics for speed"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 491,
+    "question": "A lawyer’s letterhead must not:",
+    "options": {
+      "A": "Include practice areas",
+      "B": "Contain misleading claims",
+      "C": "Show contact details",
+      "D": "Indicate office addresses"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 492,
+    "question": "The purpose of disciplinary control over lawyers is to:",
+    "options": {
+      "A": "Entertain the public",
+      "B": "Maintain standards and public confidence",
+      "C": "Maximise publicity",
+      "D": "Shorten trials"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 493,
+    "question": "Professional privilege may be waived:",
+    "options": {
+      "A": "By media reports",
+      "B": "Only by the lawyer",
+      "C": "With the client’s informed consent or as required by law",
+      "D": "By a clerk’s note"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 494,
+    "question": "When a client intends to commit a crime, counsel should:",
+    "options": {
+      "A": "Assist quietly",
+      "B": "Ignore it",
+      "C": "Decline/withdraw and avoid facilitating illegality",
+      "D": "Post it online"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 495,
+    "question": "Which body confers the SAN rank on academics and advocates who qualify?",
+    "options": {
+      "A": "National Judicial Council",
+      "B": "Legal Practitioners Privileges Committee",
+      "C": "Council of Legal Education",
+      "D": "Federal Judicial Service Commission"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 496,
+    "question": "Lawyers should avoid “judge-shopping” because it:",
+    "options": {
+      "A": "Saves time",
+      "B": "Undermines the administration of justice",
+      "C": "Entertains the public",
+      "D": "Guarantees success"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 497,
+    "question": "The NBA national officers include the:",
+    "options": {
+      "A": "Chief Justice",
+      "B": "President of the NBA",
+      "C": "Senate President",
+      "D": "Inspector-General of Police"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 498,
+    "question": "Proper process signing requires:",
+    "options": {
+      "A": "Nickname and firm logo only",
+      "B": "Only initials",
+      "C": "Lawyer’s name/signature and Supreme Court enrolment number",
+      "D": "Paralegal’s name and stamp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 499,
+    "question": "In superior courts, addressing the bench as “My Lord” reflects:",
+    "options": {
+      "A": "Political allegiance",
+      "B": "Court decorum and tradition",
+      "C": "Fee status",
+      "D": "Personal friendship"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 500,
+    "question": "The overall purpose of legal professional discipline is to:",
+    "options": {
+      "A": "Increase law firm profits",
+      "B": "Preserve the integrity of the system and protect the public",
+      "C": "Reduce filings",
+      "D": "Reward popularity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 501,
+    "question": "Conflict Check: Your firm is approached by Company X to sue your current client, Company Y, on a matter substantially related to a past advisory for Y. What should you do first?",
+    "options": {
+      "A": "Accept and file urgently",
+      "B": "Run conflicts, disclose, and decline unless informed consent (where permissible) is obtained",
+      "C": "Ask a paralegal to appear while you decide",
+      "D": "Take a retainer and think later"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 502,
+    "question": "Ex Parte Temptation: A judge you know socially calls you at night to “clarify a small point” about your pending case. Proper response?",
+    "options": {
+      "A": "Discuss briefly to be courteous",
+      "B": "Text a short summary to help",
+      "C": "Decline the private discussion and keep communications on the record/with all parties",
+      "D": "Send your junior to explain"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 503,
+    "question": "Client Money: Your cashier accidentally paid filing fees out of the client account for another matter then reimbursed later from the office account. Best course?",
+    "options": {
+      "A": "Ignore since reimbursed",
+      "B": "Ask accounts to balance at year-end",
+      "C": "Ask client for consent post-facto",
+      "D": "Stop commingling, document the error, immediately rectify and tighten controls"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 504,
+    "question": "Witness Coaching: Your client insists a key witness should “stick to this version” you know is false. What do you do?",
+    "options": {
+      "A": "Let the court decide",
+      "B": "Refuse to adduce false evidence, advise the client, and take remedial steps",
+      "C": "Ask the witness to be confident",
+      "D": "Withdraw the brief silently"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 505,
+    "question": "NBA Seal: Your associate filed a motion without the NBA stamp due to a printer glitch. Opposing counsel objects. What is the proper approach?",
+    "options": {
+      "A": "Insist the court overlook it",
+      "B": "Apply to regularise by affixing the valid seal and explain promptly",
+      "C": "Withdraw the motion forever",
+      "D": "Accuse the registry"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 506,
+    "question": "Confidential Email: You mistakenly receive the opponent’s privileged email. What should you do?",
+    "options": {
+      "A": "Read and use it",
+      "B": "Delete and pretend you never saw it",
+      "C": "Stop reading, notify sender, and follow court/ethical directions on use or return",
+      "D": "Forward to your client immediately"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 507,
+    "question": "Advertising: Your partner proposes a billboard claiming “100% success rate in criminal defence.” Proper response?",
+    "options": {
+      "A": "Approve for visibility",
+      "B": "Decline; it is misleading and breaches RPC advertising rules",
+      "C": "Reduce the font size",
+      "D": "Add celebrity endorsements"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 508,
+    "question": "Fee Sharing: A non-lawyer “case broker” demands 20% of your fee for bringing a corporate client. What’s right?",
+    "options": {
+      "A": "Agree—it’s market practice",
+      "B": "Pay as “marketing commission”",
+      "C": "Decline; fee-sharing with non-lawyers is prohibited",
+      "D": "Hide it in petty cash"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 509,
+    "question": "Settlement Honesty: During mediation, your client wants you to misstate audited revenue. You should:",
+    "options": {
+      "A": "Bluff hard—it’s negotiation",
+      "B": "Give a range without checking",
+      "C": "Refuse to make false statements; remain truthful while advancing lawful interests",
+      "D": "Switch to caucus and repeat the lie"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 510,
+    "question": "Returning Files: A departing client requests the complete file urgently. Fees are partly unpaid. Correct action?",
+    "options": {
+      "A": "Refuse outright",
+      "B": "Deliver file promptly subject to lawful lien and transition duties",
+      "C": "Hand over only emails",
+      "D": "Destroy drafts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 511,
+    "question": "Fresh Call: A newly-called colleague asks to sign your name on a process “just once.” What is proper?",
+    "options": {
+      "A": "Allow if you supervise",
+      "B": "Allow for urgency",
+      "C": "Refuse; only the lawyer whose name/signature appears should sign",
+      "D": "Ask the registrar to countersign"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 512,
+    "question": "Judge’s Birthday: Senior partner suggests sending a cake to a trial judge with your firm’s logo. Appropriate step?",
+    "options": {
+      "A": "Send it discreetly",
+      "B": "Invite the judge to chambers",
+      "C": "Decline; maintain strict neutrality and avoid inappropriate contact",
+      "D": "Send via opposing counsel"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 513,
+    "question": "Client Identity: A walk-in client wants to open a trust account in cash, refuses ID. Response?",
+    "options": {
+      "A": "Accept and keep money safe",
+      "B": "Take cash first, verify later",
+      "C": "Decline engagement; complete KYC/AML checks before accepting funds",
+      "D": "Ask them to split deposits"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 514,
+    "question": "Conflicted Interview: You’re interviewing a prospective client adverse to a former client in a substantially related matter. Next step?",
+    "options": {
+      "A": "Hear everything first",
+      "B": "Obtain limited information only after conflicts screen; decline or seek informed consent where permitted",
+      "C": "Ask about their budget first",
+      "D": "Promise victory"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 515,
+    "question": "Media Soundbite: Your client asks you to attack the opposing party on TV while the case is pending. Best choice?",
+    "options": {
+      "A": "Grant the interview",
+      "B": "Decline prejudicial publicity; keep comments restrained and consistent with fair trial",
+      "C": "Retweet client’s attacks",
+      "D": "Leak discovery documents"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 516,
+    "question": "Undertaking: You gave an undertaking to file a process by Friday but a server outage hits Thursday night. What do you do?",
+    "options": {
+      "A": "Ignore; it’s an “IT issue”",
+      "B": "File Monday",
+      "C": "Take steps to honour it or promptly seek the court/party’s leave to vary with reasons",
+      "D": "Ask your clerk to apologise"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 517,
+    "question": "Dual Role Risk: You saw a contract signed and are also counsel in the suit about that contract. Client wants you as witness. Proper approach?",
+    "options": {
+      "A": "Do both roles—it’s efficient",
+      "B": "Generally avoid being advocate and witness in same cause; consider withdrawal from advocacy if testimony is necessary",
+      "C": "Put a junior to examine you",
+      "D": "File an affidavit only"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 518,
+    "question": "Notary Query: A client asks you to notarise a document though you are not a Notary Public. Correct action?",
+    "options": {
+      "A": "Sign and stamp firm seal",
+      "B": "Ask your receptionist to stamp",
+      "C": "Decline and refer to a duly appointed Notary Public",
+      "D": "Use a commissioner for oaths everywhere"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 519,
+    "question": "Opponent’s Mistake: Opposing counsel misquotes a binding case in open court. Ethically you should:",
+    "options": {
+      "A": "Stay silent",
+      "B": "Mock them",
+      "C": "Correct the record accurately and cite the proper authority",
+      "D": "Tweet about it"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 520,
+    "question": "Client Confession: In chambers, a client admits guilt but wants you to run an alibi with coached witnesses. You should:",
+    "options": {
+      "A": "Do as told—it’s zeal",
+      "B": "Avoid addressing facts",
+      "C": "Decline false evidence; uphold confidentiality and test the prosecution’s case lawfully",
+      "D": "Resign from law"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 521,
+    "question": "Retainer Scope: A corporate retainer covers “general advisory.” The CEO now demands urgent tax litigation. Correct step?",
+    "options": {
+      "A": "Appear anyway",
+      "B": "Confirm scope/competence; amend retainer or associate competent counsel",
+      "C": "Send your accountant cousin",
+      "D": "Bill double without notice"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 522,
+    "question": "Court Dress: Your junior appears in superior court without wig due to courier delay. Best response?",
+    "options": {
+      "A": "Proceed casually",
+      "B": "Ask the court’s direction; ensure compliance with dress rules before audience",
+      "C": "Borrow from a friend regardless of fit",
+      "D": "Skip the appearance permanently"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 523,
+    "question": "SAN Precedence: As lead counsel against a SAN, you are called after them despite arriving first. Reaction?",
+    "options": {
+      "A": "Protest loudly",
+      "B": "Respect precedence; request adequate time when called",
+      "C": "Leave the court",
+      "D": "Demand equal time immediately"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 524,
+    "question": "Seal Shortage: You’ve run out of NBA seals and must file today. What’s ethical?",
+    "options": {
+      "A": "Use last year’s seal",
+      "B": "File without any seal",
+      "C": "Obtain/print a valid seal or seek short adjournment to regularise properly",
+      "D": "Photocopy an old seal"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 525,
+    "question": "Client Gift: A client offers an expensive vacation “if we win.” What is proper?",
+    "options": {
+      "A": "Accept to build rapport",
+      "B": "Decline; avoid gifts that compromise independence or create obligations",
+      "C": "Accept and disclose later",
+      "D": "Let a junior go instead"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 526,
+    "question": "Social DM from Represented Person: Opponent’s CEO DM’s you on X (Twitter) about settlement terms. You should:",
+    "options": {
+      "A": "Chat to gain intel",
+      "B": "Ask for meeting privately",
+      "C": "Refrain; communicate through/with consent of their lawyer",
+      "D": "Forward to your client for pressure"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 527,
+    "question": "Fee Dispute: Client disputes a clearly reasonable bill and threatens to report you unless you halve it. Proper step?",
+    "options": {
+      "A": "Halve it to avoid noise",
+      "B": "Threaten counter-report",
+      "C": "Explain basis, offer ADR/fee review mechanisms, maintain professionalism",
+      "D": "Ignore them"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 528,
+    "question": "Conflict Mid-Brief: You discover your firm advises a parent company of the adverse party on unrelated tax work, and the matters have become directly adverse. Best route?",
+    "options": {
+      "A": "Keep quiet",
+      "B": "Seek informed consent where permissible; otherwise withdraw from one representation",
+      "C": "Build an information barrier and act for both in the same dispute",
+      "D": "Ask the registry to choose"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 529,
+    "question": "Client Funds Request: Client asks you to “hold” ₦50m pending a property deal, with no legal work yet. Proper response?",
+    "options": {
+      "A": "Accept quickly",
+      "B": "Put in office account",
+      "C": "Decline unless engagement is lawful, KYC/AML completed, and purpose is legal; use client account with records",
+      "D": "Take cash to your safe"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 530,
+    "question": "Court Insult: Your client wants you to accuse the judge of bias on radio tomorrow. What’s right?",
+    "options": {
+      "A": "Agree—it’s PR",
+      "B": "Send an open letter",
+      "C": "Decline; maintain respect for the court, pursue proper legal remedies",
+      "D": "Attack opposing counsel instead"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 531,
+    "question": "Engagement Letter: A family friend wants urgent representation “on trust,” no engagement letter. You should:",
+    "options": {
+      "A": "Start immediately",
+      "B": "Issue a clear engagement letter—scope, fees, responsibilities—before substantive work",
+      "C": "Send a fee note later",
+      "D": "Take verbal confirmation"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 532,
+    "question": "Opposing Counsel Courtesy: Opponent asks for a first short adjournment due to sudden illness. Best practice?",
+    "options": {
+      "A": "Oppose reflexively",
+      "B": "Demand punitive costs",
+      "C": "Show professional courtesy, subject to client’s lawful interests",
+      "D": "Post it online"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 533,
+    "question": "Client’s False Document: Client emails you a forged receipt to file. Action?",
+    "options": {
+      "A": "File it; let court decide",
+      "B": "Ask for a cleaner copy",
+      "C": "Refuse to use it; advise client and consider withdrawal if they persist",
+      "D": "Watermark it"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 534,
+    "question": "Out-of-Competence Brief: Niche admiralty suit arrives; you have only land litigation experience. What should you do?",
+    "options": {
+      "A": "Learn on the job during trial",
+      "B": "Decline or associate competent counsel after disclosure to client",
+      "C": "Put your best junior alone",
+      "D": "Bill premium"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 535,
+    "question": "Press Interview on Pending Case: Reporter asks for details of your client’s confession. Proper response?",
+    "options": {
+      "A": "Give exclusive details",
+      "B": "Provide prejudicial opinions",
+      "C": "Decline specifics; keep comments restrained and consistent with fair trial",
+      "D": "Leak to a blogger"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 536,
+    "question": "Trust Account Overdraft: Bank reports your client account briefly went overdrawn due to a bank charge. Best action?",
+    "options": {
+      "A": "Ignore; it’s small",
+      "B": "Move funds from office account later",
+      "C": "Rectify immediately, document, reconcile, and prevent recurrence",
+      "D": "Ask the bank to hide it"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 537,
+    "question": "Judge’s Relative: A cousin of the judge works in your firm’s admin unit. You just discovered it mid-trial. Best course?",
+    "options": {
+      "A": "Keep quiet",
+      "B": "Promote them",
+      "C": "Disclose to the court and parties if there’s a reasonable appearance of bias; take directions",
+      "D": "Sack them immediately"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 538,
+    "question": "Contingency Fee: A client in a civil debt recovery proposes a percentage fee. Ethical?",
+    "options": {
+      "A": "Always banned",
+      "B": "Only for criminal defence",
+      "C": "Permissible in appropriate civil matters with clear, reasonable terms",
+      "D": "Only if confidential"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 539,
+    "question": "Opposing Party’s Call: An unrepresented witness of the other side calls you for “advice.” You should:",
+    "options": {
+      "A": "Advise fully",
+      "B": "Coach them",
+      "C": "Clarify your role, avoid advice if interests may conflict, and keep dealings proper",
+      "D": "Record and post online"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 540,
+    "question": "Lost Briefcase: You misplace a paper file with sensitive client data. Next step?",
+    "options": {
+      "A": "Say nothing",
+      "B": "Rebuild the file secretly",
+      "C": "Promptly inform client as appropriate, mitigate risks, and improve data security",
+      "D": "Blame the registry"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 541,
+    "question": "Payment Channel: Client insists on paying professional fees in crypto via a stranger’s wallet. Proper response?",
+    "options": {
+      "A": "Accept for speed",
+      "B": "Accept and convert later",
+      "C": "Apply AML/KYC; accept only through verifiable, lawful channels or decline",
+      "D": "Ask junior to handle it"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 542,
+    "question": "Court Date Clash: You’re double-booked in two High Courts an hour apart. Action?",
+    "options": {
+      "A": "Attend the one with higher fees",
+      "B": "Ignore one matter",
+      "C": "Arrange proper coverage with instructed counsel or seek early mention/adjournment",
+      "D": "Ask your client to appear alone"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 543,
+    "question": "Staff Supervision: Your clerk posted snippets from a confidential witness statement on WhatsApp status. Correct response?",
+    "options": {
+      "A": "Like the post",
+      "B": "Ignore—it’s personal",
+      "C": "Take it down, counsel/discipline staff, notify client if required, reinforce confidentiality training",
+      "D": "Unfriend them"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 544,
+    "question": "Threatening Prosecution: You threaten a criminal complaint solely to pressure settlement in a civil contract. Ethical?",
+    "options": {
+      "A": "Smart tactic",
+      "B": "Required by client",
+      "C": "Improper; avoid using criminal process merely for civil advantage",
+      "D": "Fine if private"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 545,
+    "question": "Client with Diminished Capacity: An elderly client seems confused about instructions. You should:",
+    "options": {
+      "A": "Proceed anyway",
+      "B": "Take instructions from their child automatically",
+      "C": "Assess capacity, take protective steps consistent with law/ethics, and ensure valid instructions",
+      "D": "Refuse representation summarily"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 546,
+    "question": "Misaddressed Brief: You receive a sealed brief intended for opposing counsel from the courier. Proper step?",
+    "options": {
+      "A": "Open and copy",
+      "B": "Keep it “for safety”",
+      "C": "Return/notify sender promptly; do not review contents",
+      "D": "Ask your client what to do"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 547,
+    "question": "Courtroom Outburst: Client erupts at the judge mid-ruling and orders you to walk out. Best response?",
+    "options": {
+      "A": "Walk out",
+      "B": "Shout too",
+      "C": "Calm the client, maintain decorum, and follow proper procedures (appeal/contempt avoidance)",
+      "D": "Storm off and tweet"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 548,
+    "question": "Third-Party Payer: A parent offers to pay your adult client’s fees if you “update them always.” Correct approach?",
+    "options": {
+      "A": "Agree to report to the parent",
+      "B": "Hide it from the client",
+      "C": "Accept third-party payment only with client’s informed consent, no interference, and confidentiality preserved",
+      "D": "Bill both secretly"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 549,
+    "question": "Ghostwriting Affidavit: Client wants you to draft a “witness” affidavit for someone who refuses to swear it. Ethically you should:",
+    "options": {
+      "A": "Draft and sign yourself",
+      "B": "Use a template and file",
+      "C": "Decline; affidavits must reflect the deponent’s oath/knowledge",
+      "D": "File as “lawyer’s affidavit”"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 550,
+    "question": "Court Registry Error: Registry stamped the wrong suit number on your application. What do you do?",
+    "options": {
+      "A": "Proceed anyway",
+      "B": "Alter by hand",
+      "C": "Notify registry/court and correct formally on the record",
+      "D": "File a duplicate secretly"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 551,
+    "question": "After-Hours Offer: Opposing counsel calls at 10pm proposing settlement but says “don’t tell the court tomorrow.” Your move?",
+    "options": {
+      "A": "Hide it",
+      "B": "Accept and proceed",
+      "C": "Consider the offer; maintain honesty with the court about any representation you make and memorialise talks appropriately",
+      "D": "Record secretly"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 552,
+    "question": "Client’s PR Team: Client’s PR consultant asks for copies of all filed processes for a press kit. You should:",
+    "options": {
+      "A": "Send everything",
+      "B": "Allow them to rewrite",
+      "C": "Share only what the client consents to share lawfully; avoid prejudicing proceedings/confidentiality",
+      "D": "Refuse collaboration always"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 553,
+    "question": "Multiple Clients: Two co-defendants want you jointly, but their defences are now directly adverse. Next step?",
+    "options": {
+      "A": "Represent both zealously",
+      "B": "Disclose conflict; obtain informed consent where permitted or withdraw from one/both",
+      "C": "Keep quiet and shuttle",
+      "D": "Let a clerk decide"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 554,
+    "question": "Court Sanctions Threat: Judge threatens costs for your late filing due to your oversight. Proper reaction?",
+    "options": {
+      "A": "Argue loudly",
+      "B": "Blame your junior",
+      "C": "Accept responsibility, explain briefly, and comply; avoid repetition",
+      "D": "Leave the bar table"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 555,
+    "question": "Engagement by Parent Co.: Parent company retains you; subsidiary is later sued and wants you on the other side. What now?",
+    "options": {
+      "A": "Accept—different entities",
+      "B": "Ask no questions",
+      "C": "Run conflicts; likely adverse interest—decline or seek consent where permissible",
+      "D": "Use a Chinese wall and proceed in same dispute"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 556,
+    "question": "Court Reporter: A journalist misquotes your submission outside court. Ethical response?",
+    "options": {
+      "A": "Attack them online",
+      "B": "Give details of confidential strategy",
+      "C": "Provide a restrained correction consistent with fair-trial rights",
+      "D": "Ignore all press forever"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 557,
+    "question": "Escrow Terms: Client instructs you to hold sale proceeds until title is perfected. What must you ensure?",
+    "options": {
+      "A": "Cash under pillow",
+      "B": "Office account use",
+      "C": "Clear written escrow terms, client account usage, records and audit trail",
+      "D": "Convert to FX"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 558,
+    "question": "Fee Estimate: You under-estimated fees by half. Mid-brief, work doubles. Proper step?",
+    "options": {
+      "A": "Bill at the end",
+      "B": "Quit quietly",
+      "C": "Update client promptly with reasons; revise scope/costs by agreement",
+      "D": "Add hidden charges"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 559,
+    "question": "Mistrial Rumours: Client asks you to “talk to the judge’s registrar” to influence adjournment dates. You should:",
+    "options": {
+      "A": "Send a gift",
+      "B": "Call at night",
+      "C": "Refuse improper contact; use proper court channels",
+      "D": "Use a colleague’s phone"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 560,
+    "question": "Withholding Title Docs: Client owes small fees but urgently needs original title documents for a sale closing. Action?",
+    "options": {
+      "A": "Burn the bridge",
+      "B": "Demand 10× more",
+      "C": "Exercise lien reasonably (if lawful) but avoid prejudice; consider releasing copies/arrangements to protect both sides",
+      "D": "Keep forever"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 561,
+    "question": "E-Discovery: Opponent mistakenly uploads privileged PDFs to the shared platform. You should:",
+    "options": {
+      "A": "Download fast",
+      "B": "Circulate to team",
+      "C": "Cease review and notify; follow tribunal directions on privilege",
+      "D": "Quote from it in court"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 562,
+    "question": "Client Wants Delay: Client insists on frivolous adjournments to frustrate the other side. Correct stance?",
+    "options": {
+      "A": "Seek adjournments anyway",
+      "B": "Coach them to be absent",
+      "C": "Decline to engage in abuse of process; advise on lawful strategy",
+      "D": "File a sick note"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 563,
+    "question": "Banker’s Draft: A third party you don’t know brings a banker’s draft to settle your client’s fees. You should:",
+    "options": {
+      "A": "Accept immediately",
+      "B": "Ask for a tip",
+      "C": "Verify source/purpose lawfully before acceptance per AML/KYC",
+      "D": "Deposit in personal account"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 564,
+    "question": "Court Recording: Your client recorded the judge on phone and wants you to play it in court. Best step?",
+    "options": {
+      "A": "Play it boldly",
+      "B": "Post on social media",
+      "C": "Consider legality/admissibility and ethics; avoid disrespect/contempt; advise proper procedure",
+      "D": "Leak to press"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 565,
+    "question": "Misleading Letterhead: Proposed new letterhead says “Affiliated with Ministry of Justice.” You should:",
+    "options": {
+      "A": "Approve for prestige",
+      "B": "Keep “affiliated” small",
+      "C": "Reject—misleading government affiliation is prohibited",
+      "D": "Add asterisks"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 566,
+    "question": "Intern at Court: An intern sits within the bar and whispers suggestions during submissions. Proper handling?",
+    "options": {
+      "A": "Let it pass",
+      "B": "Ask them to address court",
+      "C": "Maintain decorum; ensure interns follow court rules and do not disrupt proceedings",
+      "D": "Ask judge for a selfie"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 567,
+    "question": "Fee Security: Client proposes a success fee plus a small equity stake in their startup. Ethical next step?",
+    "options": {
+      "A": "Accept without paper",
+      "B": "Decline all equity always",
+      "C": "Evaluate conflicts/independence issues; ensure terms are fair, lawful, and in writing or decline",
+      "D": "Take 40% quietly"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 568,
+    "question": "Translation Risk: A client provides a translated contract; you suspect errors. Action?",
+    "options": {
+      "A": "File immediately",
+      "B": "Trust Google Translate",
+      "C": "Obtain certified translation or verify accuracy before relying",
+      "D": "Ask the clerk"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 569,
+    "question": "Court Reporter’s Gift: A court reporter offers you a free transcript if you “mention my service” to the judge. You should:",
+    "options": {
+      "A": "Agree",
+      "B": "Offer a tip",
+      "C": "Decline; avoid arrangements that undermine integrity or suggest influence",
+      "D": "Accept then deny"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 570,
+    "question": "Late to Court: Traffic makes you 30 minutes late; your matter is called. Proper conduct?",
+    "options": {
+      "A": "Rush in and speak loudly",
+      "B": "Blame the registry",
+      "C": "Apologise to the court, explain briefly, and proceed with courtesy",
+      "D": "Ignore and continue"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 571,
+    "question": "Settlement Authority: Opponent wants immediate acceptance of terms; your client is offline. You should:",
+    "options": {
+      "A": "Accept as “best guess”",
+      "B": "Pretend to have authority",
+      "C": "Wait for instructions or accept subject to client’s approval in writing",
+      "D": "Say yes and hope"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 572,
+    "question": "WhatsApp Service: Client served a court order via WhatsApp per court leave; they want you to reject it as “invalid.” Correct view?",
+    "options": {
+      "A": "Always invalid",
+      "B": "Valid only if they like it",
+      "C": "It may be valid where the court so orders; advise compliance/response accordingly",
+      "D": "Delete the chat"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 573,
+    "question": "Post-Employment Conflict: Former client’s confidential strategy could help a new adverse client. What do you do?",
+    "options": {
+      "A": "Use it discreetly",
+      "B": "Share with your team",
+      "C": "Do not use or reveal former client confidences; assess substantial relation and conflicts",
+      "D": "Ask the judge privately"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 574,
+    "question": "Court Order Compliance: Client instructs you to ignore a subsisting injunction. Your response?",
+    "options": {
+      "A": "Ignore and proceed",
+      "B": "Delay for effect",
+      "C": "Refuse; advise compliance or take lawful steps to vary/set aside",
+      "D": "Ask a bailiff friend"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 575,
+    "question": "Pro Bono Intake: You take a pro bono case beyond your capacity alone. Proper step?",
+    "options": {
+      "A": "Struggle in silence",
+      "B": "Drop it mid-hearing",
+      "C": "Associate competent counsel/supervision to ensure quality representation",
+      "D": "Ask the client to self-represent"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 576,
+    "question": "Court Recording Policy: Court prohibits recordings; client wants you to record for “quality control.” You should:",
+    "options": {
+      "A": "Record secretly",
+      "B": "Let client record",
+      "C": "Respect the court’s rules; request official transcript or leave if needed",
+      "D": "Hide a device"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 577,
+    "question": "Side Letter: Opponent suggests a private side letter outside the consent judgment to “smoothen” enforcement. Ethical step?",
+    "options": {
+      "A": "Agree for speed",
+      "B": "Keep it secret",
+      "C": "Decline any arrangement that misleads the court; ensure agreements are on the record",
+      "D": "Sign then disclose"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 578,
+    "question": "Data Retention: Client demands you delete all case data immediately after judgment despite statutory retention duties. You should:",
+    "options": {
+      "A": "Delete everything",
+      "B": "Email it to yourself",
+      "C": "Follow legal/ethical retention rules; offer secure return of client property where appropriate",
+      "D": "Ignore client"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 579,
+    "question": "Court Staff Tip: Bailiff requests a “facilitation fee” to serve processes today. Your move?",
+    "options": {
+      "A": "Pay and recover later",
+      "B": "Send via POS",
+      "C": "Decline improper payment; use lawful channels or escalate",
+      "D": "Let client pay privately"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 580,
+    "question": "Expert Shopping: Client wants you to switch experts until one agrees with them, hiding prior opinions. Proper stance?",
+    "options": {
+      "A": "Accept",
+      "B": "Keep quiet",
+      "C": "Avoid misleading the court; disclose as required and seek honest expert assistance",
+      "D": "Edit reports"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 581,
+    "question": "Foreign Practice Query: A foreign firm asks you to appear in a Nigerian court under their name. Correct response?",
+    "options": {
+      "A": "Accept if paid well",
+      "B": "Sign with their brand",
+      "C": "Only Nigerian legal practitioners with right of audience may appear; ensure compliance with local rules",
+      "D": "Use a proxy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 582,
+    "question": "Encryption: You must email highly sensitive documents. Best practice?",
+    "options": {
+      "A": "Send as attachments openly",
+      "B": "Use a public link",
+      "C": "Use secure channels/encryption and limit access",
+      "D": "WhatsApp broadcast"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 583,
+    "question": "Retainer Termination: Client terminates your mandate mid-trial. You should:",
+    "options": {
+      "A": "Announce on X (Twitter)",
+      "B": "Withhold file completely",
+      "C": "Take reasonable steps for orderly transition and deliver file subject to lien",
+      "D": "Call the judge directly"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 584,
+    "question": "Court Courtesy: Opposing junior asks for your authorities after court. You should:",
+    "options": {
+      "A": "Refuse rudely",
+      "B": "Charge them",
+      "C": "Share publicly available citations; maintain professional courtesy",
+      "D": "Challenge them to a debate"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 585,
+    "question": "Money Laundering Red Flags: Client insists property be bought in a driver’s name with cash. What next?",
+    "options": {
+      "A": "Proceed quietly",
+      "B": "Split payments",
+      "C": "Heightened AML due diligence; decline if unlawful/suspicious activity persists",
+      "D": "Use your account"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 586,
+    "question": "Remote Hearing: Court schedules virtual hearing; client forbids video. Correct step?",
+    "options": {
+      "A": "Skip it",
+      "B": "Call in audio with camera off",
+      "C": "Follow court’s virtual rules; seek accommodation if justified",
+      "D": "Send a memo instead"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 587,
+    "question": "Third-Party Confidential Docs: A vendor gives you the opponent’s internal pricing sheet. You should:",
+    "options": {
+      "A": "Use it immediately",
+      "B": "Post online",
+      "C": "Evaluate legality/privilege; avoid misuse of improperly obtained information; seek directions",
+      "D": "Shred and forget always"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 588,
+    "question": "Clerical Error on Figures: Your affidavit mis-added damages. Next step?",
+    "options": {
+      "A": "Hope no one notices",
+      "B": "Blame the client",
+      "C": "Correct on the record promptly; file a correcting affidavit if needed",
+      "D": "Edit and re-upload silently"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 589,
+    "question": "Multiple Forums: Client wants to file identical suits in three states to pressure defendant. Ethical?",
+    "options": {
+      "A": "Great strategy",
+      "B": "File and withdraw later",
+      "C": "Avoid abuse of court process; advise proper forum and consolidation",
+      "D": "Use different firm names"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 590,
+    "question": "Language Barrier: Client doesn’t understand English well. Action?",
+    "options": {
+      "A": "Proceed in English",
+      "B": "Ask family to translate legal advice",
+      "C": "Use a qualified interpreter and ensure informed instructions",
+      "D": "Send a voice note"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 591,
+    "question": "Proof of Funds: Client asks you to issue a “comfort letter” falsely stating they hold ₦2bn in escrow with your firm. You should:",
+    "options": {
+      "A": "Issue it to win trust",
+      "B": "Call your banker friend",
+      "C": "Refuse to make false statements; only issue accurate, verifiable confirmations",
+      "D": "Put “without prejudice” on it"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 592,
+    "question": "Duplicate Briefs: Another department of your firm quietly advises the adversary’s affiliate on a related joint venture. Best course?",
+    "options": {
+      "A": "Celebrate growth",
+      "B": "Keep walls up and proceed",
+      "C": "Investigate conflict; if direct adversity/substantial relation exists, seek consent where permissible or withdraw",
+      "D": "Fire someone"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 593,
+    "question": "Prosecutor Contact: You defend a criminal case; a prosecutor suggests a plea but asks for a “gift.” Response?",
+    "options": {
+      "A": "Negotiate the gift",
+      "B": "Pay later",
+      "C": "Refuse and consider reporting through proper channels",
+      "D": "Use a middleman"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 594,
+    "question": "Court-Ordered Timeline: You miss a filing deadline. What now?",
+    "options": {
+      "A": "Do nothing",
+      "B": "Blame registry",
+      "C": "File application for extension/regularisation promptly with candid explanation",
+      "D": "Re-date the document"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 595,
+    "question": "Client Capacity—Corporate: Two directors give conflicting instructions. Correct approach?",
+    "options": {
+      "A": "Choose the nicer one",
+      "B": "Ask the company secretary to vote",
+      "C": "Confirm authority under the company’s governance documents/resolutions before acting",
+      "D": "Follow the majority shareholder’s nephew"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 596,
+    "question": "Retention Period: Client demands destruction of files now, but tax rules require retention. You should:",
+    "options": {
+      "A": "Destroy to please client",
+      "B": "Hand to the intern",
+      "C": "Follow legal retention requirements; offer secure return of client property where appropriate",
+      "D": "Email copies to yourself"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 597,
+    "question": "Court Language: Judge directs written address in a specific format; your template differs. What do you do?",
+    "options": {
+      "A": "Use your style",
+      "B": "Ask registry to ignore",
+      "C": "Follow the court’s practice directions",
+      "D": "File blank pages"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 598,
+    "question": "SAN Mentioning: Your client wants you to repeatedly mention opponent’s past disciplinary issue in open court. Proper stance?",
+    "options": {
+      "A": "Do it for pressure",
+      "B": "Leak it online",
+      "C": "Avoid irrelevant, prejudicial attacks; focus on issues before the court",
+      "D": "Make memes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 599,
+    "question": "Out-of-Jurisdiction Notarisation: Client wants a notarial act for use abroad, but local rules require a Notary Public. Action?",
+    "options": {
+      "A": "Use your firm stamp",
+      "B": "Send a paralegal",
+      "C": "Refer to/arrange with a duly appointed Notary Public; follow destination requirements",
+      "D": "Sign “per pro”"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 600,
+    "question": "Final Account: Matter concludes with client funds remaining after costs. Correct handling?",
+    "options": {
+      "A": "Keep as bonus",
+      "B": "Apply to next case",
+      "C": "Promptly account and return balance to client or as lawfully directed",
+      "D": "Share with staff"
+    },
+    "answer": "C"
+  }
+]

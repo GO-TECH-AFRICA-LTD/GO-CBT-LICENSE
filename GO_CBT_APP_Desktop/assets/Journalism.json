@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "question": "The Nigerian Union of Journalists (NUJ) was established in what year?",
+    "options": {
+      "A": "1960",
+      "B": "1955",
+      "C": "1958",
+      "D": "1965"
+    },
+    "correct_option": null,
+    "correct_answer": "C. 1958"
+  },
+  {
+    "id": 2,
+    "question": "Which of these is the first newspaper published in Nigeria?",
+    "options": {
+      "A": "West African Pilot",
+      "B": "Iwe Irohin",
+      "C": "Daily Times",
+      "D": "The Guardian"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Iwe Irohin"
+  },
+  {
+    "id": 3,
+    "question": "Who is regarded as the “Father of Nigerian Journalism”?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Ernest Ikoli",
+      "C": "Herbert Macaulay",
+      "D": "Obafemi Awolowo"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Nnamdi Azikiwe"
+  },
+  {
+    "id": 4,
+    "question": "The Freedom of Information Act (FOI) in Nigeria was signed into law in what year?",
+    "options": {
+      "A": "2009",
+      "B": "2011",
+      "C": "2015",
+      "D": "2013"
+    },
+    "correct_option": null,
+    "correct_answer": "B. 2011"
+  },
+  {
+    "id": 5,
+    "question": "The primary role of journalism in Nigeria is to:",
+    "options": {
+      "A": "Promote culture only",
+      "B": "Entertain the masses",
+      "C": "Inform, educate, and hold leaders accountable",
+      "D": "Protect government officials"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Inform, educate, and hold leaders accountable"
+  },
+  {
+    "id": 6,
+    "question": "NUJ stands for:",
+    "options": {
+      "A": "National Union of Journalists",
+      "B": "Nigerian Union of Journalists",
+      "C": "Nigerian Unified Journalists",
+      "D": "National Unified Journalists"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Nigerian Union of Journalists"
+  },
+  {
+    "id": 7,
+    "question": "The pioneer publisher of the West African Pilot was:",
+    "options": {
+      "A": "Anthony Enahoro",
+      "B": "Nnamdi Azikiwe",
+      "C": "Obafemi Awolowo",
+      "D": "Ernest Ikoli"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Nnamdi Azikiwe"
+  },
+  {
+    "id": 8,
+    "question": "Which body regulates broadcasting in Nigeria?",
+    "options": {
+      "A": "NBC",
+      "B": "NCC",
+      "C": "NUJ",
+      "D": "NAN"
+    },
+    "correct_option": null,
+    "correct_answer": "A. NBC"
+  },
+  {
+    "id": 9,
+    "question": "In journalism ethics, “objectivity” means:",
+    "options": {
+      "A": "Supporting government policies",
+      "B": "Reporting without bias",
+      "C": "Writing for entertainment",
+      "D": "Following newsroom hierarchy"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Reporting without bias"
+  },
+  {
+    "id": 10,
+    "question": "Which Nigerian newspaper was established in 1926 and became one of the oldest?",
+    "options": {
+      "A": "Punch",
+      "B": "Daily Times",
+      "C": "Guardian",
+      "D": "Tribune"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Daily Times"
+  },
+  {
+    "id": 11,
+    "question": "The first female editor of a Nigerian newspaper was:",
+    "options": {
+      "A": "Florence Ita Giwa",
+      "B": "Bunmi Aboderin",
+      "C": "Mrs. Iyalode Alakija",
+      "D": "Stella Ameyo"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Mrs. Iyalode Alakija"
+  },
+  {
+    "id": 12,
+    "question": "The Nigerian Press Council was established to:",
+    "options": {
+      "A": "Promote political parties",
+      "B": "Censor religious programs",
+      "C": "Regulate and uphold press ethics",
+      "D": "Fund private newspapers"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Regulate and uphold press ethics"
+  },
+  {
+    "id": 13,
+    "question": "The acronym “NAN” in Nigerian journalism stands for:",
+    "options": {
+      "A": "National Analysis Network",
+      "B": "News Agency of Nigeria",
+      "C": "Nigerian Association of Newspapers",
+      "D": "National Association of Newsmen"
+    },
+    "correct_option": null,
+    "correct_answer": "B. News Agency of Nigeria"
+  },
+  {
+    "id": 14,
+    "question": "Which of these is NOT a principle of journalism?",
+    "options": {
+      "A": "Fairness",
+      "B": "Accountability",
+      "C": "Sensationalism",
+      "D": "Accuracy"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Sensationalism"
+  },
+  {
+    "id": 15,
+    "question": "The Punch newspaper was founded in:",
+    "options": {
+      "A": "1971",
+      "B": "1980",
+      "C": "1965",
+      "D": "1976"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 1971"
+  },
+  {
+    "id": 16,
+    "question": "The NUJ headquarters is located in:",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Port Harcourt",
+      "D": "Kaduna"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Abuja"
+  },
+  {
+    "id": 17,
+    "question": "The term “Yellow Journalism” refers to:",
+    "options": {
+      "A": "Unbiased reporting",
+      "B": "Investigative reporting",
+      "C": "Sensational and exaggerated stories",
+      "D": "Political advertising"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Sensational and exaggerated stories"
+  },
+  {
+    "id": 18,
+    "question": "The pioneer of community journalism in Nigeria is often linked to:",
+    "options": {
+      "A": "Daily Trust",
+      "B": "Gaskiya Ta Fi Kwabo",
+      "C": "The Nation",
+      "D": "Guardian"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Gaskiya Ta Fi Kwabo"
+  },
+  {
+    "id": 19,
+    "question": "The Nigerian Broadcasting Commission (NBC) was created in:",
+    "options": {
+      "A": "1991",
+      "B": "1995",
+      "C": "1989",
+      "D": "2000"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 1991"
+  },
+  {
+    "id": 20,
+    "question": "Which medium of communication is most regulated in Nigeria?",
+    "options": {
+      "A": "Print media",
+      "B": "Broadcast media",
+      "C": "Online blogs",
+      "D": "Magazines"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Broadcast media"
+  },
+  {
+    "id": 21,
+    "question": "Investigative journalism in Nigeria became prominent during the era of:",
+    "options": {
+      "A": "Civil war",
+      "B": "Military rule",
+      "C": "Independence",
+      "D": "Democratic rule"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Military rule"
+  },
+  {
+    "id": 22,
+    "question": "Who founded the Nigerian Tribune?",
+    "options": {
+      "A": "Obafemi Awolowo",
+      "B": "Herbert Macaulay",
+      "C": "Nnamdi Azikiwe",
+      "D": "Tafawa Balewa"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Obafemi Awolowo"
+  },
+  {
+    "id": 23,
+    "question": "One of the key challenges of journalism in Nigeria today is:",
+    "options": {
+      "A": "Freedom of expression",
+      "B": "Access to printing machines",
+      "C": "Lack of readers",
+      "D": "Shortage of newsprint"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Freedom of expression"
+  },
+  {
+    "id": 24,
+    "question": "The News Agency of Nigeria (NAN) was established in:",
+    "options": {
+      "A": "1976",
+      "B": "1978",
+      "C": "1980",
+      "D": "1975"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 1976"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is an ethical duty of Nigerian journalists?",
+    "options": {
+      "A": "Fabricating sources",
+      "B": "Accuracy and fairness",
+      "C": "Supporting only opposition parties",
+      "D": "Hiding facts from the public"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Accuracy and fairness"
+  },
+  {
+    "id": 26,
+    "question": "“Editorial independence” in journalism means:",
+    "options": {
+      "A": "Government controls the newsroom",
+      "B": "Editors are free from external influence",
+      "C": "Editors only publish what owners want",
+      "D": "Journalists write propaganda"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Editors are free from external influence"
+  },
+  {
+    "id": 27,
+    "question": "The term “Fourth Estate of the Realm” refers to:",
+    "options": {
+      "A": "Judiciary",
+      "B": "Press",
+      "C": "Legislature",
+      "D": "Executive"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Press"
+  },
+  {
+    "id": 28,
+    "question": "The Code of Ethics for Nigerian Journalists was adopted in:",
+    "options": {
+      "A": "1990",
+      "B": "1988",
+      "C": "1998",
+      "D": "2000"
+    },
+    "correct_option": null,
+    "correct_answer": "C. 1998"
+  },
+  {
+    "id": 29,
+    "question": "Which of the following is NOT a Nigerian newspaper?",
+    "options": {
+      "A": "The Guardian",
+      "B": "Sahara Reporters",
+      "C": "Daily Sun",
+      "D": "New York Times"
+    },
+    "correct_option": null,
+    "correct_answer": "D. New York Times"
+  },
+  {
+    "id": 30,
+    "question": "The NUJ constitution provides that journalists must:",
+    "options": {
+      "A": "Belong to political parties",
+      "B": "Defend truth and justice",
+      "C": "Support only ruling governments",
+      "D": "Pay no membership dues"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Defend truth and justice"
+  },
+  {
+    "id": 31,
+    "question": "The watchdog role of journalists means they:",
+    "options": {
+      "A": "Keep pets in the newsroom",
+      "B": "Monitor government and institutions",
+      "C": "Entertain readers",
+      "D": "Promote only cultural news"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Monitor government and institutions"
+  },
+  {
+    "id": 32,
+    "question": "“Byline” in journalism refers to:",
+    "options": {
+      "A": "Title of the story",
+      "B": "Name of the reporter",
+      "C": "Date of publication",
+      "D": "Editorial section"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Name of the reporter"
+  },
+  {
+    "id": 33,
+    "question": "Which newspaper was founded by Herbert Macaulay?",
+    "options": {
+      "A": "Lagos Daily News",
+      "B": "Daily Times",
+      "C": "Nigerian Tribune",
+      "D": "The Guardian"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Lagos Daily News"
+  },
+  {
+    "id": 34,
+    "question": "The National Mass Communication Policy in Nigeria was first launched in:",
+    "options": {
+      "A": "1990",
+      "B": "1987",
+      "C": "1995",
+      "D": "1992"
+    },
+    "correct_option": null,
+    "correct_answer": "B. 1987"
+  },
+  {
+    "id": 35,
+    "question": "“Gatekeeping” in journalism refers to:",
+    "options": {
+      "A": "Printing newspapers at night",
+      "B": "Screening and selecting news items for publication",
+      "C": "Closing down media houses",
+      "D": "Building security at NUJ offices"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Screening and selecting news items for publication"
+  },
+  {
+    "id": 36,
+    "question": "The first indigenous English-language newspaper in Nigeria was:",
+    "options": {
+      "A": "Lagos Daily News",
+      "B": "Daily Times",
+      "C": "Nigerian Chronicle",
+      "D": "Nigerian Tribune"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Lagos Daily News"
+  },
+  {
+    "id": 37,
+    "question": "The Guardian newspaper was established in:",
+    "options": {
+      "A": "1980",
+      "B": "1983",
+      "C": "1979",
+      "D": "1985"
+    },
+    "correct_option": null,
+    "correct_answer": "B. 1983"
+  },
+  {
+    "id": 38,
+    "question": "Which journalism concept advocates “telling the truth at all times”?",
+    "options": {
+      "A": "Fair play",
+      "B": "Objectivity",
+      "C": "Accuracy",
+      "D": "Sensationalism"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Accuracy"
+  },
+  {
+    "id": 39,
+    "question": "A news story written in descending order of importance follows the:",
+    "options": {
+      "A": "Pyramid style",
+      "B": "Inverted pyramid style",
+      "C": "Circular style",
+      "D": "Linear style"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Inverted pyramid style"
+  },
+  {
+    "id": 40,
+    "question": "The Nigerian Guild of Editors (NGE) was founded in:",
+    "options": {
+      "A": "1961",
+      "B": "1965",
+      "C": "1971",
+      "D": "1973"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 1961"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is a broadcasting code in Nigeria?",
+    "options": {
+      "A": "Electoral Code",
+      "B": "NBC Code",
+      "C": "NUJ Code",
+      "D": "FOI Code"
+    },
+    "correct_option": null,
+    "correct_answer": "B. NBC Code"
+  },
+  {
+    "id": 42,
+    "question": "“Editorial” in a newspaper is usually written by:",
+    "options": {
+      "A": "Advertisers",
+      "B": "Reporters",
+      "C": "Editors",
+      "D": "Freelancers"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Editors"
+  },
+  {
+    "id": 43,
+    "question": "The term “press freedom” means:",
+    "options": {
+      "A": "Journalists write without fear of censorship",
+      "B": "Journalists avoid writing politics",
+      "C": "Government funds the press",
+      "D": "Readers control newspaper stories"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Journalists write without fear of censorship"
+  },
+  {
+    "id": 44,
+    "question": "Which Nigerian journalist was assassinated in 1986?",
+    "options": {
+      "A": "Dele Giwa",
+      "B": "Bayo Onanuga",
+      "C": "Reuben Abati",
+      "D": "Tony Momoh"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Dele Giwa"
+  },
+  {
+    "id": 45,
+    "question": "The primary function of the Nigerian Press Organisation (NPO) is:",
+    "options": {
+      "A": "Train soldiers",
+      "B": "Promote professionalism in journalism",
+      "C": "Elect presidents",
+      "D": "Regulate sports"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Promote professionalism in journalism"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is a tabloid newspaper in Nigeria?",
+    "options": {
+      "A": "Business Day",
+      "B": "Complete Sports",
+      "C": "The Guardian",
+      "D": "Tribune"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Complete Sports"
+  },
+  {
+    "id": 47,
+    "question": "The Code of Conduct for Nigerian journalists contains how many sections?",
+    "options": {
+      "A": "10",
+      "B": "15",
+      "C": "12",
+      "D": "20"
+    },
+    "correct_option": null,
+    "correct_answer": "C. 12"
+  },
+  {
+    "id": 48,
+    "question": "“Hard news” is best defined as:",
+    "options": {
+      "A": "News about fashion",
+      "B": "Serious and time-sensitive news",
+      "C": "Editorial opinions",
+      "D": "Gossip columns"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Serious and time-sensitive news"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is a broadcast medium?",
+    "options": {
+      "A": "Magazine",
+      "B": "Newspaper",
+      "C": "Television",
+      "D": "Flyer"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Television"
+  },
+  {
+    "id": 50,
+    "question": "The press is often described as the “Fourth Estate of the Realm” because it:",
+    "options": {
+      "A": "Owns government",
+      "B": "Checks other arms of government",
+      "C": "Replaces legislature",
+      "D": "Controls the judiciary"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Checks other arms of government"
+  },
+  {
+    "id": 51,
+    "question": "The “Freedom of the Press” is guaranteed under which section of the Nigerian Constitution?",
+    "options": {
+      "A": "Section 30",
+      "B": "Section 39",
+      "C": "Section 42",
+      "D": "Section 50"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Section 39"
+  },
+  {
+    "id": 52,
+    "question": "The editor of a newspaper is primarily responsible for:",
+    "options": {
+      "A": "Distribution of copies",
+      "B": "Advertising revenue",
+      "C": "Content selection and quality",
+      "D": "Selling newspapers"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Content selection and quality"
+  },
+  {
+    "id": 53,
+    "question": "Which is the official news agency of Nigeria?",
+    "options": {
+      "A": "NAN",
+      "B": "BBC",
+      "C": "CNN",
+      "D": "VOA"
+    },
+    "correct_option": null,
+    "correct_answer": "A. NAN"
+  },
+  {
+    "id": 54,
+    "question": "“Investigative reporting” involves:",
+    "options": {
+      "A": "Looking into hidden facts and corruption",
+      "B": "Writing fiction stories",
+      "C": "Supporting adverts",
+      "D": "Producing sports results only"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Looking into hidden facts and corruption"
+  },
+  {
+    "id": 55,
+    "question": "Which of these is considered “soft news”?",
+    "options": {
+      "A": "Election results",
+      "B": "Plane crash",
+      "C": "Celebrity wedding",
+      "D": "Supreme Court ruling"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Celebrity wedding"
+  },
+  {
+    "id": 56,
+    "question": "The NUJ has how many national organs of governance?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_option": null,
+    "correct_answer": "B. 3"
+  },
+  {
+    "id": 57,
+    "question": "A “news beat” refers to:",
+    "options": {
+      "A": "Music reporting",
+      "B": "A reporter’s assigned area of coverage",
+      "C": "Police beating reporters",
+      "D": "Editorial writing"
+    },
+    "correct_option": null,
+    "correct_answer": "B. A reporter’s assigned area of coverage"
+  },
+  {
+    "id": 58,
+    "question": "The first indigenous language newspaper in Nigeria was published in:",
+    "options": {
+      "A": "Yoruba",
+      "B": "Hausa",
+      "C": "Igbo",
+      "D": "Tiv"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Yoruba"
+  },
+  {
+    "id": 59,
+    "question": "“Censorship” means:",
+    "options": {
+      "A": "Free press",
+      "B": "Government restriction of press content",
+      "C": "Advertising promotions",
+      "D": "Public relations campaigns"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Government restriction of press content"
+  },
+  {
+    "id": 60,
+    "question": "The National Broadcasting Commission (NBC) is under which ministry?",
+    "options": {
+      "A": "Ministry of Justice",
+      "B": "Ministry of Information and Culture",
+      "C": "Ministry of Communication Technology",
+      "D": "Ministry of Finance"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Ministry of Information and Culture"
+  },
+  {
+    "id": 61,
+    "question": "Which of these is a journalism professional hazard in Nigeria?",
+    "options": {
+      "A": "Overpayment",
+      "B": "Threats and harassment",
+      "C": "Job monopoly",
+      "D": "Too much freedom"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Threats and harassment"
+  },
+  {
+    "id": 62,
+    "question": "The NUJ is affiliated with:",
+    "options": {
+      "A": "Nigerian Labour Congress (NLC)",
+      "B": "Nigerian Bar Association (NBA)",
+      "C": "Nigerian Medical Association (NMA)",
+      "D": "Nigerian Society of Engineers (NSE)"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Nigerian Labour Congress (NLC)"
+  },
+  {
+    "id": 63,
+    "question": "A headline in journalism is meant to:",
+    "options": {
+      "A": "Bore readers",
+      "B": "Attract attention",
+      "C": "Replace news body",
+      "D": "Entertain advertisers"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Attract attention"
+  },
+  {
+    "id": 64,
+    "question": "Who was the first Nigerian editor of Daily Times?",
+    "options": {
+      "A": "Babatunde Jose",
+      "B": "Ernest Ikoli",
+      "C": "Nduka Obaigbena",
+      "D": "Tony Momoh"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Ernest Ikoli"
+  },
+  {
+    "id": 65,
+    "question": "The “cartoon” section of a newspaper often represents:",
+    "options": {
+      "A": "Comedy only",
+      "B": "Satire and commentary",
+      "C": "Photo adverts",
+      "D": "Fashion design"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Satire and commentary"
+  },
+  {
+    "id": 66,
+    "question": "Which Nigerian newspaper is nicknamed “The Flagship”?",
+    "options": {
+      "A": "Tribune",
+      "B": "Punch",
+      "C": "Guardian",
+      "D": "Daily Times"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Guardian"
+  },
+  {
+    "id": 67,
+    "question": "The law protecting whistleblowers in Nigeria is closely tied to:",
+    "options": {
+      "A": "Public Service Act",
+      "B": "FOI Act",
+      "C": "Whistleblower Protection Policy",
+      "D": "NUJ Charter"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Whistleblower Protection Policy"
+  },
+  {
+    "id": 68,
+    "question": "A “sub-editor” is responsible for:",
+    "options": {
+      "A": "Delivering newspapers",
+      "B": "Editing copy for clarity and grammar",
+      "C": "Paying reporters",
+      "D": "Selling adverts"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Editing copy for clarity and grammar"
+  },
+  {
+    "id": 69,
+    "question": "The NUJ national president is elected every:",
+    "options": {
+      "A": "2 years",
+      "B": "3 years",
+      "C": "4 years",
+      "D": "5 years"
+    },
+    "correct_option": null,
+    "correct_answer": "C. 3 years"
+  },
+  {
+    "id": 70,
+    "question": "The “libel law” in journalism deals with:",
+    "options": {
+      "A": "Praise writing",
+      "B": "False and damaging publications",
+      "C": "True reports only",
+      "D": "Advertising"
+    },
+    "correct_option": null,
+    "correct_answer": "B. False and damaging publications"
+  },
+  {
+    "id": 71,
+    "question": "Which media house founded Channels TV?",
+    "options": {
+      "A": "John Momoh",
+      "B": "Nduka Obaigbena",
+      "C": "Raymond Dokpesi",
+      "D": "Ernest Ikoli"
+    },
+    "correct_option": null,
+    "correct_answer": "A. John Momoh"
+  },
+  {
+    "id": 72,
+    "question": "“Ethics” in journalism means:",
+    "options": {
+      "A": "Set of moral principles guiding journalists",
+      "B": "Copying news from others",
+      "C": "Writing only for profit",
+      "D": "Ignoring laws"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Set of moral principles guiding journalists"
+  },
+  {
+    "id": 73,
+    "question": "Which of these was founded by Raymond Dokpesi?",
+    "options": {
+      "A": "AIT",
+      "B": "Channels TV",
+      "C": "TVC",
+      "D": "NTA"
+    },
+    "correct_option": null,
+    "correct_answer": "A. AIT"
+  },
+  {
+    "id": 74,
+    "question": "“Balance” in journalism means:",
+    "options": {
+      "A": "Writing both sides of a story",
+      "B": "Writing only negative sides",
+      "C": "Supporting one party",
+      "D": "Writing only entertainment"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Writing both sides of a story"
+  },
+  {
+    "id": 75,
+    "question": "Which of these is a form of citizen journalism?",
+    "options": {
+      "A": "Social media reporting",
+      "B": "NUJ press releases",
+      "C": "Editorials",
+      "D": "Broadcast licence"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Social media reporting"
+  },
+  {
+    "id": 76,
+    "question": "The Punch newspaper is headquartered in:",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Ibadan",
+      "D": "Kaduna"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Lagos"
+  },
+  {
+    "id": 77,
+    "question": "“Agenda setting” theory in journalism means:",
+    "options": {
+      "A": "Media decides issues for public discourse",
+      "B": "Media sets government budget",
+      "C": "Media controls judiciary",
+      "D": "Media replaces parliament"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Media decides issues for public discourse"
+  },
+  {
+    "id": 78,
+    "question": "Which newspaper introduced “Saturday Punch” and “Sunday Punch”?",
+    "options": {
+      "A": "Punch",
+      "B": "Guardian",
+      "C": "Daily Sun",
+      "D": "Tribune"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Punch"
+  },
+  {
+    "id": 79,
+    "question": "Which Nigerian journalist popularized “guerrilla journalism” during military rule?",
+    "options": {
+      "A": "Dele Giwa",
+      "B": "Bayo Onanuga",
+      "C": "Nduka Obaigbena",
+      "D": "Babatunde Jose"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Bayo Onanuga"
+  },
+  {
+    "id": 80,
+    "question": "Which of these is the oldest surviving Hausa-language newspaper?",
+    "options": {
+      "A": "Gaskiya Ta Fi Kwabo",
+      "B": "Aminiya",
+      "C": "Leadership Hausa",
+      "D": "Rariya"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Gaskiya Ta Fi Kwabo"
+  },
+  {
+    "id": 81,
+    "question": "“Photojournalism” refers to:",
+    "options": {
+      "A": "Journalism with cartoons",
+      "B": "Storytelling through photographs",
+      "C": "Editing pictures only",
+      "D": "Selling photographs"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Storytelling through photographs"
+  },
+  {
+    "id": 82,
+    "question": "The “FOI Act” provides journalists with:",
+    "options": {
+      "A": "Right to access public information",
+      "B": "Right to free transport",
+      "C": "Free accommodation",
+      "D": "Election sponsorship"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Right to access public information"
+  },
+  {
+    "id": 83,
+    "question": "Which Nigerian media mogul founded ThisDay newspaper?",
+    "options": {
+      "A": "Babatunde Jose",
+      "B": "Ernest Ikoli",
+      "C": "Nduka Obaigbena",
+      "D": "John Momoh"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Nduka Obaigbena"
+  },
+  {
+    "id": 84,
+    "question": "A “dateline” in a news story shows:",
+    "options": {
+      "A": "Reporter’s name",
+      "B": "Location and date of story",
+      "C": "Editor’s comments",
+      "D": "Time of printing"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Location and date of story"
+  },
+  {
+    "id": 85,
+    "question": "Which international body promotes press freedom globally?",
+    "options": {
+      "A": "UNESCO",
+      "B": "FAO",
+      "C": "WHO",
+      "D": "UNICEF"
+    },
+    "correct_option": null,
+    "correct_answer": "A. UNESCO"
+  },
+  {
+    "id": 86,
+    "question": "The first television station in Africa was:",
+    "options": {
+      "A": "WNTV Ibadan",
+      "B": "NTA Lagos",
+      "C": "Channels TV",
+      "D": "AIT"
+    },
+    "correct_option": null,
+    "correct_answer": "A. WNTV Ibadan"
+  },
+  {
+    "id": 87,
+    "question": "“Press gagging” means:",
+    "options": {
+      "A": "Restricting press freedom",
+      "B": "Funding journalists",
+      "C": "Advertising promotions",
+      "D": "Media deregulation"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Restricting press freedom"
+  },
+  {
+    "id": 88,
+    "question": "A “columnist” in a newspaper is known for:",
+    "options": {
+      "A": "Regular opinion pieces",
+      "B": "Selling adverts",
+      "C": "Writing headlines only",
+      "D": "Editing features"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Regular opinion pieces"
+  },
+  {
+    "id": 89,
+    "question": "The NUJ motto is:",
+    "options": {
+      "A": "Truth, Fairness, Justice",
+      "B": "Justice and Service",
+      "C": "Justice, Truth and Fairness",
+      "D": "Freedom and Balance"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Justice, Truth and Fairness"
+  },
+  {
+    "id": 90,
+    "question": "Which of these is a private Nigerian radio station?",
+    "options": {
+      "A": "Radio Nigeria",
+      "B": "Rhythm FM",
+      "C": "Voice of Nigeria",
+      "D": "NTA Radio"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Rhythm FM"
+  },
+  {
+    "id": 91,
+    "question": "The term “defamation” in media law includes:",
+    "options": {
+      "A": "Praise singing",
+      "B": "False damaging statements",
+      "C": "Editorial fairness",
+      "D": "Public service announcements"
+    },
+    "correct_option": null,
+    "correct_answer": "B. False damaging statements"
+  },
+  {
+    "id": 92,
+    "question": "“Byline photograph” refers to:",
+    "options": {
+      "A": "Picture of the reporter with the story",
+      "B": "Cartoon drawing",
+      "C": "Photo advert",
+      "D": "Obituary photo"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Picture of the reporter with the story"
+  },
+  {
+    "id": 93,
+    "question": "Which of these is the state-owned broadcaster?",
+    "options": {
+      "A": "TVC",
+      "B": "NTA",
+      "C": "AIT",
+      "D": "Channels"
+    },
+    "correct_option": null,
+    "correct_answer": "B. NTA"
+  },
+  {
+    "id": 94,
+    "question": "“Press review” means:",
+    "options": {
+      "A": "Reviewing headlines in other newspapers",
+      "B": "Writing adverts",
+      "C": "Conducting public rallies",
+      "D": "Hosting music shows"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Reviewing headlines in other newspapers"
+  },
+  {
+    "id": 95,
+    "question": "Which Nigerian newspaper is known for its business focus?",
+    "options": {
+      "A": "Business Day",
+      "B": "Tribune",
+      "C": "Daily Sun",
+      "D": "Punch"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Business Day"
+  },
+  {
+    "id": 96,
+    "question": "“Sensationalism” in journalism means:",
+    "options": {
+      "A": "Balanced reporting",
+      "B": "Exaggerating news for attention",
+      "C": "Writing boring stories",
+      "D": "Hiding facts"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Exaggerating news for attention"
+  },
+  {
+    "id": 97,
+    "question": "Which act regulates broadcasting in Nigeria?",
+    "options": {
+      "A": "NBC Act",
+      "B": "FOI Act",
+      "C": "NUJ Act",
+      "D": "Media Act"
+    },
+    "correct_option": null,
+    "correct_answer": "A. NBC Act"
+  },
+  {
+    "id": 98,
+    "question": "The “ombudsman” in journalism serves as:",
+    "options": {
+      "A": "Reader’s representative for complaints",
+      "B": "Reporter’s union leader",
+      "C": "Advert manager",
+      "D": "Sports commentator"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Reader’s representative for complaints"
+  },
+  {
+    "id": 99,
+    "question": "The Daily Sun newspaper was founded in:",
+    "options": {
+      "A": "2001",
+      "B": "2003",
+      "C": "2005",
+      "D": "2000"
+    },
+    "correct_option": null,
+    "correct_answer": "B. 2003"
+  },
+  {
+    "id": 100,
+    "question": "The ethical principle of “right of reply” means:",
+    "options": {
+      "A": "Allowing subjects to respond to allegations",
+      "B": "Readers must write letters",
+      "C": "Editors must reply journalists",
+      "D": "Reporters reply advertisers"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Allowing subjects to respond to allegations"
+  },
+  {
+    "id": 101,
+    "question": "The NUJ Press Centre in Abuja is named after which veteran journalist?",
+    "options": {
+      "A": "Dele Giwa",
+      "B": "Ernest Ikoli",
+      "C": "Babatunde Jose",
+      "D": "Nduka Obaigbena"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Babatunde Jose"
+  },
+  {
+    "id": 102,
+    "question": "The concept of “media ownership influence” refers to:",
+    "options": {
+      "A": "Owners shaping news coverage to serve their interests",
+      "B": "Reporters owning their stories",
+      "C": "Government controlling citizens’ opinion",
+      "D": "Readers funding editors"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Owners shaping news coverage to serve their interests"
+  },
+  {
+    "id": 103,
+    "question": "Which journalism genre specializes in analyzing political events?",
+    "options": {
+      "A": "Sports journalism",
+      "B": "Political journalism",
+      "C": "Development journalism",
+      "D": "Cultural journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Political journalism"
+  },
+  {
+    "id": 104,
+    "question": "“Advertorial” in newspapers refers to:",
+    "options": {
+      "A": "Paid advertisement written in editorial style",
+      "B": "Unpaid editorial article",
+      "C": "News analysis",
+      "D": "Reader’s column"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Paid advertisement written in editorial style"
+  },
+  {
+    "id": 105,
+    "question": "Which of these is a magazine with strong Nigerian readership?",
+    "options": {
+      "A": "Time Magazine",
+      "B": "TELL",
+      "C": "Newsweek",
+      "D": "Economist"
+    },
+    "correct_option": null,
+    "correct_answer": "B. TELL"
+  },
+  {
+    "id": 106,
+    "question": "“Freedom of Information Act” empowers journalists to:",
+    "options": {
+      "A": "Demand access to public records",
+      "B": "Publish secret diaries",
+      "C": "Avoid paying tax",
+      "D": "Edit court judgments"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Demand access to public records"
+  },
+  {
+    "id": 107,
+    "question": "Which of these is NOT a function of NAN?",
+    "options": {
+      "A": "Disseminating news",
+      "B": "Training journalists abroad",
+      "C": "Providing unbiased reports",
+      "D": "Reducing information gaps"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Training journalists abroad"
+  },
+  {
+    "id": 108,
+    "question": "The “inverted pyramid” style of writing is mostly used for:",
+    "options": {
+      "A": "News reporting",
+      "B": "Cartoons",
+      "C": "Obituaries",
+      "D": "Advertisements"
+    },
+    "correct_option": null,
+    "correct_answer": "A. News reporting"
+  },
+  {
+    "id": 109,
+    "question": "“Agenda-setting” theory was popularized by:",
+    "options": {
+      "A": "Maxwell McCombs and Donald Shaw",
+      "B": "Marshall McLuhan",
+      "C": "Harold Lasswell",
+      "D": "Wilbur Schramm"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Maxwell McCombs and Donald Shaw"
+  },
+  {
+    "id": 110,
+    "question": "The principle of “fair comment” in journalism protects:",
+    "options": {
+      "A": "Honest opinion based on facts",
+      "B": "False accusations",
+      "C": "Commercial advertising",
+      "D": "Satirical cartoons only"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Honest opinion based on facts"
+  },
+  {
+    "id": 111,
+    "question": "Which of these is the NUJ’s organ of discipline?",
+    "options": {
+      "A": "National Executive Council",
+      "B": "Disciplinary Committee",
+      "C": "Congress",
+      "D": "Editorial Board"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Disciplinary Committee"
+  },
+  {
+    "id": 112,
+    "question": "The watchdog role of the press is entrenched in Nigeria’s:",
+    "options": {
+      "A": "Media Policy",
+      "B": "Constitution",
+      "C": "NUJ Charter",
+      "D": "FOI Act"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Constitution"
+  },
+  {
+    "id": 113,
+    "question": "The concept of “development journalism” emphasizes:",
+    "options": {
+      "A": "Reporting issues that promote national growth",
+      "B": "Sports analysis",
+      "C": "International celebrity gossip",
+      "D": "Fashion trends"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Reporting issues that promote national growth"
+  },
+  {
+    "id": 114,
+    "question": "The circulation manager of a newspaper handles:",
+    "options": {
+      "A": "Editorial independence",
+      "B": "Distribution and sales of copies",
+      "C": "Political reporting",
+      "D": "Adjudication of cases"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Distribution and sales of copies"
+  },
+  {
+    "id": 115,
+    "question": "A “news agency” differs from a newspaper because it:",
+    "options": {
+      "A": "Supplies news to media outlets",
+      "B": "Prints hard copies daily",
+      "C": "Publishes cartoons",
+      "D": "Operates only on radio"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Supplies news to media outlets"
+  },
+  {
+    "id": 116,
+    "question": "Which of these is considered unethical for journalists?",
+    "options": {
+      "A": "Plagiarism",
+      "B": "Accuracy",
+      "C": "Fairness",
+      "D": "Accountability"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Plagiarism"
+  },
+  {
+    "id": 117,
+    "question": "The Press Freedom Index is published by:",
+    "options": {
+      "A": "Reporters Without Borders",
+      "B": "UNESCO",
+      "C": "United Nations",
+      "D": "Transparency International"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Reporters Without Borders"
+  },
+  {
+    "id": 118,
+    "question": "The term “news lead” means:",
+    "options": {
+      "A": "First and most important sentence/paragraph in a story",
+      "B": "Headline font size",
+      "C": "Reporter’s picture",
+      "D": "Closing remark"
+    },
+    "correct_option": null,
+    "correct_answer": "A. First and most important sentence/paragraph in a story"
+  },
+  {
+    "id": 119,
+    "question": "Who founded the Daily Sun?",
+    "options": {
+      "A": "Orji Uzor Kalu",
+      "B": "Nduka Obaigbena",
+      "C": "Bayo Onanuga",
+      "D": "John Momoh"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Orji Uzor Kalu"
+  },
+  {
+    "id": 120,
+    "question": "The broadcasting policy of Nigeria is anchored on:",
+    "options": {
+      "A": "Public interest",
+      "B": "Government monopoly",
+      "C": "Foreign ownership",
+      "D": "Political sponsorship"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Public interest"
+  },
+  {
+    "id": 121,
+    "question": "A “scoop” in journalism means:",
+    "options": {
+      "A": "Exclusive news before others report it",
+      "B": "Repeated stories",
+      "C": "Editorial comment",
+      "D": "Public opinion poll"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Exclusive news before others report it"
+  },
+  {
+    "id": 122,
+    "question": "Which Nigerian state pioneered television broadcasting in Africa?",
+    "options": {
+      "A": "Oyo",
+      "B": "Lagos",
+      "C": "Kano",
+      "D": "Kaduna"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Oyo"
+  },
+  {
+    "id": 123,
+    "question": "The NUJ Ethics Committee ensures:",
+    "options": {
+      "A": "Discipline of erring members",
+      "B": "Sales of newspapers",
+      "C": "Funding of adverts",
+      "D": "Building headquarters"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Discipline of erring members"
+  },
+  {
+    "id": 124,
+    "question": "Which of these is a government-owned international broadcast station?",
+    "options": {
+      "A": "AIT",
+      "B": "Voice of Nigeria",
+      "C": "Channels TV",
+      "D": "TVC"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Voice of Nigeria"
+  },
+  {
+    "id": 125,
+    "question": "“Objectivity” requires that journalists:",
+    "options": {
+      "A": "Present all sides fairly without bias",
+      "B": "Support ruling parties",
+      "C": "Avoid factual accuracy",
+      "D": "Promote sensationalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Present all sides fairly without bias"
+  },
+  {
+    "id": 126,
+    "question": "The “editorial board” of a newspaper:",
+    "options": {
+      "A": "Shapes the paper’s opinion",
+      "B": "Delivers papers to vendors",
+      "C": "Handles advertisements",
+      "D": "Reports crime stories"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Shapes the paper’s opinion"
+  },
+  {
+    "id": 127,
+    "question": "Which newspaper is owned by the Awolowo family?",
+    "options": {
+      "A": "Tribune",
+      "B": "Punch",
+      "C": "Guardian",
+      "D": "Nation"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Tribune"
+  },
+  {
+    "id": 128,
+    "question": "A “correspondent” is:",
+    "options": {
+      "A": "Reporter assigned to a particular location or institution",
+      "B": "Editor-in-chief",
+      "C": "Advert manager",
+      "D": "Cartoonist"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Reporter assigned to a particular location or institution"
+  },
+  {
+    "id": 129,
+    "question": "Which term describes deliberate spreading of false information in media?",
+    "options": {
+      "A": "Propaganda",
+      "B": "Public relations",
+      "C": "Advocacy",
+      "D": "Civic journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Propaganda"
+  },
+  {
+    "id": 130,
+    "question": "The NUJ seal bears the symbol of:",
+    "options": {
+      "A": "Pen",
+      "B": "Camera",
+      "C": "Microphone",
+      "D": "Book"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Pen"
+  },
+  {
+    "id": 131,
+    "question": "The “cartoonist” in newspapers is part of:",
+    "options": {
+      "A": "Editorial staff",
+      "B": "Advertising team",
+      "C": "Circulation unit",
+      "D": "Legal team"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Editorial staff"
+  },
+  {
+    "id": 132,
+    "question": "Which of these is a Nigerian sports daily?",
+    "options": {
+      "A": "Sporting Life",
+      "B": "Business Day",
+      "C": "Tribune",
+      "D": "Guardian"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Sporting Life"
+  },
+  {
+    "id": 133,
+    "question": "The World Press Freedom Day is observed on:",
+    "options": {
+      "A": "May 3",
+      "B": "June 12",
+      "C": "April 4",
+      "D": "October 1"
+    },
+    "correct_option": null,
+    "correct_answer": "A. May 3"
+  },
+  {
+    "id": 134,
+    "question": "Which act provides for the licensing of radio/TV stations in Nigeria?",
+    "options": {
+      "A": "NBC Act",
+      "B": "NUJ Act",
+      "C": "NPO Act",
+      "D": "Media Act"
+    },
+    "correct_option": null,
+    "correct_answer": "A. NBC Act"
+  },
+  {
+    "id": 135,
+    "question": "“Watchdog journalism” refers to:",
+    "options": {
+      "A": "Holding power accountable",
+      "B": "Writing sports news",
+      "C": "Sponsoring adverts",
+      "D": "Covering weddings"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Holding power accountable"
+  },
+  {
+    "id": 136,
+    "question": "Which medium combines audio and visual?",
+    "options": {
+      "A": "Radio",
+      "B": "Television",
+      "C": "Newspaper",
+      "D": "Magazine"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Television"
+  },
+  {
+    "id": 137,
+    "question": "The NUJ was first inaugurated in which city?",
+    "options": {
+      "A": "Ibadan",
+      "B": "Lagos",
+      "C": "Enugu",
+      "D": "Kaduna"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Lagos"
+  },
+  {
+    "id": 138,
+    "question": "“Infotainment” is:",
+    "options": {
+      "A": "Combination of information and entertainment",
+      "B": "Exclusive news",
+      "C": "Paid advert",
+      "D": "Political satire"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Combination of information and entertainment"
+  },
+  {
+    "id": 139,
+    "question": "The penalty for defamation under Nigerian law may include:",
+    "options": {
+      "A": "Damages and compensation",
+      "B": "Free training",
+      "C": "Promotion of journalist",
+      "D": "Award of medals"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Damages and compensation"
+  },
+  {
+    "id": 140,
+    "question": "A “news bulletin” is common in:",
+    "options": {
+      "A": "Radio and TV",
+      "B": "Cartoons",
+      "C": "Editorials",
+      "D": "Letters to editor"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Radio and TV"
+  },
+  {
+    "id": 141,
+    "question": "Which of these is an example of “new media”?",
+    "options": {
+      "A": "Television",
+      "B": "Radio",
+      "C": "Online blogs",
+      "D": "Newspapers"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Online blogs"
+  },
+  {
+    "id": 142,
+    "question": "A “news editor” is directly responsible for:",
+    "options": {
+      "A": "Coordinating reporters and shaping daily news",
+      "B": "Selling adverts",
+      "C": "Producing cartoons",
+      "D": "Approving vendors"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Coordinating reporters and shaping daily news"
+  },
+  {
+    "id": 143,
+    "question": "The “ethics of journalism” in Nigeria were jointly adopted by:",
+    "options": {
+      "A": "NUJ, NGE, and NPO",
+      "B": "NCC, NAN, and NBC",
+      "C": "NTA, VON, and FRCN",
+      "D": "UNESCO and NUJ"
+    },
+    "correct_option": null,
+    "correct_answer": "A. NUJ, NGE, and NPO"
+  },
+  {
+    "id": 144,
+    "question": "Which of these is considered “broadcast news”?",
+    "options": {
+      "A": "Radio newscast",
+      "B": "Magazine feature",
+      "C": "Editorial opinion",
+      "D": "Cartoon satire"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Radio newscast"
+  },
+  {
+    "id": 145,
+    "question": "“News values” in journalism include:",
+    "options": {
+      "A": "Timeliness, prominence, conflict, proximity",
+      "B": "Gossip, rumor, bias, falsehood",
+      "C": "Delay, monopoly, censorship, secrecy",
+      "D": "Adverts, politics, propaganda, sponsorship"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Timeliness, prominence, conflict, proximity"
+  },
+  {
+    "id": 146,
+    "question": "Which body monitors press complaints in Nigeria?",
+    "options": {
+      "A": "NUJ Ethics Panel",
+      "B": "Nigerian Press Council",
+      "C": "National Orientation Agency",
+      "D": "NCC Tribunal"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Nigerian Press Council"
+  },
+  {
+    "id": 147,
+    "question": "“Libel” applies to:",
+    "options": {
+      "A": "Written defamation",
+      "B": "Spoken defamation",
+      "C": "Radio commentary",
+      "D": "Satire"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Written defamation"
+  },
+  {
+    "id": 148,
+    "question": "“Slander” applies to:",
+    "options": {
+      "A": "Spoken defamation",
+      "B": "Written defamation",
+      "C": "Editorial opinions",
+      "D": "Cartoons"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Spoken defamation"
+  },
+  {
+    "id": 149,
+    "question": "A “stringer” in journalism is:",
+    "options": {
+      "A": "A freelance reporter paid per story",
+      "B": "News vendor",
+      "C": "Junior editor",
+      "D": "Government spokesperson"
+    },
+    "correct_option": null,
+    "correct_answer": "A. A freelance reporter paid per story"
+  },
+  {
+    "id": 150,
+    "question": "Which of these pioneered guerrilla journalism in the 1990s?",
+    "options": {
+      "A": "The News magazine",
+      "B": "Tribune",
+      "C": "Punch",
+      "D": "Daily Times"
+    },
+    "correct_option": null,
+    "correct_answer": "A. The News magazine"
+  },
+  {
+    "id": 151,
+    "question": "A “dateline” usually appears at the:",
+    "options": {
+      "A": "Beginning of a news story",
+      "B": "Middle of editorial",
+      "C": "End of advert",
+      "D": "Footer of newspaper"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Beginning of a news story"
+  },
+  {
+    "id": 152,
+    "question": "“Embedded journalism” refers to:",
+    "options": {
+      "A": "Journalists attached to military operations",
+      "B": "Journalists working from home",
+      "C": "Freelance columnists",
+      "D": "Advert staff"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Journalists attached to military operations"
+  },
+  {
+    "id": 153,
+    "question": "Which agency licenses newspapers in Nigeria?",
+    "options": {
+      "A": "Corporate Affairs Commission (CAC)",
+      "B": "National Library of Nigeria",
+      "C": "NBC",
+      "D": "NUJ"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Corporate Affairs Commission (CAC)"
+  },
+  {
+    "id": 154,
+    "question": "“Freedom of the press” is a subset of:",
+    "options": {
+      "A": "Freedom of expression",
+      "B": "Electoral law",
+      "C": "FOI Act only",
+      "D": "Labour rights"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Freedom of expression"
+  },
+  {
+    "id": 155,
+    "question": "A “copy editor” ensures:",
+    "options": {
+      "A": "Grammar, accuracy, and clarity in news stories",
+      "B": "Selling adverts",
+      "C": "Broadcasting news live",
+      "D": "Delivering newspapers"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Grammar, accuracy, and clarity in news stories"
+  },
+  {
+    "id": 156,
+    "question": "Which of these is a Nigerian investigative magazine?",
+    "options": {
+      "A": "TELL",
+      "B": "Vogue",
+      "C": "Economist",
+      "D": "Times"
+    },
+    "correct_option": null,
+    "correct_answer": "A. TELL"
+  },
+  {
+    "id": 157,
+    "question": "“Fake news” became more prominent in Nigeria during:",
+    "options": {
+      "A": "2015 general elections",
+      "B": "1979 elections",
+      "C": "1960 independence",
+      "D": "1983 coup"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 2015 general elections"
+  },
+  {
+    "id": 158,
+    "question": "Which term describes subtle promotion in news stories?",
+    "options": {
+      "A": "Advertorial",
+      "B": "Product placement",
+      "C": "Infotainment",
+      "D": "Propaganda"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Product placement"
+  },
+  {
+    "id": 159,
+    "question": "A “press release” is usually issued by:",
+    "options": {
+      "A": "Public relations officer",
+      "B": "Editor-in-chief",
+      "C": "Circulation manager",
+      "D": "News vendor"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Public relations officer"
+  },
+  {
+    "id": 160,
+    "question": "The acronym “NGE” stands for:",
+    "options": {
+      "A": "Nigerian Guild of Editors",
+      "B": "National Group of Editors",
+      "C": "Nigerian General Editors",
+      "D": "Nigerian Guide to Editors"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Nigerian Guild of Editors"
+  },
+  {
+    "id": 161,
+    "question": "Which of these is a function of NGE?",
+    "options": {
+      "A": "Promote editorial independence",
+      "B": "License media houses",
+      "C": "Train soldiers",
+      "D": "Fund political campaigns"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Promote editorial independence"
+  },
+  {
+    "id": 162,
+    "question": "“Development journalism” in Nigeria focuses on:",
+    "options": {
+      "A": "Poverty eradication, education, health",
+      "B": "Celebrity weddings",
+      "C": "Sports commentary",
+      "D": "Election violence"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Poverty eradication, education, health"
+  },
+  {
+    "id": 163,
+    "question": "Which of these is an international press freedom NGO?",
+    "options": {
+      "A": "Reporters Without Borders",
+      "B": "Transparency International",
+      "C": "Amnesty Media",
+      "D": "Human Rights Court"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Reporters Without Borders"
+  },
+  {
+    "id": 164,
+    "question": "“Muckraking” is another word for:",
+    "options": {
+      "A": "Investigative journalism",
+      "B": "Sports reporting",
+      "C": "Fashion writing",
+      "D": "Entertainment column"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Investigative journalism"
+  },
+  {
+    "id": 165,
+    "question": "Which of these is a Nigerian private newspaper?",
+    "options": {
+      "A": "The Guardian",
+      "B": "Radio Nigeria",
+      "C": "NTA Bulletin",
+      "D": "Voice of Nigeria"
+    },
+    "correct_option": null,
+    "correct_answer": "A. The Guardian"
+  },
+  {
+    "id": 166,
+    "question": "The first broadcast radio station in Nigeria was:",
+    "options": {
+      "A": "Radio Nigeria (formerly Radio Diffusion Service)",
+      "B": "RayPower FM",
+      "C": "Rhythm FM",
+      "D": "Cool FM"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Radio Nigeria (formerly Radio Diffusion Service)"
+  },
+  {
+    "id": 167,
+    "question": "The “ombudsman” in journalism handles:",
+    "options": {
+      "A": "Reader’s complaints",
+      "B": "Advertisement costs",
+      "C": "Political interviews",
+      "D": "Editor salaries"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Reader’s complaints"
+  },
+  {
+    "id": 168,
+    "question": "Which journalism model prioritizes citizen involvement?",
+    "options": {
+      "A": "Civic journalism",
+      "B": "Development journalism",
+      "C": "Propaganda journalism",
+      "D": "Entertainment journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Civic journalism"
+  },
+  {
+    "id": 169,
+    "question": "The NUJ is structured at three levels:",
+    "options": {
+      "A": "National, State, Chapel",
+      "B": "Chapel, Ward, District",
+      "C": "Zonal, Local, Regional",
+      "D": "Federal, State, Local"
+    },
+    "correct_option": null,
+    "correct_answer": "A. National, State, Chapel"
+  },
+  {
+    "id": 170,
+    "question": "Which of these was founded by Sam Amuka-Pemu?",
+    "options": {
+      "A": "Vanguard",
+      "B": "Punch",
+      "C": "Tribune",
+      "D": "ThisDay"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Vanguard"
+  },
+  {
+    "id": 171,
+    "question": "The Vanguard newspaper was established in:",
+    "options": {
+      "A": "1984",
+      "B": "1985",
+      "C": "1982",
+      "D": "1986"
+    },
+    "correct_option": null,
+    "correct_answer": "B. 1985"
+  },
+  {
+    "id": 172,
+    "question": "Which of these is Nigeria’s first online-only newspaper?",
+    "options": {
+      "A": "Sahara Reporters",
+      "B": "Premium Times",
+      "C": "Daily Post",
+      "D": "Nigeria Newsdesk"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Sahara Reporters"
+  },
+  {
+    "id": 173,
+    "question": "“Citizen journalism” is made possible mainly by:",
+    "options": {
+      "A": "Social media platforms",
+      "B": "NBC code",
+      "C": "Government subsidies",
+      "D": "NUJ directives"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Social media platforms"
+  },
+  {
+    "id": 174,
+    "question": "The NUJ National Secretariat is located in:",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Enugu",
+      "D": "Ibadan"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Abuja"
+  },
+  {
+    "id": 175,
+    "question": "“Balanced reporting” requires:",
+    "options": {
+      "A": "Presenting all sides fairly",
+      "B": "Avoiding opposition stories",
+      "C": "Taking only government statements",
+      "D": "Using only social media sources"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Presenting all sides fairly"
+  },
+  {
+    "id": 176,
+    "question": "Which of these is considered media ethics?",
+    "options": {
+      "A": "Truth and objectivity",
+      "B": "Sensationalism",
+      "C": "Propaganda",
+      "D": "Bias"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Truth and objectivity"
+  },
+  {
+    "id": 177,
+    "question": "Who was Nigeria’s first female television broadcaster?",
+    "options": {
+      "A": "Anike Agbaje-Williams",
+      "B": "Stella Obasanjo",
+      "C": "Bimbo Oloyede",
+      "D": "Adesuwa Onyenokwe"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Anike Agbaje-Williams"
+  },
+  {
+    "id": 178,
+    "question": "“Breaking news” refers to:",
+    "options": {
+      "A": "Urgent news reported immediately",
+      "B": "Feature articles",
+      "C": "Advertorials",
+      "D": "Editorials"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Urgent news reported immediately"
+  },
+  {
+    "id": 179,
+    "question": "The World Association of Newspapers is based in:",
+    "options": {
+      "A": "France",
+      "B": "USA",
+      "C": "UK",
+      "D": "Nigeria"
+    },
+    "correct_option": null,
+    "correct_answer": "A. France"
+  },
+  {
+    "id": 180,
+    "question": "Which of these is NOT a function of the press?",
+    "options": {
+      "A": "Information",
+      "B": "Entertainment",
+      "C": "Censorship",
+      "D": "Education"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Censorship"
+  },
+  {
+    "id": 181,
+    "question": "The “ethics of photojournalism” requires:",
+    "options": {
+      "A": "Respect for dignity and truth in images",
+      "B": "Manipulating pictures",
+      "C": "Exaggerating visuals",
+      "D": "Blurring facts"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Respect for dignity and truth in images"
+  },
+  {
+    "id": 182,
+    "question": "A “press conference” is usually organized to:",
+    "options": {
+      "A": "Address journalists collectively",
+      "B": "Advertise products",
+      "C": "Train reporters",
+      "D": "Celebrate anniversaries"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Address journalists collectively"
+  },
+  {
+    "id": 183,
+    "question": "Which Nigerian journalist founded The Nation newspaper?",
+    "options": {
+      "A": "Bola Tinubu",
+      "B": "Sam Amuka",
+      "C": "Babatunde Jose",
+      "D": "Orji Kalu"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Bola Tinubu"
+  },
+  {
+    "id": 184,
+    "question": "The NUJ is governed at the state level by:",
+    "options": {
+      "A": "State Councils",
+      "B": "National Assembly",
+      "C": "Local Government",
+      "D": "Chapel Leaders"
+    },
+    "correct_option": null,
+    "correct_answer": "A. State Councils"
+  },
+  {
+    "id": 185,
+    "question": "“Embedded journalism” became prominent during:",
+    "options": {
+      "A": "Iraq War",
+      "B": "Nigeria Civil War",
+      "C": "1960 independence",
+      "D": "2015 elections"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Iraq War"
+  },
+  {
+    "id": 186,
+    "question": "Which of these Nigerian dailies is considered pro-labour?",
+    "options": {
+      "A": "The Punch",
+      "B": "Vanguard",
+      "C": "The Nation",
+      "D": "Tribune"
+    },
+    "correct_option": null,
+    "correct_answer": "B. Vanguard"
+  },
+  {
+    "id": 187,
+    "question": "“Press accreditation” gives journalists:",
+    "options": {
+      "A": "Official right to cover events",
+      "B": "Free transport",
+      "C": "Editorial independence",
+      "D": "Share in government revenue"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Official right to cover events"
+  },
+  {
+    "id": 188,
+    "question": "The “lead” in a news story should be:",
+    "options": {
+      "A": "Concise and attention-grabbing",
+      "B": "Very long",
+      "C": "Buried at the end",
+      "D": "Unclear"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Concise and attention-grabbing"
+  },
+  {
+    "id": 189,
+    "question": "Which of these was a Nigerian pro-democracy magazine in the 1990s?",
+    "options": {
+      "A": "TELL",
+      "B": "Economist",
+      "C": "Tribune",
+      "D": "Punch"
+    },
+    "correct_option": null,
+    "correct_answer": "A. TELL"
+  },
+  {
+    "id": 190,
+    "question": "Which of these is considered unethical?",
+    "options": {
+      "A": "Brown envelope journalism",
+      "B": "Balanced coverage",
+      "C": "Factual reporting",
+      "D": "Accuracy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Brown envelope journalism"
+  },
+  {
+    "id": 191,
+    "question": "The NUJ was established at the conference of journalists held in:",
+    "options": {
+      "A": "Lagos",
+      "B": "Ibadan",
+      "C": "Enugu",
+      "D": "Abuja"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Lagos"
+  },
+  {
+    "id": 192,
+    "question": "“Conflict-sensitive journalism” requires:",
+    "options": {
+      "A": "Reporting to reduce tension",
+      "B": "Supporting only one side",
+      "C": "Ignoring conflicts",
+      "D": "Exaggerating violence"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Reporting to reduce tension"
+  },
+  {
+    "id": 193,
+    "question": "Which paper was instrumental during Nigeria’s independence struggle?",
+    "options": {
+      "A": "West African Pilot",
+      "B": "Tribune",
+      "C": "Guardian",
+      "D": "Daily Sun"
+    },
+    "correct_option": null,
+    "correct_answer": "A. West African Pilot"
+  },
+  {
+    "id": 194,
+    "question": "The NUJ’s constitution is amended during:",
+    "options": {
+      "A": "Delegates Conference",
+      "B": "Senate sitting",
+      "C": "Editors Guild meeting",
+      "D": "Chapel congress"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Delegates Conference"
+  },
+  {
+    "id": 195,
+    "question": "Which of these is a Nigerian online investigative paper?",
+    "options": {
+      "A": "Premium Times",
+      "B": "Newsweek",
+      "C": "Economist",
+      "D": "Washington Post"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Premium Times"
+  },
+  {
+    "id": 196,
+    "question": "“Press censorship” occurs mostly during:",
+    "options": {
+      "A": "Military rule",
+      "B": "Democratic rule",
+      "C": "Peaceful protests",
+      "D": "Economic booms"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Military rule"
+  },
+  {
+    "id": 197,
+    "question": "A “stringer” is different from a staff reporter because:",
+    "options": {
+      "A": "Stringer is freelance and part-time",
+      "B": "Stringer owns the paper",
+      "C": "Staff reporter is unpaid",
+      "D": "Staff reporter works for another agency"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Stringer is freelance and part-time"
+  },
+  {
+    "id": 198,
+    "question": "“Letters to the Editor” are examples of:",
+    "options": {
+      "A": "Readers’ feedback",
+      "B": "Editorial content",
+      "C": "Paid adverts",
+      "D": "Political propaganda"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Readers’ feedback"
+  },
+  {
+    "id": 199,
+    "question": "The NUJ was formally registered as a trade union in:",
+    "options": {
+      "A": "1978",
+      "B": "1975",
+      "C": "1980",
+      "D": "1983"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 1978"
+  },
+  {
+    "id": 200,
+    "question": "Which of these is an international journalism organization?",
+    "options": {
+      "A": "International Federation of Journalists (IFJ)",
+      "B": "World Bank",
+      "C": "ECOWAS",
+      "D": "AU Commission"
+    },
+    "correct_option": null,
+    "correct_answer": "A. International Federation of Journalists (IFJ)"
+  },
+  {
+    "id": 201,
+    "question": "The term “editorial policy” refers to:",
+    "options": {
+      "A": "Guidelines that direct a newspaper’s content and stance",
+      "B": "Government laws controlling newsrooms",
+      "C": "Advertisers’ instructions",
+      "D": "Public opinion on newspapers"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Guidelines that direct a newspaper’s content and stance"
+  },
+  {
+    "id": 202,
+    "question": "The acronym “APCON” in Nigerian media stands for:",
+    "options": {
+      "A": "Advertising Practitioners Council of Nigeria",
+      "B": "Association of Press Correspondents of Nigeria",
+      "C": "Association of Publishers and Columnists of Nigeria",
+      "D": "Advertising Professionals Corporation of Nigeria"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Advertising Practitioners Council of Nigeria"
+  },
+  {
+    "id": 203,
+    "question": "“Conflict of interest” in journalism means:",
+    "options": {
+      "A": "Journalists reporting on matters where they have personal interest",
+      "B": "Government sponsoring reporters",
+      "C": "Editors disagreeing with owners",
+      "D": "Readers not buying papers"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Journalists reporting on matters where they have personal interest"
+  },
+  {
+    "id": 204,
+    "question": "The Nigerian Television Authority (NTA) was founded in:",
+    "options": {
+      "A": "1977",
+      "B": "1979",
+      "C": "1980",
+      "D": "1975"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 1977"
+  },
+  {
+    "id": 205,
+    "question": "The Press Freedom Index ranks countries based on:",
+    "options": {
+      "A": "Level of press liberty and independence",
+      "B": "Number of newspapers",
+      "C": "Amount of adverts published",
+      "D": "Number of journalists trained"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Level of press liberty and independence"
+  },
+  {
+    "id": 206,
+    "question": "Which newspaper was nicknamed “Nigeria’s first truly national paper”?",
+    "options": {
+      "A": "Daily Times",
+      "B": "Guardian",
+      "C": "Punch",
+      "D": "Tribune"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Daily Times"
+  },
+  {
+    "id": 207,
+    "question": "“News feature” differs from straight news because it:",
+    "options": {
+      "A": "Provides background and depth",
+      "B": "Reports breaking events only",
+      "C": "Is used for cartoons",
+      "D": "Is an advertorial"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Provides background and depth"
+  },
+  {
+    "id": 208,
+    "question": "The NUJ Code of Ethics is binding on:",
+    "options": {
+      "A": "All registered journalists in Nigeria",
+      "B": "Only foreign correspondents",
+      "C": "Newspaper owners",
+      "D": "Advertisers"
+    },
+    "correct_option": null,
+    "correct_answer": "A. All registered journalists in Nigeria"
+  },
+  {
+    "id": 209,
+    "question": "The “press gallery” in Nigeria usually refers to:",
+    "options": {
+      "A": "Journalists covering the National Assembly",
+      "B": "Cartoon section of newspapers",
+      "C": "Editorial conference",
+      "D": "State-owned media houses"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Journalists covering the National Assembly"
+  },
+  {
+    "id": 210,
+    "question": "Which of these is an international journalism award?",
+    "options": {
+      "A": "Pulitzer Prize",
+      "B": "Booker Prize",
+      "C": "Grammy Award",
+      "D": "Nobel Peace Prize"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Pulitzer Prize"
+  },
+  {
+    "id": 211,
+    "question": "The News Agency of Nigeria supplies stories to:",
+    "options": {
+      "A": "Newspapers, radio, and TV",
+      "B": "Only radio",
+      "C": "Only government agencies",
+      "D": "Public relations companies"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Newspapers, radio, and TV"
+  },
+  {
+    "id": 212,
+    "question": "A “correction box” in newspapers is used to:",
+    "options": {
+      "A": "Rectify errors made in earlier reports",
+      "B": "Advertise products",
+      "C": "Publish obituaries",
+      "D": "Entertain readers"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Rectify errors made in earlier reports"
+  },
+  {
+    "id": 213,
+    "question": "“Media pluralism” means:",
+    "options": {
+      "A": "Existence of diverse media voices and outlets",
+      "B": "One-party control of media",
+      "C": "Only one newspaper publishing",
+      "D": "Government monopoly"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Existence of diverse media voices and outlets"
+  },
+  {
+    "id": 214,
+    "question": "Which of these is NOT a journalism beat?",
+    "options": {
+      "A": "Judiciary",
+      "B": "Aviation",
+      "C": "Entertainment",
+      "D": "Carpentry"
+    },
+    "correct_option": null,
+    "correct_answer": "D. Carpentry"
+  },
+  {
+    "id": 215,
+    "question": "“Gag order” in journalism means:",
+    "options": {
+      "A": "Court order restricting publication of certain details",
+      "B": "Press freedom law",
+      "C": "NUJ directive on adverts",
+      "D": "Broadcast jingles"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Court order restricting publication of certain details"
+  },
+  {
+    "id": 216,
+    "question": "The term “broadcast licence” refers to:",
+    "options": {
+      "A": "Government permit to operate radio/TV station",
+      "B": "Permission to print newspapers",
+      "C": "Permission to write editorials",
+      "D": "Advert space booking"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Government permit to operate radio/TV station"
+  },
+  {
+    "id": 217,
+    "question": "Which is the first privately-owned radio station in Nigeria?",
+    "options": {
+      "A": "RayPower FM",
+      "B": "Rhythm FM",
+      "C": "Cool FM",
+      "D": "Wazobia FM"
+    },
+    "correct_option": null,
+    "correct_answer": "A. RayPower FM"
+  },
+  {
+    "id": 218,
+    "question": "The “brown envelope syndrome” in Nigerian journalism refers to:",
+    "options": {
+      "A": "Accepting bribes for favorable coverage",
+      "B": "Press accreditation card",
+      "C": "Official NUJ ID card",
+      "D": "Press freedom documents"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Accepting bribes for favorable coverage"
+  },
+  {
+    "id": 219,
+    "question": "The NUJ constitution is supreme to:",
+    "options": {
+      "A": "Members of the union",
+      "B": "The National Assembly",
+      "C": "State governments",
+      "D": "Judiciary"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Members of the union"
+  },
+  {
+    "id": 220,
+    "question": "Which of these is a form of broadcast journalism?",
+    "options": {
+      "A": "Radio talk shows",
+      "B": "Newspaper editorials",
+      "C": "Book publishing",
+      "D": "Billboard adverts"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Radio talk shows"
+  },
+  {
+    "id": 221,
+    "question": "The “Guardian” newspaper was established in Nigeria in:",
+    "options": {
+      "A": "1983",
+      "B": "1985",
+      "C": "1982",
+      "D": "1986"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 1983"
+  },
+  {
+    "id": 222,
+    "question": "The NUJ emblem symbolizes:",
+    "options": {
+      "A": "Truth and responsibility",
+      "B": "Political power",
+      "C": "Entertainment and leisure",
+      "D": "Business interests"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Truth and responsibility"
+  },
+  {
+    "id": 223,
+    "question": "“Freedom House” is known for:",
+    "options": {
+      "A": "Assessing global media freedom",
+      "B": "Regulating Nigerian press",
+      "C": "Providing adverts",
+      "D": "Training cartoonists"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Assessing global media freedom"
+  },
+  {
+    "id": 224,
+    "question": "Which of these pioneered online citizen reporting in Nigeria?",
+    "options": {
+      "A": "Sahara Reporters",
+      "B": "Tribune",
+      "C": "Guardian",
+      "D": "NTA"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Sahara Reporters"
+  },
+  {
+    "id": 225,
+    "question": "A “caption” in photojournalism is:",
+    "options": {
+      "A": "Text describing a photograph",
+      "B": "Cartoon sketch",
+      "C": "Page number",
+      "D": "Obituary note"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Text describing a photograph"
+  },
+  {
+    "id": 226,
+    "question": "The “National Broadcasting Code” is issued by:",
+    "options": {
+      "A": "NBC",
+      "B": "NAN",
+      "C": "NUJ",
+      "D": "NCC"
+    },
+    "correct_option": null,
+    "correct_answer": "A. NBC"
+  },
+  {
+    "id": 227,
+    "question": "Which media theory describes the press as part of government machinery?",
+    "options": {
+      "A": "Authoritarian theory",
+      "B": "Libertarian theory",
+      "C": "Social responsibility theory",
+      "D": "Development theory"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Authoritarian theory"
+  },
+  {
+    "id": 228,
+    "question": "The term “press corps” refers to:",
+    "options": {
+      "A": "Group of journalists covering a beat or institution",
+      "B": "Military reporters",
+      "C": "NUJ leaders",
+      "D": "State-owned papers"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Group of journalists covering a beat or institution"
+  },
+  {
+    "id": 229,
+    "question": "“Feature writing” requires:",
+    "options": {
+      "A": "Creativity and descriptive depth",
+      "B": "Breaking news only",
+      "C": "Court judgment summaries",
+      "D": "Straight adverts"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Creativity and descriptive depth"
+  },
+  {
+    "id": 230,
+    "question": "Which of these is a challenge to Nigerian journalism today?",
+    "options": {
+      "A": "Fake news on social media",
+      "B": "Abundance of readers",
+      "C": "Unlimited funding",
+      "D": "Total independence"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Fake news on social media"
+  },
+  {
+    "id": 231,
+    "question": "A “foreign correspondent” reports from:",
+    "options": {
+      "A": "Outside the home country",
+      "B": "Local newsroom",
+      "C": "State press center",
+      "D": "Chapel office"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Outside the home country"
+  },
+  {
+    "id": 232,
+    "question": "Which Nigerian journalist became famous for guerrilla press activism?",
+    "options": {
+      "A": "Bayo Onanuga",
+      "B": "Ernest Ikoli",
+      "C": "Babatunde Jose",
+      "D": "John Momoh"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Bayo Onanuga"
+  },
+  {
+    "id": 233,
+    "question": "“Ownership influence” is particularly strong in:",
+    "options": {
+      "A": "Privately-owned newspapers",
+      "B": "Independent NGOs",
+      "C": "Student unions",
+      "D": "Public libraries"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Privately-owned newspapers"
+  },
+  {
+    "id": 234,
+    "question": "“Ethical dilemma” in journalism occurs when:",
+    "options": {
+      "A": "Journalists face conflict between truth and interest",
+      "B": "Journalists receive awards",
+      "C": "Journalists print adverts",
+      "D": "Reporters get paid salaries"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Journalists face conflict between truth and interest"
+  },
+  {
+    "id": 235,
+    "question": "Which of these is the largest state-owned media organization in Nigeria?",
+    "options": {
+      "A": "NTA",
+      "B": "AIT",
+      "C": "Channels TV",
+      "D": "TVC"
+    },
+    "correct_option": null,
+    "correct_answer": "A. NTA"
+  },
+  {
+    "id": 236,
+    "question": "“Civic journalism” emphasizes:",
+    "options": {
+      "A": "Public engagement in governance",
+      "B": "Political propaganda",
+      "C": "Business advertising",
+      "D": "Celebrity stories"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Public engagement in governance"
+  },
+  {
+    "id": 237,
+    "question": "The Nigerian Guild of Editors plays what role?",
+    "options": {
+      "A": "Promote professional excellence among editors",
+      "B": "Issue government licenses",
+      "C": "Organize political rallies",
+      "D": "Print textbooks"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Promote professional excellence among editors"
+  },
+  {
+    "id": 238,
+    "question": "“Conflict reporting” requires:",
+    "options": {
+      "A": "Sensitivity and fairness to reduce escalation",
+      "B": "Taking sides openly",
+      "C": "Avoiding facts",
+      "D": "Entertaining readers"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Sensitivity and fairness to reduce escalation"
+  },
+  {
+    "id": 239,
+    "question": "Which of these is Nigeria’s first indigenous newspaper in Hausa language?",
+    "options": {
+      "A": "Gaskiya Ta Fi Kwabo",
+      "B": "Aminiya",
+      "C": "Rariya",
+      "D": "Leadership Hausa"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Gaskiya Ta Fi Kwabo"
+  },
+  {
+    "id": 240,
+    "question": "The NUJ is affiliated with which global body?",
+    "options": {
+      "A": "International Federation of Journalists (IFJ)",
+      "B": "International Court of Justice",
+      "C": "UNESCO",
+      "D": "OPEC"
+    },
+    "correct_option": null,
+    "correct_answer": "A. International Federation of Journalists (IFJ)"
+  },
+  {
+    "id": 241,
+    "question": "“Newsworthiness” refers to:",
+    "options": {
+      "A": "Qualities that make an event newsworthy",
+      "B": "Government orders to report",
+      "C": "Random topics in blogs",
+      "D": "Public gossip"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Qualities that make an event newsworthy"
+  },
+  {
+    "id": 242,
+    "question": "The “NUJ Delegate Conference” is held every:",
+    "options": {
+      "A": "3 years",
+      "B": "2 years",
+      "C": "4 years",
+      "D": "5 years"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 3 years"
+  },
+  {
+    "id": 243,
+    "question": "Which Nigerian journalist was once Minister of Information?",
+    "options": {
+      "A": "Tony Momoh",
+      "B": "Babatunde Jose",
+      "C": "Nduka Obaigbena",
+      "D": "Dele Giwa"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Tony Momoh"
+  },
+  {
+    "id": 244,
+    "question": "“Press embargo” means:",
+    "options": {
+      "A": "Restriction on publishing a story until a specified time",
+      "B": "Complete press freedom",
+      "C": "Removal of adverts",
+      "D": "Readers’ boycott"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Restriction on publishing a story until a specified time"
+  },
+  {
+    "id": 245,
+    "question": "The “National Film and Video Censors Board” regulates:",
+    "options": {
+      "A": "Films and video production",
+      "B": "Newspaper adverts",
+      "C": "Radio jingles",
+      "D": "Cartoons"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Films and video production"
+  },
+  {
+    "id": 246,
+    "question": "“Editorial independence” in Nigeria is challenged mainly by:",
+    "options": {
+      "A": "Political and ownership pressure",
+      "B": "Sports clubs",
+      "C": "Public readers",
+      "D": "Printing machines"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Political and ownership pressure"
+  },
+  {
+    "id": 247,
+    "question": "Which journalism theory advocates that press must be responsible to society?",
+    "options": {
+      "A": "Social responsibility theory",
+      "B": "Libertarian theory",
+      "C": "Authoritarian theory",
+      "D": "Communist theory"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Social responsibility theory"
+  },
+  {
+    "id": 248,
+    "question": "“Chapel” in NUJ structure means:",
+    "options": {
+      "A": "Local unit of journalists in an organization",
+      "B": "Church where journalists worship",
+      "C": "Editorial board office",
+      "D": "Government press center"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Local unit of journalists in an organization"
+  },
+  {
+    "id": 249,
+    "question": "Which of these is a Nigerian weekly magazine?",
+    "options": {
+      "A": "Newswatch",
+      "B": "Vogue",
+      "C": "Time",
+      "D": "New Yorker"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Newswatch"
+  },
+  {
+    "id": 250,
+    "question": "“Syndicated column” means:",
+    "options": {
+      "A": "Opinion column published in multiple newspapers",
+      "B": "A one-time advertorial",
+      "C": "Confidential government note",
+      "D": "Local press release"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Opinion column published in multiple newspapers"
+  },
+  {
+    "id": 251,
+    "question": "The “NUJ National Executive Council” is composed of:",
+    "options": {
+      "A": "National officers and state chairmen",
+      "B": "Advert managers",
+      "C": "Vendors",
+      "D": "Foreign reporters"
+    },
+    "correct_option": null,
+    "correct_answer": "A. National officers and state chairmen"
+  },
+  {
+    "id": 252,
+    "question": "Which is Nigeria’s oldest continuously published newspaper?",
+    "options": {
+      "A": "Nigerian Tribune",
+      "B": "Daily Times",
+      "C": "Guardian",
+      "D": "Punch"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Nigerian Tribune"
+  },
+  {
+    "id": 253,
+    "question": "“Media literacy” empowers citizens to:",
+    "options": {
+      "A": "Critically analyze and understand media content",
+      "B": "Own newspapers",
+      "C": "Write for fun",
+      "D": "Avoid buying papers"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Critically analyze and understand media content"
+  },
+  {
+    "id": 254,
+    "question": "The NUJ Secretariat was first located in:",
+    "options": {
+      "A": "Lagos",
+      "B": "Ibadan",
+      "C": "Enugu",
+      "D": "Kaduna"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Lagos"
+  },
+  {
+    "id": 255,
+    "question": "Which of these is a function of NAN?",
+    "options": {
+      "A": "Provide news wire services",
+      "B": "Broadcast entertainment shows",
+      "C": "Print private magazines",
+      "D": "Manage adverts"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Provide news wire services"
+  },
+  {
+    "id": 256,
+    "question": "“Freedom of Information” strengthens:",
+    "options": {
+      "A": "Accountability and transparency",
+      "B": "Censorship",
+      "C": "Fake news",
+      "D": "Political propaganda"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Accountability and transparency"
+  },
+  {
+    "id": 257,
+    "question": "A “newscaster” is mainly associated with:",
+    "options": {
+      "A": "Television and radio broadcast",
+      "B": "Printing machines",
+      "C": "Newspaper distribution",
+      "D": "Advert sales"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Television and radio broadcast"
+  },
+  {
+    "id": 258,
+    "question": "Which NUJ affiliate represents photojournalists?",
+    "options": {
+      "A": "Photojournalists Association of Nigeria",
+      "B": "Photographers Union of Nigeria",
+      "C": "Lens Guild of Nigeria",
+      "D": "Nigerian Camera Association"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Photojournalists Association of Nigeria"
+  },
+  {
+    "id": 259,
+    "question": "The NUJ was officially inaugurated at:",
+    "options": {
+      "A": "Ijero Hall, Lagos",
+      "B": "Tafawa Balewa Square",
+      "C": "National Theatre, Lagos",
+      "D": "Arewa House, Kaduna"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Ijero Hall, Lagos"
+  },
+  {
+    "id": 260,
+    "question": "Which of these is NOT a principle of journalism ethics?",
+    "options": {
+      "A": "Truth",
+      "B": "Balance",
+      "C": "Fabrication",
+      "D": "Fairness"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Fabrication"
+  },
+  {
+    "id": 261,
+    "question": "“Press stakeholders” in Nigeria include:",
+    "options": {
+      "A": "NUJ, NGE, NPO",
+      "B": "NCC, NUC, NPA",
+      "C": "NNPC, NLC, NMA",
+      "D": "AU, UN, ECOWAS"
+    },
+    "correct_option": null,
+    "correct_answer": "A. NUJ, NGE, NPO"
+  },
+  {
+    "id": 262,
+    "question": "The first television station in Nigeria was:",
+    "options": {
+      "A": "WNTV Ibadan",
+      "B": "NTA Lagos",
+      "C": "Channels TV",
+      "D": "AIT"
+    },
+    "correct_option": null,
+    "correct_answer": "A. WNTV Ibadan"
+  },
+  {
+    "id": 263,
+    "question": "“Partisan reporting” means:",
+    "options": {
+      "A": "Biased coverage in favor of one side",
+      "B": "Balanced journalism",
+      "C": "Civic engagement",
+      "D": "Development reporting"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Biased coverage in favor of one side"
+  },
+  {
+    "id": 264,
+    "question": "Which paper was founded in 1949 as “Daily Service”?",
+    "options": {
+      "A": "Tribune",
+      "B": "Daily Times",
+      "C": "Guardian",
+      "D": "Punch"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Tribune"
+  },
+  {
+    "id": 265,
+    "question": "“Freedom of the press” in Nigeria is constitutionally guaranteed but:",
+    "options": {
+      "A": "Subject to national security restrictions",
+      "B": "Unlimited",
+      "C": "Ignored",
+      "D": "Abolished"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Subject to national security restrictions"
+  },
+  {
+    "id": 266,
+    "question": "A “press club” in schools fosters:",
+    "options": {
+      "A": "Early interest in journalism among students",
+      "B": "Advertising businesses",
+      "C": "Sports management",
+      "D": "Political rallies"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Early interest in journalism among students"
+  },
+  {
+    "id": 267,
+    "question": "Which of these Nigerian magazines focused on investigative reporting in the 1980s?",
+    "options": {
+      "A": "Newswatch",
+      "B": "Economist",
+      "C": "TIME",
+      "D": "Guardian Weekly"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Newswatch"
+  },
+  {
+    "id": 268,
+    "question": "The “NUJ Credentials Committee” is responsible for:",
+    "options": {
+      "A": "Screening candidates for elections",
+      "B": "Selling adverts",
+      "C": "Disciplining members",
+      "D": "Editorial policy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Screening candidates for elections"
+  },
+  {
+    "id": 269,
+    "question": "“Infographic journalism” involves:",
+    "options": {
+      "A": "Use of charts, visuals, and graphics to present stories",
+      "B": "Writing poems as news",
+      "C": "Political slogans",
+      "D": "Gossip columns"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Use of charts, visuals, and graphics to present stories"
+  },
+  {
+    "id": 270,
+    "question": "Which of these is Nigeria’s first private TV station?",
+    "options": {
+      "A": "AIT",
+      "B": "Channels TV",
+      "C": "Galaxy TV",
+      "D": "TVC"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Galaxy TV"
+  },
+  {
+    "id": 271,
+    "question": "A “press kit” is:",
+    "options": {
+      "A": "Collection of materials for journalists about an event",
+      "B": "Tool kit for printing machines",
+      "C": "NUJ ID card",
+      "D": "News vendor’s supplies"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Collection of materials for journalists about an event"
+  },
+  {
+    "id": 272,
+    "question": "The “Nigerian Broadcasting Commission” sanctions stations for:",
+    "options": {
+      "A": "Violating broadcast code",
+      "B": "Increasing adverts",
+      "C": "Political campaigns",
+      "D": "Paying staff"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Violating broadcast code"
+  },
+  {
+    "id": 273,
+    "question": "“Attribution” in journalism means:",
+    "options": {
+      "A": "Crediting sources of information",
+      "B": "Writing anonymously",
+      "C": "Publishing rumors",
+      "D": "Ignoring facts"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Crediting sources of information"
+  },
+  {
+    "id": 274,
+    "question": "The NUJ’s National Delegates Conference is the:",
+    "options": {
+      "A": "Highest decision-making body",
+      "B": "Editorial team",
+      "C": "Local chapel office",
+      "D": "Advertising unit"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Highest decision-making body"
+  },
+  {
+    "id": 275,
+    "question": "Which Nigerian journalist co-founded Newswatch magazine?",
+    "options": {
+      "A": "Dele Giwa",
+      "B": "Babatunde Jose",
+      "C": "Nduka Obaigbena",
+      "D": "John Momoh"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Dele Giwa"
+  },
+  {
+    "id": 276,
+    "question": "A “news brief” is:",
+    "options": {
+      "A": "Short summary of a story",
+      "B": "Cartoon sketch",
+      "C": "Full-length feature",
+      "D": "Investigative documentary"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Short summary of a story"
+  },
+  {
+    "id": 277,
+    "question": "Which global day is marked to remember Dele Giwa’s assassination?",
+    "options": {
+      "A": "October 19",
+      "B": "May 3",
+      "C": "January 1",
+      "D": "July 4"
+    },
+    "correct_option": null,
+    "correct_answer": "A. October 19"
+  },
+  {
+    "id": 278,
+    "question": "“Public relations journalism” often involves:",
+    "options": {
+      "A": "Writing favorable stories for clients",
+      "B": "Exposing corruption",
+      "C": "Civic engagement",
+      "D": "Investigative reports"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Writing favorable stories for clients"
+  },
+  {
+    "id": 279,
+    "question": "The first Nigerian TV broadcast occurred in:",
+    "options": {
+      "A": "1959",
+      "B": "1960",
+      "C": "1963",
+      "D": "1965"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 1959"
+  },
+  {
+    "id": 280,
+    "question": "“Embedded reporter” works mainly in:",
+    "options": {
+      "A": "War and conflict zones",
+      "B": "Entertainment journalism",
+      "C": "Business reporting",
+      "D": "Sports journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. War and conflict zones"
+  },
+  {
+    "id": 281,
+    "question": "A “news agency” is different from a newspaper because it:",
+    "options": {
+      "A": "Supplies stories to multiple outlets",
+      "B": "Publishes only weekly",
+      "C": "Owns printing presses",
+      "D": "Publishes adverts only"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Supplies stories to multiple outlets"
+  },
+  {
+    "id": 282,
+    "question": "“Propaganda journalism” was common during:",
+    "options": {
+      "A": "Military regimes",
+      "B": "Democratic era",
+      "C": "Civil service reforms",
+      "D": "Labour strikes"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Military regimes"
+  },
+  {
+    "id": 283,
+    "question": "Which journalism theory holds that the media educates, informs, entertains?",
+    "options": {
+      "A": "Social responsibility",
+      "B": "Libertarian",
+      "C": "Development",
+      "D": "Authoritarian"
+    },
+    "correct_option": null,
+    "correct_answer": "C. Development"
+  },
+  {
+    "id": 284,
+    "question": "The NUJ Disciplinary Committee can:",
+    "options": {
+      "A": "Suspend members for misconduct",
+      "B": "Publish adverts",
+      "C": "Train soldiers",
+      "D": "Create political parties"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Suspend members for misconduct"
+  },
+  {
+    "id": 285,
+    "question": "Which of these is a Nigerian business newspaper?",
+    "options": {
+      "A": "Business Day",
+      "B": "Tribune",
+      "C": "Punch",
+      "D": "Sun"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Business Day"
+  },
+  {
+    "id": 286,
+    "question": "“Media convergence” refers to:",
+    "options": {
+      "A": "Integration of print, broadcast, and online platforms",
+      "B": "Shutdown of stations",
+      "C": "One medium replacing others",
+      "D": "Banning adverts"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Integration of print, broadcast, and online platforms"
+  },
+  {
+    "id": 287,
+    "question": "Which of these is a Nigerian state-owned radio network?",
+    "options": {
+      "A": "FRCN",
+      "B": "RayPower FM",
+      "C": "Cool FM",
+      "D": "Wazobia FM"
+    },
+    "correct_option": null,
+    "correct_answer": "A. FRCN"
+  },
+  {
+    "id": 288,
+    "question": "“Anonymous sources” in journalism:",
+    "options": {
+      "A": "Provide sensitive info without being named",
+      "B": "Are always fake",
+      "C": "Must be published openly",
+      "D": "Are press agents"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Provide sensitive info without being named"
+  },
+  {
+    "id": 289,
+    "question": "Which of these is a Nigerian journalism training institution?",
+    "options": {
+      "A": "Nigerian Institute of Journalism (NIJ)",
+      "B": "Institute of Chartered Accountants",
+      "C": "Nigerian Bar School",
+      "D": "Nigerian Defence Academy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Nigerian Institute of Journalism (NIJ)"
+  },
+  {
+    "id": 290,
+    "question": "The first editor of Newswatch was:",
+    "options": {
+      "A": "Ray Ekpu",
+      "B": "Ernest Ikoli",
+      "C": "Babatunde Jose",
+      "D": "Nduka Obaigbena"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Ray Ekpu"
+  },
+  {
+    "id": 291,
+    "question": "Which of these agencies runs foreign news service in Nigeria?",
+    "options": {
+      "A": "Reuters",
+      "B": "NAN",
+      "C": "BBC Africa",
+      "D": "VOA"
+    },
+    "correct_option": null,
+    "correct_answer": "B. NAN"
+  },
+  {
+    "id": 292,
+    "question": "“Cartoon strip” in newspapers is mainly for:",
+    "options": {
+      "A": "Satire and humor",
+      "B": "Obituaries",
+      "C": "Advertising",
+      "D": "Investigative stories"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Satire and humor"
+  },
+  {
+    "id": 293,
+    "question": "“Agenda setting” is a function of:",
+    "options": {
+      "A": "Mass media",
+      "B": "Judiciary",
+      "C": "Police",
+      "D": "Legislature"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Mass media"
+  },
+  {
+    "id": 294,
+    "question": "Which of these is NOT a press law in Nigeria?",
+    "options": {
+      "A": "Defamation law",
+      "B": "Sedition law",
+      "C": "FOI Act",
+      "D": "Aviation law"
+    },
+    "correct_option": null,
+    "correct_answer": "D. Aviation law"
+  },
+  {
+    "id": 295,
+    "question": "“NUJ Chapel Congress” refers to:",
+    "options": {
+      "A": "Meeting of journalists within an organization",
+      "B": "National Executive Council",
+      "C": "Editors’ guild",
+      "D": "Government press center"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Meeting of journalists within an organization"
+  },
+  {
+    "id": 296,
+    "question": "The NUJ motto emphasizes:",
+    "options": {
+      "A": "Justice, Truth, Fairness",
+      "B": "Wealth, Power, Fame",
+      "C": "Freedom, Balance, Objectivity",
+      "D": "Politics, Media, Control"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Justice, Truth, Fairness"
+  },
+  {
+    "id": 297,
+    "question": "“Yellow journalism” is characterized by:",
+    "options": {
+      "A": "Sensational and exaggerated reporting",
+      "B": "Factual accuracy",
+      "C": "Balanced reporting",
+      "D": "Civic engagement"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Sensational and exaggerated reporting"
+  },
+  {
+    "id": 298,
+    "question": "The NUJ has how many zones in Nigeria?",
+    "options": {
+      "A": "6",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 6"
+  },
+  {
+    "id": 299,
+    "question": "Which journalism practice involves gathering and reporting financial news?",
+    "options": {
+      "A": "Business journalism",
+      "B": "Investigative journalism",
+      "C": "Sports journalism",
+      "D": "Political journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Business journalism"
+  },
+  {
+    "id": 300,
+    "question": "The Nigerian Guild of Editors was established in:",
+    "options": {
+      "A": "1961",
+      "B": "1965",
+      "C": "1971",
+      "D": "1980"
+    },
+    "correct_option": null,
+    "correct_answer": "A. 1961"
+  },
+  {
+    "id": 301,
+    "question": "A reporter receives a leaked government document exposing corruption. What is the most ethical first step?",
+    "options": {
+      "A": "Verify authenticity before publishing",
+      "B": "Publish immediately without checks",
+      "C": "Hide it from the editor",
+      "D": "Sell it to another paper"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Verify authenticity before publishing"
+  },
+  {
+    "id": 302,
+    "question": "During an interview, a politician offers a journalist money to suppress damaging information. What should the journalist do?",
+    "options": {
+      "A": "Refuse and report the attempt",
+      "B": "Accept and stay silent",
+      "C": "Negotiate a higher bribe",
+      "D": "Share the money with colleagues"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Refuse and report the attempt"
+  },
+  {
+    "id": 303,
+    "question": "A journalist covering a violent protest notices injured victims. What should guide their reporting?",
+    "options": {
+      "A": "Protect victims’ dignity while reporting facts",
+      "B": "Use graphic images for attention",
+      "C": "Ignore the human angle",
+      "D": "Focus only on government statements"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Protect victims’ dignity while reporting facts"
+  },
+  {
+    "id": 304,
+    "question": "A newsroom is pressured by owners to support a political party. What principle is at stake?",
+    "options": {
+      "A": "Editorial independence",
+      "B": "Gatekeeping",
+      "C": "Sensationalism",
+      "D": "Censorship"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Editorial independence"
+  },
+  {
+    "id": 305,
+    "question": "A journalist is embedded with the military in a conflict zone. Which ethical challenge is likely?",
+    "options": {
+      "A": "Reporting independently under military restriction",
+      "B": "Writing about sports events",
+      "C": "Managing advertising contracts",
+      "D": "Covering only entertainment"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Reporting independently under military restriction"
+  },
+  {
+    "id": 306,
+    "question": "A newspaper publishes false information about a business. What legal issue arises?",
+    "options": {
+      "A": "Libel",
+      "B": "Slander",
+      "C": "Copyright",
+      "D": "Propaganda"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Libel"
+  },
+  {
+    "id": 307,
+    "question": "A reporter at the National Assembly receives confidential budget data. Which law allows them to request official confirmation?",
+    "options": {
+      "A": "Freedom of Information Act",
+      "B": "NBC Act",
+      "C": "NUJ Code",
+      "D": "Electoral Act"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Freedom of Information Act"
+  },
+  {
+    "id": 308,
+    "question": "A journalist in Nigeria is arrested for reporting on corruption. This reflects:",
+    "options": {
+      "A": "Threats to press freedom",
+      "B": "NUJ discipline",
+      "C": "Gatekeeping",
+      "D": "Media ownership influence"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Threats to press freedom"
+  },
+  {
+    "id": 309,
+    "question": "A young reporter lifts paragraphs from another journalist’s work without credit. This is:",
+    "options": {
+      "A": "Plagiarism",
+      "B": "Accuracy",
+      "C": "Fair comment",
+      "D": "Attribution"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Plagiarism"
+  },
+  {
+    "id": 310,
+    "question": "A governor demands prior approval of all stories before publication. This is an example of:",
+    "options": {
+      "A": "Censorship",
+      "B": "Balance",
+      "C": "Objectivity",
+      "D": "Gatekeeping"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Censorship"
+  },
+  {
+    "id": 311,
+    "question": "A journalist refuses to cover a disaster because of personal trauma. Which ethical issue is this?",
+    "options": {
+      "A": "Conflict of interest and professionalism",
+      "B": "Accuracy",
+      "C": "Balance",
+      "D": "Attribution"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Conflict of interest and professionalism"
+  },
+  {
+    "id": 312,
+    "question": "A photojournalist captures an image of a grieving mother after a bomb blast. What should guide use of the photo?",
+    "options": {
+      "A": "Respect for dignity and public interest",
+      "B": "Maximizing sales with graphic detail",
+      "C": "Exaggerating captions",
+      "D": "Ignoring sensitivity"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Respect for dignity and public interest"
+  },
+  {
+    "id": 313,
+    "question": "A whistleblower provides sensitive documents to a reporter. What protection law applies?",
+    "options": {
+      "A": "Whistleblower Policy",
+      "B": "NUJ Act",
+      "C": "NBC Code",
+      "D": "National Press Council Act"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Whistleblower Policy"
+  },
+  {
+    "id": 314,
+    "question": "A radio presenter uses airtime to promote his personal business. This is:",
+    "options": {
+      "A": "Abuse of professional ethics",
+      "B": "Objectivity",
+      "C": "Editorial independence",
+      "D": "Investigative journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Abuse of professional ethics"
+  },
+  {
+    "id": 315,
+    "question": "During elections, a media house gives more coverage to one party. This violates:",
+    "options": {
+      "A": "Balance and fairness",
+      "B": "Attribution",
+      "C": "Infotainment",
+      "D": "Gatekeeping"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Balance and fairness"
+  },
+  {
+    "id": 316,
+    "question": "A reporter attends a press briefing but fails to attribute quotes. This breaches:",
+    "options": {
+      "A": "Attribution ethics",
+      "B": "Objectivity",
+      "C": "Civic journalism",
+      "D": "Investigative standards"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Attribution ethics"
+  },
+  {
+    "id": 317,
+    "question": "A journalist is sent to cover the health sector but lacks training in medical terms. Which is the best step?",
+    "options": {
+      "A": "Seek expert guidance for accuracy",
+      "B": "Guess meanings",
+      "C": "Use only social media reports",
+      "D": "Avoid interviews"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Seek expert guidance for accuracy"
+  },
+  {
+    "id": 318,
+    "question": "A student reporter is invited to NUJ training on ethics. The session will focus on:",
+    "options": {
+      "A": "Truth, fairness, balance, accountability",
+      "B": "Advertising and cartoons",
+      "C": "Sales and circulation",
+      "D": "Political propaganda"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Truth, fairness, balance, accountability"
+  },
+  {
+    "id": 319,
+    "question": "A breaking news report incorrectly names an innocent person as a suspect. The ethical response is to:",
+    "options": {
+      "A": "Issue prompt correction and apology",
+      "B": "Ignore it",
+      "C": "Delete old records quietly",
+      "D": "Defend the mistake"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Issue prompt correction and apology"
+  },
+  {
+    "id": 320,
+    "question": "A newspaper accepts money to run a fake award story. This is known as:",
+    "options": {
+      "A": "Brown envelope journalism",
+      "B": "Investigative journalism",
+      "C": "Balanced reporting",
+      "D": "Advocacy journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Brown envelope journalism"
+  },
+  {
+    "id": 321,
+    "question": "A journalist exposes election rigging but faces threats. The NUJ should:",
+    "options": {
+      "A": "Protect and support the journalist",
+      "B": "Ask them to resign",
+      "C": "Ignore the case",
+      "D": "Demand bribes"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Protect and support the journalist"
+  },
+  {
+    "id": 322,
+    "question": "A government bans a critical radio program. This undermines:",
+    "options": {
+      "A": "Press freedom",
+      "B": "NUJ elections",
+      "C": "Public relations",
+      "D": "Circulation"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Press freedom"
+  },
+  {
+    "id": 323,
+    "question": "A TV reporter exaggerates disaster death tolls. This violates:",
+    "options": {
+      "A": "Accuracy",
+      "B": "Fairness",
+      "C": "Objectivity",
+      "D": "Gatekeeping"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Accuracy"
+  },
+  {
+    "id": 324,
+    "question": "A journalist covering court cases reports only prosecution’s side. What’s missing?",
+    "options": {
+      "A": "Balance",
+      "B": "Attribution",
+      "C": "Accuracy",
+      "D": "Infotainment"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Balance"
+  },
+  {
+    "id": 325,
+    "question": "A community radio focuses on agriculture, health, and local issues. This is:",
+    "options": {
+      "A": "Development journalism",
+      "B": "Infotainment",
+      "C": "Propaganda journalism",
+      "D": "Yellow journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Development journalism"
+  },
+  {
+    "id": 326,
+    "question": "A reporter investigates oil theft in the Niger Delta. This is:",
+    "options": {
+      "A": "Investigative journalism",
+      "B": "Infotainment",
+      "C": "Brown envelope journalism",
+      "D": "Advertorial"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Investigative journalism"
+  },
+  {
+    "id": 327,
+    "question": "A newspaper ignores correction requests from readers. This undermines:",
+    "options": {
+      "A": "Accountability",
+      "B": "Sensationalism",
+      "C": "Advertising",
+      "D": "Objectivity"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Accountability"
+  },
+  {
+    "id": 328,
+    "question": "A political reporter is also campaign spokesperson. This creates:",
+    "options": {
+      "A": "Conflict of interest",
+      "B": "Editorial independence",
+      "C": "Advocacy journalism",
+      "D": "Attribution"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Conflict of interest"
+  },
+  {
+    "id": 329,
+    "question": "A journalist faces online harassment after publishing corruption stories. This is:",
+    "options": {
+      "A": "Digital safety threat",
+      "B": "Public relations",
+      "C": "Advocacy",
+      "D": "Infotainment"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Digital safety threat"
+  },
+  {
+    "id": 330,
+    "question": "A media house delays reporting on health epidemic to avoid panic. Ethical dilemma involves:",
+    "options": {
+      "A": "Balancing public interest",
+      "B": "Writing for entertainment",
+      "C": "Propaganda",
+      "D": "Objectivity"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Balancing public interest"
+  },
+  {
+    "id": 331,
+    "question": "A journalist receives threats after exposing a minister’s fraud. What should the newsroom prioritize?",
+    "options": {
+      "A": "Journalist’s safety and legal support",
+      "B": "Increase adverts",
+      "C": "Ignore the threats",
+      "D": "Fire the journalist"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Journalist’s safety and legal support"
+  },
+  {
+    "id": 332,
+    "question": "A reporter witnesses a police officer assaulting a citizen. Ethical duty requires:",
+    "options": {
+      "A": "Reporting the incident factually",
+      "B": "Joining the protest",
+      "C": "Ignoring it",
+      "D": "Supporting police"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Reporting the incident factually"
+  },
+  {
+    "id": 333,
+    "question": "A TV anchor discloses personal political preferences on air. This undermines:",
+    "options": {
+      "A": "Objectivity",
+      "B": "Accuracy",
+      "C": "Attribution",
+      "D": "Advocacy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Objectivity"
+  },
+  {
+    "id": 334,
+    "question": "A newsroom faces pressure to drop a corruption story. Ethical journalists should:",
+    "options": {
+      "A": "Stand by truth and evidence",
+      "B": "Accept money to kill the story",
+      "C": "Publish gossip instead",
+      "D": "Delay indefinitely"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Stand by truth and evidence"
+  },
+  {
+    "id": 335,
+    "question": "A blogger publishes unverified rumors about a celebrity. This is:",
+    "options": {
+      "A": "Fake news",
+      "B": "Balanced reporting",
+      "C": "Civic journalism",
+      "D": "Advocacy journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Fake news"
+  },
+  {
+    "id": 336,
+    "question": "A journalist embeds undercover in a factory to expose child labor. This is an example of:",
+    "options": {
+      "A": "Investigative journalism",
+      "B": "Yellow journalism",
+      "C": "Infotainment",
+      "D": "Propaganda"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Investigative journalism"
+  },
+  {
+    "id": 337,
+    "question": "A reporter receives a tip about election rigging but lacks proof. Next step?",
+    "options": {
+      "A": "Verify evidence before reporting",
+      "B": "Publish immediately",
+      "C": "Exaggerate claims",
+      "D": "Sell info to opposition"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Verify evidence before reporting"
+  },
+  {
+    "id": 338,
+    "question": "A journalist covering insurgency avoids reporting soldiers’ weaknesses. This reflects:",
+    "options": {
+      "A": "National security considerations",
+      "B": "Propaganda",
+      "C": "Civic journalism",
+      "D": "Brown envelope syndrome"
+    },
+    "correct_option": null,
+    "correct_answer": "A. National security considerations"
+  },
+  {
+    "id": 339,
+    "question": "A photojournalist edits images to exaggerate disaster. This breaches:",
+    "options": {
+      "A": "Photo ethics and accuracy",
+      "B": "Attribution",
+      "C": "Infotainment",
+      "D": "Fair comment"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Photo ethics and accuracy"
+  },
+  {
+    "id": 340,
+    "question": "A news outlet deletes online comments criticizing its owner. This shows:",
+    "options": {
+      "A": "Ownership influence on editorial control",
+      "B": "Press freedom",
+      "C": "Investigative journalism",
+      "D": "Gatekeeping theory"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Ownership influence on editorial control"
+  },
+  {
+    "id": 341,
+    "question": "A journalist fails to declare gifts from sources. This violates:",
+    "options": {
+      "A": "Transparency and independence",
+      "B": "Balance",
+      "C": "Fairness",
+      "D": "Attribution"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Transparency and independence"
+  },
+  {
+    "id": 342,
+    "question": "During conflict reporting, exaggerating casualty figures is unethical because it:",
+    "options": {
+      "A": "Escalates tension and misleads public",
+      "B": "Reduces sales",
+      "C": "Promotes culture",
+      "D": "Increases peace"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Escalates tension and misleads public"
+  },
+  {
+    "id": 343,
+    "question": "A press conference allows only selected media houses. This undermines:",
+    "options": {
+      "A": "Equal access to information",
+      "B": "Freedom of association",
+      "C": "Attribution",
+      "D": "Gatekeeping"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Equal access to information"
+  },
+  {
+    "id": 344,
+    "question": "A foreign correspondent reports negatively about Nigeria without context. This breaches:",
+    "options": {
+      "A": "Fairness and balance",
+      "B": "Attribution",
+      "C": "Objectivity",
+      "D": "Advocacy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Fairness and balance"
+  },
+  {
+    "id": 345,
+    "question": "A media house fakes public opinion polls. This is:",
+    "options": {
+      "A": "Unethical manipulation",
+      "B": "Advocacy journalism",
+      "C": "Civic journalism",
+      "D": "Development journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Unethical manipulation"
+  },
+  {
+    "id": 346,
+    "question": "A reporter assigned to cover judiciary consistently accepts gifts from lawyers. This creates:",
+    "options": {
+      "A": "Conflict of interest",
+      "B": "Investigative journalism",
+      "C": "Balance",
+      "D": "Attribution"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Conflict of interest"
+  },
+  {
+    "id": 347,
+    "question": "A government-owned broadcaster avoids reporting opposition rallies. This undermines:",
+    "options": {
+      "A": "Balance and pluralism",
+      "B": "Accuracy",
+      "C": "Infotainment",
+      "D": "Attribution"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Balance and pluralism"
+  },
+  {
+    "id": 348,
+    "question": "A newsroom instructs staff to run only positive government stories. This reflects:",
+    "options": {
+      "A": "Authoritarian control of media",
+      "B": "Civic journalism",
+      "C": "Social responsibility",
+      "D": "Development theory"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Authoritarian control of media"
+  },
+  {
+    "id": 349,
+    "question": "A journalist fakes quotes to strengthen a weak story. This violates:",
+    "options": {
+      "A": "Accuracy and honesty",
+      "B": "Balance",
+      "C": "Attribution",
+      "D": "Advocacy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Accuracy and honesty"
+  },
+  {
+    "id": 350,
+    "question": "A news agency publishes a story copied from social media without checks. This is:",
+    "options": {
+      "A": "Irresponsible journalism",
+      "B": "Balance",
+      "C": "Civic reporting",
+      "D": "Social responsibility"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Irresponsible journalism"
+  },
+  {
+    "id": 351,
+    "question": "A war correspondent reveals troop movements live on air. This violates:",
+    "options": {
+      "A": "National security ethics",
+      "B": "Objectivity",
+      "C": "Attribution",
+      "D": "Transparency"
+    },
+    "correct_option": null,
+    "correct_answer": "A. National security ethics"
+  },
+  {
+    "id": 352,
+    "question": "A journalist constantly posts opinionated tweets while reporting. Risk is:",
+    "options": {
+      "A": "Loss of objectivity",
+      "B": "Improved advertising",
+      "C": "Increased fairness",
+      "D": "Better circulation"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Loss of objectivity"
+  },
+  {
+    "id": 353,
+    "question": "A newspaper apologizes after wrongly accusing a citizen. This reflects:",
+    "options": {
+      "A": "Accountability",
+      "B": "Propaganda",
+      "C": "Gatekeeping",
+      "D": "Advocacy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Accountability"
+  },
+  {
+    "id": 354,
+    "question": "An editor rejects a sensational but inaccurate headline. This demonstrates:",
+    "options": {
+      "A": "Ethical gatekeeping",
+      "B": "Brown envelope journalism",
+      "C": "Infotainment",
+      "D": "Civic journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Ethical gatekeeping"
+  },
+  {
+    "id": 355,
+    "question": "A reporter receives data from NGOs about child mortality. Best approach?",
+    "options": {
+      "A": "Verify and contextualize data before publishing",
+      "B": "Publish immediately",
+      "C": "Use only social media comments",
+      "D": "Ignore report"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Verify and contextualize data before publishing"
+  },
+  {
+    "id": 356,
+    "question": "A journalist covering terrorism avoids showing faces of victims. Why?",
+    "options": {
+      "A": "To respect privacy and dignity",
+      "B": "To reduce printing cost",
+      "C": "To sensationalize less",
+      "D": "To promote government policy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. To respect privacy and dignity"
+  },
+  {
+    "id": 357,
+    "question": "A politician sues a paper for false allegations. This case falls under:",
+    "options": {
+      "A": "Defamation law",
+      "B": "Whistleblower law",
+      "C": "Electoral law",
+      "D": "NUJ Code"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Defamation law"
+  },
+  {
+    "id": 358,
+    "question": "A newspaper publishes a correction on its front page. This upholds:",
+    "options": {
+      "A": "Transparency and accountability",
+      "B": "Propaganda",
+      "C": "Objectivity only",
+      "D": "Ownership control"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Transparency and accountability"
+  },
+  {
+    "id": 359,
+    "question": "A Nigerian journalist reporting abroad must respect:",
+    "options": {
+      "A": "Both Nigerian and host country media laws",
+      "B": "Only NUJ rules",
+      "C": "Only Nigerian laws",
+      "D": "No laws at all"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Both Nigerian and host country media laws"
+  },
+  {
+    "id": 360,
+    "question": "A social media influencer spreads misinformation during elections. This threatens:",
+    "options": {
+      "A": "Democracy and public trust",
+      "B": "Balanced reporting",
+      "C": "Advertising revenue",
+      "D": "Entertainment news"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Democracy and public trust"
+  },
+  {
+    "id": 361,
+    "question": "A local newspaper reports environmental pollution in Niger Delta. This is an example of:",
+    "options": {
+      "A": "Development and environmental journalism",
+      "B": "Propaganda journalism",
+      "C": "Yellow journalism",
+      "D": "Infotainment"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Development and environmental journalism"
+  },
+  {
+    "id": 362,
+    "question": "A journalist refuses to reveal confidential sources in court. This reflects:",
+    "options": {
+      "A": "Protection of sources",
+      "B": "Sensationalism",
+      "C": "Censorship",
+      "D": "Advocacy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Protection of sources"
+  },
+  {
+    "id": 363,
+    "question": "A newspaper exaggerates celebrity scandals to increase sales. This is:",
+    "options": {
+      "A": "Yellow journalism",
+      "B": "Investigative journalism",
+      "C": "Balanced reporting",
+      "D": "Development journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Yellow journalism"
+  },
+  {
+    "id": 364,
+    "question": "A NUJ chapel suspends a member for misconduct. This shows:",
+    "options": {
+      "A": "Self-regulation within the union",
+      "B": "State censorship",
+      "C": "Judicial power",
+      "D": "Ownership influence"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Self-regulation within the union"
+  },
+  {
+    "id": 365,
+    "question": "A foreign news agency consistently portrays Nigeria negatively. This contributes to:",
+    "options": {
+      "A": "Stereotyping and media bias",
+      "B": "Balanced reporting",
+      "C": "National development",
+      "D": "Objectivity"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Stereotyping and media bias"
+  },
+  {
+    "id": 366,
+    "question": "A journalist avoids reporting hate speech in a conflict. This promotes:",
+    "options": {
+      "A": "Peace and conflict-sensitive reporting",
+      "B": "Propaganda",
+      "C": "Infotainment",
+      "D": "Partisan journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Peace and conflict-sensitive reporting"
+  },
+  {
+    "id": 367,
+    "question": "A governor sues a newspaper but loses because the story was true. Which defense applied?",
+    "options": {
+      "A": "Justification (truth as defense)",
+      "B": "Fair comment",
+      "C": "Qualified privilege",
+      "D": "Public interest"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Justification (truth as defense)"
+  },
+  {
+    "id": 368,
+    "question": "A newspaper runs a series on women’s education. This promotes:",
+    "options": {
+      "A": "Development journalism",
+      "B": "Yellow journalism",
+      "C": "Infotainment",
+      "D": "Civic journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Development journalism"
+  },
+  {
+    "id": 369,
+    "question": "A journalist avoids reporting unverified election results. This upholds:",
+    "options": {
+      "A": "Accuracy and responsibility",
+      "B": "Infotainment",
+      "C": "Advocacy",
+      "D": "Sensationalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Accuracy and responsibility"
+  },
+  {
+    "id": 370,
+    "question": "A newsroom publishes a story critical of government despite threats. This shows:",
+    "options": {
+      "A": "Press courage and independence",
+      "B": "Propaganda",
+      "C": "Partisan reporting",
+      "D": "Infotainment"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Press courage and independence"
+  },
+  {
+    "id": 371,
+    "question": "A student reporter practices news writing at NIJ. This builds:",
+    "options": {
+      "A": "Professional competence",
+      "B": "Political propaganda",
+      "C": "Civic activism",
+      "D": "Advertising skills"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Professional competence"
+  },
+  {
+    "id": 372,
+    "question": "A radio host deliberately spreads fake health tips. This endangers:",
+    "options": {
+      "A": "Public health and violates ethics",
+      "B": "Advertising revenue",
+      "C": "NUJ elections",
+      "D": "Sports commentary"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Public health and violates ethics"
+  },
+  {
+    "id": 373,
+    "question": "A news agency withholds a breaking story to verify facts. This demonstrates:",
+    "options": {
+      "A": "Responsibility and accuracy",
+      "B": "Infotainment",
+      "C": "Propaganda",
+      "D": "Ownership influence"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Responsibility and accuracy"
+  },
+  {
+    "id": 374,
+    "question": "A newspaper fails to separate adverts from news. This breaches:",
+    "options": {
+      "A": "Professional ethics",
+      "B": "Balance",
+      "C": "Attribution",
+      "D": "Gatekeeping"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Professional ethics"
+  },
+  {
+    "id": 375,
+    "question": "A journalist in rural Nigeria uses radio drama to raise awareness on malaria. This is:",
+    "options": {
+      "A": "Development communication",
+      "B": "Infotainment",
+      "C": "Propaganda",
+      "D": "Yellow journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Development communication"
+  },
+  {
+    "id": 376,
+    "question": "A reporter consistently praises a politician in exchange for gifts. This is:",
+    "options": {
+      "A": "Brown envelope journalism",
+      "B": "Investigative journalism",
+      "C": "Balanced reporting",
+      "D": "Development journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Brown envelope journalism"
+  },
+  {
+    "id": 377,
+    "question": "A newspaper challenges government in court for media harassment. This reflects:",
+    "options": {
+      "A": "Defense of press freedom",
+      "B": "Infotainment",
+      "C": "Partisan reporting",
+      "D": "Propaganda"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Defense of press freedom"
+  },
+  {
+    "id": 378,
+    "question": "A TV station refuses to air opposition adverts. This undermines:",
+    "options": {
+      "A": "Fairness and pluralism",
+      "B": "Objectivity",
+      "C": "Civic journalism",
+      "D": "Gatekeeping"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Fairness and pluralism"
+  },
+  {
+    "id": 379,
+    "question": "A reporter falsifies travel claims for coverage not done. This is:",
+    "options": {
+      "A": "Professional misconduct",
+      "B": "Investigative journalism",
+      "C": "Balanced reporting",
+      "D": "Advocacy journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Professional misconduct"
+  },
+  {
+    "id": 380,
+    "question": "A local journalist trains citizens to monitor elections. This is:",
+    "options": {
+      "A": "Civic journalism",
+      "B": "Infotainment",
+      "C": "Yellow journalism",
+      "D": "Advertising"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Civic journalism"
+  },
+  {
+    "id": 381,
+    "question": "A disaster reporter hides identity to interview survivors. This raises issue of:",
+    "options": {
+      "A": "Transparency vs undercover ethics",
+      "B": "Balance",
+      "C": "Attribution",
+      "D": "Development journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Transparency vs undercover ethics"
+  },
+  {
+    "id": 382,
+    "question": "A cartoon mocking corruption angers politicians. This demonstrates:",
+    "options": {
+      "A": "Satire as a journalism tool",
+      "B": "Infotainment",
+      "C": "Partisan propaganda",
+      "D": "Yellow journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Satire as a journalism tool"
+  },
+  {
+    "id": 383,
+    "question": "A paper reveals oil spill data government suppressed. This is:",
+    "options": {
+      "A": "Investigative journalism serving public interest",
+      "B": "Infotainment",
+      "C": "Yellow journalism",
+      "D": "Development propaganda"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Investigative journalism serving public interest"
+  },
+  {
+    "id": 384,
+    "question": "A blogger copies full stories without permission. This violates:",
+    "options": {
+      "A": "Copyright law",
+      "B": "Balance",
+      "C": "Attribution",
+      "D": "Civic duty"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Copyright law"
+  },
+  {
+    "id": 385,
+    "question": "A journalist accused of bias shows evidence of covering all parties equally. This reflects:",
+    "options": {
+      "A": "Objectivity and fairness",
+      "B": "Sensationalism",
+      "C": "Propaganda",
+      "D": "Partisanship"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Objectivity and fairness"
+  },
+  {
+    "id": 386,
+    "question": "A newsroom dedicates space to climate change awareness. This is:",
+    "options": {
+      "A": "Development/environmental journalism",
+      "B": "Yellow journalism",
+      "C": "Civic journalism",
+      "D": "Advocacy journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Development/environmental journalism"
+  },
+  {
+    "id": 387,
+    "question": "A NUJ member campaigns for office without resigning. This breaches:",
+    "options": {
+      "A": "Union rules on neutrality",
+      "B": "Balance",
+      "C": "Attribution",
+      "D": "Investigative ethics"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Union rules on neutrality"
+  },
+  {
+    "id": 388,
+    "question": "A news station delays results until INEC confirms. This shows:",
+    "options": {
+      "A": "Responsibility and accuracy",
+      "B": "Infotainment",
+      "C": "Partisan reporting",
+      "D": "Yellow journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Responsibility and accuracy"
+  },
+  {
+    "id": 389,
+    "question": "A journalist accepts free trips from an airline while covering aviation. This creates:",
+    "options": {
+      "A": "Conflict of interest",
+      "B": "Balance",
+      "C": "Advocacy journalism",
+      "D": "Attribution"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Conflict of interest"
+  },
+  {
+    "id": 390,
+    "question": "A newsroom introduces digital fact-checking desk. This strengthens:",
+    "options": {
+      "A": "Accuracy and credibility",
+      "B": "Sensationalism",
+      "C": "Infotainment",
+      "D": "Yellow journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Accuracy and credibility"
+  },
+  {
+    "id": 391,
+    "question": "A newspaper runs stories highlighting corruption in oil sector. This is:",
+    "options": {
+      "A": "Investigative journalism",
+      "B": "Civic journalism",
+      "C": "Yellow journalism",
+      "D": "Infotainment"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Investigative journalism"
+  },
+  {
+    "id": 392,
+    "question": "A reporter hides identity to expose exam malpractice. This is:",
+    "options": {
+      "A": "Undercover journalism",
+      "B": "Advocacy journalism",
+      "C": "Civic journalism",
+      "D": "Balanced reporting"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Undercover journalism"
+  },
+  {
+    "id": 393,
+    "question": "A local radio promotes literacy by teaching reading on air. This is:",
+    "options": {
+      "A": "Development journalism",
+      "B": "Civic journalism",
+      "C": "Infotainment",
+      "D": "Propaganda"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Development journalism"
+  },
+  {
+    "id": 394,
+    "question": "A journalist covering Boko Haram avoids inflaming sectarian divisions. This applies:",
+    "options": {
+      "A": "Conflict-sensitive journalism",
+      "B": "Propaganda",
+      "C": "Yellow journalism",
+      "D": "Advocacy journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Conflict-sensitive journalism"
+  },
+  {
+    "id": 395,
+    "question": "A journalist copies statistics without citing source. This breaches:",
+    "options": {
+      "A": "Attribution ethics",
+      "B": "Accuracy",
+      "C": "Advocacy",
+      "D": "Objectivity"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Attribution ethics"
+  },
+  {
+    "id": 396,
+    "question": "A governor pressures TV to air only his speeches. This violates:",
+    "options": {
+      "A": "Media pluralism",
+      "B": "Attribution",
+      "C": "Balance",
+      "D": "Advocacy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Media pluralism"
+  },
+  {
+    "id": 397,
+    "question": "A newsroom refuses advert that may mislead public. This shows:",
+    "options": {
+      "A": "Ethical responsibility",
+      "B": "Sensationalism",
+      "C": "Partisan bias",
+      "D": "Advocacy"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Ethical responsibility"
+  },
+  {
+    "id": 398,
+    "question": "A Nigerian paper partners with BBC to train journalists. This builds:",
+    "options": {
+      "A": "Capacity and professionalism",
+      "B": "Infotainment",
+      "C": "Partisan politics",
+      "D": "Yellow journalism"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Capacity and professionalism"
+  },
+  {
+    "id": 399,
+    "question": "A journalist intentionally promotes ethnic stereotypes. This violates:",
+    "options": {
+      "A": "Ethics of fairness and non-discrimination",
+      "B": "Advocacy",
+      "C": "Attribution",
+      "D": "Objectivity"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Ethics of fairness and non-discrimination"
+  },
+  {
+    "id": 400,
+    "question": "A newsroom adopts policy to always give accused persons chance to respond. This reflects:",
+    "options": {
+      "A": "Right of reply principle",
+      "B": "Yellow journalism",
+      "C": "Infotainment",
+      "D": "Gatekeeping"
+    },
+    "correct_option": null,
+    "correct_answer": "A. Right of reply principle"
+  }
+]

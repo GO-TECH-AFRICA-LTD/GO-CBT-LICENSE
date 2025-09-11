@@ -1,0 +1,1 @@
+print('placeholder splash_screen.py')

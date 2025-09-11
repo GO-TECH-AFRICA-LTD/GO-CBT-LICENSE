@@ -1,0 +1,4402 @@
+[
+  {
+    "number": 1,
+    "question": "What does FCSSIP25 stand for?",
+    "options": {
+      "A": "Federal Civil Service Strategy and Implementation Plan 2021–2025",
+      "B": "Federal Consolidated Social Safety Investment Programme 2021–2025",
+      "C": "Federal Civil Servants Salary Improvement Proposal 2025",
+      "D": "Federal Council for Sustainable Infrastructure Plan 2025"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 2,
+    "question": "Which body primarily coordinates the civil service reforms under FCSSIP25?",
+    "options": {
+      "A": "Office of the Head of the Civil Service of the Federation",
+      "B": "National Assembly",
+      "C": "Ministry of Petroleum Resources",
+      "D": "National Orientation Agency"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 3,
+    "question": "How many strategic pillars are identified in FCSSIP25?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 4,
+    "question": "Which pillar focuses on building skills and leadership pipelines across the service?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Digitisation",
+      "D": "Governance and Institutions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 5,
+    "question": "Which pillar institutionalises the use of KPIs and evidence‑based appraisal?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Culture and Values",
+      "C": "Innovation",
+      "D": "Staff Welfare"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 6,
+    "question": "Which initiative strengthens payroll integrity and eliminates ghost workers?",
+    "options": {
+      "A": "IPPIS (Integrated Payroll and Personnel Information System)",
+      "B": "BVN (Bank Verification Number)",
+      "C": "Freedom of Information Act",
+      "D": "MDAs’ Vote Book"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 7,
+    "question": "Which reform area promotes ideation, prototyping and scaling of solutions within MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Culture and Values",
+      "C": "Staff Welfare",
+      "D": "Treasury Reforms"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 8,
+    "question": "Which pillar drives automated workflows and electronic records across MDAs?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Culture and Values",
+      "D": "Industrial Policy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 9,
+    "question": "Which pillar improves the value proposition to civil servants (e.g., health, housing, incentives)?",
+    "options": {
+      "A": "Staff Welfare",
+      "B": "Innovation",
+      "C": "Governance",
+      "D": "Performance Management"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 10,
+    "question": "Which civil service core value emphasises fairness in appointments and promotion?",
+    "options": {
+      "A": "Meritocracy",
+      "B": "Secrecy",
+      "C": "Partiality",
+      "D": "Nepotism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 11,
+    "question": "Which core value requires honesty and truthfulness in conduct?",
+    "options": {
+      "A": "Integrity",
+      "B": "Favoritism",
+      "C": "Impunity",
+      "D": "Secrecy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 12,
+    "question": "Which core value demands competence, etiquette and ethical delivery?",
+    "options": {
+      "A": "Professionalism",
+      "B": "Partiality",
+      "C": "Patronage",
+      "D": "Indifference"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 13,
+    "question": "What citizen‑facing outcome is expected by 2025 under FCSSIP25?",
+    "options": {
+      "A": "Efficient, transparent and citizen‑centred services",
+      "B": "Longer processing times",
+      "C": "Paper‑first routing",
+      "D": "Opaque decision‑making"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 14,
+    "question": "Which instrument links individual outputs to MDA goals?",
+    "options": {
+      "A": "Performance scorecards and KPIs",
+      "B": "Mail dispatch register",
+      "C": "Visitor’s logbook",
+      "D": "Duty rosters only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 15,
+    "question": "Which governance tool consolidates government revenues into a single account for transparency?",
+    "options": {
+      "A": "Treasury Single Account (TSA)",
+      "B": "IPPIS",
+      "C": "Open Market Operations",
+      "D": "Import Duty Waiver"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 16,
+    "question": "Which structure serves as the ‘engine room’ for reforms within an MDA?",
+    "options": {
+      "A": "Reform Coordination Unit (RCU)",
+      "B": "Procurement Unit",
+      "C": "Store Unit",
+      "D": "Transport Unit"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 17,
+    "question": "What is the purpose of Service Charters in MDAs?",
+    "options": {
+      "A": "To publish service standards and timelines to citizens",
+      "B": "To restrict access to services",
+      "C": "To increase red‑tape",
+      "D": "To keep processes confidential"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 18,
+    "question": "Which statement best captures the mission orientation of FCSSIP25?",
+    "options": {
+      "A": "Deliver quality public services to Nigerians",
+      "B": "Prioritise political campaigns",
+      "C": "Reduce public access to information",
+      "D": "Expand bureaucratic bottlenecks"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 19,
+    "question": "Which practice aligns with a performance culture under FCSSIP25?",
+    "options": {
+      "A": "Evidence‑based appraisal using KPIs",
+      "B": "Promotion by length of service only",
+      "C": "Verbal commendations without data",
+      "D": "Popularity voting"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 20,
+    "question": "Which item is a documented achievement area mentioned in the FCSSIP25 context?",
+    "options": {
+      "A": "Roll‑out of SMAT‑P and LEAD‑P",
+      "B": "Ban on induction training",
+      "C": "Abolition of innovation units",
+      "D": "Paper‑only records mandate"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 21,
+    "question": "Which mechanism provides real‑time visibility of reform milestones across MDAs?",
+    "options": {
+      "A": "Reform monitoring dashboards",
+      "B": "Manual memos",
+      "C": "Unscheduled briefings",
+      "D": "Anonymous tip‑offs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 22,
+    "question": "Which programme accelerates leadership grooming for high‑potential officers?",
+    "options": {
+      "A": "LEAD‑P",
+      "B": "TETFund",
+      "C": "YouWIN!",
+      "D": "Sure‑P"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 23,
+    "question": "Which training stream targets all grades through blended learning?",
+    "options": {
+      "A": "SMAT‑P",
+      "B": "NYSC",
+      "C": "MDG",
+      "D": "SURE‑P"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 24,
+    "question": "Which system centralises HR records and processes across the Service?",
+    "options": {
+      "A": "HRMIS",
+      "B": "BVAS",
+      "C": "GIS",
+      "D": "CRM"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 25,
+    "question": "Which value discourages impunity and unethical behaviour?",
+    "options": {
+      "A": "Culture and Values—Integrity",
+      "B": "Partisanship",
+      "C": "Secrecy",
+      "D": "Favoritism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 26,
+    "question": "Which expected result improves document retrieval and reduces file loss?",
+    "options": {
+      "A": "Enterprise Content Management (ECM)",
+      "B": "Manual ledgers",
+      "C": "Paper clip registries",
+      "D": "Courier pouches"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 27,
+    "question": "What best demonstrates ownership of reforms by civil servants?",
+    "options": {
+      "A": "Driving implementation at unit and departmental levels",
+      "B": "Outsourcing every task",
+      "C": "Waiting for consultants only",
+      "D": "Ignoring KPIs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 28,
+    "question": "Which initiative encourages staff‑driven creative problem‑solving?",
+    "options": {
+      "A": "Civil Service Innovation Challenge",
+      "B": "Closed suggestion boxes",
+      "C": "Rumour boards",
+      "D": "No‑innovation policy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 29,
+    "question": "Which welfare action improves the value proposition for staff?",
+    "options": {
+      "A": "Standardised welfare packages",
+      "B": "Random allowances",
+      "C": "Secret perks",
+      "D": "Ad‑hoc gratuities"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 30,
+    "question": "Which data practice underpins evidence‑informed decisions?",
+    "options": {
+      "A": "Publishing and tracking KPIs",
+      "B": "Oral updates only",
+      "C": "No documentation",
+      "D": "Anonymous notes"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 31,
+    "question": "Which FCSSIP25 pillar focuses on skills, leadership pipelines, induction and SMAT‑P?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Open Government Partnership",
+      "C": "Industrial Policy",
+      "D": "Trade Facilitation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 32,
+    "question": "Which FCSSIP25 pillar focuses on KPIs, scorecards, regular appraisals and consequence management?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Open Government Partnership",
+      "C": "Industrial Policy",
+      "D": "Trade Facilitation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 33,
+    "question": "Which FCSSIP25 pillar focuses on idea sourcing, prototyping and solution scaling?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Open Government Partnership",
+      "C": "Industrial Policy",
+      "D": "Trade Facilitation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 34,
+    "question": "Which FCSSIP25 pillar focuses on automated workflows, ECM and official emails?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Open Government Partnership",
+      "C": "Industrial Policy",
+      "D": "Trade Facilitation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 35,
+    "question": "Which FCSSIP25 pillar focuses on verification, self‑service and learning management?",
+    "options": {
+      "A": "Improve IPPIS‑HR Module",
+      "B": "Open Government Partnership",
+      "C": "Industrial Policy",
+      "D": "Trade Facilitation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 36,
+    "question": "Which FCSSIP25 pillar focuses on health, housing, incentives and non‑monetary rewards?",
+    "options": {
+      "A": "Staff Welfare",
+      "B": "Open Government Partnership",
+      "C": "Industrial Policy",
+      "D": "Trade Facilitation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 37,
+    "question": "Which FCSSIP25 tool/pillar best solves this scenario: An MDA wants to cut file loss and speed up retrieval?",
+    "options": {
+      "A": "ECM",
+      "B": "RCU",
+      "C": "Scorecards",
+      "D": "Dashboards"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 38,
+    "question": "Which FCSSIP25 tool/pillar best solves this scenario: Management needs to see reform milestones across MDAs in real time?",
+    "options": {
+      "A": "Dashboards",
+      "B": "ECM",
+      "C": "RCU",
+      "D": "Scorecards"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 39,
+    "question": "Which FCSSIP25 tool/pillar best solves this scenario: HR seeks an end‑to‑end view of personnel data and actions?",
+    "options": {
+      "A": "HRMIS",
+      "B": "ECM",
+      "C": "RCU",
+      "D": "Scorecards"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 40,
+    "question": "Which FCSSIP25 tool/pillar best solves this scenario: A director wants automated workflows instead of manual routing?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "ECM",
+      "C": "RCU",
+      "D": "Scorecards"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 41,
+    "question": "Which FCSSIP25 tool/pillar best solves this scenario: Finance wants transparent, consolidated revenue inflows?",
+    "options": {
+      "A": "TSA",
+      "B": "ECM",
+      "C": "RCU",
+      "D": "Scorecards"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 42,
+    "question": "Which FCSSIP25 tool/pillar best solves this scenario: The service aims to remove ghost workers from payroll?",
+    "options": {
+      "A": "IPPIS",
+      "B": "ECM",
+      "C": "RCU",
+      "D": "Scorecards"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 43,
+    "question": "Which FCSSIP25 tool/pillar best solves this scenario: Citizens should know what services and timelines to expect?",
+    "options": {
+      "A": "Service Charters",
+      "B": "ECM",
+      "C": "RCU",
+      "D": "Scorecards"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 44,
+    "question": "Which FCSSIP25 tool/pillar best solves this scenario: Leaders want outputs tied clearly to goals and targets?",
+    "options": {
+      "A": "Scorecards",
+      "B": "ECM",
+      "C": "RCU",
+      "D": "Dashboards"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 45,
+    "question": "Which core value under FCSSIP25 is demonstrated by fair, honest decisions in service delivery?",
+    "options": {
+      "A": "Integrity",
+      "B": "Nepotism",
+      "C": "Partisanship",
+      "D": "Secrecy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 46,
+    "question": "Which core value under FCSSIP25 is demonstrated by fair, honest decisions in service delivery?",
+    "options": {
+      "A": "Integrity",
+      "B": "Nepotism",
+      "C": "Partisanship",
+      "D": "Secrecy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 47,
+    "question": "Which core value under FCSSIP25 is demonstrated by fair, honest decisions in service delivery?",
+    "options": {
+      "A": "Integrity",
+      "B": "Nepotism",
+      "C": "Partisanship",
+      "D": "Secrecy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 48,
+    "question": "Which core value under FCSSIP25 is demonstrated by fair, honest decisions in service delivery?",
+    "options": {
+      "A": "Integrity",
+      "B": "Nepotism",
+      "C": "Partisanship",
+      "D": "Secrecy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 49,
+    "question": "Which core value under FCSSIP25 is demonstrated by fair, honest decisions in service delivery?",
+    "options": {
+      "A": "Integrity",
+      "B": "Nepotism",
+      "C": "Partisanship",
+      "D": "Secrecy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 50,
+    "question": "Which core value under FCSSIP25 is demonstrated by fair, honest decisions in service delivery?",
+    "options": {
+      "A": "Integrity",
+      "B": "Nepotism",
+      "C": "Partisanship",
+      "D": "Secrecy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 51,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 52,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 53,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 54,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 55,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 56,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 57,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 58,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 59,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 60,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 61,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 62,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 63,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 64,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 65,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 66,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 67,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 68,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 69,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 70,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 71,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 72,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 73,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 74,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 75,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 76,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 77,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 78,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 79,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 80,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 81,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 82,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 83,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 84,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 85,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 86,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 87,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 88,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 89,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 90,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 91,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 92,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 93,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 94,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 95,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 96,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 97,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 98,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 99,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 100,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 101,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 102,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 103,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 104,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 105,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 106,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 107,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 108,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 109,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 110,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 111,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 112,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 113,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 114,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 115,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 116,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 117,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 118,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 119,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 120,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 121,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 122,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 123,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 124,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 125,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 126,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 127,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 128,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 129,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 130,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 131,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 132,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 133,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 134,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 135,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 136,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 137,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 138,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 139,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 140,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 141,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 142,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 143,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 144,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 145,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 146,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 147,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 148,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 149,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 150,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 151,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 152,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 153,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 154,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 155,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 156,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 157,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 158,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 159,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 160,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 161,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 162,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 163,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 164,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 165,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 166,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 167,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 168,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 169,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 170,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 171,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 172,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 173,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 174,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 175,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 176,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 177,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 178,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 179,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 180,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 181,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 182,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 183,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 184,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 185,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 186,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 187,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 188,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 189,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 190,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 191,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 192,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 193,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 194,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 195,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 196,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 197,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 198,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 199,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 200,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 201,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 202,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 203,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 204,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 205,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 206,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 207,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 208,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 209,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 210,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 211,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 212,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 213,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 214,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 215,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 216,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 217,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 218,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 219,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 220,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 221,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 222,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 223,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 224,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 225,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 226,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 227,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 228,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 229,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 230,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 231,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 232,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 233,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 234,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 235,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 236,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 237,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 238,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 239,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 240,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 241,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 242,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 243,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 244,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 245,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 246,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 247,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 248,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 249,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 250,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 251,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 252,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 253,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 254,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 255,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 256,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 257,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 258,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 259,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 260,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 261,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 262,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 263,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 264,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 265,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 266,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 267,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 268,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 269,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 270,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 271,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 272,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 273,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 274,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 275,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 276,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 277,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 278,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 279,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 280,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 281,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 282,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 283,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 284,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 285,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 286,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 287,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 288,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 289,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 290,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 291,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 292,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 293,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 294,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 295,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 296,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 297,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 298,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 299,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 300,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 301,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 302,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 303,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 304,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 305,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 306,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 307,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 308,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 309,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 310,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 311,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 312,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 313,
+    "question": "Which FCSSIP25 action MOST contributes to efficient, transparent and citizen‑centred services?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 314,
+    "question": "Which FCSSIP25 action MOST contributes to measurable, evidence‑based appraisals?",
+    "options": {
+      "A": "Performance Management System",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 315,
+    "question": "Which FCSSIP25 action MOST contributes to reduced manual bottlenecks through automation?",
+    "options": {
+      "A": "ECM",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 316,
+    "question": "Which FCSSIP25 action MOST contributes to stronger institutional accountability?",
+    "options": {
+      "A": "Dashboards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 317,
+    "question": "Which FCSSIP25 action MOST contributes to improved staff competencies via targeted training?",
+    "options": {
+      "A": "Capability Building and Talent Management",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 318,
+    "question": "Which FCSSIP25 action MOST contributes to merit‑based recruitment and promotion?",
+    "options": {
+      "A": "HRMIS",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 319,
+    "question": "Which FCSSIP25 action MOST contributes to open metrics and visible results?",
+    "options": {
+      "A": "Scorecards",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 320,
+    "question": "Which FCSSIP25 action MOST contributes to innovation embedded across MDAs?",
+    "options": {
+      "A": "Institutionalise Innovation",
+      "B": "Staff Welfare",
+      "C": "Open Government Partnership",
+      "D": "Manual file routing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 321,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 322,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 323,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 324,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 325,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 326,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 327,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 328,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 329,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 330,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 331,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 332,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 333,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 334,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 335,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 336,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 337,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 338,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 339,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 340,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 341,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 342,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 343,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 344,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 345,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 346,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 347,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 348,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 349,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 350,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 351,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 352,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 353,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 354,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 355,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 356,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 357,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 358,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 359,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 360,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 361,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 362,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 363,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 364,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 365,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 366,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 367,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 368,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 369,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 370,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 371,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 372,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 373,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 374,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 375,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 376,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 377,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 378,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 379,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 380,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 381,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 382,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 383,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 384,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 385,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 386,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 387,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 388,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 389,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 390,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 391,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 392,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 393,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 394,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 395,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 396,
+    "question": "What is the MAIN purpose of performance scorecards in FCSSIP25?",
+    "options": {
+      "A": "Tracking targets and outcomes",
+      "B": "Office seating plans",
+      "C": "Staff birthdays",
+      "D": "Visitor logs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 397,
+    "question": "What does HR verification under IPPIS seek to eliminate?",
+    "options": {
+      "A": "Ghost workers",
+      "B": "Leave rosters",
+      "C": "Service charters",
+      "D": "Training schedules"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 398,
+    "question": "Which practice BEST reflects reform ownership in FCSSIP25?",
+    "options": {
+      "A": "Civil servants driving and sustaining reforms",
+      "B": "Consultants owning reforms",
+      "C": "Optional compliance",
+      "D": "Verbal updates only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 399,
+    "question": "Which outcome aligns with the Culture and Values pillar?",
+    "options": {
+      "A": "Professionalism, integrity and accountability",
+      "B": "Patronage",
+      "C": "Secrecy",
+      "D": "Impunity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 400,
+    "question": "Which reform most directly reduces manual file movement?",
+    "options": {
+      "A": "Digitalisation – Content Services Platform",
+      "B": "Paper registry expansion",
+      "C": "More dispatch riders",
+      "D": "Ad‑hoc memos"
+    },
+    "answer": "A"
+  }
+]

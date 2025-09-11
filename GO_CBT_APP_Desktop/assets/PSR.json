@@ -1,0 +1,6602 @@
+[
+  {
+    "number": 1,
+    "question": "The Public Service Rules (PSR) primarily apply to which group?",
+    "options": {
+      "A": "All private sector employees",
+      "B": "Public officers in the Federal Public Service",
+      "C": "Students in federal universities",
+      "D": "Members of the National Assembly only"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 2,
+    "question": "The overarching purpose of the PSR is to:",
+    "options": {
+      "A": "Regulate political parties",
+      "B": "Provide uniform standards for managing public officers",
+      "C": "Set tax rates for citizens",
+      "D": "Control prices of essential goods"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 3,
+    "question": "Under PSR principles, recruitment and personnel decisions should be guided mainly by:",
+    "options": {
+      "A": "Personal relationships",
+      "B": "Merit and established procedures",
+      "C": "Seniority alone",
+      "D": "Political patronage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 4,
+    "question": "In PSR context, “public officer” best refers to:",
+    "options": {
+      "A": "Any elected official only",
+      "B": "Any person employed by the Federal Government on pensionable terms",
+      "C": "Only contract staff in MDAs",
+      "D": "Volunteers in government schemes"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 5,
+    "question": "Which document provides binding guidance on conduct and procedures for federal public officers?",
+    "options": {
+      "A": "Company Handbook",
+      "B": "Public Service Rules",
+      "C": "Party Manifesto",
+      "D": "Union Constitution"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 6,
+    "question": "The PSR emphasizes compliance with which constitutional principle during appointments and career management?",
+    "options": {
+      "A": "Foreign policy neutrality",
+      "B": "Federal Character and due process",
+      "C": "Judicial independence in states",
+      "D": "Local government autonomy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 7,
+    "question": "A key expectation of all public officers under PSR is to:",
+    "options": {
+      "A": "Disclose official information freely",
+      "B": "Maintain discipline and integrity",
+      "C": "Ignore written directives",
+      "D": "Prioritize personal business during office hours"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 8,
+    "question": "The PSR requires that official instructions should be:",
+    "options": {
+      "A": "Oral only",
+      "B": "Issued in writing where appropriate and obeyed promptly",
+      "C": "Ignored if inconvenient",
+      "D": "Shared on social media first"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 9,
+    "question": "Under PSR general provisions, government property entrusted to an officer must be:",
+    "options": {
+      "A": "Used for personal errands",
+      "B": "Protected and used only for official purposes",
+      "C": "Rented out for side income",
+      "D": "Left unsecured after hours"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 10,
+    "question": "Which of the following best captures the accountability expectation in PSR?",
+    "options": {
+      "A": "Officers answer to no one",
+      "B": "Officers are accountable for their actions and decisions",
+      "C": "Only directors are accountable",
+      "D": "Accountability applies only during probation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 11,
+    "question": "The PSR recognizes that circulars and official directives:",
+    "options": {
+      "A": "Are optional",
+      "B": "Are binding where they validly complement the Rules",
+      "C": "Are meant only for ministers",
+      "D": "Apply to contractors only"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 12,
+    "question": "When a PSR provision conflicts with a lawful Act of the National Assembly, which prevails?",
+    "options": {
+      "A": "The PSR",
+      "B": "The Act of the National Assembly",
+      "C": "The more recent memo",
+      "D": "The union agreement"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 13,
+    "question": "Under PSR, records concerning an officer’s service are primarily kept in:",
+    "options": {
+      "A": "Personal diary",
+      "B": "Official personal file/service records",
+      "C": "Private cloud account",
+      "D": "Social media page"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 14,
+    "question": "A public officer’s first obligation regarding confidentiality is to:",
+    "options": {
+      "A": "Share sensitive data with friends",
+      "B": "Protect official information in their custody",
+      "C": "Sell data to journalists",
+      "D": "Upload minutes to personal blogs"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 15,
+    "question": "The PSR underscores that every officer must comply with lawful instructions from:",
+    "options": {
+      "A": "Any person in the office",
+      "B": "Lawful authority/superiors within the service",
+      "C": "Political party leaders",
+      "D": "The media"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 16,
+    "question": "Ethical conduct under PSR best includes:",
+    "options": {
+      "A": "Conflict of interest disclosure and avoidance",
+      "B": "Trading government secrets",
+      "C": "Taking gifts for official favors",
+      "D": "Destroying records to avoid queries"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 17,
+    "question": "Which best aligns with the PSR’s stance on punctuality and attendance?",
+    "options": {
+      "A": "Flexible without records",
+      "B": "Observed, with attendance properly recorded",
+      "C": "Ignored during rainy season",
+      "D": "Required only for junior staff"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 18,
+    "question": "The PSR expects an officer who receives an unlawful order to:",
+    "options": {
+      "A": "Obey and keep quiet",
+      "B": "Seek clarification and refuse unlawful instructions",
+      "C": "Post the order online",
+      "D": "Delegate to a junior officer"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 19,
+    "question": "Official correspondence channels under PSR should be:",
+    "options": {
+      "A": "Bypassed for speed",
+      "B": "Followed through proper lines of communication",
+      "C": "Replaced by private emails",
+      "D": "Done through verbal messages only"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 20,
+    "question": "Under PSR, the integrity of recruitment is supported by:",
+    "options": {
+      "A": "Transparent processes and documentation",
+      "B": "Secret selection without criteria",
+      "C": "Auctioning of positions",
+      "D": "Family nominations"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 21,
+    "question": "The PSR identifies probationary service primarily as a period to:",
+    "options": {
+      "A": "Earn maximum leave",
+      "B": "Assess suitability and conduct",
+      "C": "Run personal businesses",
+      "D": "Avoid supervision"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 22,
+    "question": "Which statement best reflects PSR expectations on training?",
+    "options": {
+      "A": "Training is not necessary",
+      "B": "Capacity building is encouraged to improve performance",
+      "C": "Only political appointees should train",
+      "D": "Training must be self-funded only"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 23,
+    "question": "The PSR requires that financial transactions by officers be:",
+    "options": {
+      "A": "Off-record for speed",
+      "B": "In line with financial regulations and duly recorded",
+      "C": "Handled in cash only",
+      "D": "Managed by vendors alone"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 24,
+    "question": "In PSR terms, “discipline” generally refers to:",
+    "options": {
+      "A": "Punishing junior staff only",
+      "B": "Maintaining standards with fair procedures for breaches",
+      "C": "Ignoring misconduct to avoid scandal",
+      "D": "Allowing only verbal warnings"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 25,
+    "question": "A lawful superior directive under PSR should be:",
+    "options": {
+      "A": "Within authority and consistent with rules",
+      "B": "Based on personal preference alone",
+      "C": "Issued by any visitor",
+      "D": "Opposed to government policy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 26,
+    "question": "The PSR principle on equality of opportunity means:",
+    "options": {
+      "A": "Posts reserved for a single tribe",
+      "B": "Fair access based on merit and guidelines",
+      "C": "Only insiders may apply",
+      "D": "Unadvertised recruitment always"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 27,
+    "question": "Under PSR, official time should be used for:",
+    "options": {
+      "A": "Private business",
+      "B": "Official duties and responsibilities",
+      "C": "Political campaigns",
+      "D": "Social media marketing"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 28,
+    "question": "The PSR expects that officers declare conflicts of interest to:",
+    "options": {
+      "A": "Bypass approvals",
+      "B": "Ensure transparent decision-making",
+      "C": "Secure unofficial benefits",
+      "D": "Hide relationships"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 29,
+    "question": "A public officer who damages government property through negligence is:",
+    "options": {
+      "A": "Applauded",
+      "B": "Potentially liable under relevant rules",
+      "C": "Automatically promoted",
+      "D": "Exempted if senior"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 30,
+    "question": "“Due process” in PSR context mainly ensures:",
+    "options": {
+      "A": "Faster shortcuts",
+      "B": "Compliance with established procedures and fairness",
+      "C": "Evasion of documentation",
+      "D": "Personal discretion without audit"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 31,
+    "question": "Which best fits PSR expectations on communication with the media?",
+    "options": {
+      "A": "Any officer may disclose confidential info",
+      "B": "Only authorized channels/officers should speak officially",
+      "C": "Anonymous leaks are preferred",
+      "D": "All staff must run press briefings"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 32,
+    "question": "The PSR regards falsification of records as:",
+    "options": {
+      "A": "Acceptable if minor",
+      "B": "Misconduct",
+      "C": "Encouraged for targets",
+      "D": "A private matter"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 33,
+    "question": "Under PSR, attendance registers or systems are used to:",
+    "options": {
+      "A": "Monitor presence and punctuality",
+      "B": "Track political support",
+      "C": "Count union members",
+      "D": "Calculate private loans"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 34,
+    "question": "Which statement about lawful instructions is correct under PSR?",
+    "options": {
+      "A": "They may be ignored by senior officers",
+      "B": "They must be promptly and properly carried out",
+      "C": "They apply only to probationers",
+      "D": "They are optional after 3pm"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 35,
+    "question": "The PSR treats confidentiality breaches as:",
+    "options": {
+      "A": "Innovation",
+      "B": "Misconduct subject to sanctions",
+      "C": "Routine office culture",
+      "D": "A social activity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 36,
+    "question": "According to PSR principles, fairness in promotion requires:",
+    "options": {
+      "A": "Hidden criteria",
+      "B": "Clear standards and assessment of merit",
+      "C": "Recommendations based on friendship",
+      "D": "Auctioning vacancies"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 37,
+    "question": "Under PSR, an officer must report loss of official documents:",
+    "options": {
+      "A": "Immediately through prescribed channels",
+      "B": "Only at year-end",
+      "C": "To friends first",
+      "D": "Never"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 38,
+    "question": "The PSR expects procurement-related actions by officers to:",
+    "options": {
+      "A": "Ignore guidelines",
+      "B": "Comply with extant procurement laws and regulations",
+      "C": "Be cash-based without records",
+      "D": "Depend on personal bargains"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 39,
+    "question": "Ethical gifts under PSR should be:",
+    "options": {
+      "A": "Accepted for official favors",
+      "B": "Declined if they create obligation or conflict",
+      "C": "Sold to colleagues",
+      "D": "Demanded from vendors"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 40,
+    "question": "The PSR stance on unauthorized absence is that it:",
+    "options": {
+      "A": "Is not an issue",
+      "B": "Constitutes a breach subject to sanctions",
+      "C": "Is fine for senior staff",
+      "D": "Applies only to drivers"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 41,
+    "question": "Under PSR, official e-mail and communication tools should be used:",
+    "options": {
+      "A": "For personal profit",
+      "B": "For authorized official business",
+      "C": "For political campaigns",
+      "D": "For online sales"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 42,
+    "question": "The PSR expects superiors to exercise authority:",
+    "options": {
+      "A": "Arbitrarily",
+      "B": "Within the law and with fairness",
+      "C": "Only for friends",
+      "D": "To impose personal beliefs"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 43,
+    "question": "Officers are expected to safeguard government information primarily because:",
+    "options": {
+      "A": "It boosts personal brand",
+      "B": "It protects public interest and security",
+      "C": "It increases social media followers",
+      "D": "It helps competitors"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 44,
+    "question": "Under PSR, personal conduct outside office that brings the service into disrepute is:",
+    "options": {
+      "A": "Irrelevant",
+      "B": "A concern that may attract sanctions",
+      "C": "Encouraged for publicity",
+      "D": "Ignored for senior officials"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 45,
+    "question": "The PSR encourages whistleblowing through:",
+    "options": {
+      "A": "Unauthorized leaks",
+      "B": "Proper internal reporting mechanisms",
+      "C": "Anonymous social posts",
+      "D": "Rumors in the office"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 46,
+    "question": "The PSR requires that officers keep accurate records because:",
+    "options": {
+      "A": "It slows work",
+      "B": "It ensures accountability and continuity",
+      "C": "It is optional",
+      "D": "It helps avoid audits"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 47,
+    "question": "Under PSR, an officer must treat members of the public:",
+    "options": {
+      "A": "Rudely to show authority",
+      "B": "With courtesy and professionalism",
+      "C": "Only if they are VIPs",
+      "D": "Depending on tribe"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 48,
+    "question": "The PSR principle of neutrality means officers should:",
+    "options": {
+      "A": "Show open political bias in duty",
+      "B": "Remain impartial in official functions",
+      "C": "Campaign during work hours",
+      "D": "Use office for partisan aims"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 49,
+    "question": "Which best reflects PSR expectations on teamwork?",
+    "options": {
+      "A": "Sabotage colleagues to get ahead",
+      "B": "Cooperate to achieve organizational goals",
+      "C": "Work in isolation always",
+      "D": "Share confidential data without need"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 50,
+    "question": "Compliance with PSR is ultimately aimed at:",
+    "options": {
+      "A": "Personal enrichment",
+      "B": "Efficient, ethical, and effective public service delivery",
+      "C": "Expanding bureaucracy for its own sake",
+      "D": "Avoiding documentation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 51,
+    "question": "Under the PSR, appointments into the Federal Public Service must be based on:",
+    "options": {
+      "A": "Merit and federal character principles",
+      "B": "Political affiliation only",
+      "C": "Length of residence in Abuja",
+      "D": "Family connections"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 52,
+    "question": "Which body is primarily responsible for Federal Civil Service appointments?",
+    "options": {
+      "A": "National Assembly",
+      "B": "Federal Civil Service Commission (FCSC)",
+      "C": "Local Government Councils",
+      "D": "Labour Unions"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 53,
+    "question": "In the PSR, a probationary appointment typically lasts for how long?",
+    "options": {
+      "A": "1 month",
+      "B": "2 years",
+      "C": "5 years",
+      "D": "6 months"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 54,
+    "question": "During probation, an officer's performance is assessed through:",
+    "options": {
+      "A": "Online social media feedback",
+      "B": "Periodic confidential reports",
+      "C": "Political appointee endorsements",
+      "D": "Union approval"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 55,
+    "question": "A confirmation of appointment is granted only when:",
+    "options": {
+      "A": "The officer has completed probation satisfactorily",
+      "B": "The officer requests it",
+      "C": "A colleague recommends it",
+      "D": "The officer has 5 years of service"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 56,
+    "question": "Which of the following qualifies as a temporary appointment?",
+    "options": {
+      "A": "A pensionable appointment",
+      "B": "Contract appointment for a fixed term",
+      "C": "Probationary appointment",
+      "D": "Confirmation of appointment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 57,
+    "question": "The PSR requires that vacancies in the service must be filled by:",
+    "options": {
+      "A": "Friends of senior officers",
+      "B": "Internal and external recruitment processes where necessary",
+      "C": "Random selection",
+      "D": "Political considerations only"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 58,
+    "question": "Which type of appointment allows for disengagement at short notice?",
+    "options": {
+      "A": "Pensionable",
+      "B": "Probationary",
+      "C": "Temporary/Contract",
+      "D": "Confirmation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 59,
+    "question": "An officer on probation who performs unsatisfactorily:",
+    "options": {
+      "A": "Is automatically confirmed",
+      "B": "May have probation extended or be terminated",
+      "C": "Cannot be disciplined",
+      "D": "Must be promoted"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 60,
+    "question": "In PSR, promotion is primarily based on:",
+    "options": {
+      "A": "Political lobbying",
+      "B": "Merit, seniority, and available vacancy",
+      "C": "Ethnicity",
+      "D": "Length of residence in Abuja"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 61,
+    "question": "The Federal Character Principle in appointments is designed to:",
+    "options": {
+      "A": "Ensure equal opportunities across states",
+      "B": "Exclude minority groups",
+      "C": "Favor only one region",
+      "D": "Reduce vacancies"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 62,
+    "question": "Which of the following is NOT a type of appointment under the PSR?",
+    "options": {
+      "A": "Contract appointment",
+      "B": "Pensionable appointment",
+      "C": "International volunteer appointment",
+      "D": "Probationary appointment"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 63,
+    "question": "Acting appointments are made when:",
+    "options": {
+      "A": "There is a temporary vacancy in a higher post",
+      "B": "The officer requests it",
+      "C": "It’s an election year",
+      "D": "The officer has less than one year in service"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 64,
+    "question": "Under PSR, a transfer of service occurs when an officer:",
+    "options": {
+      "A": "Moves between ministries or parastatals",
+      "B": "Changes residential address",
+      "C": "Retires",
+      "D": "Resigns and becomes a contractor"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 65,
+    "question": "Confirmation of appointment requires:",
+    "options": {
+      "A": "Successful performance and satisfactory conduct",
+      "B": "Approval by a colleague",
+      "C": "The officer’s self-assessment",
+      "D": "Completion of 10 years in service"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 66,
+    "question": "Which form must be completed for confirmation of appointment?",
+    "options": {
+      "A": "Exit interview form",
+      "B": "Confidential assessment form",
+      "C": "Union registration form",
+      "D": "Personal bank statement"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 67,
+    "question": "Secondment is best described as:",
+    "options": {
+      "A": "Moving to the private sector permanently",
+      "B": "Temporary posting to another organization",
+      "C": "Retirement on contract",
+      "D": "Political appointment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 68,
+    "question": "An officer on secondment remains:",
+    "options": {
+      "A": "A private citizen",
+      "B": "An officer of the parent organization",
+      "C": "Disengaged from the public service",
+      "D": "A pensioner"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 69,
+    "question": "Which is a key factor for eligibility for promotion?",
+    "options": {
+      "A": "Vacancy in the higher grade",
+      "B": "Number of relatives in service",
+      "C": "Social media popularity",
+      "D": "Owning a personal business"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 70,
+    "question": "Which body oversees senior staff promotions in the federal civil service?",
+    "options": {
+      "A": "Labour Unions",
+      "B": "Federal Civil Service Commission",
+      "C": "State Governments",
+      "D": "Community leaders"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 71,
+    "question": "When an officer is appointed on contract, their terms are:",
+    "options": {
+      "A": "Negotiated and for a fixed period",
+      "B": "The same as pensionable officers",
+      "C": "Without any conditions",
+      "D": "Determined by private firms"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 72,
+    "question": "Which document governs disciplinary actions during probation?",
+    "options": {
+      "A": "Public Service Rules",
+      "B": "Bank policy",
+      "C": "National Budget",
+      "D": "Union policy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 73,
+    "question": "The PSR stipulates that promotions must be:",
+    "options": {
+      "A": "Arbitrary",
+      "B": "Based on clear criteria and competitive processes",
+      "C": "Influenced by political leaders",
+      "D": "Reserved for relatives of directors"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 74,
+    "question": "When an officer moves to a lower grade post, it is termed:",
+    "options": {
+      "A": "Promotion",
+      "B": "Demotion",
+      "C": "Transfer",
+      "D": "Deployment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 75,
+    "question": "Which of the following is NOT a factor in promotion decisions?",
+    "options": {
+      "A": "Seniority",
+      "B": "Performance",
+      "C": "Vacancy",
+      "D": "Marital status"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 76,
+    "question": "The PSR requires that all appointment letters must clearly state:",
+    "options": {
+      "A": "Job title, grade level, and conditions of service",
+      "B": "Personal loan arrangements",
+      "C": "Future political opportunities",
+      "D": "Details of the officer’s next posting"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 77,
+    "question": "Conversion in the PSR context means:",
+    "options": {
+      "A": "Switching from one cadre to another, e.g., Admin to Accounts",
+      "B": "Changing religion",
+      "C": "Moving from Abuja to Lagos",
+      "D": "Extending probation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 78,
+    "question": "Which category of appointment is eligible for pension and gratuity?",
+    "options": {
+      "A": "Pensionable appointment",
+      "B": "Temporary appointment",
+      "C": "Contract appointment",
+      "D": "Secondment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 79,
+    "question": "The PSR emphasizes that confirmation is NOT automatic but subject to:",
+    "options": {
+      "A": "Positive recommendations and performance",
+      "B": "Time spent in service only",
+      "C": "Popular vote by colleagues",
+      "D": "Union membership"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 80,
+    "question": "Redeployment under PSR involves:",
+    "options": {
+      "A": "Posting an officer from one duty station to another",
+      "B": "Changing marital status",
+      "C": "Switching from civil service to politics",
+      "D": "Leaving service permanently"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 81,
+    "question": "Promotion examination is conducted to assess:",
+    "options": {
+      "A": "An officer’s competence and readiness for higher responsibility",
+      "B": "Hobbies of the officer",
+      "C": "Family background",
+      "D": "Political affiliation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 82,
+    "question": "PSR states that vacancies should be filled first through:",
+    "options": {
+      "A": "Internal promotion if qualified officers exist",
+      "B": "Outsourcing",
+      "C": "Union recommendation",
+      "D": "Private consultants"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 83,
+    "question": "The PSR allows inter-service transfer primarily to:",
+    "options": {
+      "A": "Retain skilled officers in the public service",
+      "B": "Punish erring officers",
+      "C": "Create political balance",
+      "D": "Avoid discipline"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 84,
+    "question": "Seniority lists for promotion are drawn up using:",
+    "options": {
+      "A": "Date of first appointment and confirmed grade level",
+      "B": "Age only",
+      "C": "Religious affiliation",
+      "D": "Staff welfare preferences"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 85,
+    "question": "In PSR, regularization refers to:",
+    "options": {
+      "A": "Adjusting an irregular appointment to conform to rules",
+      "B": "Granting loans to officers",
+      "C": "Retirement after 10 years",
+      "D": "Automatic promotion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 86,
+    "question": "Which of the following is an acting allowance paid for?",
+    "options": {
+      "A": "Holding a higher post temporarily",
+      "B": "Extra time in office",
+      "C": "Probationary duties",
+      "D": "Confirmed appointment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 87,
+    "question": "An officer who is seconded abroad remains subject to:",
+    "options": {
+      "A": "The PSR and parent organization rules",
+      "B": "Only foreign laws",
+      "C": "Political leaders abroad",
+      "D": "Personal discretion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 88,
+    "question": "Transfer within the same ministry without change in rank is called:",
+    "options": {
+      "A": "Deployment",
+      "B": "Promotion",
+      "C": "Demotion",
+      "D": "Secondment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 89,
+    "question": "Which body approves transfers of service between the federal and state public service?",
+    "options": {
+      "A": "The National Assembly",
+      "B": "The Federal Civil Service Commission",
+      "C": "Labour Unions",
+      "D": "Local Chiefs"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 90,
+    "question": "Under PSR, promotion without vacancy is:",
+    "options": {
+      "A": "Prohibited",
+      "B": "Allowed if recommended by friends",
+      "C": "Mandatory for senior officers",
+      "D": "At the discretion of the officer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 91,
+    "question": "Which factor is considered for accelerated promotion?",
+    "options": {
+      "A": "Exceptional performance or professional examination success",
+      "B": "Age of the officer",
+      "C": "Marital status",
+      "D": "Political pressure"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 92,
+    "question": "The PSR requires that appointments must be documented to:",
+    "options": {
+      "A": "Ensure transparency and accountability",
+      "B": "Allow secrecy",
+      "C": "Avoid personnel records",
+      "D": "Circumvent audits"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 93,
+    "question": "Which of the following appointments requires the approval of the President?",
+    "options": {
+      "A": "Head of Service of the Federation",
+      "B": "Any junior clerk",
+      "C": "Typist in a ministry",
+      "D": "Assistant driver"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 94,
+    "question": "Conversion of appointment is usually done after:",
+    "options": {
+      "A": "Obtaining requisite qualifications and vacancies exist",
+      "B": "An officer changes religion",
+      "C": "Probation is skipped",
+      "D": "Political appointments are given"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 95,
+    "question": "The PSR recognizes that one of the objectives of transfer is to:",
+    "options": {
+      "A": "Broaden the experience of officers",
+      "B": "Punish officers unfairly",
+      "C": "Reduce workload",
+      "D": "Increase allowances"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 96,
+    "question": "Under PSR, a probationary officer may appeal termination if:",
+    "options": {
+      "A": "They believe due process was not followed",
+      "B": "Their friend is a director",
+      "C": "They wish to retire early",
+      "D": "They are promoted"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 97,
+    "question": "Which document must be updated after every promotion or transfer?",
+    "options": {
+      "A": "Officer’s service records",
+      "B": "Social media accounts",
+      "C": "Private diaries",
+      "D": "Union membership list"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 98,
+    "question": "Who issues a letter of promotion?",
+    "options": {
+      "A": "The authorized appointing authority",
+      "B": "Any senior colleague",
+      "C": "Political office holders alone",
+      "D": "A friend of the officer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 99,
+    "question": "When an officer moves from one MDA to another without break in service, this is called:",
+    "options": {
+      "A": "Transfer of service",
+      "B": "Demotion",
+      "C": "Retirement",
+      "D": "Dismissal"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 100,
+    "question": "The PSR emphasizes that every appointment, promotion, and transfer must:",
+    "options": {
+      "A": "Follow due process and be properly recorded",
+      "B": "Be done secretly to avoid scrutiny",
+      "C": "Be determined solely by unions",
+      "D": "Depend on political campaign support"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 101,
+    "question": "Under PSR, annual leave is a period of absence from duty:",
+    "options": {
+      "A": "For official training",
+      "B": "Granted for rest and recreation",
+      "C": "For political campaigns",
+      "D": "To manage personal businesses"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 102,
+    "question": "The length of annual leave for an officer on consolidated salary is generally:",
+    "options": {
+      "A": "14 days",
+      "B": "28 days",
+      "C": "7 days",
+      "D": "60 days"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 103,
+    "question": "Which officer approves annual leave in the Federal Public Service?",
+    "options": {
+      "A": "Colleague at same rank",
+      "B": "Immediate superior or authorized officer",
+      "C": "Labour union",
+      "D": "An officer’s spouse"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 104,
+    "question": "Which of the following is NOT a type of leave under PSR?",
+    "options": {
+      "A": "Annual leave",
+      "B": "Maternity leave",
+      "C": "Study leave",
+      "D": "Weekend leave"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 105,
+    "question": "Sick leave is granted when:",
+    "options": {
+      "A": "An officer wants to travel",
+      "B": "A doctor certifies the officer unfit for duty",
+      "C": "The officer requests it arbitrarily",
+      "D": "There is no pending assignment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 106,
+    "question": "Maternity leave under PSR is for a period of:",
+    "options": {
+      "A": "12 weeks with full pay",
+      "B": "3 days",
+      "C": "9 months",
+      "D": "6 weeks"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 107,
+    "question": "Which of the following officers can be granted paternity leave?",
+    "options": {
+      "A": "Only political appointees",
+      "B": "Male officers whose wives deliver a baby",
+      "C": "Retired officers",
+      "D": "Volunteers"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 108,
+    "question": "Which document is required for approval of sick leave?",
+    "options": {
+      "A": "Social media post",
+      "B": "Medical certificate from a government-recognized hospital",
+      "C": "Letter from a friend",
+      "D": "Bank statement"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 109,
+    "question": "An officer who falls sick while on annual leave must:",
+    "options": {
+      "A": "Return to duty immediately",
+      "B": "Notify the office and produce medical evidence",
+      "C": "Ignore and continue leave",
+      "D": "Travel abroad without informing anyone"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 110,
+    "question": "Study leave with pay is granted when:",
+    "options": {
+      "A": "The course of study is relevant to the officer’s duties",
+      "B": "The officer wants to travel for leisure",
+      "C": "There are no vacancies",
+      "D": "The officer is due for retirement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 111,
+    "question": "Under PSR, the maximum period for study leave without pay is usually:",
+    "options": {
+      "A": "2 years",
+      "B": "4 years",
+      "C": "6 months",
+      "D": "1 year"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 112,
+    "question": "Casual leave may be granted for:",
+    "options": {
+      "A": "Urgent private matters not exceeding 7 days at a time",
+      "B": "Leisure travel",
+      "C": "Political campaigns",
+      "D": "Study abroad"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 113,
+    "question": "Which officer can forfeit annual leave?",
+    "options": {
+      "A": "A newly recruited officer with less than 6 months in service",
+      "B": "An officer on pension",
+      "C": "A political appointee",
+      "D": "A volunteer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 114,
+    "question": "Officers on leave are required to:",
+    "options": {
+      "A": "Remain contactable for official purposes",
+      "B": "Avoid all communication with office",
+      "C": "Travel abroad compulsorily",
+      "D": "Submit resignation letters"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 115,
+    "question": "Leave rosters should be prepared in order to:",
+    "options": {
+      "A": "Avoid disruption of official work",
+      "B": "Help officers plan personal events",
+      "C": "Ensure union elections hold",
+      "D": "Circumvent PSR provisions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 116,
+    "question": "Which of the following does NOT qualify for sick leave approval?",
+    "options": {
+      "A": "Private hospital certification not recognized by government",
+      "B": "Government hospital medical certificate",
+      "C": "Referral from approved medical board",
+      "D": "Certified incapacitation from illness"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 117,
+    "question": "An officer granted leave but recalled before expiration is entitled to:",
+    "options": {
+      "A": "Compensation or restoration of unspent leave days",
+      "B": "Automatic promotion",
+      "C": "Extra salary",
+      "D": "Termination of appointment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 118,
+    "question": "Under PSR, when can accumulated annual leave be commuted to cash?",
+    "options": {
+      "A": "Upon retirement or death in service",
+      "B": "During annual leave",
+      "C": "When requested anytime",
+      "D": "During casual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 119,
+    "question": "The purpose of maternity leave is to:",
+    "options": {
+      "A": "Encourage business trips",
+      "B": "Allow a female officer time for childbirth and recovery",
+      "C": "Support political activities",
+      "D": "Increase office productivity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 120,
+    "question": "How many times can paternity leave be granted during a year?",
+    "options": {
+      "A": "Once per calendar year",
+      "B": "Every month",
+      "C": "Unlimited",
+      "D": "Once every three years"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 121,
+    "question": "An officer who absents themselves from duty without leave approval:",
+    "options": {
+      "A": "Is covered by PSR",
+      "B": "Commits misconduct",
+      "C": "Is automatically promoted",
+      "D": "May forfeit gratuity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 122,
+    "question": "Compassionate leave is granted:",
+    "options": {
+      "A": "For the death of a close relative",
+      "B": "For annual vacation",
+      "C": "For business seminars",
+      "D": "For unapproved travel"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 123,
+    "question": "Sick leave in excess of recommended days must be referred to:",
+    "options": {
+      "A": "The medical board",
+      "B": "A friend",
+      "C": "A director’s spouse",
+      "D": "The press"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 124,
+    "question": "Under PSR, when can an officer’s leave be deferred?",
+    "options": {
+      "A": "When official exigencies require their services",
+      "B": "Whenever the officer chooses",
+      "C": "After retirement",
+      "D": "When on probation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 125,
+    "question": "How many weeks of leave are female officers entitled to for maternity in PSR?",
+    "options": {
+      "A": "12 weeks",
+      "B": "4 weeks",
+      "C": "24 weeks",
+      "D": "8 weeks"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 126,
+    "question": "Which type of leave is granted for further studies abroad with relevance to the service?",
+    "options": {
+      "A": "Study leave",
+      "B": "Compassionate leave",
+      "C": "Paternity leave",
+      "D": "Sick leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 127,
+    "question": "Officers proceeding on leave must hand over duties to:",
+    "options": {
+      "A": "Their family",
+      "B": "A designated officer approved by superior",
+      "C": "The union chairman",
+      "D": "A volunteer"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 128,
+    "question": "Which of these can lead to forfeiture of annual leave?",
+    "options": {
+      "A": "Resignation before leave is due",
+      "B": "Regular attendance at work",
+      "C": "Passing a promotion exam",
+      "D": "Sick leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 129,
+    "question": "What is the maximum number of casual leave days in a calendar year?",
+    "options": {
+      "A": "7 days",
+      "B": "10 days",
+      "C": "14 days",
+      "D": "21 days"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 130,
+    "question": "Which of these requires prior approval before departure?",
+    "options": {
+      "A": "Annual leave",
+      "B": "Sick leave",
+      "C": "Any leave",
+      "D": "None"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 131,
+    "question": "Under PSR, leave can be refused when:",
+    "options": {
+      "A": "There are pressing official duties",
+      "B": "The officer has worked for 6 months",
+      "C": "The officer is on transfer",
+      "D": "There is a vacancy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 132,
+    "question": "Officers may be required to return from leave early for:",
+    "options": {
+      "A": "Official exigencies",
+      "B": "Political rallies",
+      "C": "Private matters",
+      "D": "Personal convenience"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 133,
+    "question": "Annual leave cannot be combined with:",
+    "options": {
+      "A": "Sick leave without proper approval",
+      "B": "Another year’s leave",
+      "C": "Paternity leave",
+      "D": "Probation period"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 134,
+    "question": "Which officer is eligible for leave allowance?",
+    "options": {
+      "A": "Any officer proceeding on approved annual leave",
+      "B": "Only directors",
+      "C": "Pensioners",
+      "D": "Union leaders"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 135,
+    "question": "PSR states that annual leave must be taken:",
+    "options": {
+      "A": "In the calendar year it is due unless deferred",
+      "B": "Any time after retirement",
+      "C": "Only when demanded by unions",
+      "D": "After confirmation only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 136,
+    "question": "An officer undergoing medical treatment abroad must:",
+    "options": {
+      "A": "Obtain government approval and funding where applicable",
+      "B": "Travel without informing anyone",
+      "C": "Request from union",
+      "D": "Use casual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 137,
+    "question": "The PSR encourages officers on leave to:",
+    "options": {
+      "A": "Enjoy rest to return refreshed",
+      "B": "Run side businesses",
+      "C": "Campaign for politicians",
+      "D": "Avoid communication with office"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 138,
+    "question": "Compassionate leave is not to exceed:",
+    "options": {
+      "A": "2 days at a time",
+      "B": "2 weeks at a time",
+      "C": "1 month",
+      "D": "1 year"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 139,
+    "question": "Study leave with pay cannot be granted without:",
+    "options": {
+      "A": "Relevance of course to duties and approval",
+      "B": "Popularity of officer",
+      "C": "Transfer to another ministry",
+      "D": "Sick leave certificate"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 140,
+    "question": "Which officer maintains leave rosters?",
+    "options": {
+      "A": "HR/Personnel Department of the MDA",
+      "B": "Labour Union",
+      "C": "Ministry of Finance",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 141,
+    "question": "Leave allowance is generally calculated as:",
+    "options": {
+      "A": "A percentage of annual basic salary",
+      "B": "A political incentive",
+      "C": "An amount fixed by unions",
+      "D": "Bonus on gratuity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 142,
+    "question": "Who pays an officer on maternity leave?",
+    "options": {
+      "A": "The officer’s husband",
+      "B": "Federal Government at full pay",
+      "C": "Local government",
+      "D": "Union funds"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 143,
+    "question": "Leave cannot be granted when:",
+    "options": {
+      "A": "The officer is under interdiction or suspension",
+      "B": "Annual leave is due",
+      "C": "The officer applies early",
+      "D": "There are no official duties"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 144,
+    "question": "Which leave is exclusively for training or further education?",
+    "options": {
+      "A": "Study leave",
+      "B": "Annual leave",
+      "C": "Casual leave",
+      "D": "Compassionate leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 145,
+    "question": "How many days paternity leave is granted under PSR?",
+    "options": {
+      "A": "14 days",
+      "B": "7 days",
+      "C": "10 days",
+      "D": "30 days"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 146,
+    "question": "Can annual leave be taken during probation?",
+    "options": {
+      "A": "Only if the officer has served at least 6 months",
+      "B": "Never",
+      "C": "Any time",
+      "D": "At retirement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 147,
+    "question": "Sick leave exceeding how many months requires medical board approval?",
+    "options": {
+      "A": "3 months",
+      "B": "1 month",
+      "C": "6 months",
+      "D": "12 months"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 148,
+    "question": "Leave allowance is forfeited if:",
+    "options": {
+      "A": "Leave is not taken without approval",
+      "B": "Officer resigns",
+      "C": "Officer is retired before leave due",
+      "D": "Any of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 149,
+    "question": "An officer recalled from leave due to official exigencies is entitled to:",
+    "options": {
+      "A": "Refund of expenses and unspent leave days",
+      "B": "Suspension",
+      "C": "Dismissal",
+      "D": "No compensation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 150,
+    "question": "Which principle guides leave management in PSR?",
+    "options": {
+      "A": "Efficiency, continuity, and fairness",
+      "B": "Random discretion",
+      "C": "Political consideration",
+      "D": "Union negotiation only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 151,
+    "question": "The main purpose of discipline under PSR is to:",
+    "options": {
+      "A": "Victimize junior staff",
+      "B": "Maintain order, efficiency, and accountability in the service",
+      "C": "Create fear among officers",
+      "D": "Reduce staff numbers"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 152,
+    "question": "Which body handles disciplinary cases of senior officers (GL 07 and above)?",
+    "options": {
+      "A": "Labour union",
+      "B": "Federal Civil Service Commission (FCSC)",
+      "C": "Director-General’s office only",
+      "D": "Auditor-General’s office"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 153,
+    "question": "Disciplinary measures under PSR must be:",
+    "options": {
+      "A": "Arbitrary",
+      "B": "Fair and in line with due process",
+      "C": "Based on rumors",
+      "D": "Determined by political parties"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 154,
+    "question": "What is the first step when misconduct is suspected?",
+    "options": {
+      "A": "Immediate dismissal",
+      "B": "Issuance of a query to the officer concerned",
+      "C": "Promotion examination",
+      "D": "Transfer of the officer"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 155,
+    "question": "Which of the following is NOT a recognized penalty in PSR?",
+    "options": {
+      "A": "Dismissal",
+      "B": "Termination of appointment",
+      "C": "Promotion without merit",
+      "D": "Reduction in rank"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 156,
+    "question": "What is considered misconduct under PSR?",
+    "options": {
+      "A": "Negligence, lateness, or disobedience",
+      "B": "Reporting to work on time",
+      "C": "Going on approved leave",
+      "D": "Attending training"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 157,
+    "question": "Who has the power to dismiss officers on GL 06 and below?",
+    "options": {
+      "A": "Any colleague",
+      "B": "The authorized officer of the MDA",
+      "C": "Labour union chairman",
+      "D": "Political party leader"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 158,
+    "question": "An officer who fails to reply to a query within the stipulated time is deemed to have:",
+    "options": {
+      "A": "Accepted guilt",
+      "B": "Been acquitted",
+      "C": "Been promoted",
+      "D": "Retired"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 159,
+    "question": "Suspension under PSR is used when:",
+    "options": {
+      "A": "An officer is under investigation for serious misconduct",
+      "B": "The officer applies for casual leave",
+      "C": "Annual leave is due",
+      "D": "The officer is transferred"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 160,
+    "question": "Which period is normally given to answer a query?",
+    "options": {
+      "A": "24 hours",
+      "B": "48 hours",
+      "C": "72 hours",
+      "D": "1 month"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 161,
+    "question": "Who may interdict an officer suspected of serious misconduct?",
+    "options": {
+      "A": "Any junior officer",
+      "B": "The authorized officer pending investigation",
+      "C": "Family members of the officer",
+      "D": "Social media bloggers"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 162,
+    "question": "An interdicted officer receives:",
+    "options": {
+      "A": "No pay",
+      "B": "Half salary during the interdiction period",
+      "C": "Full salary and allowances",
+      "D": "Bonus allowances"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 163,
+    "question": "When does dismissal take effect?",
+    "options": {
+      "A": "From the date specified in the letter of dismissal",
+      "B": "From the officer’s birthday",
+      "C": "From the date of last salary payment",
+      "D": "From the date of transfer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 164,
+    "question": "Which misconduct leads directly to dismissal?",
+    "options": {
+      "A": "Fraud or gross misconduct",
+      "B": "Coming late once",
+      "C": "Applying for leave",
+      "D": "Taking training leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 165,
+    "question": "Termination of appointment differs from dismissal because:",
+    "options": {
+      "A": "Terminated officers may be eligible for benefits",
+      "B": "Termination is more severe",
+      "C": "Termination is for retirees",
+      "D": "Dismissal is optional"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 166,
+    "question": "PSR requires that every disciplinary action must be:",
+    "options": {
+      "A": "Documented and communicated to the officer",
+      "B": "Hidden from the officer",
+      "C": "Announced publicly without notice",
+      "D": "Dependent on union approval"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 167,
+    "question": "Reduction in rank is a penalty applied when:",
+    "options": {
+      "A": "An officer commits serious misconduct",
+      "B": "The officer goes on leave",
+      "C": "The officer resigns",
+      "D": "A vacancy exists"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 168,
+    "question": "An officer dismissed for fraud:",
+    "options": {
+      "A": "Forfeits all terminal benefits except contributory pension contributions",
+      "B": "Is entitled to full retirement benefits",
+      "C": "May get extra leave days",
+      "D": "Is promoted after investigation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 169,
+    "question": "The disciplinary authority must always allow the officer:",
+    "options": {
+      "A": "Time to state their case",
+      "B": "To be dismissed without hearing",
+      "C": "To bring family members",
+      "D": "To resign immediately"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 170,
+    "question": "Which misconduct is considered minor under PSR?",
+    "options": {
+      "A": "Absence without leave",
+      "B": "Fraud and embezzlement",
+      "C": "Insubordination",
+      "D": "Tardiness or improper dressing"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 171,
+    "question": "Appeal against disciplinary action should be made to:",
+    "options": {
+      "A": "Federal Civil Service Commission",
+      "B": "Media houses",
+      "C": "Union chairman only",
+      "D": "Colleagues"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 172,
+    "question": "Which penalty can be imposed for minor misconduct?",
+    "options": {
+      "A": "Verbal or written warning",
+      "B": "Dismissal",
+      "C": "Termination",
+      "D": "Demotion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 173,
+    "question": "What is the maximum period of suspension without pay?",
+    "options": {
+      "A": "6 months",
+      "B": "1 month",
+      "C": "As determined by court",
+      "D": "Indefinitely"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 174,
+    "question": "Loss of government funds through negligence is classified as:",
+    "options": {
+      "A": "Gross misconduct",
+      "B": "Voluntary retirement",
+      "C": "Minor misconduct",
+      "D": "Training lapse"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 175,
+    "question": "An officer can be retired compulsorily as a disciplinary measure when:",
+    "options": {
+      "A": "The case warrants removal but with some benefits preserved",
+      "B": "He/she requests casual leave",
+      "C": "He/she applies for maternity leave",
+      "D": "He/she passes a promotion exam"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 176,
+    "question": "Which is true about interdiction?",
+    "options": {
+      "A": "It is temporary pending the outcome of investigation",
+      "B": "It is permanent",
+      "C": "It automatically leads to dismissal",
+      "D": "It exempts the officer from PSR"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 177,
+    "question": "Who maintains disciplinary records of officers?",
+    "options": {
+      "A": "HR/Personnel Department",
+      "B": "The union",
+      "C": "The Auditor-General",
+      "D": "Family members"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 178,
+    "question": "Can an officer on interdiction be promoted?",
+    "options": {
+      "A": "No, until cleared of allegations",
+      "B": "Yes, automatically",
+      "C": "Only if union demands",
+      "D": "Yes, once a vacancy exists"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 179,
+    "question": "Which of the following constitutes gross misconduct?",
+    "options": {
+      "A": "Embezzlement, falsification of records, fraud",
+      "B": "Approved leave absence",
+      "C": "Training participation",
+      "D": "Wearing uniform"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 180,
+    "question": "Officers found guilty of serious misconduct may face:",
+    "options": {
+      "A": "Dismissal or compulsory retirement",
+      "B": "Annual leave",
+      "C": "Study leave",
+      "D": "Promotion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 181,
+    "question": "Who has the final say on disciplinary cases of officers on GL 07 and above?",
+    "options": {
+      "A": "Federal Civil Service Commission",
+      "B": "Union chairman",
+      "C": "Colleagues",
+      "D": "Ministry of Finance"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 182,
+    "question": "Which penalty makes an officer ineligible for re-employment in the public service?",
+    "options": {
+      "A": "Dismissal",
+      "B": "Termination",
+      "C": "Compulsory retirement",
+      "D": "Reduction in rank"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 183,
+    "question": "What is the aim of issuing a query?",
+    "options": {
+      "A": "To obtain the officer’s explanation in writing",
+      "B": "To harass the officer",
+      "C": "To promote the officer",
+      "D": "To reduce workload"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 184,
+    "question": "If an officer absents themselves without leave for 10 days, PSR allows:",
+    "options": {
+      "A": "Presumption of voluntary resignation",
+      "B": "Promotion",
+      "C": "Annual leave",
+      "D": "Training leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 185,
+    "question": "Who can recommend dismissal of a GL 06 officer?",
+    "options": {
+      "A": "Authorized officer of the MDA",
+      "B": "Union leader",
+      "C": "Fellow staff",
+      "D": "Friends of the officer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 186,
+    "question": "Which step must be taken before compulsory retirement as punishment?",
+    "options": {
+      "A": "Full disciplinary proceedings with right of defence",
+      "B": "Political intervention",
+      "C": "Union approval",
+      "D": "Direct termination"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 187,
+    "question": "What is the difference between suspension and interdiction?",
+    "options": {
+      "A": "Suspension is without pay, interdiction is with half pay",
+      "B": "Suspension is permanent, interdiction is temporary",
+      "C": "Both have no difference",
+      "D": "Suspension applies only to retirees"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 188,
+    "question": "Which misconduct is least likely to result in dismissal?",
+    "options": {
+      "A": "Gross insubordination",
+      "B": "Fraud",
+      "C": "Tardiness",
+      "D": "Theft"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 189,
+    "question": "Which penalty can be combined with loss of increment?",
+    "options": {
+      "A": "Reduction in rank",
+      "B": "Written warning",
+      "C": "Compulsory retirement",
+      "D": "Training leave"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 190,
+    "question": "Which officer may interdict a GL 06 officer?",
+    "options": {
+      "A": "The authorized officer",
+      "B": "A junior colleague",
+      "C": "A union representative",
+      "D": "Another ministry staff"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 191,
+    "question": "Can a dismissed officer appeal?",
+    "options": {
+      "A": "Yes, through the appropriate authority",
+      "B": "No",
+      "C": "Only through the media",
+      "D": "Only through family members"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 192,
+    "question": "An officer found guilty of falsifying records may face:",
+    "options": {
+      "A": "Dismissal",
+      "B": "Annual leave",
+      "C": "Study leave",
+      "D": "Verbal commendation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 193,
+    "question": "What is the main principle guiding all disciplinary action?",
+    "options": {
+      "A": "Fair hearing and natural justice",
+      "B": "Discretion by the superior officer",
+      "C": "Union popularity",
+      "D": "Political interest"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 194,
+    "question": "Who has authority to discipline junior officers (GL 06 and below)?",
+    "options": {
+      "A": "The Authorized Officer in the MDA",
+      "B": "Political leaders",
+      "C": "Friends",
+      "D": "Unions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 195,
+    "question": "Can disciplinary proceedings continue after an officer retires?",
+    "options": {
+      "A": "Yes, if the misconduct was discovered during service",
+      "B": "No",
+      "C": "Only with union approval",
+      "D": "Only for junior officers"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 196,
+    "question": "When does compulsory retirement take effect?",
+    "options": {
+      "A": "From the date stated in the letter of retirement",
+      "B": "From the officer’s request date",
+      "C": "From the union’s approval date",
+      "D": "From the day of transfer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 197,
+    "question": "What happens to salary during suspension?",
+    "options": {
+      "A": "Salary is stopped for the period",
+      "B": "Officer is paid full salary",
+      "C": "Officer is promoted",
+      "D": "Officer gets leave allowance"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 198,
+    "question": "Which disciplinary penalty cannot be reversed if found wrongful?",
+    "options": {
+      "A": "Dismissal",
+      "B": "Suspension",
+      "C": "Written warning",
+      "D": "Loss of increment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 199,
+    "question": "How many days absence without permission leads to presumption of resignation?",
+    "options": {
+      "A": "10 days",
+      "B": "3 days",
+      "C": "30 days",
+      "D": "7 days"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 200,
+    "question": "Why must disciplinary action be documented?",
+    "options": {
+      "A": "For transparency and as evidence in appeals",
+      "B": "To intimidate officers",
+      "C": "To satisfy unions",
+      "D": "To publicize the officer’s name"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 201,
+    "question": "Under PSR, departmental examinations are conducted primarily to:",
+    "options": {
+      "A": "Entertain staff",
+      "B": "Assess officers' suitability for confirmation and promotion",
+      "C": "Train officers in sports",
+      "D": "Evaluate union membership"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 202,
+    "question": "Probation reports are used to:",
+    "options": {
+      "A": "Approve leave allowance",
+      "B": "Determine an officer’s confirmation of appointment",
+      "C": "Select political candidates",
+      "D": "Organize social events"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 203,
+    "question": "Who prepares probation reports for officers on probation?",
+    "options": {
+      "A": "The officer’s spouse",
+      "B": "Immediate supervisor or head of department",
+      "C": "Union chairman",
+      "D": "The President"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 204,
+    "question": "When are probation reports usually submitted?",
+    "options": {
+      "A": "Only at retirement",
+      "B": "At intervals specified during probation period",
+      "C": "Once in five years",
+      "D": "After training abroad"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 205,
+    "question": "Which of these is NOT assessed in a probation report?",
+    "options": {
+      "A": "Conduct and work performance",
+      "B": "Health and punctuality",
+      "C": "Attitude towards duty",
+      "D": "Officer’s personal bank balance"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 206,
+    "question": "Failure to pass departmental exams without justification may lead to:",
+    "options": {
+      "A": "Extension of probation or termination",
+      "B": "Promotion",
+      "C": "Award of leave",
+      "D": "Automatic confirmation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 207,
+    "question": "Who is responsible for organizing departmental examinations?",
+    "options": {
+      "A": "The Human Resources/Personnel Department",
+      "B": "Colleagues in the same rank",
+      "C": "Political appointees",
+      "D": "Social media committee"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 208,
+    "question": "PSR stipulates that probation reports must be:",
+    "options": {
+      "A": "Objective and factual",
+      "B": "Based on personal bias",
+      "C": "Oral statements only",
+      "D": "Prepared secretly without records"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 209,
+    "question": "Which of the following is a key component of a probation report?",
+    "options": {
+      "A": "Officer’s general attitude towards work",
+      "B": "Family background",
+      "C": "Union membership history",
+      "D": "Religious preference"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 210,
+    "question": "Departmental exams are required for:",
+    "options": {
+      "A": "Confirmation in the service and certain promotions",
+      "B": "Granting casual leave",
+      "C": "Awarding annual leave",
+      "D": "Paying salary arrears"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 211,
+    "question": "Probationary officers who perform unsatisfactorily:",
+    "options": {
+      "A": "May be terminated or have probation extended",
+      "B": "Are confirmed automatically",
+      "C": "Cannot be disciplined",
+      "D": "Must be promoted"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 212,
+    "question": "Departmental examinations may test:",
+    "options": {
+      "A": "Knowledge of rules and procedures relevant to duties",
+      "B": "Political views of the officer",
+      "C": "Entertainment skills",
+      "D": "Officer’s social life"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 213,
+    "question": "Probation reports should be signed by:",
+    "options": {
+      "A": "The supervising officer and countersigned by higher authority",
+      "B": "The officer’s friend",
+      "C": "Labour unions",
+      "D": "Any other ministry"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 214,
+    "question": "Which consequence follows falsification of probation reports?",
+    "options": {
+      "A": "Disciplinary action against the reporting officer",
+      "B": "Automatic confirmation",
+      "C": "Promotion of the officer",
+      "D": "Annual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 215,
+    "question": "Departmental examinations aim to ensure:",
+    "options": {
+      "A": "Competence in official duties",
+      "B": "Faster recruitment",
+      "C": "Political balancing",
+      "D": "Avoidance of training"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 216,
+    "question": "A probation report lacking factual details is considered:",
+    "options": {
+      "A": "Unacceptable under PSR",
+      "B": "Valid for confirmation",
+      "C": "Useful for union purposes",
+      "D": "Optional"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 217,
+    "question": "Which of the following is NOT part of examination requirements under PSR?",
+    "options": {
+      "A": "Integrity in conduct during exam",
+      "B": "Fair marking and evaluation",
+      "C": "Bias in favor of certain candidates",
+      "D": "Adequate notice for exams"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 218,
+    "question": "Probation reports are required for officers in:",
+    "options": {
+      "A": "First two years of service",
+      "B": "Political appointments",
+      "C": "Pensionable retirees",
+      "D": "Volunteer schemes"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 219,
+    "question": "Failure to submit probation reports on time may delay:",
+    "options": {
+      "A": "Confirmation of the officer",
+      "B": "Annual leave",
+      "C": "Union dues",
+      "D": "Training programs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 220,
+    "question": "Who determines the subjects for departmental examinations?",
+    "options": {
+      "A": "The Federal Civil Service Commission or Head of Service",
+      "B": "The officer’s friends",
+      "C": "Labour unions",
+      "D": "The officer’s family"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 221,
+    "question": "An officer on probation may be terminated without:",
+    "options": {
+      "A": "Further warning if performance is grossly unsatisfactory",
+      "B": "Due process",
+      "C": "Written record",
+      "D": "Appeal rights"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 222,
+    "question": "Departmental exams are necessary for:",
+    "options": {
+      "A": "Officers requiring professional certification",
+      "B": "Officers proceeding on paternity leave",
+      "C": "Officers requesting compassionate leave",
+      "D": "Pensioners"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 223,
+    "question": "Probation report assessments must reflect:",
+    "options": {
+      "A": "Honesty, punctuality, and diligence",
+      "B": "Hobbies and family trips",
+      "C": "Political affiliation",
+      "D": "Union activities"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 224,
+    "question": "When is a departmental exam exempted?",
+    "options": {
+      "A": "When officer’s qualifications meet specific exemptions in PSR",
+      "B": "When the officer requests exemption arbitrarily",
+      "C": "If officer belongs to a union",
+      "D": "When the officer is a retiree"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 225,
+    "question": "Probation reports that are inaccurate may lead to:",
+    "options": {
+      "A": "Wrongful confirmation or termination",
+      "B": "Training sponsorship",
+      "C": "Additional leave allowance",
+      "D": "Automatic promotion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 226,
+    "question": "Officers must be given how many attempts to pass departmental exams?",
+    "options": {
+      "A": "At least two attempts where applicable",
+      "B": "Unlimited attempts without consequences",
+      "C": "One attempt only",
+      "D": "No attempt at all"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 227,
+    "question": "Probation report should be reviewed by:",
+    "options": {
+      "A": "The supervising officer and higher authority",
+      "B": "A family friend",
+      "C": "Media organizations",
+      "D": "Religious groups"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 228,
+    "question": "Which officer maintains probation report records?",
+    "options": {
+      "A": "The HR/Personnel Department",
+      "B": "Political appointees",
+      "C": "External auditors",
+      "D": "Retirees"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 229,
+    "question": "Officers confirmed without probation report risk:",
+    "options": {
+      "A": "Breach of PSR procedures",
+      "B": "Automatic promotion",
+      "C": "Appeal to union",
+      "D": "Salary increment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 230,
+    "question": "Departmental exams may be waived when:",
+    "options": {
+      "A": "Officer already possesses equivalent qualifications",
+      "B": "Officer is on sick leave",
+      "C": "Officer requests a holiday",
+      "D": "Union advises"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 231,
+    "question": "Who endorses the final probation report before confirmation?",
+    "options": {
+      "A": "The appointing authority or FCSC",
+      "B": "Officer’s close friends",
+      "C": "External auditors",
+      "D": "Union leaders"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 232,
+    "question": "A probation report should cover the officer’s:",
+    "options": {
+      "A": "Performance, conduct, and suitability",
+      "B": "Religious beliefs",
+      "C": "Political opinions",
+      "D": "Hobbies"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 233,
+    "question": "Failure in departmental exams without justification leads to:",
+    "options": {
+      "A": "Non-confirmation or termination",
+      "B": "Annual leave",
+      "C": "Study leave",
+      "D": "Leave allowance"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 234,
+    "question": "Probation reports must be:",
+    "options": {
+      "A": "Submitted at the right time for confirmation purposes",
+      "B": "Optional",
+      "C": "Based on hearsay",
+      "D": "Delayed indefinitely"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 235,
+    "question": "Departmental examinations aim to ensure officers have:",
+    "options": {
+      "A": "Relevant skills and knowledge",
+      "B": "Union membership",
+      "C": "Political neutrality",
+      "D": "Family support"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 236,
+    "question": "Who sets the marking scheme for departmental exams?",
+    "options": {
+      "A": "The exam authority appointed by FCSC/HoS",
+      "B": "The officer’s family",
+      "C": "Colleagues in the same rank",
+      "D": "The union"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 237,
+    "question": "What happens if a probation report is unfavorable?",
+    "options": {
+      "A": "Probation may be extended or appointment terminated",
+      "B": "Officer is confirmed immediately",
+      "C": "Officer is granted annual leave",
+      "D": "Officer is promoted"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 238,
+    "question": "Officers should be informed of examination failures:",
+    "options": {
+      "A": "Promptly with reasons and implications",
+      "B": "After retirement",
+      "C": "Through rumors",
+      "D": "Never"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 239,
+    "question": "Probation reports should NOT include:",
+    "options": {
+      "A": "Officer’s work habits and integrity",
+      "B": "Detailed misconduct records if any",
+      "C": "Personal political opinions",
+      "D": "Evidence of competence"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 240,
+    "question": "PSR expects supervisors to give probationers:",
+    "options": {
+      "A": "Clear feedback and guidance",
+      "B": "Only punishment",
+      "C": "No information",
+      "D": "Unlimited leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 241,
+    "question": "Which document supports decision-making on confirmation?",
+    "options": {
+      "A": "Probation report and exam results",
+      "B": "Annual leave form",
+      "C": "Pension form",
+      "D": "Union card"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 242,
+    "question": "Departmental exams are conducted with:",
+    "options": {
+      "A": "Strict adherence to fairness and transparency",
+      "B": "Secrecy and bias",
+      "C": "Political control",
+      "D": "Irregularity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 243,
+    "question": "Probation reports are required even if:",
+    "options": {
+      "A": "Officer is likely to be confirmed",
+      "B": "Officer is a family member",
+      "C": "Officer is on casual leave",
+      "D": "Officer is a union leader"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 244,
+    "question": "Officers who fail exams after two attempts may:",
+    "options": {
+      "A": "Be terminated if no justification exists",
+      "B": "Be automatically confirmed",
+      "C": "Get indefinite probation",
+      "D": "Receive study leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 245,
+    "question": "Which action invalidates a probation report?",
+    "options": {
+      "A": "Falsifying information",
+      "B": "Objectivity",
+      "C": "Detailed performance analysis",
+      "D": "Supervisor’s signature"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 246,
+    "question": "Officers must be evaluated based on:",
+    "options": {
+      "A": "Job performance and suitability",
+      "B": "Personal bias",
+      "C": "Tribal considerations",
+      "D": "Political support"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 247,
+    "question": "Departmental exam results must be:",
+    "options": {
+      "A": "Communicated officially and kept in records",
+      "B": "Shared on social media",
+      "C": "Ignored by supervisors",
+      "D": "Destroyed after marking"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 248,
+    "question": "Probation reports that are incomplete lead to:",
+    "options": {
+      "A": "Delay in confirmation",
+      "B": "Automatic promotion",
+      "C": "Annual leave",
+      "D": "Training abroad"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 249,
+    "question": "Departmental exams ensure:",
+    "options": {
+      "A": "Competence and service efficiency",
+      "B": "Political gains",
+      "C": "Religious balance",
+      "D": "Office politics"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 250,
+    "question": "PSR requires probation reports to be:",
+    "options": {
+      "A": "Honest, complete, and timely",
+      "B": "Written secretly with bias",
+      "C": "Done verbally without record",
+      "D": "Deferred until retirement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 251,
+    "question": "Performance appraisal in PSR is designed to:",
+    "options": {
+      "A": "Evaluate officer’s performance and potential for higher responsibilities",
+      "B": "Replace promotion examinations",
+      "C": "Decide union dues",
+      "D": "Determine leave allowance"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 252,
+    "question": "Who is responsible for completing annual performance appraisal forms?",
+    "options": {
+      "A": "The officer’s immediate supervisor",
+      "B": "The officer’s family",
+      "C": "Labour unions",
+      "D": "External auditors"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 253,
+    "question": "The PSR requires that performance appraisal must be:",
+    "options": {
+      "A": "Objective and based on measurable criteria",
+      "B": "Conducted secretly without records",
+      "C": "Based on rumors",
+      "D": "Influenced by political leaders"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 254,
+    "question": "Promotion is primarily based on:",
+    "options": {
+      "A": "Merit, performance, and availability of vacancies",
+      "B": "Union membership",
+      "C": "Personal wealth",
+      "D": "Tribal affiliations"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 255,
+    "question": "Which of these documents is crucial in making promotion decisions?",
+    "options": {
+      "A": "Performance appraisal reports",
+      "B": "Pension statements",
+      "C": "Leave rosters",
+      "D": "Union registers"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 256,
+    "question": "PSR emphasizes that performance appraisal should be completed:",
+    "options": {
+      "A": "Annually and promptly",
+      "B": "Once in five years",
+      "C": "Only at retirement",
+      "D": "Whenever the officer requests"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 257,
+    "question": "Which officer must countersign performance appraisal reports?",
+    "options": {
+      "A": "A superior officer higher than the appraiser",
+      "B": "The officer’s friend",
+      "C": "Union leaders",
+      "D": "External consultants"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 258,
+    "question": "Promotion exercises must reflect:",
+    "options": {
+      "A": "Federal character principle",
+      "B": "Political preference",
+      "C": "Tribal dominance",
+      "D": "Officer’s financial contributions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 259,
+    "question": "When performance appraisal reports are inaccurate, the consequence may be:",
+    "options": {
+      "A": "Wrongful promotions or stagnation",
+      "B": "Improved productivity",
+      "C": "Automatic leave allowance",
+      "D": "Compulsory training"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 260,
+    "question": "PSR states that promotion examinations are required:",
+    "options": {
+      "A": "For certain grades and cadres as specified by FCSC",
+      "B": "Only when the officer wishes",
+      "C": "For retirees",
+      "D": "For casual staff"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 261,
+    "question": "Who conducts promotion examinations in the Federal Public Service?",
+    "options": {
+      "A": "Federal Civil Service Commission (FCSC)",
+      "B": "Political appointees",
+      "C": "Labour unions",
+      "D": "The media"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 262,
+    "question": "Accelerated promotion can be given for:",
+    "options": {
+      "A": "Exceptional performance or passing prescribed professional exams",
+      "B": "Absenteeism",
+      "C": "Personal political support",
+      "D": "Financial contributions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 263,
+    "question": "Which of the following is NOT a criterion for promotion?",
+    "options": {
+      "A": "Performance appraisal",
+      "B": "Seniority",
+      "C": "Vacancy in the higher grade",
+      "D": "Officer’s hobbies"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 264,
+    "question": "Promotion without vacancy is:",
+    "options": {
+      "A": "Prohibited under PSR",
+      "B": "Allowed if officer is popular",
+      "C": "Done with union approval",
+      "D": "Done after annual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 265,
+    "question": "What is the purpose of the performance appraisal interview?",
+    "options": {
+      "A": "Discuss performance, provide feedback, and set objectives",
+      "B": "Approve union dues",
+      "C": "Determine officer’s political views",
+      "D": "Allocate leave allowance"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 266,
+    "question": "Officers who do not meet the required appraisal standard may:",
+    "options": {
+      "A": "Be denied promotion or recommended for training",
+      "B": "Be confirmed automatically",
+      "C": "Get annual leave",
+      "D": "Be promoted regardless"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 267,
+    "question": "Who signs the promotion letter?",
+    "options": {
+      "A": "The appointing authority (e.g., FCSC)",
+      "B": "The officer’s colleague",
+      "C": "Union leader",
+      "D": "External auditors"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 268,
+    "question": "Performance appraisal ratings should be:",
+    "options": {
+      "A": "Evidence-based and not arbitrary",
+      "B": "Influenced by friendship",
+      "C": "Determined by political leaders",
+      "D": "Based on union popularity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 269,
+    "question": "The PSR encourages feedback from appraisal because:",
+    "options": {
+      "A": "It improves performance and motivation",
+      "B": "It increases union membership",
+      "C": "It prevents leave applications",
+      "D": "It determines pension"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 270,
+    "question": "A promotion exercise must be:",
+    "options": {
+      "A": "Competitive and transparent",
+      "B": "Done secretly",
+      "C": "Based on political affiliations",
+      "D": "Influenced by personal friendships"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 271,
+    "question": "Which officer keeps completed appraisal reports?",
+    "options": {
+      "A": "HR/Personnel Department",
+      "B": "Union leaders",
+      "C": "The officer’s spouse",
+      "D": "Media organizations"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 272,
+    "question": "Promotion interviews assess:",
+    "options": {
+      "A": "Officer’s suitability for higher responsibilities",
+      "B": "The officer’s family ties",
+      "C": "Religious preferences",
+      "D": "Social activities"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 273,
+    "question": "Failure to conduct annual performance appraisal can lead to:",
+    "options": {
+      "A": "Poor decision-making in promotions",
+      "B": "Extra leave allowance",
+      "C": "Union penalties",
+      "D": "Automatic confirmation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 274,
+    "question": "Federal Character in promotions means:",
+    "options": {
+      "A": "Reflecting equitable representation of all states",
+      "B": "Favouring only one state",
+      "C": "Allocating posts randomly",
+      "D": "Ignoring merit"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 275,
+    "question": "Which of the following is a key principle guiding promotions?",
+    "options": {
+      "A": "Fairness and equal opportunity",
+      "B": "Secrecy and bias",
+      "C": "Friendship-based recommendations",
+      "D": "Political manipulation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 276,
+    "question": "What happens if an officer declines a promotion?",
+    "options": {
+      "A": "Officer remains in current grade and vacancy is filled by next eligible candidate",
+      "B": "Officer is dismissed",
+      "C": "Officer must retire",
+      "D": "Officer loses annual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 277,
+    "question": "Training needs identified during appraisal must be:",
+    "options": {
+      "A": "Addressed through relevant courses",
+      "B": "Ignored",
+      "C": "Postponed till retirement",
+      "D": "Paid by unions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 278,
+    "question": "Promotion by examination is common in:",
+    "options": {
+      "A": "Professional and technical cadres",
+      "B": "Political offices",
+      "C": "Casual staff",
+      "D": "Pensioners"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 279,
+    "question": "Who approves promotion recommendations?",
+    "options": {
+      "A": "FCSC or other appointing authority",
+      "B": "Media houses",
+      "C": "The officer’s family",
+      "D": "Religious leaders"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 280,
+    "question": "Performance appraisal reports influence:",
+    "options": {
+      "A": "Promotions, postings, and training",
+      "B": "Pension calculations only",
+      "C": "Leave allowances",
+      "D": "Social events"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 281,
+    "question": "Officers who consistently score poorly in appraisals:",
+    "options": {
+      "A": "May be considered for redeployment, training, or disciplinary action",
+      "B": "Must be promoted",
+      "C": "Get automatic confirmation",
+      "D": "Receive pension increase"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 282,
+    "question": "Promotion boards are set up to:",
+    "options": {
+      "A": "Assess officers and recommend those eligible for promotion",
+      "B": "Approve annual leave",
+      "C": "Plan union elections",
+      "D": "Organize social functions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 283,
+    "question": "What is required before a promotion decision is finalized?",
+    "options": {
+      "A": "Appraisal reports and confirmation of vacancy",
+      "B": "Union approval",
+      "C": "Officer’s political support",
+      "D": "Officer’s hobbies"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 284,
+    "question": "Officers should be informed of promotion results:",
+    "options": {
+      "A": "Officially in writing",
+      "B": "Through rumors",
+      "C": "Only on social media",
+      "D": "At retirement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 285,
+    "question": "Performance appraisal is a key tool in:",
+    "options": {
+      "A": "Career development and succession planning",
+      "B": "Reducing annual leave",
+      "C": "Political campaigns",
+      "D": "Union membership drives"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 286,
+    "question": "Promotions may be withheld if:",
+    "options": {
+      "A": "The officer is under disciplinary proceedings",
+      "B": "Officer is on annual leave",
+      "C": "Officer works overtime",
+      "D": "Vacancy exists"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 287,
+    "question": "Which statement best describes merit-based promotion?",
+    "options": {
+      "A": "It is based on competence and performance, not favoritism",
+      "B": "It is based solely on seniority",
+      "C": "It is determined by union support",
+      "D": "It is given without assessment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 288,
+    "question": "Which officer can challenge unfair appraisal ratings?",
+    "options": {
+      "A": "The officer concerned through proper channels",
+      "B": "Union leader",
+      "C": "Family friend",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 289,
+    "question": "Performance appraisal forms must be:",
+    "options": {
+      "A": "Completed honestly and signed by all required officers",
+      "B": "Destroyed after submission",
+      "C": "Optional",
+      "D": "Done verbally only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 290,
+    "question": "Which of the following is NOT a reason for promotion?",
+    "options": {
+      "A": "Availability of vacancy",
+      "B": "Performance and potential",
+      "C": "Length of service alone",
+      "D": "Completion of appraisal"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 291,
+    "question": "Federal Character principle ensures promotions are:",
+    "options": {
+      "A": "Balanced and equitable among states",
+      "B": "Based only on seniority",
+      "C": "Done secretly",
+      "D": "Influenced by religion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 292,
+    "question": "Officers eligible for promotion must meet:",
+    "options": {
+      "A": "Minimum years on current grade and pass required exams/appraisals",
+      "B": "Personal financial contribution targets",
+      "C": "Union campaign expectations",
+      "D": "Religious recommendations"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 293,
+    "question": "When should promotion interviews be conducted?",
+    "options": {
+      "A": "Before vacancies are filled",
+      "B": "After retirement",
+      "C": "Only when officer applies for leave",
+      "D": "Anytime unions demand"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 294,
+    "question": "Officers not satisfied with promotion results may:",
+    "options": {
+      "A": "Appeal through proper administrative channels",
+      "B": "Resign immediately",
+      "C": "Campaign politically",
+      "D": "Ignore the issue"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 295,
+    "question": "Annual performance appraisal is mandatory for:",
+    "options": {
+      "A": "All officers in the Federal Public Service",
+      "B": "Political appointees only",
+      "C": "Pensioners",
+      "D": "Casual workers"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 296,
+    "question": "Promotion decisions must be communicated:",
+    "options": {
+      "A": "In writing to affected officers",
+      "B": "Orally without records",
+      "C": "Through union notices only",
+      "D": "On social media platforms"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 297,
+    "question": "Exceptional officers may be considered for:",
+    "options": {
+      "A": "Accelerated promotion",
+      "B": "Demotion",
+      "C": "Compulsory retirement",
+      "D": "Union chairmanship"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 298,
+    "question": "Promotion without appraisal is:",
+    "options": {
+      "A": "Contrary to PSR",
+      "B": "Allowed at any time",
+      "C": "Recommended by unions",
+      "D": "Applicable to all grades"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 299,
+    "question": "Training and appraisal together help in:",
+    "options": {
+      "A": "Building capacity and improving performance",
+      "B": "Avoiding promotions",
+      "C": "Reducing salary",
+      "D": "Encouraging political favoritism"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 300,
+    "question": "The ultimate goal of performance appraisal and promotion is to:",
+    "options": {
+      "A": "Improve service delivery and motivate officers",
+      "B": "Punish officers",
+      "C": "Reduce staff numbers",
+      "D": "Please political leaders"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 301,
+    "question": "Under PSR, retirement in the Federal Public Service is compulsory at:",
+    "options": {
+      "A": "60 years of age or 35 years of service, whichever is earlier",
+      "B": "65 years of age or 40 years of service",
+      "C": "55 years of age only",
+      "D": "Any time the officer desires"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 302,
+    "question": "Which group of officers have a retirement age of 65 years?",
+    "options": {
+      "A": "Permanent Secretaries",
+      "B": "Non-academic staff in universities",
+      "C": "Academic staff in tertiary institutions and judicial officers",
+      "D": "Drivers"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 303,
+    "question": "Voluntary retirement can be applied for after:",
+    "options": {
+      "A": "10 years of service",
+      "B": "15 years of service with proper notice",
+      "C": "2 years of service",
+      "D": "35 years of service"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 304,
+    "question": "How many months’ notice is required for voluntary retirement?",
+    "options": {
+      "A": "6 months",
+      "B": "3 months or payment of 3 months’ salary in lieu",
+      "C": "1 year",
+      "D": "1 month"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 305,
+    "question": "Resignation from service requires:",
+    "options": {
+      "A": "One month notice or payment of one month salary in lieu",
+      "B": "No notice at all",
+      "C": "Political approval",
+      "D": "Recommendation by union"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 306,
+    "question": "Officers dismissed from service:",
+    "options": {
+      "A": "Forfeit terminal benefits except contributory pension contributions",
+      "B": "Receive full retirement benefits",
+      "C": "Are granted leave allowance",
+      "D": "Are re-engaged automatically"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 307,
+    "question": "Which officer has the authority to approve compulsory retirement?",
+    "options": {
+      "A": "Federal Civil Service Commission (FCSC)",
+      "B": "Officer’s friend",
+      "C": "Labour union",
+      "D": "Ministry of Finance"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 308,
+    "question": "Retirement benefits are calculated based on:",
+    "options": {
+      "A": "Final emoluments and years of service",
+      "B": "Officer’s personal savings",
+      "C": "Officer’s hobbies",
+      "D": "Union recommendations"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 309,
+    "question": "Death in service entitles the next of kin to:",
+    "options": {
+      "A": "Death benefits and accrued pension/gratuity",
+      "B": "Leave allowance",
+      "C": "Promotion",
+      "D": "Training benefits"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 310,
+    "question": "Resignation differs from retirement because:",
+    "options": {
+      "A": "Resigned officers are not entitled to pension/gratuity unless they qualify",
+      "B": "Retirement is always voluntary",
+      "C": "Retirement does not require notice",
+      "D": "Resignation is for older officers"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 311,
+    "question": "Which officer processes pension and gratuity claims?",
+    "options": {
+      "A": "Pension Department of the Office of the Head of Service",
+      "B": "Union leader",
+      "C": "Political appointee",
+      "D": "HR officer only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 312,
+    "question": "Compulsory retirement as a punishment differs from normal retirement because:",
+    "options": {
+      "A": "It is imposed due to disciplinary reasons",
+      "B": "It allows extra benefits",
+      "C": "It requires no process",
+      "D": "It is requested by the officer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 313,
+    "question": "Which of the following is NOT a reason for retirement?",
+    "options": {
+      "A": "Reaching mandatory age or years of service",
+      "B": "Health reasons (with medical board approval)",
+      "C": "Failure in departmental examination",
+      "D": "Political affiliation"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 314,
+    "question": "Death gratuity is payable to:",
+    "options": {
+      "A": "Next of kin of officer who died in active service",
+      "B": "Officer on annual leave",
+      "C": "Officer who resigned",
+      "D": "Pensioners"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 315,
+    "question": "When an officer resigns without proper notice:",
+    "options": {
+      "A": "Salary in lieu of notice is deducted",
+      "B": "Officer is rewarded with extra benefits",
+      "C": "Officer automatically qualifies for pension",
+      "D": "Officer’s record is erased"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 316,
+    "question": "Retirement letters must be submitted to:",
+    "options": {
+      "A": "Authorized officer or appointing authority",
+      "B": "Officer’s family",
+      "C": "Union leader",
+      "D": "A colleague"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 317,
+    "question": "Retirement on medical grounds must be supported by:",
+    "options": {
+      "A": "A medical board’s recommendation",
+      "B": "Family approval",
+      "C": "Political clearance",
+      "D": "Officer’s personal statement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 318,
+    "question": "Officers retiring voluntarily are entitled to:",
+    "options": {
+      "A": "Pension and gratuity if they qualify",
+      "B": "No benefits",
+      "C": "Only union contributions",
+      "D": "Annual leave allowance only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 319,
+    "question": "PSR provides that terminal benefits must be processed:",
+    "options": {
+      "A": "Promptly to avoid hardship to the retiree or family",
+      "B": "Only after 10 years",
+      "C": "Without documentation",
+      "D": "At officer’s discretion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 320,
+    "question": "When an officer dies, who is entitled to receive the benefits?",
+    "options": {
+      "A": "Registered next of kin or legal beneficiaries",
+      "B": "Friends",
+      "C": "Supervisor",
+      "D": "Union chairman"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 321,
+    "question": "Retirement notice period for compulsory retirement is:",
+    "options": {
+      "A": "As determined by appointing authority",
+      "B": "3 months",
+      "C": "1 month",
+      "D": "1 year"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 322,
+    "question": "Officers retiring must hand over:",
+    "options": {
+      "A": "All government property in their possession",
+      "B": "Union documents",
+      "C": "Family land",
+      "D": "Personal property only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 323,
+    "question": "Failure to hand over government property before retirement may lead to:",
+    "options": {
+      "A": "Withholding of benefits until clearance is obtained",
+      "B": "Immediate promotion",
+      "C": "Pension increment",
+      "D": "Award of gratuity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 324,
+    "question": "Death in service benefits include:",
+    "options": {
+      "A": "Gratuity, pension, and accrued entitlements",
+      "B": "Annual leave allowance",
+      "C": "Training sponsorship",
+      "D": "Promotion for next of kin"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 325,
+    "question": "Retirement on abolition of office must be:",
+    "options": {
+      "A": "Approved and benefits paid",
+      "B": "Denied",
+      "C": "Managed by union",
+      "D": "Handled after five years"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 326,
+    "question": "Can an officer rejoin the service after resignation?",
+    "options": {
+      "A": "Yes, but only through fresh appointment process",
+      "B": "Yes, automatically",
+      "C": "No, never",
+      "D": "Only if union approves"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 327,
+    "question": "Officers must clear all debts to government before:",
+    "options": {
+      "A": "Final benefits are released",
+      "B": "Annual leave is granted",
+      "C": "Training abroad is approved",
+      "D": "Pension calculation starts"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 328,
+    "question": "Which of these does NOT qualify an officer for voluntary retirement?",
+    "options": {
+      "A": "15 years of service",
+      "B": "Medical advice",
+      "C": "Political ambition alone without resignation",
+      "D": "Age 60"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 329,
+    "question": "Pension benefits are regulated by:",
+    "options": {
+      "A": "Pension Reform Act and PSR provisions",
+      "B": "Officer’s family",
+      "C": "Political groups",
+      "D": "Union directives"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 330,
+    "question": "Which office is notified first upon death in service?",
+    "options": {
+      "A": "HR/Personnel Department of the officer’s MDA",
+      "B": "Media",
+      "C": "Union",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 331,
+    "question": "Officers compulsorily retired for misconduct may:",
+    "options": {
+      "A": "Receive reduced benefits",
+      "B": "Get accelerated promotion",
+      "C": "Retain all privileges",
+      "D": "Receive no communication"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 332,
+    "question": "Which document is required for death benefits processing?",
+    "options": {
+      "A": "Death certificate and next-of-kin form",
+      "B": "Union card",
+      "C": "Pension slip only",
+      "D": "Medical report"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 333,
+    "question": "Retirement benefits include:",
+    "options": {
+      "A": "Gratuity, pension, and outstanding entitlements",
+      "B": "Annual leave only",
+      "C": "Housing loan",
+      "D": "Training sponsorship"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 334,
+    "question": "Resignation without clearance may lead to:",
+    "options": {
+      "A": "Blacklisting from future public service appointments",
+      "B": "Automatic promotion",
+      "C": "Pension increment",
+      "D": "Annual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 335,
+    "question": "Which of the following officers is exempt from mandatory retirement at 60 years?",
+    "options": {
+      "A": "Judicial officers (65 years)",
+      "B": "Drivers",
+      "C": "Clerks",
+      "D": "Secretaries"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 336,
+    "question": "Notice of retirement must be given in:",
+    "options": {
+      "A": "Writing through official channels",
+      "B": "Social media",
+      "C": "Verbal communication",
+      "D": "Union meeting"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 337,
+    "question": "Death benefits are paid to next of kin within:",
+    "options": {
+      "A": "A reasonable period after verification",
+      "B": "One week",
+      "C": "At retirement",
+      "D": "Without documentation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 338,
+    "question": "Retirement benefits can be withheld if:",
+    "options": {
+      "A": "There are unresolved debts or unreturned property",
+      "B": "Officer submits all documents",
+      "C": "Officer attends exit training",
+      "D": "Pension account is active"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 339,
+    "question": "Retirement on medical grounds is valid only with:",
+    "options": {
+      "A": "Medical board’s certification of incapacity",
+      "B": "Union clearance",
+      "C": "Officer’s resignation letter",
+      "D": "Family request"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 340,
+    "question": "An officer who dies in service is regarded as:",
+    "options": {
+      "A": "Dying in active service with full entitlements",
+      "B": "Retired",
+      "C": "Resigned",
+      "D": "Suspended"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 341,
+    "question": "Who can recommend medical retirement?",
+    "options": {
+      "A": "Government medical board",
+      "B": "Family doctor",
+      "C": "Friends",
+      "D": "Political leader"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 342,
+    "question": "Retirement benefits are payable into:",
+    "options": {
+      "A": "Officer’s registered pension account",
+      "B": "Supervisor’s account",
+      "C": "Union account",
+      "D": "Cash handover"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 343,
+    "question": "Which of the following does NOT qualify for death benefits?",
+    "options": {
+      "A": "Next of kin of officer dismissed before death",
+      "B": "Next of kin of officer who died in active service",
+      "C": "Pensioners’ families (where applicable)",
+      "D": "Dependents named in official records"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 344,
+    "question": "Who signs the final retirement approval?",
+    "options": {
+      "A": "The appointing authority e.g., FCSC",
+      "B": "Colleague",
+      "C": "Union",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 345,
+    "question": "Officers are encouraged to attend:",
+    "options": {
+      "A": "Pre-retirement training for smooth transition",
+      "B": "Political rallies",
+      "C": "Union elections",
+      "D": "Foreign trips"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 346,
+    "question": "Pension processing requires submission of:",
+    "options": {
+      "A": "Retirement letter, clearance certificate, and service records",
+      "B": "Bank statement only",
+      "C": "Union card",
+      "D": "Passport photograph alone"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 347,
+    "question": "Retirement is confirmed effective:",
+    "options": {
+      "A": "From the date stated in the retirement letter",
+      "B": "From officer’s request date",
+      "C": "From officer’s last salary payment",
+      "D": "From union approval"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 348,
+    "question": "Death benefits are determined based on:",
+    "options": {
+      "A": "Officer’s salary, rank, and length of service",
+      "B": "Officer’s political influence",
+      "C": "Officer’s hobbies",
+      "D": "Union decision"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 349,
+    "question": "Resignation is effective from:",
+    "options": {
+      "A": "Date approved by appointing authority",
+      "B": "Date officer decides",
+      "C": "Date union approves",
+      "D": "Date of transfer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 350,
+    "question": "Which is the primary principle guiding separation from service under PSR?",
+    "options": {
+      "A": "Orderly exit with proper documentation and entitlements",
+      "B": "Political convenience",
+      "C": "Avoidance of records",
+      "D": "Union discretion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 351,
+    "question": "The primary objective of financial rules under PSR is to:",
+    "options": {
+      "A": "Ensure accountability and proper use of public funds",
+      "B": "Delay payments",
+      "C": "Reduce staff salaries",
+      "D": "Avoid documentation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 352,
+    "question": "Which document governs financial transactions in the public service alongside the PSR?",
+    "options": {
+      "A": "Financial Regulations (FR)",
+      "B": "Labour Union Constitution",
+      "C": "Staff Handbooks of private companies",
+      "D": "Political Party Manifestos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 353,
+    "question": "Officers responsible for handling public funds are referred to as:",
+    "options": {
+      "A": "Accountants and Accounting Officers",
+      "B": "Political officers",
+      "C": "Union representatives",
+      "D": "Pensioners"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 354,
+    "question": "Every payment in the service must be supported by:",
+    "options": {
+      "A": "Properly approved vouchers and documentation",
+      "B": "Verbal instructions",
+      "C": "Social media confirmation",
+      "D": "Union letters"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 355,
+    "question": "Which of the following is a key principle of financial management under PSR?",
+    "options": {
+      "A": "Funds must be spent for purposes approved in the budget",
+      "B": "Funds may be diverted for personal use",
+      "C": "Funds can be used for unofficial projects",
+      "D": "Funds must be distributed politically"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 356,
+    "question": "Advances granted to officers must be:",
+    "options": {
+      "A": "Recovered according to laid-down schedules",
+      "B": "Written off automatically",
+      "C": "Paid back only at retirement",
+      "D": "Given without records"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 357,
+    "question": "Loss of public funds through negligence is treated as:",
+    "options": {
+      "A": "Misconduct or gross misconduct",
+      "B": "Leave entitlement",
+      "C": "Promotion opportunity",
+      "D": "Pensionable act"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 358,
+    "question": "Officers who approve payments without due process are:",
+    "options": {
+      "A": "Liable for disciplinary action and possible surcharge",
+      "B": "Exempt from accountability",
+      "C": "Rewarded with bonuses",
+      "D": "Automatically promoted"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 359,
+    "question": "Imprest accounts must be:",
+    "options": {
+      "A": "Retired at the end of the financial year or as directed",
+      "B": "Kept permanently by officers",
+      "C": "Used for private businesses",
+      "D": "Converted to union funds"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 360,
+    "question": "Who is the Accounting Officer in a Ministry?",
+    "options": {
+      "A": "The Permanent Secretary",
+      "B": "The union leader",
+      "C": "Any junior staff",
+      "D": "Political party chairman"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 361,
+    "question": "Advances to officers are granted for:",
+    "options": {
+      "A": "Specific purposes such as travel or personal loans with repayment",
+      "B": "Union election campaigns",
+      "C": "Unofficial political expenses",
+      "D": "Permanent personal enrichment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 362,
+    "question": "All public officers must ensure that financial records are:",
+    "options": {
+      "A": "Accurate, up-to-date, and auditable",
+      "B": "Optional and verbal",
+      "C": "Destroyed after use",
+      "D": "Kept secret from auditors"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 363,
+    "question": "What happens when an officer misapplies public funds?",
+    "options": {
+      "A": "Officer may be surcharged and disciplined",
+      "B": "Officer is promoted",
+      "C": "Officer’s pension is increased",
+      "D": "Officer is granted annual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 364,
+    "question": "Surcharge under PSR means:",
+    "options": {
+      "A": "Recovery of loss or irregular payment from the responsible officer",
+      "B": "Extra allowance",
+      "C": "Bonus salary increment",
+      "D": "Union levy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 365,
+    "question": "Which of the following is NOT a recognized advance?",
+    "options": {
+      "A": "Motor vehicle advance",
+      "B": "Housing loan advance",
+      "C": "Travel imprest advance",
+      "D": "Personal business startup grant"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 366,
+    "question": "Officers must retire advances by:",
+    "options": {
+      "A": "Submitting receipts and balances within the stipulated time",
+      "B": "Spending it on personal needs",
+      "C": "Transferring it to family members",
+      "D": "Ignoring repayment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 367,
+    "question": "Payments exceeding approved limits must:",
+    "options": {
+      "A": "Receive prior approval from the appropriate authority",
+      "B": "Be kept secret",
+      "C": "Be adjusted without records",
+      "D": "Be made verbally"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 368,
+    "question": "Who is responsible for ensuring budgetary control in MDAs?",
+    "options": {
+      "A": "Accounting Officers",
+      "B": "Labour unions",
+      "C": "Media",
+      "D": "Political appointees"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 369,
+    "question": "Misappropriation of public funds attracts:",
+    "options": {
+      "A": "Dismissal and/or criminal prosecution",
+      "B": "Annual leave bonus",
+      "C": "Study leave",
+      "D": "Training abroad"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 370,
+    "question": "Public money must be kept in:",
+    "options": {
+      "A": "Designated government bank accounts",
+      "B": "Private savings accounts",
+      "C": "Union treasury",
+      "D": "Family homes"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 371,
+    "question": "Virement means:",
+    "options": {
+      "A": "Reallocation of funds from one budget head to another with approval",
+      "B": "Unauthorized diversion of funds",
+      "C": "Payment of pension",
+      "D": "Union dues collection"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 372,
+    "question": "Who grants virement approval?",
+    "options": {
+      "A": "The Minister of Finance or as delegated by law",
+      "B": "Union leaders",
+      "C": "Any officer in the ministry",
+      "D": "Political party officials"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 373,
+    "question": "Expenditure without budgetary provision is:",
+    "options": {
+      "A": "A violation of PSR and Financial Regulations",
+      "B": "Encouraged during election years",
+      "C": "Approved automatically",
+      "D": "Rewarded with bonuses"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 374,
+    "question": "Auditors under PSR are required to:",
+    "options": {
+      "A": "Review and report on financial compliance and irregularities",
+      "B": "Approve personal loans",
+      "C": "Promote officers",
+      "D": "Conduct training only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 375,
+    "question": "Government cheques must be:",
+    "options": {
+      "A": "Signed by designated signatories",
+      "B": "Signed by any available staff",
+      "C": "Left unsigned",
+      "D": "Issued verbally"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 376,
+    "question": "Officers must not use government funds for:",
+    "options": {
+      "A": "Private investments or political campaigns",
+      "B": "Official travel expenses",
+      "C": "Official projects",
+      "D": "Approved purchases"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 377,
+    "question": "What happens when an officer retires advances late?",
+    "options": {
+      "A": "Disciplinary action may be taken",
+      "B": "Officer is promoted",
+      "C": "Pension is increased",
+      "D": "Officer is given more advances"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 378,
+    "question": "The PSR requires that financial irregularities be:",
+    "options": {
+      "A": "Reported immediately to the appropriate authority",
+      "B": "Hidden from auditors",
+      "C": "Ignored if minor",
+      "D": "Left for unions to address"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 379,
+    "question": "Petty cash is managed through:",
+    "options": {
+      "A": "Imprest accounts with strict retirement procedures",
+      "B": "Personal bank accounts",
+      "C": "Union accounts",
+      "D": "Verbal approvals"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 380,
+    "question": "Public funds lost through fraud must be:",
+    "options": {
+      "A": "Recovered from the responsible officer and reported",
+      "B": "Ignored",
+      "C": "Paid for by the union",
+      "D": "Replaced from pension funds"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 381,
+    "question": "Who can authorize payments in MDAs?",
+    "options": {
+      "A": "Accounting Officers or delegated officers with proper authority",
+      "B": "Any staff",
+      "C": "Union leaders",
+      "D": "External consultants"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 382,
+    "question": "What is the penalty for unauthorized expenditure?",
+    "options": {
+      "A": "Surcharge, disciplinary action, or prosecution",
+      "B": "Extra leave",
+      "C": "Annual bonus",
+      "D": "Pension increase"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 383,
+    "question": "Officers must ensure that receipts are:",
+    "options": {
+      "A": "Issued for all revenue collected",
+      "B": "Optional",
+      "C": "Signed by union",
+      "D": "Destroyed"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 384,
+    "question": "PSR states that all financial instructions must be:",
+    "options": {
+      "A": "Obeyed and documented",
+      "B": "Optional",
+      "C": "Ignored",
+      "D": "Delayed"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 385,
+    "question": "What is the role of the internal audit unit?",
+    "options": {
+      "A": "Ensure compliance with financial rules and detect irregularities",
+      "B": "Pay staff salaries",
+      "C": "Conduct union elections",
+      "D": "Process pensions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 386,
+    "question": "Officers responsible for cash must:",
+    "options": {
+      "A": "Maintain accurate cashbooks and records",
+      "B": "Keep money at home",
+      "C": "Avoid documentation",
+      "D": "Spend funds freely"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 387,
+    "question": "Advances not retired within the stipulated period are:",
+    "options": {
+      "A": "Recovered from officer’s salary",
+      "B": "Written off automatically",
+      "C": "Transferred to union accounts",
+      "D": "Ignored"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 388,
+    "question": "Financial records must be kept for:",
+    "options": {
+      "A": "Auditing and future reference",
+      "B": "Personal use only",
+      "C": "Political parties",
+      "D": "Union campaigns"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 389,
+    "question": "Who is ultimately accountable for financial management in a ministry?",
+    "options": {
+      "A": "The Accounting Officer (Permanent Secretary)",
+      "B": "The union",
+      "C": "The Accountant-General",
+      "D": "Junior staff"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 390,
+    "question": "Unauthorized loans from public funds are:",
+    "options": {
+      "A": "Prohibited and punishable",
+      "B": "Allowed with verbal consent",
+      "C": "Encouraged for senior officers",
+      "D": "Processed by unions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 391,
+    "question": "Financial irregularities discovered during audit must be:",
+    "options": {
+      "A": "Corrected and reported promptly",
+      "B": "Ignored if minor",
+      "C": "Hidden from superiors",
+      "D": "Posted online"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 392,
+    "question": "Officers must obtain prior approval before:",
+    "options": {
+      "A": "Incurring expenditure outside approved budget lines",
+      "B": "Submitting annual leave request",
+      "C": "Attending training",
+      "D": "Signing appraisal reports"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 393,
+    "question": "Which officer is responsible for ensuring budget execution aligns with appropriation?",
+    "options": {
+      "A": "Accounting Officer",
+      "B": "Labour union leader",
+      "C": "Director of Press",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 394,
+    "question": "Unretired advances at retirement:",
+    "options": {
+      "A": "Are deducted from retirement benefits",
+      "B": "Are written off",
+      "C": "Are ignored",
+      "D": "Increase gratuity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 395,
+    "question": "Vouchers must be:",
+    "options": {
+      "A": "Certified correct before payment",
+      "B": "Skipped to save time",
+      "C": "Prepared verbally",
+      "D": "Signed by junior staff"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 396,
+    "question": "The PSR requires that all revenue collections be:",
+    "options": {
+      "A": "Paid promptly into designated government accounts",
+      "B": "Held by officers for 30 days",
+      "C": "Shared among staff",
+      "D": "Spent without records"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 397,
+    "question": "Officers found guilty of embezzlement may face:",
+    "options": {
+      "A": "Dismissal, surcharge, and criminal prosecution",
+      "B": "Annual bonus",
+      "C": "Automatic promotion",
+      "D": "Study leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 398,
+    "question": "What is the role of the Accountant-General of the Federation?",
+    "options": {
+      "A": "Supervise and coordinate financial operations of the Federal Government",
+      "B": "Conduct promotions",
+      "C": "Process union elections",
+      "D": "Manage pensions alone"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 399,
+    "question": "Which of the following can lead to surcharge?",
+    "options": {
+      "A": "Negligence leading to financial loss",
+      "B": "Passing a promotion exam",
+      "C": "Taking annual leave",
+      "D": "Attending training"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 400,
+    "question": "What is the ultimate goal of financial rules under PSR?",
+    "options": {
+      "A": "Transparency, accountability, and efficient public service delivery",
+      "B": "Favouritism",
+      "C": "Political dominance",
+      "D": "Union empowerment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 401,
+    "question": "A petition under PSR is a:",
+    "options": {
+      "A": "Formal written request seeking redress of a grievance",
+      "B": "Social media complaint",
+      "C": "Verbal complaint to a friend",
+      "D": "Political campaign statement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 402,
+    "question": "Who is the first authority an officer should submit a petition to?",
+    "options": {
+      "A": "Immediate superior or authorized officer",
+      "B": "The President",
+      "C": "Union chairman",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 403,
+    "question": "PSR requires petitions to be:",
+    "options": {
+      "A": "In writing, dated, and signed",
+      "B": "Anonymous always",
+      "C": "Posted on social media",
+      "D": "Verbal only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 404,
+    "question": "An appeal differs from a petition because it:",
+    "options": {
+      "A": "Challenges a decision already taken",
+      "B": "Seeks a new appointment",
+      "C": "Requests annual leave",
+      "D": "Is always anonymous"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 405,
+    "question": "Officers must exhaust which process before appealing to higher authority?",
+    "options": {
+      "A": "Internal administrative channels",
+      "B": "Media interviews",
+      "C": "Union rallies",
+      "D": "Social networks"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 406,
+    "question": "How many copies of a petition are usually required?",
+    "options": {
+      "A": "As directed by the receiving authority",
+      "B": "Only one",
+      "C": "Unlimited",
+      "D": "None"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 407,
+    "question": "Petitions lacking evidence:",
+    "options": {
+      "A": "Are likely to be disregarded",
+      "B": "Are processed immediately",
+      "C": "Lead to automatic approval",
+      "D": "Are signed by union"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 408,
+    "question": "The PSR discourages frivolous petitions because they:",
+    "options": {
+      "A": "Waste official time and resources",
+      "B": "Improve productivity",
+      "C": "Earn officers bonuses",
+      "D": "Increase union dues"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 409,
+    "question": "Anonymous petitions may be investigated if:",
+    "options": {
+      "A": "They disclose serious issues supported by evidence",
+      "B": "They are abusive",
+      "C": "They are political",
+      "D": "They lack merit"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 410,
+    "question": "What must an officer attach when appealing a disciplinary decision?",
+    "options": {
+      "A": "Copies of the decision being appealed and supporting evidence",
+      "B": "Personal bank statement",
+      "C": "Union card",
+      "D": "Travel documents"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 411,
+    "question": "Appeals must be lodged within:",
+    "options": {
+      "A": "The time limit specified by PSR (usually 6 weeks of the decision)",
+      "B": "10 years",
+      "C": "1 year",
+      "D": "At officer’s discretion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 412,
+    "question": "Officers can appeal dismissal to:",
+    "options": {
+      "A": "Federal Civil Service Commission (FCSC)",
+      "B": "Union leader",
+      "C": "Political leader",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 413,
+    "question": "What is the role of the Head of Service in appeals?",
+    "options": {
+      "A": "Transmit and review appeals where necessary",
+      "B": "Conduct elections",
+      "C": "Approve union meetings",
+      "D": "Grant loans"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 414,
+    "question": "A petition should state:",
+    "options": {
+      "A": "Facts clearly and concisely",
+      "B": "Rumors and assumptions",
+      "C": "Political affiliations",
+      "D": "Hearsay evidence"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 415,
+    "question": "When can an officer approach the National Industrial Court?",
+    "options": {
+      "A": "After exhausting internal appeal mechanisms",
+      "B": "At the start of a disciplinary case",
+      "C": "Without any evidence",
+      "D": "At retirement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 416,
+    "question": "Which petitions are not entertained?",
+    "options": {
+      "A": "Frivolous, abusive, or unsigned petitions",
+      "B": "Petitions with evidence",
+      "C": "Petitions from aggrieved officers",
+      "D": "Petitions from next of kin"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 417,
+    "question": "Appeals against promotion decisions must be based on:",
+    "options": {
+      "A": "Evidence of irregularity or unfairness",
+      "B": "Union endorsement",
+      "C": "Political affiliation",
+      "D": "Media campaigns"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 418,
+    "question": "Officers submitting petitions must avoid:",
+    "options": {
+      "A": "False allegations",
+      "B": "Attaching evidence",
+      "C": "Being concise",
+      "D": "Following due process"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 419,
+    "question": "Who considers appeals from junior officers?",
+    "options": {
+      "A": "Authorized officer or FCSC depending on the case",
+      "B": "Union alone",
+      "C": "Friends of the officer",
+      "D": "Colleagues"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 420,
+    "question": "What happens if an officer files a false petition?",
+    "options": {
+      "A": "Disciplinary action may be taken against the petitioner",
+      "B": "Officer is promoted",
+      "C": "Officer’s pension is increased",
+      "D": "Petition is granted automatically"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 421,
+    "question": "Appeals against retirement decisions are submitted to:",
+    "options": {
+      "A": "Federal Civil Service Commission",
+      "B": "Labour union",
+      "C": "Political appointees",
+      "D": "Media houses"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 422,
+    "question": "When appealing, the officer must:",
+    "options": {
+      "A": "State grounds of appeal clearly",
+      "B": "Rely on rumors",
+      "C": "Submit anonymously",
+      "D": "Attach no evidence"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 423,
+    "question": "Petitions concerning financial irregularities should be forwarded to:",
+    "options": {
+      "A": "Accountant-General or Auditor-General",
+      "B": "Union leader",
+      "C": "Political leader",
+      "D": "Family member"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 424,
+    "question": "PSR allows next of kin to petition on behalf of an officer when:",
+    "options": {
+      "A": "The officer is deceased or incapacitated",
+      "B": "Officer is on leave",
+      "C": "Officer is promoted",
+      "D": "Officer retires voluntarily"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 425,
+    "question": "An officer may appeal a suspension decision if:",
+    "options": {
+      "A": "Due process was not followed",
+      "B": "They are on leave",
+      "C": "They want annual bonus",
+      "D": "Union requests"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 426,
+    "question": "Petitions must be submitted through:",
+    "options": {
+      "A": "Proper official channels unless otherwise directed",
+      "B": "Friends",
+      "C": "Political meetings",
+      "D": "Social media"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 427,
+    "question": "What happens to petitions not properly addressed?",
+    "options": {
+      "A": "They may be returned or ignored",
+      "B": "They are processed immediately",
+      "C": "They are sent to the media",
+      "D": "They are approved automatically"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 428,
+    "question": "Appeals concerning death benefits may be filed by:",
+    "options": {
+      "A": "Registered next of kin or legal beneficiaries",
+      "B": "Union leader",
+      "C": "Political appointee",
+      "D": "Colleagues"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 429,
+    "question": "What is the primary purpose of the appeal process?",
+    "options": {
+      "A": "Ensure fairness and protect officers’ rights",
+      "B": "Delay decisions",
+      "C": "Increase union membership",
+      "D": "Politicize the service"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 430,
+    "question": "Appeals are considered invalid when:",
+    "options": {
+      "A": "They are submitted out of time without justification",
+      "B": "They are factual",
+      "C": "They follow proper channels",
+      "D": "They are submitted in writing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 431,
+    "question": "Petitions must not be copied unnecessarily to:",
+    "options": {
+      "A": "Multiple authorities as it may prejudice investigation",
+      "B": "The right authority",
+      "C": "Authorized officer",
+      "D": "Appointing authority"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 432,
+    "question": "Appeals to the President can only be made:",
+    "options": {
+      "A": "After all administrative channels have been exhausted",
+      "B": "At the beginning of a case",
+      "C": "Through union only",
+      "D": "Via the media"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 433,
+    "question": "The PSR expects officers to handle petitions:",
+    "options": {
+      "A": "Confidentially and fairly",
+      "B": "By leaking information",
+      "C": "Through union alone",
+      "D": "With personal bias"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 434,
+    "question": "Who must keep records of all petitions and appeals?",
+    "options": {
+      "A": "HR/Personnel Department",
+      "B": "Union",
+      "C": "Family",
+      "D": "Political groups"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 435,
+    "question": "Officers dissatisfied with confirmation decisions can:",
+    "options": {
+      "A": "Appeal through proper channels",
+      "B": "Go on strike immediately",
+      "C": "Resign",
+      "D": "Ignore the matter"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 436,
+    "question": "An appeal must be supported by:",
+    "options": {
+      "A": "Evidence and reasons for disagreement",
+      "B": "Union campaign",
+      "C": "Rumors",
+      "D": "Verbal instructions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 437,
+    "question": "Officers must not use petitions to:",
+    "options": {
+      "A": "Victimize superiors or colleagues falsely",
+      "B": "Seek legitimate redress",
+      "C": "Present grievances",
+      "D": "Clarify misunderstandings"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 438,
+    "question": "PSR treats malicious petitions as:",
+    "options": {
+      "A": "Misconduct punishable by disciplinary action",
+      "B": "Acceptable practice",
+      "C": "Union strategy",
+      "D": "Promotion criteria"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 439,
+    "question": "Which petition must be fast-tracked?",
+    "options": {
+      "A": "Those relating to wrongful dismissal or retirement",
+      "B": "Social petitions",
+      "C": "Petitions about hobbies",
+      "D": "Union registration"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 440,
+    "question": "Appeals relating to pensions are made to:",
+    "options": {
+      "A": "Pension Transitional Arrangement Directorate (PTAD) or FCSC",
+      "B": "Labour union",
+      "C": "Auditor-General",
+      "D": "Political appointee"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 441,
+    "question": "Petitions must be:",
+    "options": {
+      "A": "Signed and dated by the petitioner",
+      "B": "Anonymous without signature",
+      "C": "Political",
+      "D": "Left verbal"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 442,
+    "question": "PSR allows officers to petition when:",
+    "options": {
+      "A": "Their rights have been infringed",
+      "B": "They want promotion without merit",
+      "C": "They are on annual leave",
+      "D": "They are retired properly"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 443,
+    "question": "Appeals must go through:",
+    "options": {
+      "A": "Appropriate superior officers and established channels",
+      "B": "Social networks",
+      "C": "Friends",
+      "D": "Family"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 444,
+    "question": "Officers can appeal a query if:",
+    "options": {
+      "A": "It was issued unjustly or without merit",
+      "B": "It was issued correctly",
+      "C": "They want annual bonus",
+      "D": "They are on training"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 445,
+    "question": "The ultimate authority on petitions from senior officers is:",
+    "options": {
+      "A": "Federal Civil Service Commission",
+      "B": "Union",
+      "C": "Media",
+      "D": "Colleagues"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 446,
+    "question": "Officers may not use petitions to:",
+    "options": {
+      "A": "Circumvent disciplinary procedures",
+      "B": "Seek redress legitimately",
+      "C": "Present evidence",
+      "D": "Appeal decisions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 447,
+    "question": "Petitions are valid only if:",
+    "options": {
+      "A": "They follow due process and contain evidence",
+      "B": "They are verbal",
+      "C": "They are anonymous without proof",
+      "D": "They are political"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 448,
+    "question": "Appeals relating to disciplinary penalties must be filed:",
+    "options": {
+      "A": "Within the stipulated PSR timeframe",
+      "B": "After retirement",
+      "C": "Any time",
+      "D": "Through the media only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 449,
+    "question": "PSR emphasizes petitions must be handled:",
+    "options": {
+      "A": "Promptly and without bias",
+      "B": "At leisure",
+      "C": "Based on union preference",
+      "D": "Politically"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 450,
+    "question": "The ultimate goal of petitions and appeals procedures is to:",
+    "options": {
+      "A": "Maintain justice, fairness, and integrity in the public service",
+      "B": "Delay decisions indefinitely",
+      "C": "Favour one region",
+      "D": "Promote politics in service"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 451,
+    "question": "The main objective of staff welfare provisions under PSR is to:",
+    "options": {
+      "A": "Improve the wellbeing and morale of public officers",
+      "B": "Increase union membership",
+      "C": "Fund political parties",
+      "D": "Reduce government expenses"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 452,
+    "question": "Which officer is responsible for coordinating welfare activities in an MDA?",
+    "options": {
+      "A": "Director of Admin/Human Resources",
+      "B": "Labour union chairman",
+      "C": "Officer’s family",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 453,
+    "question": "Welfare activities include:",
+    "options": {
+      "A": "Recreational facilities, health services, and housing schemes",
+      "B": "Political campaigns",
+      "C": "Union elections only",
+      "D": "Pension verification"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 454,
+    "question": "Which health benefit is recognized under PSR?",
+    "options": {
+      "A": "Medical treatment for officers and eligible dependants",
+      "B": "Free vacation travel",
+      "C": "Unlimited personal loans",
+      "D": "Political sponsorship"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 455,
+    "question": "Medical treatment outside Nigeria is approved when:",
+    "options": {
+      "A": "It is certified that the required treatment is not available locally",
+      "B": "Officer requests for tourism",
+      "C": "Union recommends",
+      "D": "Officer has served for one year"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 456,
+    "question": "Who authorizes medical treatment abroad?",
+    "options": {
+      "A": "The Head of Service with Federal Government approval",
+      "B": "Officer’s immediate supervisor",
+      "C": "Family doctor",
+      "D": "Union leader"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 457,
+    "question": "Staff housing schemes under PSR are designed to:",
+    "options": {
+      "A": "Provide affordable accommodation for public officers",
+      "B": "Fund political parties",
+      "C": "Replace pension benefits",
+      "D": "Train officers abroad"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 458,
+    "question": "Rent subsidy is payable to:",
+    "options": {
+      "A": "Eligible officers not occupying government quarters",
+      "B": "All officers on annual leave",
+      "C": "Officers under disciplinary action",
+      "D": "Officers living in family homes"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 459,
+    "question": "Which officers are required to pay rent on government quarters?",
+    "options": {
+      "A": "Officers occupying official quarters",
+      "B": "Union leaders",
+      "C": "Retired officers",
+      "D": "Volunteers"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 460,
+    "question": "When an officer vacates government quarters, they must:",
+    "options": {
+      "A": "Handover the property in good condition",
+      "B": "Ignore property clearance",
+      "C": "Take furniture home",
+      "D": "Avoid notifying HR"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 461,
+    "question": "Medical boards are convened to:",
+    "options": {
+      "A": "Assess officers for medical retirement or overseas treatment",
+      "B": "Approve annual leave",
+      "C": "Conduct promotion exams",
+      "D": "Recommend union leaders"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 462,
+    "question": "PSR provides that hospital bills must be:",
+    "options": {
+      "A": "Paid according to government medical policies and rates",
+      "B": "Paid by unions",
+      "C": "Ignored by officers",
+      "D": "Settled through social media campaigns"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 463,
+    "question": "Can dependants receive medical benefits?",
+    "options": {
+      "A": "Yes, if recognized as legal dependants of the officer",
+      "B": "Only if the officer requests",
+      "C": "No, only officers qualify",
+      "D": "Only union members"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 464,
+    "question": "Government residential quarters are allocated based on:",
+    "options": {
+      "A": "Grade level and availability",
+      "B": "Political affiliations",
+      "C": "Union nominations",
+      "D": "Religious preferences"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 465,
+    "question": "Rent for government quarters is deducted:",
+    "options": {
+      "A": "Monthly from officer’s salary",
+      "B": "Once at retirement",
+      "C": "From union contributions",
+      "D": "Never"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 466,
+    "question": "Officers occupying government quarters must:",
+    "options": {
+      "A": "Maintain the property and avoid subletting",
+      "B": "Use it for business ventures",
+      "C": "Transfer tenancy to relatives",
+      "D": "Avoid inspections"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 467,
+    "question": "PSR allows officers to be reimbursed for medical expenses if:",
+    "options": {
+      "A": "They are incurred in line with government medical guidelines",
+      "B": "They are politically sponsored",
+      "C": "They travel abroad for tourism",
+      "D": "Union recommends"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 468,
+    "question": "Staff welfare schemes include:",
+    "options": {
+      "A": "Cooperative societies and recreational clubs",
+      "B": "Social media campaigns",
+      "C": "Political rallies",
+      "D": "Pension only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 469,
+    "question": "The Head of Service is responsible for:",
+    "options": {
+      "A": "Developing general staff welfare policies",
+      "B": "Union mobilization",
+      "C": "Annual leave scheduling",
+      "D": "External auditing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 470,
+    "question": "Which of the following is NOT a welfare benefit?",
+    "options": {
+      "A": "Rent subsidy",
+      "B": "Medical treatment",
+      "C": "Housing allocation",
+      "D": "Political appointment"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 471,
+    "question": "Officers granted rent subsidy must:",
+    "options": {
+      "A": "Not be allocated government quarters",
+      "B": "Occupy official residences",
+      "C": "Pay higher pension rates",
+      "D": "Retire early"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 472,
+    "question": "What is the penalty for subletting government quarters?",
+    "options": {
+      "A": "Eviction and possible disciplinary action",
+      "B": "Bonus payment",
+      "C": "Pension increment",
+      "D": "Annual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 473,
+    "question": "Medical boards consist of:",
+    "options": {
+      "A": "Government-approved doctors and specialists",
+      "B": "Union representatives only",
+      "C": "Family members",
+      "D": "Political appointees"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 474,
+    "question": "Can retired officers remain in government quarters?",
+    "options": {
+      "A": "Only for the grace period allowed by PSR",
+      "B": "Indefinitely",
+      "C": "Until union decides",
+      "D": "Until political approval is given"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 475,
+    "question": "Which of these falls under staff welfare?",
+    "options": {
+      "A": "Loans through cooperative societies",
+      "B": "Media interviews",
+      "C": "Annual political events",
+      "D": "Union elections"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 476,
+    "question": "Medical travel allowance is given when:",
+    "options": {
+      "A": "Officer is officially sent for treatment outside duty station",
+      "B": "Officer takes annual vacation",
+      "C": "Officer visits friends",
+      "D": "Union pays for it"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 477,
+    "question": "Rent subsidy is calculated based on:",
+    "options": {
+      "A": "Grade level and approved government rates",
+      "B": "Political affiliation",
+      "C": "Years in union",
+      "D": "Officer’s religious group"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 478,
+    "question": "Housing allocation committees must:",
+    "options": {
+      "A": "Ensure fairness and compliance with PSR guidelines",
+      "B": "Allocate based on friendships",
+      "C": "Give preference to union members",
+      "D": "Follow political party instructions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 479,
+    "question": "Officers occupying government quarters without allocation:",
+    "options": {
+      "A": "Are regarded as illegal occupants",
+      "B": "Are automatically promoted",
+      "C": "Can receive rent subsidy",
+      "D": "Are rewarded"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 480,
+    "question": "Staff welfare schemes aim to:",
+    "options": {
+      "A": "Boost productivity through improved living conditions",
+      "B": "Fund political campaigns",
+      "C": "Replace pensions",
+      "D": "Control unions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 481,
+    "question": "Dependants eligible for medical benefits are usually:",
+    "options": {
+      "A": "Spouse and up to four children under 18 (or 21 if in school)",
+      "B": "Extended family members",
+      "C": "Neighbours",
+      "D": "Union leaders"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 482,
+    "question": "Medical expenses abroad without approval are:",
+    "options": {
+      "A": "Not reimbursable",
+      "B": "Automatically refunded",
+      "C": "Deducted from union funds",
+      "D": "Paid for by government"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 483,
+    "question": "Housing loans under PSR must be:",
+    "options": {
+      "A": "Repaid under agreed terms",
+      "B": "Treated as gifts",
+      "C": "Ignored",
+      "D": "Recovered only at retirement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 484,
+    "question": "Which officer authorizes medical refund claims?",
+    "options": {
+      "A": "Accounting Officer of the MDA",
+      "B": "Union chairman",
+      "C": "Auditor-General",
+      "D": "Officer’s family doctor"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 485,
+    "question": "Staff cooperative societies are encouraged because they:",
+    "options": {
+      "A": "Improve officers’ financial welfare",
+      "B": "Promote political affiliations",
+      "C": "Replace pensions",
+      "D": "Reduce productivity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 486,
+    "question": "Officers occupying government quarters must vacate:",
+    "options": {
+      "A": "Upon retirement or transfer after the grace period",
+      "B": "Whenever they want",
+      "C": "Only after 10 years",
+      "D": "When union requests"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 487,
+    "question": "Rent arrears on government quarters are:",
+    "options": {
+      "A": "Deducted from officer’s salary or benefits",
+      "B": "Ignored",
+      "C": "Paid by unions",
+      "D": "Cancelled by HR"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 488,
+    "question": "Medical boards assess officers for:",
+    "options": {
+      "A": "Medical retirement and complex treatments",
+      "B": "Promotion",
+      "C": "Union elections",
+      "D": "Annual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 489,
+    "question": "Who sets general policy on housing allocation?",
+    "options": {
+      "A": "The Head of Service/Federal Government",
+      "B": "Union",
+      "C": "Family",
+      "D": "Political party"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 490,
+    "question": "Can an officer request refund for self-medication expenses?",
+    "options": {
+      "A": "No, only approved hospital bills are refundable",
+      "B": "Yes, always",
+      "C": "Yes, if union approves",
+      "D": "Yes, if officer is a director"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 491,
+    "question": "The welfare policy of the service is anchored on:",
+    "options": {
+      "A": "Enhancing officers’ efficiency through good working and living conditions",
+      "B": "Political interests",
+      "C": "Avoiding staff growth",
+      "D": "Reducing promotions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 492,
+    "question": "Rent subsidy stops when:",
+    "options": {
+      "A": "Officer is allocated official accommodation",
+      "B": "Officer requests",
+      "C": "Officer attends training",
+      "D": "Officer is on annual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 493,
+    "question": "Government furniture in official quarters:",
+    "options": {
+      "A": "Must not be sold or removed by officers",
+      "B": "Can be gifted to relatives",
+      "C": "Is personal property of the officer",
+      "D": "Can be auctioned by union"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 494,
+    "question": "Officers absent from duty without leave are entitled to:",
+    "options": {
+      "A": "No welfare benefits for that period",
+      "B": "Full medical benefits",
+      "C": "Extra housing allowance",
+      "D": "Promotion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 495,
+    "question": "Which body manages the Federal Staff Housing Loan Board?",
+    "options": {
+      "A": "Federal Government through relevant ministry",
+      "B": "Union",
+      "C": "Auditor-General",
+      "D": "Family"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 496,
+    "question": "Officers under suspension:",
+    "options": {
+      "A": "May lose entitlement to rent subsidy and certain welfare benefits",
+      "B": "Are given extra housing allowance",
+      "C": "Can occupy quarters free",
+      "D": "Are automatically promoted"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 497,
+    "question": "Medical benefits are withdrawn when:",
+    "options": {
+      "A": "Officer is dismissed from service",
+      "B": "Officer is promoted",
+      "C": "Officer is on leave",
+      "D": "Officer is transferred"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 498,
+    "question": "Dependants’ medical benefits stop when:",
+    "options": {
+      "A": "Officer dies or separates from service",
+      "B": "Officer goes on annual leave",
+      "C": "Officer attends training",
+      "D": "Officer is promoted"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 499,
+    "question": "Housing allocation is based on:",
+    "options": {
+      "A": "Grade level, need, and availability",
+      "B": "Friendship",
+      "C": "Union affiliation",
+      "D": "Political office"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 500,
+    "question": "The goal of PSR welfare, medical, and housing matters is:",
+    "options": {
+      "A": "To create a motivated and productive workforce",
+      "B": "To enrich union leaders",
+      "C": "To reduce public service size",
+      "D": "To replace pensions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 501,
+    "question": "The Miscellaneous Provisions of the PSR deal with:",
+    "options": {
+      "A": "General matters not covered in other chapters",
+      "B": "Annual leave only",
+      "C": "Pension issues exclusively",
+      "D": "Political appointments"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 502,
+    "question": "Public officers must always display:",
+    "options": {
+      "A": "Honesty, discipline, and accountability",
+      "B": "Political loyalty to parties",
+      "C": "Union allegiance",
+      "D": "Personal bias"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 503,
+    "question": "Which body may issue circulars clarifying PSR provisions?",
+    "options": {
+      "A": "Office of the Head of the Civil Service of the Federation (OHCSF)",
+      "B": "Labour unions",
+      "C": "Political parties",
+      "D": "Media organizations"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 504,
+    "question": "PSR circulars issued by the Head of Service are:",
+    "options": {
+      "A": "Binding on all officers",
+      "B": "Optional",
+      "C": "Only for senior officers",
+      "D": "Suggestions only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 505,
+    "question": "Officers must ensure all official information is treated as:",
+    "options": {
+      "A": "Confidential and protected",
+      "B": "Public property to be disclosed",
+      "C": "Content for social media",
+      "D": "Union campaign material"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 506,
+    "question": "What is the policy on private business by officers?",
+    "options": {
+      "A": "Officers must not engage in private business that conflicts with official duties",
+      "B": "All officers must run private businesses",
+      "C": "Officers can use office resources for personal business",
+      "D": "Political leaders decide"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 507,
+    "question": "An officer who receives a bribe is guilty of:",
+    "options": {
+      "A": "Gross misconduct and corruption",
+      "B": "Minor misconduct",
+      "C": "Union activity",
+      "D": "Annual leave default"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 508,
+    "question": "The PSR states that circulars override:",
+    "options": {
+      "A": "Departmental instructions where in conflict",
+      "B": "Financial regulations",
+      "C": "The Constitution",
+      "D": "International law"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 509,
+    "question": "Official documents leaving government custody must be:",
+    "options": {
+      "A": "Approved and properly recorded",
+      "B": "Shared with friends",
+      "C": "Uploaded online",
+      "D": "Hidden from auditors"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 510,
+    "question": "Officers are prohibited from:",
+    "options": {
+      "A": "Giving false information or suppressing the truth",
+      "B": "Reporting for duty",
+      "C": "Taking training",
+      "D": "Applying for leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 511,
+    "question": "The PSR discourages political activities by officers because:",
+    "options": {
+      "A": "They must remain neutral in the discharge of duties",
+      "B": "It enhances performance",
+      "C": "It encourages corruption",
+      "D": "It increases pensions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 512,
+    "question": "Circulars from which office take precedence?",
+    "options": {
+      "A": "Head of the Civil Service of the Federation",
+      "B": "Union secretariat",
+      "C": "Media",
+      "D": "Family"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 513,
+    "question": "Officers must treat official files and documents with:",
+    "options": {
+      "A": "Care and confidentiality",
+      "B": "Negligence",
+      "C": "Political bias",
+      "D": "Union loyalty"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 514,
+    "question": "The PSR provides that donations and gifts must not:",
+    "options": {
+      "A": "Influence official decisions or create obligation",
+      "B": "Be declared",
+      "C": "Be returned",
+      "D": "Be disclosed to HR"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 515,
+    "question": "Officers using official vehicles for private purposes:",
+    "options": {
+      "A": "Violate PSR provisions",
+      "B": "Are entitled to fuel allowances",
+      "C": "Are eligible for promotion",
+      "D": "Are performing union duties"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 516,
+    "question": "Who approves amendments to the PSR?",
+    "options": {
+      "A": "The President of the Federal Republic of Nigeria",
+      "B": "Union leaders",
+      "C": "Head of Department",
+      "D": "Political party"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 517,
+    "question": "Which is true about PSR enforcement?",
+    "options": {
+      "A": "All officers must comply with its provisions",
+      "B": "Only directors are bound",
+      "C": "Only unions enforce PSR",
+      "D": "Officers can choose"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 518,
+    "question": "Officers in breach of security of official information:",
+    "options": {
+      "A": "Are liable to disciplinary action",
+      "B": "Are promoted",
+      "C": "Are granted leave",
+      "D": "Are unionized"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 519,
+    "question": "Circulars clarify:",
+    "options": {
+      "A": "New policies or existing rule applications",
+      "B": "Social media trends",
+      "C": "Union elections",
+      "D": "Political campaigns"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 520,
+    "question": "Can an officer engage in partisan politics?",
+    "options": {
+      "A": "No, unless on approved leave of absence and as permitted by law",
+      "B": "Yes, while on duty",
+      "C": "Yes, using official resources",
+      "D": "Yes, with union approval"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 521,
+    "question": "Use of official time for private business is:",
+    "options": {
+      "A": "Prohibited under PSR",
+      "B": "Encouraged",
+      "C": "Left to officers’ discretion",
+      "D": "Allowed by unions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 522,
+    "question": "Circulars issued by MDAs must:",
+    "options": {
+      "A": "Align with PSR and Head of Service directives",
+      "B": "Conflict with federal laws",
+      "C": "Be political",
+      "D": "Favor certain officers"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 523,
+    "question": "Which of these is a miscellaneous provision?",
+    "options": {
+      "A": "Proper use of official vehicles and property",
+      "B": "Annual leave entitlement",
+      "C": "Retirement age",
+      "D": "Pension calculations"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 524,
+    "question": "Unauthorized removal of public property is:",
+    "options": {
+      "A": "Treated as theft and misconduct",
+      "B": "Allowed on weekends",
+      "C": "Rewarded by unions",
+      "D": "Permitted for senior staff"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 525,
+    "question": "The PSR prohibits officers from:",
+    "options": {
+      "A": "Divulging official secrets to unauthorized persons",
+      "B": "Attending training",
+      "C": "Wearing official ID cards",
+      "D": "Participating in appraisals"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 526,
+    "question": "Officers should report suspected fraud to:",
+    "options": {
+      "A": "Appropriate authorities promptly",
+      "B": "The media",
+      "C": "Union secretariat",
+      "D": "Family"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 527,
+    "question": "Circulars must be:",
+    "options": {
+      "A": "Properly filed and accessible to relevant officers",
+      "B": "Ignored",
+      "C": "Shared on social media",
+      "D": "Destroyed"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 528,
+    "question": "Officers engaging in speculation on government contracts:",
+    "options": {
+      "A": "Violate PSR",
+      "B": "Are rewarded",
+      "C": "Are unionized",
+      "D": "Are promoted"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 529,
+    "question": "What must be done with obsolete circulars?",
+    "options": {
+      "A": "Archived and marked obsolete",
+      "B": "Destroyed without record",
+      "C": "Shared with friends",
+      "D": "Kept secret"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 530,
+    "question": "Conflict of interest must be:",
+    "options": {
+      "A": "Declared and avoided",
+      "B": "Ignored",
+      "C": "Politically exploited",
+      "D": "Used for personal gain"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 531,
+    "question": "Can PSR be applied selectively?",
+    "options": {
+      "A": "No, it applies equally to all officers",
+      "B": "Yes, to junior staff only",
+      "C": "Yes, when unions approve",
+      "D": "Yes, based on religion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 532,
+    "question": "Officers leaving service must return:",
+    "options": {
+      "A": "All official property in their possession",
+      "B": "Only ID cards",
+      "C": "Nothing",
+      "D": "Files to unions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 533,
+    "question": "Which is the final authority on PSR interpretation?",
+    "options": {
+      "A": "Head of the Civil Service of the Federation",
+      "B": "Political parties",
+      "C": "Labour unions",
+      "D": "The media"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 534,
+    "question": "The PSR prohibits officers from:",
+    "options": {
+      "A": "Accepting bribes or gratification",
+      "B": "Complying with official directives",
+      "C": "Observing neutrality",
+      "D": "Attending training"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 535,
+    "question": "Circulars on PSR are binding because they:",
+    "options": {
+      "A": "Have force of policy and law",
+      "B": "Are suggestions",
+      "C": "Are unionized",
+      "D": "Are informal"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 536,
+    "question": "Misuse of official stamps and seals is treated as:",
+    "options": {
+      "A": "Serious misconduct",
+      "B": "Training exercise",
+      "C": "Annual appraisal",
+      "D": "Union activity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 537,
+    "question": "Officers are expected to act as:",
+    "options": {
+      "A": "Custodians of government resources",
+      "B": "Political appointees",
+      "C": "Union representatives",
+      "D": "Business owners"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 538,
+    "question": "Officers’ participation in strikes is governed by:",
+    "options": {
+      "A": "PSR and relevant labour laws",
+      "B": "Personal choice",
+      "C": "Political parties",
+      "D": "Family instructions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 539,
+    "question": "Unauthorized circulars:",
+    "options": {
+      "A": "Are null and void",
+      "B": "Take precedence over PSR",
+      "C": "Are binding on all staff",
+      "D": "Are encouraged"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 540,
+    "question": "Officers must avoid:",
+    "options": {
+      "A": "Using official influence for personal gain",
+      "B": "Filing circulars properly",
+      "C": "Obeying lawful instructions",
+      "D": "Keeping records"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 541,
+    "question": "Circulars remain in force until:",
+    "options": {
+      "A": "They are superseded or withdrawn",
+      "B": "Officers ignore them",
+      "C": "Union disapproves",
+      "D": "Media reports change them"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 542,
+    "question": "Officers are responsible for:",
+    "options": {
+      "A": "Familiarizing themselves with PSR and circulars",
+      "B": "Ignoring policies",
+      "C": "Destroying official records",
+      "D": "Relying only on unions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 543,
+    "question": "Public service neutrality means:",
+    "options": {
+      "A": "Avoiding partisan politics and bias in official duties",
+      "B": "Supporting political parties",
+      "C": "Favouring certain religions",
+      "D": "Ignoring directives"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 544,
+    "question": "Misuse of official letterheads is:",
+    "options": {
+      "A": "Misconduct under PSR",
+      "B": "Encouraged for communication",
+      "C": "Left unpunished",
+      "D": "Optional"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 545,
+    "question": "Officers must not use government funds for:",
+    "options": {
+      "A": "Political campaigns or private businesses",
+      "B": "Official projects",
+      "C": "Official travel",
+      "D": "Approved expenditure"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 546,
+    "question": "The PSR enforces accountability by:",
+    "options": {
+      "A": "Setting penalties for misconduct and negligence",
+      "B": "Leaving officers unchecked",
+      "C": "Allowing political interference",
+      "D": "Ignoring circulars"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 547,
+    "question": "Officers must return obsolete files and records:",
+    "options": {
+      "A": "To the records office for disposal",
+      "B": "To friends",
+      "C": "To unions",
+      "D": "To political parties"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 548,
+    "question": "Circulars affecting conditions of service must be:",
+    "options": {
+      "A": "Communicated to all staff promptly",
+      "B": "Kept secret",
+      "C": "Destroyed",
+      "D": "Sent only to unions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 549,
+    "question": "Who updates the PSR with new amendments?",
+    "options": {
+      "A": "The Office of the Head of Service of the Federation",
+      "B": "Union",
+      "C": "Media",
+      "D": "Family"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 550,
+    "question": "The ultimate aim of miscellaneous provisions is to:",
+    "options": {
+      "A": "Promote integrity, transparency, and efficiency in the service",
+      "B": "Increase union campaigns",
+      "C": "Support political interference",
+      "D": "Encourage secrecy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 551,
+    "question": "The Interpretation and Authorities chapter of the PSR clarifies:",
+    "options": {
+      "A": "Definitions of terms and the authority responsible for enforcement",
+      "B": "Annual leave entitlements",
+      "C": "Political appointments",
+      "D": "Pension processing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 552,
+    "question": "Who has the final authority for interpreting the PSR?",
+    "options": {
+      "A": "Head of the Civil Service of the Federation (OHCSF)",
+      "B": "Labour unions",
+      "C": "Media",
+      "D": "Individual MDAs"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 553,
+    "question": "\"Authorized Officer\" under the PSR refers to:",
+    "options": {
+      "A": "An officer vested with powers to act on behalf of the appointing authority",
+      "B": "Any junior staff",
+      "C": "A political party member",
+      "D": "Union chairman"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 554,
+    "question": "PSR definitions are important because they:",
+    "options": {
+      "A": "Ensure uniform understanding and application of the rules",
+      "B": "Can be ignored",
+      "C": "Apply only to directors",
+      "D": "Apply only to unions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 555,
+    "question": "The Head of Service may issue:",
+    "options": {
+      "A": "Interpretative circulars that bind all MDAs",
+      "B": "Social media campaigns",
+      "C": "Union election guidelines",
+      "D": "Personal letters to friends"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 556,
+    "question": "\"Commission\" in PSR usually refers to:",
+    "options": {
+      "A": "Federal Civil Service Commission (FCSC)",
+      "B": "Media houses",
+      "C": "Labour union",
+      "D": "Political party"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 557,
+    "question": "\"Gross Misconduct\" is defined as:",
+    "options": {
+      "A": "A serious offence warranting dismissal",
+      "B": "A minor lateness to work",
+      "C": "Union activity",
+      "D": "Taking annual leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 558,
+    "question": "\"Pensionable Appointment\" means:",
+    "options": {
+      "A": "An appointment carrying eligibility for pension and gratuity",
+      "B": "Temporary work",
+      "C": "Political appointment",
+      "D": "Contract without benefits"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 559,
+    "question": "PSR definitions provide clarity on:",
+    "options": {
+      "A": "Terms like interdiction, suspension, and termination",
+      "B": "Entertainment allowance",
+      "C": "Union politics",
+      "D": "Social gatherings"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 560,
+    "question": "\"Authorized Officer\" includes:",
+    "options": {
+      "A": "Permanent Secretaries and Directors of Administration",
+      "B": "Junior clerks",
+      "C": "Union members",
+      "D": "Friends of officers"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 561,
+    "question": "Which office has authority to amend the PSR?",
+    "options": {
+      "A": "The President of the Federal Republic of Nigeria",
+      "B": "Union congress",
+      "C": "Auditor-General",
+      "D": "Family"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 562,
+    "question": "\"Dismissal\" under the PSR means:",
+    "options": {
+      "A": "Removal from service with loss of all terminal benefits (except pension contributions)",
+      "B": "Voluntary retirement",
+      "C": "Study leave",
+      "D": "Casual absence"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 563,
+    "question": "Which authority can delegate disciplinary powers to authorized officers?",
+    "options": {
+      "A": "Federal Civil Service Commission (FCSC)",
+      "B": "Union",
+      "C": "Political party",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 564,
+    "question": "PSR Interpretation defines \"Service\" as:",
+    "options": {
+      "A": "The Federal Public Service",
+      "B": "Any union",
+      "C": "Political office",
+      "D": "Private business"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 565,
+    "question": "Who ensures uniform enforcement of PSR across MDAs?",
+    "options": {
+      "A": "The Head of the Civil Service of the Federation",
+      "B": "Individual staff",
+      "C": "Political parties",
+      "D": "Media"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 566,
+    "question": "\"Interdiction\" is interpreted as:",
+    "options": {
+      "A": "Temporary suspension of an officer on half salary pending investigation",
+      "B": "Annual leave",
+      "C": "Permanent retirement",
+      "D": "Study leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 567,
+    "question": "\"Appointing Authority\" refers to:",
+    "options": {
+      "A": "Federal Civil Service Commission or delegated body",
+      "B": "Union congress",
+      "C": "Media",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 568,
+    "question": "\"Authorized Officer\" does NOT include:",
+    "options": {
+      "A": "Union chairmen",
+      "B": "Permanent Secretaries",
+      "C": "Directors of Admin",
+      "D": "Heads of Extra-Ministerial Departments"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 569,
+    "question": "The PSR gives interpretive authority to:",
+    "options": {
+      "A": "Office of the Head of Service and the Federal Civil Service Commission",
+      "B": "Political parties",
+      "C": "Labour unions",
+      "D": "Social groups"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 570,
+    "question": "\"Compulsory Retirement\" means:",
+    "options": {
+      "A": "Retirement imposed as a disciplinary measure",
+      "B": "Annual leave",
+      "C": "Casual suspension",
+      "D": "Study leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 571,
+    "question": "PSR Interpretation helps officers to:",
+    "options": {
+      "A": "Apply the rules correctly",
+      "B": "Ignore circulars",
+      "C": "Avoid training",
+      "D": "Engage in private politics"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 572,
+    "question": "\"Probation\" is defined as:",
+    "options": {
+      "A": "Initial service period to assess suitability for confirmation",
+      "B": "Annual appraisal",
+      "C": "Union election",
+      "D": "Study leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 573,
+    "question": "Which authority interprets ambiguous circulars?",
+    "options": {
+      "A": "Head of the Civil Service of the Federation",
+      "B": "Union",
+      "C": "Auditor-General",
+      "D": "Political leaders"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 574,
+    "question": "PSR definitions include terms used in:",
+    "options": {
+      "A": "Appointments, promotions, and discipline",
+      "B": "Union elections",
+      "C": "Political manifestos",
+      "D": "Social gatherings"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 575,
+    "question": "\"Suspension\" is interpreted as:",
+    "options": {
+      "A": "Temporary removal from duty without pay pending investigation",
+      "B": "Study leave",
+      "C": "Annual leave",
+      "D": "Permanent retirement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 576,
+    "question": "Officers must rely on PSR definitions when:",
+    "options": {
+      "A": "Interpreting unclear rules or terms",
+      "B": "Engaging in union politics",
+      "C": "Seeking political office",
+      "D": "Attending training"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 577,
+    "question": "\"Salary\" in PSR includes:",
+    "options": {
+      "A": "Basic pay and allowances authorized by government",
+      "B": "Only union dues",
+      "C": "Personal income",
+      "D": "Private investments"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 578,
+    "question": "Who can issue clarifications on PSR definitions?",
+    "options": {
+      "A": "Head of Service or Federal Civil Service Commission",
+      "B": "Political parties",
+      "C": "Union leaders",
+      "D": "Friends"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 579,
+    "question": "PSR defines \"Leave\" as:",
+    "options": {
+      "A": "Authorized absence from duty granted under the rules",
+      "B": "Casual trip abroad",
+      "C": "Union activity",
+      "D": "Study vacation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 580,
+    "question": "\"Appraisal\" in PSR context means:",
+    "options": {
+      "A": "Formal evaluation of officer’s performance",
+      "B": "Social event",
+      "C": "Union meeting",
+      "D": "Political rally"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 581,
+    "question": "PSR provides interpretation to avoid:",
+    "options": {
+      "A": "Misapplication or conflicting understanding of the rules",
+      "B": "Annual leave",
+      "C": "Union campaigns",
+      "D": "Pension processing delays"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 582,
+    "question": "Who maintains the master copy of the PSR?",
+    "options": {
+      "A": "Office of the Head of the Civil Service of the Federation",
+      "B": "Union",
+      "C": "Media",
+      "D": "Auditor-General"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 583,
+    "question": "\"Termination\" is interpreted as:",
+    "options": {
+      "A": "Ending an appointment without eligibility for pension unless otherwise specified",
+      "B": "Study leave",
+      "C": "Annual leave",
+      "D": "Retirement with full benefits"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 584,
+    "question": "\"Appointing Authority\" includes:",
+    "options": {
+      "A": "Federal Civil Service Commission and the President (for certain offices)",
+      "B": "Union leaders",
+      "C": "Auditor-General",
+      "D": "Political appointees only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 585,
+    "question": "PSR Interpretation ensures:",
+    "options": {
+      "A": "Consistency and fairness in enforcement",
+      "B": "Officers can misinterpret rules",
+      "C": "Union campaigns are funded",
+      "D": "Rules can be ignored"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 586,
+    "question": "\"Authorized Officer\" has power to:",
+    "options": {
+      "A": "Discipline officers within delegated authority",
+      "B": "Ignore misconduct",
+      "C": "Change pension rules",
+      "D": "Sign union letters"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 587,
+    "question": "Officers disputing PSR interpretation must:",
+    "options": {
+      "A": "Seek clarification from Head of Service or FCSC",
+      "B": "Consult unions only",
+      "C": "Use social media",
+      "D": "Ask colleagues informally"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 588,
+    "question": "PSR defines \"Public Service\" as:",
+    "options": {
+      "A": "Service in a civil capacity in the Federal Government",
+      "B": "Private sector",
+      "C": "Union work",
+      "D": "Political campaigns"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 589,
+    "question": "\"Gratuity\" is defined as:",
+    "options": {
+      "A": "One-off retirement benefit paid to a qualifying officer",
+      "B": "Annual bonus",
+      "C": "Union levy",
+      "D": "Political allowance"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 590,
+    "question": "\"Authorized Officer\" cannot:",
+    "options": {
+      "A": "Exceed delegated powers or act outside the PSR",
+      "B": "Issue disciplinary measures lawfully",
+      "C": "Enforce PSR",
+      "D": "Approve leave"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 591,
+    "question": "Interpretation provisions are essential because:",
+    "options": {
+      "A": "They guide consistent application across all MDAs",
+      "B": "They allow discretion and bias",
+      "C": "They apply only to unions",
+      "D": "They are optional"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 592,
+    "question": "\"Medical Board\" under PSR means:",
+    "options": {
+      "A": "A panel of approved doctors to assess medical fitness",
+      "B": "Union welfare committee",
+      "C": "Pension board",
+      "D": "Political committee"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 593,
+    "question": "\"Authorized Officer\" must act:",
+    "options": {
+      "A": "In accordance with law and delegated powers",
+      "B": "Based on personal preference",
+      "C": "Politically",
+      "D": "Through unions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 594,
+    "question": "Who may revise PSR definitions?",
+    "options": {
+      "A": "The President on recommendation from the Head of Service",
+      "B": "Union",
+      "C": "Auditor-General",
+      "D": "Family"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 595,
+    "question": "\"Officer\" in PSR context means:",
+    "options": {
+      "A": "Any person employed in the Federal Public Service",
+      "B": "Union leader",
+      "C": "Political candidate",
+      "D": "Pensioner only"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 596,
+    "question": "PSR interpretations are binding on:",
+    "options": {
+      "A": "All officers and MDAs in the Federal Public Service",
+      "B": "Private companies",
+      "C": "Political parties",
+      "D": "Foreign agencies"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 597,
+    "question": "\"Federal Character\" is interpreted as:",
+    "options": {
+      "A": "Ensuring equitable representation of all states in appointments",
+      "B": "Supporting a political party",
+      "C": "Granting annual leave",
+      "D": "Union neutrality"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 598,
+    "question": "\"Circulars\" are defined as:",
+    "options": {
+      "A": "Official instructions or clarifications issued by the appropriate authority",
+      "B": "Union newsletters",
+      "C": "Political statements",
+      "D": "Media reports"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 599,
+    "question": "\"Authority\" in PSR refers to:",
+    "options": {
+      "A": "Appointing or disciplinary body empowered by law",
+      "B": "Union executives",
+      "C": "Political appointees",
+      "D": "Family heads"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 600,
+    "question": "The ultimate purpose of Chapter 12 is to:",
+    "options": {
+      "A": "Remove ambiguity and identify who enforces the PSR",
+      "B": "Encourage political activity",
+      "C": "Expand union membership",
+      "D": "Fund private businesses"
+    },
+    "answer": "A"
+  }
+]

@@ -1,0 +1,5502 @@
+[
+    {
+        "question": "In FCTA context, the primary role of a Director is to",
+        "options": [
+            "A. Approve all political appointments",
+            "B. Set vision, align teams, and ensure service delivery outcomes",
+            "C. Conduct criminal investigations",
+            "D. Run private consultancies during office hours"
+        ],
+        "answer": "B",
+        "id": 1
+    },
+    {
+        "question": "Which leadership style best suits emergency response coordination in FCTA?",
+        "options": [
+            "A. Laissez-faire",
+            "B. Democratic",
+            "C. Autocratic (time-bound directives)",
+            "D. Charismatic only"
+        ],
+        "answer": "C",
+        "id": 2
+    },
+    {
+        "question": "A core sign of effective leadership in public service is",
+        "options": [
+            "A. Popularity on social media",
+            "B. High volume of memos",
+            "C. Measurable outcomes tied to mandate and KPIs",
+            "D. Frequent meetings without minutes"
+        ],
+        "answer": "C",
+        "id": 3
+    },
+    {
+        "question": "Psychometric assessment in leadership selection helps FCTA to",
+        "options": [
+            "A. Eliminate all training needs",
+            "B. Predict role fit and leadership potential",
+            "C. Replace performance appraisals",
+            "D. Avoid documentation"
+        ],
+        "answer": "B",
+        "id": 4
+    },
+    {
+        "question": "A leader who empowers unit heads to own results is showing",
+        "options": [
+            "A. Micromanagement",
+            "B. Delegation and accountability",
+            "C. Neglect",
+            "D. Intimidation"
+        ],
+        "answer": "B",
+        "id": 5
+    },
+    {
+        "question": "In change management across Secretariats, the first step is",
+        "options": [
+            "A. Announce new rules informally",
+            "B. Stakeholder mapping and impact analysis",
+            "C. Punish resisters immediately",
+            "D. Ignore unions"
+        ],
+        "answer": "B",
+        "id": 6
+    },
+    {
+        "question": "A transformational leader in FCTA will FIRST",
+        "options": [
+            "A. Set a compelling vision linked to FCTA mandate",
+            "B. Focus on personal perks",
+            "C. Avoid risk-taking completely",
+            "D. Keep plans secret"
+        ],
+        "answer": "A",
+        "id": 7
+    },
+    {
+        "question": "Which tool best checks bias in promotions?",
+        "options": [
+            "A. Unstructured interviews only",
+            "B. Psychometric tests + competency frameworks",
+            "C. Seniority alone",
+            "D. Rumors from peers"
+        ],
+        "answer": "B",
+        "id": 8
+    },
+    {
+        "question": "Coaching conversations should be",
+        "options": [
+            "A. Publicly punitive",
+            "B. Short, vague, and undocumented",
+            "C. Goal-focused with agreed next steps",
+            "D. Only verbal with no follow-up"
+        ],
+        "answer": "C",
+        "id": 9
+    },
+    {
+        "question": "The most reliable way to align Area Councils with FCTA targets is",
+        "options": [
+            "A. Oral directives without metrics",
+            "B. Joint KPIs, MoUs, and quarterly reviews",
+            "C. Social gatherings every week",
+            "D. Random inspections only"
+        ],
+        "answer": "B",
+        "id": 10
+    },
+    {
+        "question": "Servant leadership in public service emphasizes",
+        "options": [
+            "A. Power distance",
+            "B. Serving citizens and enabling staff to serve",
+            "C. Hoarding information",
+            "D. Personal brand building"
+        ],
+        "answer": "B",
+        "id": 11
+    },
+    {
+        "question": "A key ethical duty in FCTA procurement leadership is",
+        "options": [
+            "A. Accept gifts below a secret threshold",
+            "B. Transparency and due process",
+            "C. Shortcuts to beat deadlines",
+            "D. Award to friends if cheaper"
+        ],
+        "answer": "B",
+        "id": 12
+    },
+    {
+        "question": "The best way to de-escalate inter-department conflict is",
+        "options": [
+            "A. Take sides immediately",
+            "B. Suspend both leaders",
+            "C. Facilitate interests-based negotiation with facts",
+            "D. Postpone indefinitely"
+        ],
+        "answer": "C",
+        "id": 13
+    },
+    {
+        "question": "In performance reviews, SMART means",
+        "options": [
+            "A. Strong, Massive, Alert, Real, Tough",
+            "B. Specific, Measurable, Achievable, Relevant, Time-bound",
+            "C. Speedy, Managed, Accurate, Robust, Tight",
+            "D. Strategic, Modern, Agile, Reliable, Timely"
+        ],
+        "answer": "B",
+        "id": 14
+    },
+    {
+        "question": "A democratic leadership style works best when",
+        "options": [
+            "A. Quick life-safety decisions are needed",
+            "B. Stakeholder input improves policy quality",
+            "C. Secrets must be kept from staff",
+            "D. Laws forbid consultation"
+        ],
+        "answer": "B",
+        "id": 15
+    },
+    {
+        "question": "A red flag in leadership integrity is",
+        "options": [
+            "A. Declaring conflict of interest",
+            "B. Rotating sensitive duties",
+            "C. Manipulating records to favor bidders",
+            "D. Publishing service standards"
+        ],
+        "answer": "C",
+        "id": 16
+    },
+    {
+        "question": "The most objective way to identify training needs is",
+        "options": [
+            "A. Guesswork by HR only",
+            "B. Competency gap analysis vs. job profiles",
+            "C. Seniority list",
+            "D. Social popularity"
+        ],
+        "answer": "B",
+        "id": 17
+    },
+    {
+        "question": "A leader uses dashboards to",
+        "options": [
+            "A. Decorate the office",
+            "B. Track KPIs and guide decisions",
+            "C. Replace supervision entirely",
+            "D. Avoid field visits"
+        ],
+        "answer": "B",
+        "id": 18
+    },
+    {
+        "question": "In crisis communication to residents, leaders should",
+        "options": [
+            "A. Delay until rumors settle",
+            "B. Share timely, accurate, actionable updates",
+            "C. Use technical jargon only",
+            "D. Blame other agencies first"
+        ],
+        "answer": "B",
+        "id": 19
+    },
+    {
+        "question": "Which is MOST aligned with merit-based promotion?",
+        "options": [
+            "A. Tenure only",
+            "B. Exam + psychometrics + performance evidence",
+            "C. Friendship with panel",
+            "D. Highest salary need"
+        ],
+        "answer": "B",
+        "id": 20
+    },
+    {
+        "question": "The core purpose of job rotation in critical units is",
+        "options": [
+            "A. Employee punishment",
+            "B. Capacity building and fraud risk reduction",
+            "C. Increasing paperwork volume",
+            "D. Avoiding accountability"
+        ],
+        "answer": "B",
+        "id": 21
+    },
+    {
+        "question": "Transformational leaders typically",
+        "options": [
+            "A. Ignore staff development",
+            "B. Inspire, challenge, and develop followers",
+            "C. Centralize all tasks",
+            "D. Avoid feedback"
+        ],
+        "answer": "B",
+        "id": 22
+    },
+    {
+        "question": "A leader confronting low service satisfaction should FIRST",
+        "options": [
+            "A. Deny the data",
+            "B. Conduct root-cause analysis with frontline input",
+            "C. Sack the whole team",
+            "D. Change logos"
+        ],
+        "answer": "B",
+        "id": 23
+    },
+    {
+        "question": "The main value of SOPs is to",
+        "options": [
+            "A. Create bureaucracy only",
+            "B. Standardize processes and reduce errors",
+            "C. Replace training permanently",
+            "D. Hide responsibilities"
+        ],
+        "answer": "B",
+        "id": 24
+    },
+    {
+        "question": "A 360\u00b0 feedback system helps leaders by",
+        "options": [
+            "A. Encouraging flattery",
+            "B. Providing multi-source performance insights",
+            "C. Avoiding accountability",
+            "D. Eliminating appraisals"
+        ],
+        "answer": "B",
+        "id": 25
+    },
+    {
+        "question": "Laissez-faire leadership can be effective when",
+        "options": [
+            "A. Team is expert and tasks are clear",
+            "B. New team needs guidance",
+            "C. Crisis demands speed",
+            "D. Policy is ambiguous"
+        ],
+        "answer": "A",
+        "id": 26
+    },
+    {
+        "question": "Key sign of psychological safety is",
+        "options": [
+            "A. Staff hide mistakes",
+            "B. Staff raise risks early without fear",
+            "C. Silence in meetings",
+            "D. Retaliation for feedback"
+        ],
+        "answer": "B",
+        "id": 27
+    },
+    {
+        "question": "In stakeholder management, a power\u2013interest grid helps to",
+        "options": [
+            "A. Assign office seats",
+            "B. Prioritize engagement strategies",
+            "C. Calculate payroll",
+            "D. Draft legal opinions"
+        ],
+        "answer": "B",
+        "id": 28
+    },
+    {
+        "question": "A fair disciplinary process requires",
+        "options": [
+            "A. Due process and documented evidence",
+            "B. Anonymous rumors",
+            "C. Instant punishment",
+            "D. Social media polls"
+        ],
+        "answer": "A",
+        "id": 29
+    },
+    {
+        "question": "Which aligns with Ethical Leadership?",
+        "options": [
+            "A. Ends justify means",
+            "B. Compliance with law and moral standards",
+            "C. Hide audit findings",
+            "D. Reward non-compliance"
+        ],
+        "answer": "B",
+        "id": 30
+    },
+    {
+        "question": "A leader reduces silo mentality by",
+        "options": [
+            "A. Banning cross-unit meetings",
+            "B. Creating cross-functional task teams",
+            "C. Locking data",
+            "D. Single-channel memos only"
+        ],
+        "answer": "B",
+        "id": 31
+    },
+    {
+        "question": "A competency framework defines",
+        "options": [
+            "A. Office paint colors",
+            "B. Behaviors, knowledge, and skills for roles",
+            "C. Only salary steps",
+            "D. Vehicle allocation"
+        ],
+        "answer": "B",
+        "id": 32
+    },
+    {
+        "question": "For project prioritization, FCTA should use",
+        "options": [
+            "A. Lobby strength",
+            "B. Cost\u2013benefit and citizen impact",
+            "C. Staff preference",
+            "D. Historical precedence only"
+        ],
+        "answer": "B",
+        "id": 33
+    },
+    {
+        "question": "The GROW model in coaching stands for",
+        "options": [
+            "A. Goal, Reality, Options, Will",
+            "B. Guide, Rules, Order, Work",
+            "C. Gain, Rate, Offer, Win",
+            "D. Group, Role, Output, Work"
+        ],
+        "answer": "A",
+        "id": 34
+    },
+    {
+        "question": "Emotional intelligence helps leaders to",
+        "options": [
+            "A. Suppress all emotions",
+            "B. Recognize and manage emotions for better decisions",
+            "C. Avoid tough talks",
+            "D. Replace rules"
+        ],
+        "answer": "B",
+        "id": 35
+    },
+    {
+        "question": "A clear RACI clarifies",
+        "options": [
+            "A. Who owns cars",
+            "B. Roles in tasks: Responsible, Accountable, Consulted, Informed",
+            "C. Retirement dates",
+            "D. Recruitment quotas"
+        ],
+        "answer": "B",
+        "id": 36
+    },
+    {
+        "question": "The best way to handle whistleblowing is",
+        "options": [
+            "A. Expose the whistleblower",
+            "B. Confidential channels and protection",
+            "C. Ignore for harmony",
+            "D. Public debate"
+        ],
+        "answer": "B",
+        "id": 37
+    },
+    {
+        "question": "KPI cascading means",
+        "options": [
+            "A. Each unit invents unrelated KPIs",
+            "B. Align top-level goals to lower-level targets",
+            "C. KPIs disappear at directorate level",
+            "D. Annual KPIs only"
+        ],
+        "answer": "B",
+        "id": 38
+    },
+    {
+        "question": "A contingency plan is MOST useful when",
+        "options": [
+            "A. Everything is stable",
+            "B. Disruptions affect services",
+            "C. Budgets are unlimited",
+            "D. Leaders travel"
+        ],
+        "answer": "B",
+        "id": 39
+    },
+    {
+        "question": "Which style fits a seasoned technical team?",
+        "options": [
+            "A. Directive all the time",
+            "B. Coaching/participative",
+            "C. Coercive permanently",
+            "D. Isolated leadership"
+        ],
+        "answer": "B",
+        "id": 40
+    },
+    {
+        "question": "Talent pipeline development should begin",
+        "options": [
+            "A. At retirement",
+            "B. Early with succession planning",
+            "C. After crisis",
+            "D. Only for political roles"
+        ],
+        "answer": "B",
+        "id": 41
+    },
+    {
+        "question": "A key indicator of service excellence is",
+        "options": [
+            "A. Long queues",
+            "B. Citizen satisfaction scores improving",
+            "C. More forms",
+            "D. More signatures"
+        ],
+        "answer": "B",
+        "id": 42
+    },
+    {
+        "question": "Ethical risk in vendor relations is highest when",
+        "options": [
+            "A. Procurement is open and competitive",
+            "B. One-source justification is weak and undocumented",
+            "C. Bid evaluation is transparent",
+            "D. Records are published"
+        ],
+        "answer": "B",
+        "id": 43
+    },
+    {
+        "question": "Delegation without authority leads to",
+        "options": [
+            "A. Empowerment",
+            "B. Frustration and delays",
+            "C. Faster decisions",
+            "D. Higher morale"
+        ],
+        "answer": "B",
+        "id": 44
+    },
+    {
+        "question": "A learning organization in FCTA will",
+        "options": [
+            "A. Punish experimentation",
+            "B. Capture lessons learned and adapt",
+            "C. Avoid feedback loops",
+            "D. Rely on tradition only"
+        ],
+        "answer": "B",
+        "id": 45
+    },
+    {
+        "question": "In psychometrics, \u201cnorms\u201d refer to",
+        "options": [
+            "A. Legal norms",
+            "B. Reference group scores for comparison",
+            "C. Cultural festivals",
+            "D. Budget caps"
+        ],
+        "answer": "B",
+        "id": 46
+    },
+    {
+        "question": "A leader ensures inclusion by",
+        "options": [
+            "A. Same committee members always",
+            "B. Diverse panels and fair processes",
+            "C. Secret selections",
+            "D. Ignoring disability access"
+        ],
+        "answer": "B",
+        "id": 47
+    },
+    {
+        "question": "For time-bound projects, the best scheduling tool is",
+        "options": [
+            "A. Random notes",
+            "B. Gantt chart or equivalent",
+            "C. Oral reminders",
+            "D. No plan"
+        ],
+        "answer": "B",
+        "id": 48
+    },
+    {
+        "question": "Conflict of interest must be",
+        "options": [
+            "A. Managed and disclosed",
+            "B. Hidden",
+            "C. Delegated to junior staff",
+            "D. Ignored if minor"
+        ],
+        "answer": "A",
+        "id": 49
+    },
+    {
+        "question": "A strong internal control reduces",
+        "options": [
+            "A. Fraud and process errors",
+            "B. Team morale",
+            "C. Transparency",
+            "D. Documentation quality"
+        ],
+        "answer": "A",
+        "id": 50
+    },
+    {
+        "question": "A leadership development center typically uses",
+        "options": [
+            "A. Only CV review",
+            "B. Simulations, in-basket, role plays, tests",
+            "C. Birthday lists",
+            "D. Photo albums"
+        ],
+        "answer": "B",
+        "id": 51
+    },
+    {
+        "question": "Which best builds trust with citizens?",
+        "options": [
+            "A. Overpromising",
+            "B. Meeting published service timelines",
+            "C. Blaming others",
+            "D. Silence"
+        ],
+        "answer": "B",
+        "id": 52
+    },
+    {
+        "question": "Coaching differs from mentoring because coaching is",
+        "options": [
+            "A. Long-term career guidance only",
+            "B. Performance-focused and time-bound",
+            "C. Informal storytelling",
+            "D. Pure advice-giving"
+        ],
+        "answer": "B",
+        "id": 53
+    },
+    {
+        "question": "Transformational leaders handle resistance by",
+        "options": [
+            "A. Coercion only",
+            "B. Explaining the \u201cwhy,\u201d engaging stakeholders",
+            "C. Avoiding dissenters",
+            "D. Cancelling change"
+        ],
+        "answer": "B",
+        "id": 54
+    },
+    {
+        "question": "Data-driven decisions require",
+        "options": [
+            "A. Gut feelings alone",
+            "B. Reliable data collection and analysis",
+            "C. Skipping validation",
+            "D. Ignoring anomalies"
+        ],
+        "answer": "B",
+        "id": 55
+    },
+    {
+        "question": "A good meeting culture includes",
+        "options": [
+            "A. No agenda",
+            "B. Timeboxed agenda and action owners",
+            "C. Infinite time",
+            "D. No minutes"
+        ],
+        "answer": "B",
+        "id": 56
+    },
+    {
+        "question": "A psychometric trait linked to leadership resilience is",
+        "options": [
+            "A. Neuroticism high",
+            "B. Conscientiousness high",
+            "C. Impulsivity high",
+            "D. Hostility high"
+        ],
+        "answer": "B",
+        "id": 57
+    },
+    {
+        "question": "The best way to manage upward is",
+        "options": [
+            "A. Hide bad news",
+            "B. Provide timely, solution-oriented updates",
+            "C. Overload with emails",
+            "D. Bypass channels"
+        ],
+        "answer": "B",
+        "id": 58
+    },
+    {
+        "question": "A case team reviewing citizen complaints should start with",
+        "options": [
+            "A. Deleting old cases",
+            "B. Categorization and prioritization framework",
+            "C. Personal opinions",
+            "D. Immediate punishment"
+        ],
+        "answer": "B",
+        "id": 59
+    },
+    {
+        "question": "For service charters, leaders should",
+        "options": [
+            "A. Keep them secret",
+            "B. Publish standards and monitor compliance",
+            "C. Use them for decoration",
+            "D. Replace KPIs"
+        ],
+        "answer": "B",
+        "id": 60
+    },
+    {
+        "question": "A situational leader adapts based on",
+        "options": [
+            "A. Weather",
+            "B. Follower readiness and task complexity",
+            "C. Office size",
+            "D. Car allocation"
+        ],
+        "answer": "B",
+        "id": 61
+    },
+    {
+        "question": "Which improves inter-agency coordination?",
+        "options": [
+            "A. Turf protection",
+            "B. Joint task forces and shared SOPs",
+            "C. Rumors",
+            "D. Duplicate mandates"
+        ],
+        "answer": "B",
+        "id": 62
+    },
+    {
+        "question": "Ethical audits focus on",
+        "options": [
+            "A. Social media likes",
+            "B. Integrity, compliance, fairness",
+            "C. Decorating offices",
+            "D. Personal gifts"
+        ],
+        "answer": "B",
+        "id": 63
+    },
+    {
+        "question": "A leader uses OKRs to",
+        "options": [
+            "A. Hide outcomes",
+            "B. Link Objectives to Key Results",
+            "C. Replace budgets",
+            "D. Avoid tracking"
+        ],
+        "answer": "B",
+        "id": 64
+    },
+    {
+        "question": "A strong risk register should include",
+        "options": [
+            "A. Risk, likelihood, impact, owner, mitigation",
+            "B. Names only",
+            "C. Budget alone",
+            "D. Rumors"
+        ],
+        "answer": "A",
+        "id": 65
+    },
+    {
+        "question": "When giving feedback, SBI stands for",
+        "options": [
+            "A. Situation\u2013Behavior\u2013Impact",
+            "B. Strategy\u2013Budget\u2013Insight",
+            "C. Score\u2013Benchmark\u2013Index",
+            "D. Service\u2013Benefit\u2013Issue"
+        ],
+        "answer": "A",
+        "id": 66
+    },
+    {
+        "question": "Which is a shadow of overused strength?",
+        "options": [
+            "A. Assertiveness turning to aggression",
+            "B. Empathy turning to cruelty",
+            "C. Planning turning to chaos",
+            "D. Integrity turning to fraud"
+        ],
+        "answer": "A",
+        "id": 67
+    },
+    {
+        "question": "A culture of accountability uses",
+        "options": [
+            "A. Vague responsibilities",
+            "B. Clear goals, ownership, consequences",
+            "C. Endless committees",
+            "D. Personalities over process"
+        ],
+        "answer": "B",
+        "id": 68
+    },
+    {
+        "question": "The purpose of benchmarking is to",
+        "options": [
+            "A. Copy blindly",
+            "B. Learn best practices and adapt",
+            "C. Compete internally",
+            "D. Inflate KPIs"
+        ],
+        "answer": "B",
+        "id": 69
+    },
+    {
+        "question": "Leaders reduce change fatigue by",
+        "options": [
+            "A. Launching too many initiatives at once",
+            "B. Sequencing changes and communicating wins",
+            "C. Hiding timelines",
+            "D. Ignoring capacity"
+        ],
+        "answer": "B",
+        "id": 70
+    },
+    {
+        "question": "In public finance ethics, leaders must",
+        "options": [
+            "A. Split contracts informally",
+            "B. Comply with rules and ensure value for money",
+            "C. Reward favorites",
+            "D. Avoid audits"
+        ],
+        "answer": "B",
+        "id": 71
+    },
+    {
+        "question": "A resilient team shows",
+        "options": [
+            "A. Panic under pressure",
+            "B. Adaptation and quick recovery",
+            "C. Blame culture",
+            "D. Avoidance"
+        ],
+        "answer": "B",
+        "id": 72
+    },
+    {
+        "question": "Which is MOST objective evidence of performance?",
+        "options": [
+            "A. Anecdotes",
+            "B. KPI reports and verified outcomes",
+            "C. Office rumors",
+            "D. Social events"
+        ],
+        "answer": "B",
+        "id": 73
+    },
+    {
+        "question": "Psychological contract breach leads to",
+        "options": [
+            "A. Higher commitment",
+            "B. Lower trust and engagement",
+            "C. More innovation",
+            "D. Better retention"
+        ],
+        "answer": "B",
+        "id": 74
+    },
+    {
+        "question": "Leaders improve policy compliance by",
+        "options": [
+            "A. Surprise rules",
+            "B. Training, clear SOPs, and audits",
+            "C. Gossip",
+            "D. Ignoring breaches"
+        ],
+        "answer": "B",
+        "id": 75
+    },
+    {
+        "question": "A strengths-based approach means",
+        "options": [
+            "A. Fixing only weaknesses",
+            "B. Aligning roles to top talents",
+            "C. Ignoring gaps",
+            "D. Promoting randomly"
+        ],
+        "answer": "B",
+        "id": 76
+    },
+    {
+        "question": "Decision logs help by",
+        "options": [
+            "A. Creating extra paperwork only",
+            "B. Recording rationale for accountability",
+            "C. Replacing minutes",
+            "D. Hiding choices"
+        ],
+        "answer": "B",
+        "id": 77
+    },
+    {
+        "question": "Which technique reduces bias in recruitment?",
+        "options": [
+            "A. Unstructured chats",
+            "B. Structured interviews and scoring rubrics",
+            "C. Personal referrals",
+            "D. Photo-based screening"
+        ],
+        "answer": "B",
+        "id": 78
+    },
+    {
+        "question": "For emergency operations, leaders should",
+        "options": [
+            "A. Use incident command structure",
+            "B. Crowdsource decisions",
+            "C. Delay tasking",
+            "D. Avoid drills"
+        ],
+        "answer": "A",
+        "id": 79
+    },
+    {
+        "question": "The MOST effective recognition is",
+        "options": [
+            "A. Random gifts",
+            "B. Timely, specific appreciation tied to outcomes",
+            "C. Annual ceremony only",
+            "D. Private praise never"
+        ],
+        "answer": "B",
+        "id": 80
+    },
+    {
+        "question": "A leader\u2019s north star in public service is",
+        "options": [
+            "A. Personal gain",
+            "B. Citizen value and legal mandate",
+            "C. Media attention",
+            "D. Office size"
+        ],
+        "answer": "B",
+        "id": 81
+    },
+    {
+        "question": "In delegation, \u201ccheck-ins\u201d are for",
+        "options": [
+            "A. Distrust",
+            "B. Support and course correction",
+            "C. Punishment",
+            "D. Gossip"
+        ],
+        "answer": "B",
+        "id": 82
+    },
+    {
+        "question": "High-performing teams typically have",
+        "options": [
+            "A. Unclear roles",
+            "B. Shared goals and norms",
+            "C. Constant conflict",
+            "D. Hidden agendas"
+        ],
+        "answer": "B",
+        "id": 83
+    },
+    {
+        "question": "A practical tool to map process waste is",
+        "options": [
+            "A. Value stream mapping",
+            "B. Random walks",
+            "C. Paint charts",
+            "D. Seniority lists"
+        ],
+        "answer": "A",
+        "id": 84
+    },
+    {
+        "question": "Leaders ensure accessibility by",
+        "options": [
+            "A. Ignoring persons with disabilities",
+            "B. Providing ramps, signage, service accommodations",
+            "C. Verbal promises only",
+            "D. Delegating to external NGOs only"
+        ],
+        "answer": "B",
+        "id": 85
+    },
+    {
+        "question": "Which best describes \u201cspan of control\u201d?",
+        "options": [
+            "A. Number of offices per building",
+            "B. Number of direct reports per leader",
+            "C. Budget limit",
+            "D. Car pool size"
+        ],
+        "answer": "B",
+        "id": 86
+    },
+    {
+        "question": "A bias that favors first information seen is",
+        "options": [
+            "A. Anchoring bias",
+            "B. Hindsight bias",
+            "C. Recency bias",
+            "D. Halo effect"
+        ],
+        "answer": "A",
+        "id": 87
+    },
+    {
+        "question": "A fair grievance process requires",
+        "options": [
+            "A. Clear channels and timelines",
+            "B. Secret decisions",
+            "C. Public shaming",
+            "D. Delay tactics"
+        ],
+        "answer": "A",
+        "id": 88
+    },
+    {
+        "question": "Leaders drive innovation by",
+        "options": [
+            "A. Punishing experiments",
+            "B. Allocating small pilots with review gates",
+            "C. Waiting for perfect information",
+            "D. Banning suggestions"
+        ],
+        "answer": "B",
+        "id": 89
+    },
+    {
+        "question": "In ethics, \u201ctone at the top\u201d means",
+        "options": [
+            "A. Music preference",
+            "B. Leadership modeling integrity",
+            "C. Dress code only",
+            "D. Slogans on walls"
+        ],
+        "answer": "B",
+        "id": 90
+    },
+    {
+        "question": "The primary function of SOP audits is",
+        "options": [
+            "A. Entertainment",
+            "B. Verify compliance and improve processes",
+            "C. Replace leadership",
+            "D. Cut staff"
+        ],
+        "answer": "B",
+        "id": 91
+    },
+    {
+        "question": "When staff are new and tasks are unclear, use",
+        "options": [
+            "A. Delegating style",
+            "B. Directing/coaching style",
+            "C. Laissez-faire",
+            "D. No supervision"
+        ],
+        "answer": "B",
+        "id": 92
+    },
+    {
+        "question": "A leadership pipeline risk is",
+        "options": [
+            "A. Cross-training",
+            "B. Overreliance on one expert",
+            "C. Succession plans",
+            "D. Job shadowing"
+        ],
+        "answer": "B",
+        "id": 93
+    },
+    {
+        "question": "Team retrospectives should focus on",
+        "options": [
+            "A. Blame",
+            "B. What worked, what to improve, next actions",
+            "C. Office politics",
+            "D. Personal attacks"
+        ],
+        "answer": "B",
+        "id": 94
+    },
+    {
+        "question": "Leaders track equity in promotions by",
+        "options": [
+            "A. Hiding demographics",
+            "B. Analyzing patterns and fixing bias",
+            "C. Ignoring data",
+            "D. One-off cases only"
+        ],
+        "answer": "B",
+        "id": 95
+    },
+    {
+        "question": "The goal of performance contracts is to",
+        "options": [
+            "A. Threaten staff",
+            "B. Clarify targets and accountability",
+            "C. Replace HR",
+            "D. Increase forms only"
+        ],
+        "answer": "B",
+        "id": 96
+    },
+    {
+        "question": "A \u201csingle point of failure\u201d is",
+        "options": [
+            "A. Backup plan",
+            "B. One person/system whose failure stops operations",
+            "C. Team success",
+            "D. Budget surplus"
+        ],
+        "answer": "B",
+        "id": 97
+    },
+    {
+        "question": "Leaders handle rumors by",
+        "options": [
+            "A. Ignoring indefinitely",
+            "B. Communicating facts quickly and consistently",
+            "C. Fueling gossip",
+            "D. Punishing questions"
+        ],
+        "answer": "B",
+        "id": 98
+    },
+    {
+        "question": "A public service leader measures policy success by",
+        "options": [
+            "A. Number of memos",
+            "B. Outcomes for citizens vs. baseline",
+            "C. Number of meetings",
+            "D. Office size"
+        ],
+        "answer": "B",
+        "id": 99
+    },
+    {
+        "question": "In case reviews, \u201clessons learned\u201d should be",
+        "options": [
+            "A. Archived only",
+            "B. Converted to updated SOPs and training",
+            "C. Deleted",
+            "D. Used for PR alone"
+        ],
+        "answer": "B",
+        "id": 100
+    },
+    {
+        "question": "An adaptive leader in FCTA must",
+        "options": [
+            "A. Avoid complex problems",
+            "B. Mobilize people to tackle tough challenges",
+            "C. Delegate all issues to consultants",
+            "D. Hide emerging risks"
+        ],
+        "answer": "B",
+        "id": 101
+    },
+    {
+        "question": "Leaders drive accountability culture by",
+        "options": [
+            "A. Clear goals and consequence management",
+            "B. Frequent slogans without follow-up",
+            "C. Avoiding performance reviews",
+            "D. Rewarding excuses"
+        ],
+        "answer": "A",
+        "id": 102
+    },
+    {
+        "question": "In service improvement, \u201cQuick Wins\u201d are",
+        "options": [
+            "A. Actions with minimal impact",
+            "B. Visible changes that build momentum",
+            "C. Only long-term strategies",
+            "D. Deferred plans"
+        ],
+        "answer": "B",
+        "id": 103
+    },
+    {
+        "question": "The key objective of citizen charters is",
+        "options": [
+            "A. Silence the public",
+            "B. Communicate service standards and rights",
+            "C. Replace KPIs",
+            "D. Avoid legal scrutiny"
+        ],
+        "answer": "B",
+        "id": 104
+    },
+    {
+        "question": "A coaching leader will",
+        "options": [
+            "A. Dictate all solutions",
+            "B. Ask guiding questions to unlock staff potential",
+            "C. Avoid staff development",
+            "D. Focus on punishment"
+        ],
+        "answer": "B",
+        "id": 105
+    },
+    {
+        "question": "Psychometric integrity tests measure",
+        "options": [
+            "A. Job knowledge",
+            "B. Attitudes towards honesty and ethics",
+            "C. Leadership charisma",
+            "D. Political experience"
+        ],
+        "answer": "B",
+        "id": 106
+    },
+    {
+        "question": "Which behavior erodes trust most?",
+        "options": [
+            "A. Delivering commitments",
+            "B. Withholding critical information",
+            "C. Being transparent about limits",
+            "D. Clarifying expectations"
+        ],
+        "answer": "B",
+        "id": 107
+    },
+    {
+        "question": "Laissez-faire leadership is dangerous when",
+        "options": [
+            "A. Team is self-motivated",
+            "B. Tasks are ambiguous and deadlines tight",
+            "C. Experienced staff lead themselves",
+            "D. There is redundant oversight"
+        ],
+        "answer": "B",
+        "id": 108
+    },
+    {
+        "question": "A good strategic plan must include",
+        "options": [
+            "A. Vague goals",
+            "B. Clear objectives, actions, resources, and metrics",
+            "C. Only historical achievements",
+            "D. Personal projects"
+        ],
+        "answer": "B",
+        "id": 109
+    },
+    {
+        "question": "Case study questions test",
+        "options": [
+            "A. Memory recall only",
+            "B. Application of knowledge in realistic scenarios",
+            "C. Ability to guess",
+            "D. Staff attendance"
+        ],
+        "answer": "B",
+        "id": 110
+    },
+    {
+        "question": "A core sign of low morale is",
+        "options": [
+            "A. High productivity",
+            "B. Frequent absenteeism and disengagement",
+            "C. Creative ideas",
+            "D. Clear communication"
+        ],
+        "answer": "B",
+        "id": 111
+    },
+    {
+        "question": "Leaders who micromanage often",
+        "options": [
+            "A. Build trust",
+            "B. Reduce initiative in teams",
+            "C. Foster innovation",
+            "D. Empower staff"
+        ],
+        "answer": "B",
+        "id": 112
+    },
+    {
+        "question": "The main purpose of scenario planning is",
+        "options": [
+            "A. Predict the future with certainty",
+            "B. Prepare for multiple possible outcomes",
+            "C. Avoid change",
+            "D. Replace policies"
+        ],
+        "answer": "B",
+        "id": 113
+    },
+    {
+        "question": "A leader who ignores feedback risks",
+        "options": [
+            "A. Improved performance",
+            "B. Missed opportunities for growth",
+            "C. Strengthened relationships",
+            "D. Higher employee engagement"
+        ],
+        "answer": "B",
+        "id": 114
+    },
+    {
+        "question": "Which is a tool for structured decision-making?",
+        "options": [
+            "A. Decision tree analysis",
+            "B. Rumors",
+            "C. Guesswork",
+            "D. Random voting"
+        ],
+        "answer": "A",
+        "id": 115
+    },
+    {
+        "question": "In ethics, \u201cconfidentiality\u201d means",
+        "options": [
+            "A. Sharing data selectively",
+            "B. Protecting sensitive information from unauthorized access",
+            "C. Publishing all records",
+            "D. Discarding evidence"
+        ],
+        "answer": "B",
+        "id": 116
+    },
+    {
+        "question": "Job enrichment increases motivation by",
+        "options": [
+            "A. Adding tasks with meaning and variety",
+            "B. Removing accountability",
+            "C. Reducing responsibilities",
+            "D. Limiting autonomy"
+        ],
+        "answer": "A",
+        "id": 117
+    },
+    {
+        "question": "Leaders create buy-in for reforms by",
+        "options": [
+            "A. Imposing sudden changes",
+            "B. Explaining benefits and engaging stakeholders early",
+            "C. Ignoring concerns",
+            "D. Reducing communication"
+        ],
+        "answer": "B",
+        "id": 118
+    },
+    {
+        "question": "Team cohesion is strengthened by",
+        "options": [
+            "A. Shared purpose and collaboration",
+            "B. Individualistic rewards",
+            "C. Hidden agendas",
+            "D. Lack of trust"
+        ],
+        "answer": "A",
+        "id": 119
+    },
+    {
+        "question": "A psychometric test is reliable if it",
+        "options": [
+            "A. Measures the same way consistently",
+            "B. Changes results randomly",
+            "C. Avoids standardized processes",
+            "D. Focuses only on personality"
+        ],
+        "answer": "A",
+        "id": 120
+    },
+    {
+        "question": "Leaders sustain innovation by",
+        "options": [
+            "A. Punishing failed experiments",
+            "B. Learning from pilots and scaling successes",
+            "C. Avoiding new ideas",
+            "D. Centralizing all decisions"
+        ],
+        "answer": "B",
+        "id": 121
+    },
+    {
+        "question": "Case studies help leaders to",
+        "options": [
+            "A. Practice theoretical application",
+            "B. Avoid analysis",
+            "C. Escape accountability",
+            "D. Focus on memorization"
+        ],
+        "answer": "A",
+        "id": 122
+    },
+    {
+        "question": "Which indicator shows good service delivery?",
+        "options": [
+            "A. Delayed response times",
+            "B. High citizen satisfaction and efficiency",
+            "C. Worsening backlogs",
+            "D. More complaints"
+        ],
+        "answer": "B",
+        "id": 123
+    },
+    {
+        "question": "A situational leader must",
+        "options": [
+            "A. Adjust style based on staff maturity and tasks",
+            "B. Use the same style always",
+            "C. Avoid delegation",
+            "D. Depend solely on orders"
+        ],
+        "answer": "A",
+        "id": 124
+    },
+    {
+        "question": "Emotional intelligence includes",
+        "options": [
+            "A. Self-awareness, self-regulation, empathy",
+            "B. Avoiding emotions",
+            "C. Aggressive responses",
+            "D. Ignoring feedback"
+        ],
+        "answer": "A",
+        "id": 125
+    },
+    {
+        "question": "A vision statement should",
+        "options": [
+            "A. Be inspiring and future-focused",
+            "B. Focus only on the past",
+            "C. Be overly complex",
+            "D. Avoid relevance"
+        ],
+        "answer": "A",
+        "id": 126
+    },
+    {
+        "question": "Which trait predicts ethical leadership?",
+        "options": [
+            "A. Low integrity",
+            "B. Consistency and moral courage",
+            "C. Dishonesty",
+            "D. Favoritism"
+        ],
+        "answer": "B",
+        "id": 127
+    },
+    {
+        "question": "Coaching feedback should be",
+        "options": [
+            "A. Judgmental and vague",
+            "B. Specific, constructive, and timely",
+            "C. Avoided",
+            "D. Publicly humiliating"
+        ],
+        "answer": "B",
+        "id": 128
+    },
+    {
+        "question": "Leaders reinforce values by",
+        "options": [
+            "A. Modeling desired behaviors",
+            "B. Ignoring infractions",
+            "C. Allowing double standards",
+            "D. Delegating ethics"
+        ],
+        "answer": "A",
+        "id": 129
+    },
+    {
+        "question": "A \u201cburnout\u201d symptom is",
+        "options": [
+            "A. High energy and creativity",
+            "B. Chronic fatigue and disengagement",
+            "C. Engagement with tasks",
+            "D. Consistent motivation"
+        ],
+        "answer": "B",
+        "id": 130
+    },
+    {
+        "question": "Effective case reviews require",
+        "options": [
+            "A. Clear objectives and evidence-based analysis",
+            "B. Ignoring root causes",
+            "C. Personal blame games",
+            "D. Avoiding lessons learned"
+        ],
+        "answer": "A",
+        "id": 131
+    },
+    {
+        "question": "Leaders improve clarity by",
+        "options": [
+            "A. Issuing ambiguous directives",
+            "B. Defining roles and deliverables clearly",
+            "C. Withholding SOPs",
+            "D. Delegating without context"
+        ],
+        "answer": "B",
+        "id": 132
+    },
+    {
+        "question": "A key advantage of participative leadership is",
+        "options": [
+            "A. More ownership and better decisions",
+            "B. Slower decisions only",
+            "C. No accountability",
+            "D. Fewer perspectives"
+        ],
+        "answer": "A",
+        "id": 133
+    },
+    {
+        "question": "Which style is most effective in crisis?",
+        "options": [
+            "A. Authoritative and directive",
+            "B. Democratic",
+            "C. Laissez-faire",
+            "D. Consensus-only"
+        ],
+        "answer": "A",
+        "id": 134
+    },
+    {
+        "question": "Transformational leaders build trust through",
+        "options": [
+            "A. Integrity and consistency",
+            "B. Secrecy",
+            "C. Manipulation",
+            "D. Avoidance"
+        ],
+        "answer": "A",
+        "id": 135
+    },
+    {
+        "question": "Leaders mitigate fraud by",
+        "options": [
+            "A. Weak internal controls",
+            "B. Strengthening oversight and segregation of duties",
+            "C. Ignoring audit findings",
+            "D. Relying only on trust"
+        ],
+        "answer": "B",
+        "id": 136
+    },
+    {
+        "question": "KPI alignment ensures",
+        "options": [
+            "A. Teams work towards shared goals",
+            "B. Departments pursue isolated agendas",
+            "C. Data duplication",
+            "D. Short-term focus"
+        ],
+        "answer": "A",
+        "id": 137
+    },
+    {
+        "question": "A strong induction program",
+        "options": [
+            "A. Confuses new staff",
+            "B. Aligns them with FCTA values and roles",
+            "C. Avoids training",
+            "D. Ignores ethics"
+        ],
+        "answer": "B",
+        "id": 138
+    },
+    {
+        "question": "Psychological safety improves",
+        "options": [
+            "A. Staff confidence to share ideas",
+            "B. Fear of reprisal",
+            "C. Staff secrecy",
+            "D. Low collaboration"
+        ],
+        "answer": "A",
+        "id": 139
+    },
+    {
+        "question": "Leaders monitor performance by",
+        "options": [
+            "A. Tracking KPIs regularly",
+            "B. Waiting for annual reviews only",
+            "C. Ignoring metrics",
+            "D. Depending on rumors"
+        ],
+        "answer": "A",
+        "id": 140
+    },
+    {
+        "question": "Which is NOT a leadership skill?",
+        "options": [
+            "A. Decision-making",
+            "B. Communication",
+            "C. Delegation",
+            "D. Avoiding accountability"
+        ],
+        "answer": "D",
+        "id": 141
+    },
+    {
+        "question": "A balanced scorecard measures",
+        "options": [
+            "A. Financial and non-financial performance",
+            "B. Only staff attendance",
+            "C. Politics",
+            "D. Vehicle allocation"
+        ],
+        "answer": "A",
+        "id": 142
+    },
+    {
+        "question": "Effective succession planning avoids",
+        "options": [
+            "A. Sudden leadership gaps",
+            "B. Training of future leaders",
+            "C. Competency mapping",
+            "D. Pipeline development"
+        ],
+        "answer": "A",
+        "id": 143
+    },
+    {
+        "question": "Which drives team engagement?",
+        "options": [
+            "A. Clear purpose and recognition",
+            "B. Unfair practices",
+            "C. Silencing feedback",
+            "D. Inconsistent leadership"
+        ],
+        "answer": "A",
+        "id": 144
+    },
+    {
+        "question": "Ethical leaders avoid",
+        "options": [
+            "A. Nepotism and favoritism",
+            "B. Fair treatment",
+            "C. Accountability",
+            "D. Transparency"
+        ],
+        "answer": "A",
+        "id": 145
+    },
+    {
+        "question": "Leaders can reduce bias through",
+        "options": [
+            "A. Blind recruitment and structured scoring",
+            "B. Secret interviews",
+            "C. Personal preferences",
+            "D. No documentation"
+        ],
+        "answer": "A",
+        "id": 146
+    },
+    {
+        "question": "In coaching, \u201cactive listening\u201d means",
+        "options": [
+            "A. Waiting to respond",
+            "B. Listening attentively without judgment",
+            "C. Interrupting frequently",
+            "D. Offering immediate solutions"
+        ],
+        "answer": "B",
+        "id": 147
+    },
+    {
+        "question": "A performance gap occurs when",
+        "options": [
+            "A. Outcomes are below expectations",
+            "B. Targets are met",
+            "C. Citizens are satisfied",
+            "D. Processes work efficiently"
+        ],
+        "answer": "A",
+        "id": 148
+    },
+    {
+        "question": "Leaders improve collaboration by",
+        "options": [
+            "A. Promoting knowledge sharing",
+            "B. Hoarding information",
+            "C. Discouraging teamwork",
+            "D. Ignoring staff strengths"
+        ],
+        "answer": "A",
+        "id": 149
+    },
+    {
+        "question": "A transparent procurement process",
+        "options": [
+            "A. Publishes criteria and outcomes",
+            "B. Depends on secrecy",
+            "C. Avoids competitive bidding",
+            "D. Ignores regulations"
+        ],
+        "answer": "A",
+        "id": 150
+    },
+    {
+        "question": "Leaders model resilience by",
+        "options": [
+            "A. Giving up quickly",
+            "B. Adapting positively to setbacks",
+            "C. Avoiding tough issues",
+            "D. Blaming staff"
+        ],
+        "answer": "B",
+        "id": 151
+    },
+    {
+        "question": "A clear chain of command",
+        "options": [
+            "A. Avoids confusion in reporting lines",
+            "B. Creates ambiguity",
+            "C. Is unnecessary in crises",
+            "D. Encourages redundancy"
+        ],
+        "answer": "A",
+        "id": 152
+    },
+    {
+        "question": "An effective delegation process includes",
+        "options": [
+            "A. Assigning responsibility and authority",
+            "B. Withholding context",
+            "C. Micro-managing",
+            "D. Ignoring progress"
+        ],
+        "answer": "A",
+        "id": 153
+    },
+    {
+        "question": "Performance contracts in public service",
+        "options": [
+            "A. Clarify deliverables and timelines",
+            "B. Replace all leadership roles",
+            "C. Avoid accountability",
+            "D. Encourage secrecy"
+        ],
+        "answer": "A",
+        "id": 154
+    },
+    {
+        "question": "Leaders inspire staff by",
+        "options": [
+            "A. Sharing vision and recognizing contributions",
+            "B. Avoiding communication",
+            "C. Punishing mistakes only",
+            "D. Hoarding praise"
+        ],
+        "answer": "A",
+        "id": 155
+    },
+    {
+        "question": "A leadership style focusing on rewards and penalties is",
+        "options": [
+            "A. Transformational",
+            "B. Transactional",
+            "C. Laissez-faire",
+            "D. Servant"
+        ],
+        "answer": "B",
+        "id": 156
+    },
+    {
+        "question": "Leaders track fairness by",
+        "options": [
+            "A. Ignoring disparities",
+            "B. Analyzing promotion and pay data",
+            "C. Rewarding favoritism",
+            "D. Avoiding metrics"
+        ],
+        "answer": "B",
+        "id": 157
+    },
+    {
+        "question": "In psychometrics, validity measures",
+        "options": [
+            "A. Whether the test measures what it claims",
+            "B. Randomness",
+            "C. Reliability only",
+            "D. Staff attendance"
+        ],
+        "answer": "A",
+        "id": 158
+    },
+    {
+        "question": "Continuous learning in FCTA means",
+        "options": [
+            "A. Relying on past successes",
+            "B. Ongoing skills and knowledge upgrades",
+            "C. Avoiding new ideas",
+            "D. Limiting staff exposure"
+        ],
+        "answer": "B",
+        "id": 159
+    },
+    {
+        "question": "Team diversity brings",
+        "options": [
+            "A. Wider perspectives and innovation",
+            "B. Uniform thinking",
+            "C. Slower creativity",
+            "D. More bias"
+        ],
+        "answer": "A",
+        "id": 160
+    },
+    {
+        "question": "Which is NOT a benefit of job rotation?",
+        "options": [
+            "A. Broader skills",
+            "B. Fraud prevention",
+            "C. Increased motivation",
+            "D. Staff isolation"
+        ],
+        "answer": "D",
+        "id": 161
+    },
+    {
+        "question": "Leaders enhance integrity culture by",
+        "options": [
+            "A. Setting clear policies and enforcing them",
+            "B. Ignoring small breaches",
+            "C. Rewarding shortcuts",
+            "D. Avoiding audits"
+        ],
+        "answer": "A",
+        "id": 162
+    },
+    {
+        "question": "Coaching leaders focus on",
+        "options": [
+            "A. Building capacity rather than fixing problems alone",
+            "B. Avoiding staff development",
+            "C. Removing autonomy",
+            "D. Ignoring staff goals"
+        ],
+        "answer": "A",
+        "id": 163
+    },
+    {
+        "question": "A leadership case study usually includes",
+        "options": [
+            "A. Context, problem, actions, results",
+            "B. Gossip",
+            "C. Random events",
+            "D. Budget details only"
+        ],
+        "answer": "A",
+        "id": 164
+    },
+    {
+        "question": "Leaders promote ethical culture by",
+        "options": [
+            "A. Training and leading by example",
+            "B. Applying double standards",
+            "C. Avoiding ethics workshops",
+            "D. Encouraging favoritism"
+        ],
+        "answer": "A",
+        "id": 165
+    },
+    {
+        "question": "A well-communicated change vision",
+        "options": [
+            "A. Builds alignment and reduces resistance",
+            "B. Confuses stakeholders",
+            "C. Avoids explanation",
+            "D. Increases fear"
+        ],
+        "answer": "A",
+        "id": 166
+    },
+    {
+        "question": "Leaders increase trust by",
+        "options": [
+            "A. Delivering on promises consistently",
+            "B. Cancelling commitments",
+            "C. Hoarding information",
+            "D. Avoiding staff"
+        ],
+        "answer": "A",
+        "id": 167
+    },
+    {
+        "question": "In project teams, RACI defines",
+        "options": [
+            "A. Who is Responsible, Accountable, Consulted, Informed",
+            "B. Vehicle allocations",
+            "C. Budget owners",
+            "D. Political positions"
+        ],
+        "answer": "A",
+        "id": 168
+    },
+    {
+        "question": "Ethical leaders handle resources",
+        "options": [
+            "A. As stewards for public good",
+            "B. For personal gain",
+            "C. Without accountability",
+            "D. Based on favoritism"
+        ],
+        "answer": "A",
+        "id": 169
+    },
+    {
+        "question": "Leaders evaluate impact by",
+        "options": [
+            "A. Measuring citizen outcomes",
+            "B. Counting memos",
+            "C. Tracking attendance",
+            "D. Ignoring data"
+        ],
+        "answer": "A",
+        "id": 170
+    },
+    {
+        "question": "A leader strengthens teams by",
+        "options": [
+            "A. Clarifying roles and goals",
+            "B. Avoiding communication",
+            "C. Withholding support",
+            "D. Fostering unhealthy competition"
+        ],
+        "answer": "A",
+        "id": 171
+    },
+    {
+        "question": "Leadership case studies improve",
+        "options": [
+            "A. Decision-making and critical thinking",
+            "B. Gossip",
+            "C. Irrelevant memory recall",
+            "D. Secrecy"
+        ],
+        "answer": "A",
+        "id": 172
+    },
+    {
+        "question": "Servant leaders focus on",
+        "options": [
+            "A. Serving others first",
+            "B. Personal recognition",
+            "C. Ignoring staff",
+            "D. Avoiding feedback"
+        ],
+        "answer": "A",
+        "id": 173
+    },
+    {
+        "question": "Leaders sustain reforms by",
+        "options": [
+            "A. Embedding them into systems and culture",
+            "B. Depending on one champion",
+            "C. Avoiding documentation",
+            "D. Ignoring resistance"
+        ],
+        "answer": "A",
+        "id": 174
+    },
+    {
+        "question": "A psychometric leadership inventory measures",
+        "options": [
+            "A. Preferences and leadership potential",
+            "B. Daily attendance",
+            "C. Car ownership",
+            "D. Budget knowledge"
+        ],
+        "answer": "A",
+        "id": 175
+    },
+    {
+        "question": "Leaders ensure team alignment by",
+        "options": [
+            "A. Regularly communicating strategy and priorities",
+            "B. Keeping plans secret",
+            "C. Avoiding feedback",
+            "D. Isolating teams"
+        ],
+        "answer": "A",
+        "id": 176
+    },
+    {
+        "question": "Transactional leadership emphasizes",
+        "options": [
+            "A. Rewards and penalties",
+            "B. Long-term vision",
+            "C. Empowerment",
+            "D. Collaboration"
+        ],
+        "answer": "A",
+        "id": 177
+    },
+    {
+        "question": "Leaders handle performance issues by",
+        "options": [
+            "A. Diagnosing root causes and coaching",
+            "B. Avoiding confrontation",
+            "C. Blaming the team",
+            "D. Ignoring data"
+        ],
+        "answer": "A",
+        "id": 178
+    },
+    {
+        "question": "Ethical procurement requires",
+        "options": [
+            "A. Competitive bidding and transparency",
+            "B. Secrecy",
+            "C. Political favoritism",
+            "D. Ignoring regulations"
+        ],
+        "answer": "A",
+        "id": 179
+    },
+    {
+        "question": "Leaders influence culture by",
+        "options": [
+            "A. Modeling values and systems that reinforce them",
+            "B. Ignoring staff behavior",
+            "C. Avoiding feedback",
+            "D. Allowing double standards"
+        ],
+        "answer": "A",
+        "id": 180
+    },
+    {
+        "question": "Emotional intelligence supports",
+        "options": [
+            "A. Better relationships and decision-making",
+            "B. More impulsivity",
+            "C. Ignoring others' needs",
+            "D. Blame culture"
+        ],
+        "answer": "A",
+        "id": 181
+    },
+    {
+        "question": "Leaders monitor reform progress by",
+        "options": [
+            "A. Tracking indicators and feedback loops",
+            "B. Relying on assumptions",
+            "C. Avoiding reviews",
+            "D. Waiting for complaints"
+        ],
+        "answer": "A",
+        "id": 182
+    },
+    {
+        "question": "A growth mindset in leadership means",
+        "options": [
+            "A. Seeing challenges as opportunities to learn",
+            "B. Avoiding feedback",
+            "C. Believing abilities are fixed",
+            "D. Refusing to adapt"
+        ],
+        "answer": "A",
+        "id": 183
+    },
+    {
+        "question": "Leaders handle resistance best by",
+        "options": [
+            "A. Engaging and addressing concerns early",
+            "B. Punishing all dissenters",
+            "C. Ignoring staff",
+            "D. Cancelling change"
+        ],
+        "answer": "A",
+        "id": 184
+    },
+    {
+        "question": "A competency gap analysis identifies",
+        "options": [
+            "A. Skills needed vs. skills present",
+            "B. Office location gaps",
+            "C. Car shortages",
+            "D. Budget holes"
+        ],
+        "answer": "A",
+        "id": 185
+    },
+    {
+        "question": "Leaders create motivation by",
+        "options": [
+            "A. Recognizing contributions and offering growth",
+            "B. Withholding praise",
+            "C. Relying on fear",
+            "D. Avoiding feedback"
+        ],
+        "answer": "A",
+        "id": 186
+    },
+    {
+        "question": "A 360\u00b0 feedback process collects input from",
+        "options": [
+            "A. Peers, subordinates, and supervisors",
+            "B. Only supervisors",
+            "C. Citizens",
+            "D. Random individuals"
+        ],
+        "answer": "A",
+        "id": 187
+    },
+    {
+        "question": "Leaders ensure inclusion by",
+        "options": [
+            "A. Fair processes and diverse perspectives",
+            "B. Allowing bias",
+            "C. Avoiding representation",
+            "D. Ignoring disability"
+        ],
+        "answer": "A",
+        "id": 188
+    },
+    {
+        "question": "In psychometrics, personality tests reveal",
+        "options": [
+            "A. Behavioral tendencies",
+            "B. Budget size",
+            "C. Office politics",
+            "D. Car allocation"
+        ],
+        "answer": "A",
+        "id": 189
+    },
+    {
+        "question": "Leaders avoid silos by",
+        "options": [
+            "A. Building cross-functional collaboration",
+            "B. Restricting information",
+            "C. Avoiding joint meetings",
+            "D. Blocking data sharing"
+        ],
+        "answer": "A",
+        "id": 190
+    },
+    {
+        "question": "A clear service charter sets",
+        "options": [
+            "A. Standards citizens can expect",
+            "B. Hidden objectives",
+            "C. Internal gossip",
+            "D. Personal promises"
+        ],
+        "answer": "A",
+        "id": 191
+    },
+    {
+        "question": "Leaders build credibility by",
+        "options": [
+            "A. Doing what they say they will do",
+            "B. Avoiding commitments",
+            "C. Cancelling plans",
+            "D. Shifting blame"
+        ],
+        "answer": "A",
+        "id": 192
+    },
+    {
+        "question": "A leadership retreat\u2019s purpose is",
+        "options": [
+            "A. Strategic alignment and development",
+            "B. Social entertainment only",
+            "C. Avoiding work",
+            "D. Spending budgets"
+        ],
+        "answer": "A",
+        "id": 193
+    },
+    {
+        "question": "Leaders handle complexity by",
+        "options": [
+            "A. Breaking it into manageable parts",
+            "B. Avoiding decision-making",
+            "C. Waiting indefinitely",
+            "D. Guessing"
+        ],
+        "answer": "A",
+        "id": 194
+    },
+    {
+        "question": "Job shadowing helps",
+        "options": [
+            "A. Build experience and prepare successors",
+            "B. Reduce collaboration",
+            "C. Avoid knowledge transfer",
+            "D. Hide skills"
+        ],
+        "answer": "A",
+        "id": 195
+    },
+    {
+        "question": "Leaders reduce fraud by",
+        "options": [
+            "A. Strengthening audit trails",
+            "B. Ignoring red flags",
+            "C. Rewarding shortcuts",
+            "D. Avoiding segregation of duties"
+        ],
+        "answer": "A",
+        "id": 196
+    },
+    {
+        "question": "A leadership competency framework supports",
+        "options": [
+            "A. Selection, training, and performance management",
+            "B. Gossip",
+            "C. Irrelevant awards",
+            "D. Politics"
+        ],
+        "answer": "A",
+        "id": 197
+    },
+    {
+        "question": "Leaders measure engagement by",
+        "options": [
+            "A. Surveys and turnover trends",
+            "B. Rumors",
+            "C. Guesswork",
+            "D. Fewer complaints"
+        ],
+        "answer": "A",
+        "id": 198
+    },
+    {
+        "question": "A fair performance appraisal system is",
+        "options": [
+            "A. Evidence-based and transparent",
+            "B. Based on favoritism",
+            "C. Avoiding metrics",
+            "D. Arbitrary"
+        ],
+        "answer": "A",
+        "id": 199
+    },
+    {
+        "question": "Leaders encourage innovation by",
+        "options": [
+            "A. Allowing experimentation and learning",
+            "B. Punishing new ideas",
+            "C. Relying only on tradition",
+            "D. Centralizing all decisions"
+        ],
+        "answer": "A",
+        "id": 200
+    },
+    {
+        "question": "Leaders foster teamwork by",
+        "options": [
+            "A. Promoting collaboration and shared goals",
+            "B. Encouraging competition over cooperation",
+            "C. Withholding information",
+            "D. Avoiding communication"
+        ],
+        "answer": "A",
+        "id": 201
+    },
+    {
+        "question": "A performance dashboard helps leaders",
+        "options": [
+            "A. Track key metrics in real time",
+            "B. Avoid decisions",
+            "C. Replace team meetings",
+            "D. Focus on only one department"
+        ],
+        "answer": "A",
+        "id": 202
+    },
+    {
+        "question": "Leaders build trust with communities by",
+        "options": [
+            "A. Delivering promised services",
+            "B. Ignoring citizen needs",
+            "C. Avoiding transparency",
+            "D. Withholding performance data"
+        ],
+        "answer": "A",
+        "id": 203
+    },
+    {
+        "question": "Transactional leadership focuses primarily on",
+        "options": [
+            "A. Rewards and punishments",
+            "B. Empowering followers",
+            "C. Long-term vision",
+            "D. Emotional intelligence"
+        ],
+        "answer": "A",
+        "id": 204
+    },
+    {
+        "question": "Leaders reduce duplication in FCTA operations by",
+        "options": [
+            "A. Streamlining processes across agencies",
+            "B. Avoiding cross-agency collaboration",
+            "C. Hoarding information",
+            "D. Building silos"
+        ],
+        "answer": "A",
+        "id": 205
+    },
+    {
+        "question": "A servant leader\u2019s priority is",
+        "options": [
+            "A. Serving others before self",
+            "B. Accumulating personal benefits",
+            "C. Withholding resources",
+            "D. Avoiding feedback"
+        ],
+        "answer": "A",
+        "id": 206
+    },
+    {
+        "question": "Leaders respond to citizen complaints by",
+        "options": [
+            "A. Acting promptly and addressing root causes",
+            "B. Ignoring grievances",
+            "C. Deferring responses indefinitely",
+            "D. Shifting blame"
+        ],
+        "answer": "A",
+        "id": 207
+    },
+    {
+        "question": "In psychometrics, reliability means",
+        "options": [
+            "A. Consistency of test results over time",
+            "B. Accuracy of predictions",
+            "C. Staff motivation",
+            "D. Employee attendance"
+        ],
+        "answer": "A",
+        "id": 208
+    },
+    {
+        "question": "Leaders drive innovation by",
+        "options": [
+            "A. Encouraging new ideas and experiments",
+            "B. Avoiding change",
+            "C. Rejecting feedback",
+            "D. Over-controlling processes"
+        ],
+        "answer": "A",
+        "id": 209
+    },
+    {
+        "question": "A clear performance management system",
+        "options": [
+            "A. Links individual goals to organizational strategy",
+            "B. Avoids accountability",
+            "C. Measures only attendance",
+            "D. Removes consequences"
+        ],
+        "answer": "A",
+        "id": 210
+    },
+    {
+        "question": "Leaders promote ethical behavior by",
+        "options": [
+            "A. Enforcing clear standards and modeling them",
+            "B. Rewarding unethical actions",
+            "C. Avoiding integrity issues",
+            "D. Allowing conflicts of interest"
+        ],
+        "answer": "A",
+        "id": 211
+    },
+    {
+        "question": "A growth-oriented leader encourages",
+        "options": [
+            "A. Continuous learning and development",
+            "B. Avoidance of training",
+            "C. Dependence on old methods",
+            "D. Resistance to change"
+        ],
+        "answer": "A",
+        "id": 212
+    },
+    {
+        "question": "Leaders improve case study discussions by",
+        "options": [
+            "A. Using real-world scenarios and outcomes",
+            "B. Relying on gossip",
+            "C. Avoiding analysis",
+            "D. Focusing only on theory"
+        ],
+        "answer": "A",
+        "id": 213
+    },
+    {
+        "question": "Job descriptions help leaders by",
+        "options": [
+            "A. Clarifying responsibilities and expectations",
+            "B. Creating confusion",
+            "C. Avoiding accountability",
+            "D. Replacing performance reviews"
+        ],
+        "answer": "A",
+        "id": 214
+    },
+    {
+        "question": "Leaders handle underperformance by",
+        "options": [
+            "A. Setting clear goals and coaching",
+            "B. Ignoring the issue",
+            "C. Punishing without diagnosis",
+            "D. Rewarding poor work"
+        ],
+        "answer": "A",
+        "id": 215
+    },
+    {
+        "question": "An effective change leader",
+        "options": [
+            "A. Communicates vision and engages stakeholders",
+            "B. Keeps plans secret",
+            "C. Avoids feedback",
+            "D. Cancels reforms"
+        ],
+        "answer": "A",
+        "id": 216
+    },
+    {
+        "question": "Leaders encourage transparency by",
+        "options": [
+            "A. Sharing information and decisions openly",
+            "B. Withholding records",
+            "C. Avoiding accountability",
+            "D. Using secretive processes"
+        ],
+        "answer": "A",
+        "id": 217
+    },
+    {
+        "question": "Psychological safety allows teams to",
+        "options": [
+            "A. Speak up without fear of retribution",
+            "B. Hide errors",
+            "C. Avoid accountability",
+            "D. Compete destructively"
+        ],
+        "answer": "A",
+        "id": 218
+    },
+    {
+        "question": "Leaders set KPIs to",
+        "options": [
+            "A. Track progress and align with strategic goals",
+            "B. Avoid measurements",
+            "C. Focus only on effort",
+            "D. Remove responsibility"
+        ],
+        "answer": "A",
+        "id": 219
+    },
+    {
+        "question": "Transformational leaders inspire others by",
+        "options": [
+            "A. Communicating vision and showing integrity",
+            "B. Avoiding challenges",
+            "C. Focusing only on punishment",
+            "D. Ignoring team needs"
+        ],
+        "answer": "A",
+        "id": 220
+    },
+    {
+        "question": "Leaders ensure fair promotions by",
+        "options": [
+            "A. Using objective criteria and structured processes",
+            "B. Allowing favoritism",
+            "C. Avoiding documentation",
+            "D. Rewarding personal connections"
+        ],
+        "answer": "A",
+        "id": 221
+    },
+    {
+        "question": "An autocratic style is most useful when",
+        "options": [
+            "A. Urgent decisions are required quickly",
+            "B. Broad consultation is possible",
+            "C. Team is highly skilled and independent",
+            "D. Situations are stable"
+        ],
+        "answer": "A",
+        "id": 222
+    },
+    {
+        "question": "Leaders enhance morale by",
+        "options": [
+            "A. Recognizing staff contributions",
+            "B. Ignoring accomplishments",
+            "C. Favoring certain employees",
+            "D. Avoiding rewards"
+        ],
+        "answer": "A",
+        "id": 223
+    },
+    {
+        "question": "Case studies are useful because they",
+        "options": [
+            "A. Teach application of knowledge to real situations",
+            "B. Rely only on theory",
+            "C. Ignore problem-solving",
+            "D. Focus on memorization"
+        ],
+        "answer": "A",
+        "id": 224
+    },
+    {
+        "question": "Leaders maintain ethical culture by",
+        "options": [
+            "A. Consistently enforcing policies",
+            "B. Allowing exceptions for friends",
+            "C. Ignoring small breaches",
+            "D. Delegating ethics entirely"
+        ],
+        "answer": "A",
+        "id": 225
+    },
+    {
+        "question": "Coaching sessions should",
+        "options": [
+            "A. Be structured with clear outcomes",
+            "B. Lack focus",
+            "C. Be judgmental",
+            "D. Avoid feedback"
+        ],
+        "answer": "A",
+        "id": 226
+    },
+    {
+        "question": "Leaders avoid groupthink by",
+        "options": [
+            "A. Encouraging diverse viewpoints",
+            "B. Silencing dissent",
+            "C. Rewarding conformity",
+            "D. Avoiding debates"
+        ],
+        "answer": "A",
+        "id": 227
+    },
+    {
+        "question": "Servant leaders build loyalty by",
+        "options": [
+            "A. Meeting staff and citizen needs",
+            "B. Placing self-interest first",
+            "C. Avoiding communication",
+            "D. Withholding support"
+        ],
+        "answer": "A",
+        "id": 228
+    },
+    {
+        "question": "A key element of performance appraisals is",
+        "options": [
+            "A. Evidence-based evaluation",
+            "B. Rumor-based judgments",
+            "C. Random scoring",
+            "D. Avoiding feedback"
+        ],
+        "answer": "A",
+        "id": 229
+    },
+    {
+        "question": "Leaders foster inclusivity by",
+        "options": [
+            "A. Removing barriers for diverse groups",
+            "B. Ignoring representation issues",
+            "C. Avoiding fairness",
+            "D. Selecting only similar individuals"
+        ],
+        "answer": "A",
+        "id": 230
+    },
+    {
+        "question": "Leaders develop future leaders by",
+        "options": [
+            "A. Offering mentoring and opportunities",
+            "B. Avoiding succession planning",
+            "C. Suppressing talent",
+            "D. Limiting training"
+        ],
+        "answer": "A",
+        "id": 231
+    },
+    {
+        "question": "A strong internal control system",
+        "options": [
+            "A. Reduces fraud and errors",
+            "B. Creates opportunities for manipulation",
+            "C. Eliminates accountability",
+            "D. Rewards poor processes"
+        ],
+        "answer": "A",
+        "id": 232
+    },
+    {
+        "question": "Leaders reduce resistance to change by",
+        "options": [
+            "A. Engaging staff and explaining benefits",
+            "B. Forcing change without consultation",
+            "C. Ignoring staff fears",
+            "D. Avoiding transparency"
+        ],
+        "answer": "A",
+        "id": 233
+    },
+    {
+        "question": "A leadership competency model defines",
+        "options": [
+            "A. Behaviors and skills for effective roles",
+            "B. Office hierarchy",
+            "C. Budget levels",
+            "D. Staff car allocations"
+        ],
+        "answer": "A",
+        "id": 234
+    },
+    {
+        "question": "Leaders inspire teams through",
+        "options": [
+            "A. Clear vision, support, and recognition",
+            "B. Frequent threats",
+            "C. Avoidance of feedback",
+            "D. Hoarding information"
+        ],
+        "answer": "A",
+        "id": 235
+    },
+    {
+        "question": "Psychometric leadership tests help",
+        "options": [
+            "A. Predict leadership potential",
+            "B. Guarantee promotions",
+            "C. Replace performance reviews",
+            "D. Measure technical skills only"
+        ],
+        "answer": "A",
+        "id": 236
+    },
+    {
+        "question": "Leaders encourage knowledge sharing by",
+        "options": [
+            "A. Creating platforms and incentives",
+            "B. Hoarding information",
+            "C. Punishing collaboration",
+            "D. Ignoring best practices"
+        ],
+        "answer": "A",
+        "id": 237
+    },
+    {
+        "question": "An effective strategic review",
+        "options": [
+            "A. Measures progress and adjusts plans",
+            "B. Avoids feedback",
+            "C. Focuses on personal goals",
+            "D. Ignores data"
+        ],
+        "answer": "A",
+        "id": 238
+    },
+    {
+        "question": "Leaders enhance service delivery by",
+        "options": [
+            "A. Focusing on citizen outcomes",
+            "B. Ignoring public feedback",
+            "C. Avoiding process improvements",
+            "D. Using outdated methods"
+        ],
+        "answer": "A",
+        "id": 239
+    },
+    {
+        "question": "The main purpose of a leadership retreat is",
+        "options": [
+            "A. Strategic planning and alignment",
+            "B. Avoiding accountability",
+            "C. Hosting parties",
+            "D. Building silos"
+        ],
+        "answer": "A",
+        "id": 240
+    },
+    {
+        "question": "Leaders ensure accountability by",
+        "options": [
+            "A. Setting clear responsibilities and consequences",
+            "B. Avoiding documentation",
+            "C. Allowing unclear roles",
+            "D. Ignoring performance"
+        ],
+        "answer": "A",
+        "id": 241
+    },
+    {
+        "question": "A democratic leadership style",
+        "options": [
+            "A. Invites input from team members",
+            "B. Avoids consultation",
+            "C. Relies only on orders",
+            "D. Discourages collaboration"
+        ],
+        "answer": "A",
+        "id": 242
+    },
+    {
+        "question": "Leaders use performance indicators to",
+        "options": [
+            "A. Track whether objectives are met",
+            "B. Replace ethical standards",
+            "C. Avoid monitoring",
+            "D. Delay reforms"
+        ],
+        "answer": "A",
+        "id": 243
+    },
+    {
+        "question": "Coaching improves performance by",
+        "options": [
+            "A. Developing skills and self-awareness",
+            "B. Avoiding feedback",
+            "C. Relying on punishment",
+            "D. Withholding support"
+        ],
+        "answer": "A",
+        "id": 244
+    },
+    {
+        "question": "Leaders improve public trust by",
+        "options": [
+            "A. Delivering consistent and fair services",
+            "B. Favoring political allies",
+            "C. Avoiding communication",
+            "D. Concealing failures"
+        ],
+        "answer": "A",
+        "id": 245
+    },
+    {
+        "question": "In crisis management, leaders must",
+        "options": [
+            "A. Act quickly with accurate information",
+            "B. Delay action",
+            "C. Avoid delegation",
+            "D. Rely on guesswork"
+        ],
+        "answer": "A",
+        "id": 246
+    },
+    {
+        "question": "Leaders measure service quality by",
+        "options": [
+            "A. Citizen satisfaction and service standards",
+            "B. Rumors",
+            "C. Budget size only",
+            "D. Attendance rates"
+        ],
+        "answer": "A",
+        "id": 247
+    },
+    {
+        "question": "Job enrichment involves",
+        "options": [
+            "A. Adding more meaningful responsibilities",
+            "B. Reducing staff autonomy",
+            "C. Avoiding task variety",
+            "D. Overloading staff with unrelated work"
+        ],
+        "answer": "A",
+        "id": 248
+    },
+    {
+        "question": "Leaders strengthen resilience by",
+        "options": [
+            "A. Preparing teams for unexpected challenges",
+            "B. Avoiding contingency planning",
+            "C. Ignoring risk",
+            "D. Discouraging adaptability"
+        ],
+        "answer": "A",
+        "id": 249
+    },
+    {
+        "question": "Transformational leaders",
+        "options": [
+            "A. Inspire followers to exceed expectations",
+            "B. Focus only on short-term rewards",
+            "C. Avoid vision-setting",
+            "D. Rely solely on authority"
+        ],
+        "answer": "A",
+        "id": 250
+    },
+    {
+        "question": "Leaders foster ethical decision-making by",
+        "options": [
+            "A. Clarifying standards and modeling behavior",
+            "B. Ignoring violations",
+            "C. Avoiding tough choices",
+            "D. Allowing double standards"
+        ],
+        "answer": "A",
+        "id": 251
+    },
+    {
+        "question": "A performance gap should be",
+        "options": [
+            "A. Diagnosed and addressed with targeted actions",
+            "B. Ignored",
+            "C. Blamed on staff",
+            "D. Punished immediately"
+        ],
+        "answer": "A",
+        "id": 252
+    },
+    {
+        "question": "Leaders foster creativity by",
+        "options": [
+            "A. Encouraging experimentation and learning",
+            "B. Avoiding new ideas",
+            "C. Punishing mistakes",
+            "D. Demanding conformity"
+        ],
+        "answer": "A",
+        "id": 253
+    },
+    {
+        "question": "A clear communication plan in change",
+        "options": [
+            "A. Reduces confusion and builds buy-in",
+            "B. Is unnecessary",
+            "C. Avoids explanation",
+            "D. Encourages rumors"
+        ],
+        "answer": "A",
+        "id": 254
+    },
+    {
+        "question": "Leaders sustain improvements by",
+        "options": [
+            "A. Embedding new processes into operations",
+            "B. Relying on individual champions",
+            "C. Ignoring feedback",
+            "D. Avoiding documentation"
+        ],
+        "answer": "A",
+        "id": 255
+    },
+    {
+        "question": "A servant leader values",
+        "options": [
+            "A. Service to others as the highest priority",
+            "B. Authority for personal benefit",
+            "C. Avoiding staff needs",
+            "D. Gaining recognition first"
+        ],
+        "answer": "A",
+        "id": 256
+    },
+    {
+        "question": "Leaders build high-performing teams by",
+        "options": [
+            "A. Setting clear goals and fostering collaboration",
+            "B. Ignoring group dynamics",
+            "C. Favoring individuals unfairly",
+            "D. Avoiding performance metrics"
+        ],
+        "answer": "A",
+        "id": 257
+    },
+    {
+        "question": "Ethical leaders treat staff",
+        "options": [
+            "A. With fairness and respect",
+            "B. Based on favoritism",
+            "C. With secrecy",
+            "D. Without accountability"
+        ],
+        "answer": "A",
+        "id": 258
+    },
+    {
+        "question": "Leaders respond to systemic issues by",
+        "options": [
+            "A. Addressing root causes, not symptoms",
+            "B. Ignoring the bigger picture",
+            "C. Blaming frontline staff",
+            "D. Avoiding reforms"
+        ],
+        "answer": "A",
+        "id": 259
+    },
+    {
+        "question": "Leaders build credibility by",
+        "options": [
+            "A. Aligning words with actions",
+            "B. Making empty promises",
+            "C. Avoiding commitments",
+            "D. Shifting blame"
+        ],
+        "answer": "A",
+        "id": 260
+    },
+    {
+        "question": "Psychological safety encourages",
+        "options": [
+            "A. Teams to admit mistakes and learn",
+            "B. Staff to hide issues",
+            "C. Leaders to punish risk-taking",
+            "D. Avoidance of open dialogue"
+        ],
+        "answer": "A",
+        "id": 261
+    },
+    {
+        "question": "Leaders use case studies to",
+        "options": [
+            "A. Analyze and learn from real situations",
+            "B. Replace performance reviews",
+            "C. Focus only on theory",
+            "D. Avoid practical solutions"
+        ],
+        "answer": "A",
+        "id": 262
+    },
+    {
+        "question": "Coaching leaders help staff",
+        "options": [
+            "A. Develop skills and self-confidence",
+            "B. Avoid responsibility",
+            "C. Depend entirely on leaders",
+            "D. Ignore feedback"
+        ],
+        "answer": "A",
+        "id": 263
+    },
+    {
+        "question": "Leaders drive engagement by",
+        "options": [
+            "A. Recognizing achievements and supporting growth",
+            "B. Ignoring staff needs",
+            "C. Avoiding feedback",
+            "D. Focusing only on mistakes"
+        ],
+        "answer": "A",
+        "id": 264
+    },
+    {
+        "question": "In psychometrics, a leadership style inventory measures",
+        "options": [
+            "A. Preferred approaches to leading teams",
+            "B. Budget planning",
+            "C. Attendance records",
+            "D. Staff car ownership"
+        ],
+        "answer": "A",
+        "id": 265
+    },
+    {
+        "question": "Leaders reduce service backlogs by",
+        "options": [
+            "A. Streamlining processes and allocating resources",
+            "B. Ignoring complaints",
+            "C. Avoiding innovation",
+            "D. Delaying reforms"
+        ],
+        "answer": "A",
+        "id": 266
+    },
+    {
+        "question": "A democratic leader fosters",
+        "options": [
+            "A. Participation in decision-making",
+            "B. Secrecy",
+            "C. Favoritism",
+            "D. Authoritarianism"
+        ],
+        "answer": "A",
+        "id": 267
+    },
+    {
+        "question": "Leaders ensure ethical procurement by",
+        "options": [
+            "A. Following due process and regulations",
+            "B. Favoring personal connections",
+            "C. Ignoring audits",
+            "D. Avoiding competition"
+        ],
+        "answer": "A",
+        "id": 268
+    },
+    {
+        "question": "Leaders create alignment across FCTA by",
+        "options": [
+            "A. Communicating clear goals and strategies",
+            "B. Allowing each department to operate independently",
+            "C. Avoiding integration",
+            "D. Focusing on silos"
+        ],
+        "answer": "A",
+        "id": 269
+    },
+    {
+        "question": "A coaching conversation should",
+        "options": [
+            "A. Focus on goals, options, and actions",
+            "B. Criticize without solutions",
+            "C. Avoid staff input",
+            "D. Be unstructured"
+        ],
+        "answer": "A",
+        "id": 270
+    },
+    {
+        "question": "Leaders develop resilience by",
+        "options": [
+            "A. Preparing for setbacks and adapting",
+            "B. Avoiding difficult situations",
+            "C. Ignoring risks",
+            "D. Focusing only on success"
+        ],
+        "answer": "A",
+        "id": 271
+    },
+    {
+        "question": "Servant leaders gain influence by",
+        "options": [
+            "A. Building trust through service",
+            "B. Demanding loyalty",
+            "C. Avoiding relationships",
+            "D. Prioritizing themselves"
+        ],
+        "answer": "A",
+        "id": 272
+    },
+    {
+        "question": "Leaders track reform success by",
+        "options": [
+            "A. Measuring outcomes and adjusting strategies",
+            "B. Ignoring data",
+            "C. Focusing only on inputs",
+            "D. Avoiding citizen feedback"
+        ],
+        "answer": "A",
+        "id": 273
+    },
+    {
+        "question": "Ethical leaders handle conflicts by",
+        "options": [
+            "A. Applying fairness and listening to all sides",
+            "B. Taking sides prematurely",
+            "C. Ignoring issues",
+            "D. Using favoritism"
+        ],
+        "answer": "A",
+        "id": 274
+    },
+    {
+        "question": "Leaders motivate staff by",
+        "options": [
+            "A. Recognizing strengths and opportunities",
+            "B. Avoiding communication",
+            "C. Withholding development",
+            "D. Punishing mistakes only"
+        ],
+        "answer": "A",
+        "id": 275
+    },
+    {
+        "question": "Case studies develop",
+        "options": [
+            "A. Problem-solving and analytical skills",
+            "B. Staff gossip",
+            "C. Blind memorization",
+            "D. Avoidance of practice"
+        ],
+        "answer": "A",
+        "id": 276
+    },
+    {
+        "question": "Leaders enhance teamwork by",
+        "options": [
+            "A. Building trust and shared purpose",
+            "B. Encouraging competition only",
+            "C. Avoiding clear goals",
+            "D. Promoting secrecy"
+        ],
+        "answer": "A",
+        "id": 277
+    },
+    {
+        "question": "Coaching leaders use",
+        "options": [
+            "A. Questions to help staff find solutions",
+            "B. Orders without explanation",
+            "C. Avoidance of feedback",
+            "D. Delegation without context"
+        ],
+        "answer": "A",
+        "id": 278
+    },
+    {
+        "question": "Leaders encourage ethical culture by",
+        "options": [
+            "A. Celebrating integrity and addressing breaches",
+            "B. Ignoring misconduct",
+            "C. Avoiding standards",
+            "D. Rewarding shortcuts"
+        ],
+        "answer": "A",
+        "id": 279
+    },
+    {
+        "question": "Performance indicators allow leaders to",
+        "options": [
+            "A. Monitor progress and outcomes",
+            "B. Avoid measuring success",
+            "C. Focus only on effort",
+            "D. Ignore priorities"
+        ],
+        "answer": "A",
+        "id": 280
+    },
+    {
+        "question": "Leaders handle pressure by",
+        "options": [
+            "A. Staying composed and solution-focused",
+            "B. Panicking",
+            "C. Blaming others",
+            "D. Avoiding decisions"
+        ],
+        "answer": "A",
+        "id": 281
+    },
+    {
+        "question": "Transformational leaders",
+        "options": [
+            "A. Inspire and challenge teams to grow",
+            "B. Focus only on authority",
+            "C. Avoid vision-setting",
+            "D. Rely solely on compliance"
+        ],
+        "answer": "A",
+        "id": 282
+    },
+    {
+        "question": "Leaders ensure fairness by",
+        "options": [
+            "A. Applying policies consistently",
+            "B. Using favoritism",
+            "C. Ignoring disparities",
+            "D. Avoiding rules"
+        ],
+        "answer": "A",
+        "id": 283
+    },
+    {
+        "question": "Psychological contracts represent",
+        "options": [
+            "A. Unwritten expectations between employer and employee",
+            "B. Legal agreements",
+            "C. Audit reports",
+            "D. Service charters"
+        ],
+        "answer": "A",
+        "id": 284
+    },
+    {
+        "question": "Leaders promote continuous improvement by",
+        "options": [
+            "A. Learning from feedback and errors",
+            "B. Avoiding changes",
+            "C. Punishing staff",
+            "D. Ignoring best practices"
+        ],
+        "answer": "A",
+        "id": 285
+    },
+    {
+        "question": "A strong ethics policy",
+        "options": [
+            "A. Defines acceptable behaviors clearly",
+            "B. Avoids accountability",
+            "C. Allows loopholes",
+            "D. Focuses only on punishment"
+        ],
+        "answer": "A",
+        "id": 286
+    },
+    {
+        "question": "Leaders use mentoring to",
+        "options": [
+            "A. Guide and develop future leaders",
+            "B. Avoid staff engagement",
+            "C. Replace performance reviews",
+            "D. Focus only on tasks"
+        ],
+        "answer": "A",
+        "id": 287
+    },
+    {
+        "question": "Leaders maintain focus during change by",
+        "options": [
+            "A. Prioritizing key actions and goals",
+            "B. Avoiding communication",
+            "C. Ignoring staff fears",
+            "D. Allowing distractions"
+        ],
+        "answer": "A",
+        "id": 288
+    },
+    {
+        "question": "Job rotation helps FCTA by",
+        "options": [
+            "A. Reducing fraud and building skills",
+            "B. Isolating staff",
+            "C. Avoiding growth",
+            "D. Increasing silos"
+        ],
+        "answer": "A",
+        "id": 289
+    },
+    {
+        "question": "Leaders measure effectiveness by",
+        "options": [
+            "A. Evaluating impact against objectives",
+            "B. Counting memos",
+            "C. Relying on opinions",
+            "D. Ignoring data"
+        ],
+        "answer": "A",
+        "id": 290
+    },
+    {
+        "question": "A coaching mindset is",
+        "options": [
+            "A. Focused on growth and empowerment",
+            "B. Avoiding feedback",
+            "C. Dependent on authority",
+            "D. Focused only on punishment"
+        ],
+        "answer": "A",
+        "id": 291
+    },
+    {
+        "question": "Leaders communicate vision by",
+        "options": [
+            "A. Sharing clear and inspiring messages",
+            "B. Keeping plans secret",
+            "C. Avoiding staff questions",
+            "D. Using complex jargon"
+        ],
+        "answer": "A",
+        "id": 292
+    },
+    {
+        "question": "Leaders uphold public trust by",
+        "options": [
+            "A. Acting with integrity and transparency",
+            "B. Favoring political allies",
+            "C. Avoiding accountability",
+            "D. Hiding mistakes"
+        ],
+        "answer": "A",
+        "id": 293
+    },
+    {
+        "question": "Ethical leaders manage conflicts of interest by",
+        "options": [
+            "A. Disclosing and mitigating them",
+            "B. Ignoring them",
+            "C. Concealing relationships",
+            "D. Using personal gain"
+        ],
+        "answer": "A",
+        "id": 294
+    },
+    {
+        "question": "Leaders build strong relationships by",
+        "options": [
+            "A. Listening and delivering on commitments",
+            "B. Avoiding conversations",
+            "C. Focusing only on authority",
+            "D. Withholding support"
+        ],
+        "answer": "A",
+        "id": 295
+    },
+    {
+        "question": "A democratic leader",
+        "options": [
+            "A. Values participation and collaboration",
+            "B. Discourages input",
+            "C. Avoids shared decisions",
+            "D. Focuses on control"
+        ],
+        "answer": "A",
+        "id": 296
+    },
+    {
+        "question": "Leaders maintain discipline by",
+        "options": [
+            "A. Applying fair and consistent rules",
+            "B. Ignoring infractions",
+            "C. Allowing bias",
+            "D. Using favoritism"
+        ],
+        "answer": "A",
+        "id": 297
+    },
+    {
+        "question": "Case study analysis strengthens",
+        "options": [
+            "A. Critical thinking and decision-making",
+            "B. Memorization skills only",
+            "C. Avoidance of practice",
+            "D. Reliance on theory"
+        ],
+        "answer": "A",
+        "id": 298
+    },
+    {
+        "question": "Leaders strengthen performance by",
+        "options": [
+            "A. Providing clear goals and resources",
+            "B. Avoiding communication",
+            "C. Ignoring feedback",
+            "D. Shifting blame"
+        ],
+        "answer": "A",
+        "id": 299
+    },
+    {
+        "question": "Servant leaders gain loyalty by",
+        "options": [
+            "A. Putting staff and citizen needs first",
+            "B. Seeking personal power",
+            "C. Avoiding service delivery",
+            "D. Ignoring feedback"
+        ],
+        "answer": "A",
+        "id": 300
+    },
+    {
+        "question": "Leaders maintain focus on results by",
+        "options": [
+            "A. Setting clear targets and measuring outcomes",
+            "B. Avoiding performance indicators",
+            "C. Ignoring deadlines",
+            "D. Prioritizing personal projects"
+        ],
+        "answer": "A",
+        "id": 301
+    },
+    {
+        "question": "A leadership pipeline ensures",
+        "options": [
+            "A. Continuity when key leaders exit",
+            "B. Dependence on one individual",
+            "C. Avoidance of talent development",
+            "D. No preparation for succession"
+        ],
+        "answer": "A",
+        "id": 302
+    },
+    {
+        "question": "Leaders build resilient teams by",
+        "options": [
+            "A. Preparing them to adapt to challenges",
+            "B. Ignoring change",
+            "C. Punishing mistakes harshly",
+            "D. Avoiding support"
+        ],
+        "answer": "A",
+        "id": 303
+    },
+    {
+        "question": "Transformational leaders focus on",
+        "options": [
+            "A. Vision, inspiration, and change",
+            "B. Maintaining the status quo",
+            "C. Punishment over growth",
+            "D. Avoiding communication"
+        ],
+        "answer": "A",
+        "id": 304
+    },
+    {
+        "question": "Leaders ensure fair recruitment by",
+        "options": [
+            "A. Using structured and transparent processes",
+            "B. Allowing favoritism",
+            "C. Avoiding scoring rubrics",
+            "D. Hiring based on personal preference"
+        ],
+        "answer": "A",
+        "id": 305
+    },
+    {
+        "question": "Psychological safety in teams leads to",
+        "options": [
+            "A. Increased innovation and openness",
+            "B. Fear-based silence",
+            "C. More secrecy",
+            "D. Avoidance of challenges"
+        ],
+        "answer": "A",
+        "id": 306
+    },
+    {
+        "question": "Leaders encourage collaboration by",
+        "options": [
+            "A. Creating cross-functional teams and shared goals",
+            "B. Building silos",
+            "C. Hoarding information",
+            "D. Avoiding joint projects"
+        ],
+        "answer": "A",
+        "id": 307
+    },
+    {
+        "question": "Case studies in leadership training help",
+        "options": [
+            "A. Apply theoretical knowledge in practical settings",
+            "B. Replace all lectures",
+            "C. Focus only on memorization",
+            "D. Avoid teamwork"
+        ],
+        "answer": "A",
+        "id": 308
+    },
+    {
+        "question": "Leaders sustain reforms by",
+        "options": [
+            "A. Embedding them into organizational systems",
+            "B. Relying on individual champions",
+            "C. Avoiding monitoring",
+            "D. Ignoring feedback"
+        ],
+        "answer": "A",
+        "id": 309
+    },
+    {
+        "question": "Leaders promote inclusivity by",
+        "options": [
+            "A. Removing barriers and ensuring representation",
+            "B. Ignoring minority groups",
+            "C. Avoiding diversity initiatives",
+            "D. Favoring select individuals"
+        ],
+        "answer": "A",
+        "id": 310
+    },
+    {
+        "question": "Servant leadership emphasizes",
+        "options": [
+            "A. Service before self-interest",
+            "B. Accumulating authority",
+            "C. Ignoring staff needs",
+            "D. Avoiding citizen engagement"
+        ],
+        "answer": "A",
+        "id": 311
+    },
+    {
+        "question": "Leaders handle conflict best by",
+        "options": [
+            "A. Addressing issues fairly and constructively",
+            "B. Avoiding intervention",
+            "C. Taking sides based on bias",
+            "D. Ignoring disputes"
+        ],
+        "answer": "A",
+        "id": 312
+    },
+    {
+        "question": "A 360\u00b0 feedback tool",
+        "options": [
+            "A. Gathers input from multiple sources",
+            "B. Depends only on self-appraisal",
+            "C. Avoids peer perspectives",
+            "D. Focuses only on supervisors"
+        ],
+        "answer": "A",
+        "id": 313
+    },
+    {
+        "question": "Leaders enhance trust by",
+        "options": [
+            "A. Acting consistently and transparently",
+            "B. Making promises they can\u2019t keep",
+            "C. Avoiding accountability",
+            "D. Concealing decisions"
+        ],
+        "answer": "A",
+        "id": 314
+    },
+    {
+        "question": "A balanced scorecard measures",
+        "options": [
+            "A. Financial, operational, and citizen outcomes",
+            "B. Attendance only",
+            "C. Political influence",
+            "D. Vehicle allocation"
+        ],
+        "answer": "A",
+        "id": 315
+    },
+    {
+        "question": "Leaders motivate teams by",
+        "options": [
+            "A. Recognizing and rewarding good performance",
+            "B. Ignoring achievements",
+            "C. Allowing unfair treatment",
+            "D. Avoiding communication"
+        ],
+        "answer": "A",
+        "id": 316
+    },
+    {
+        "question": "Leaders communicate change by",
+        "options": [
+            "A. Explaining reasons and benefits clearly",
+            "B. Keeping plans secret",
+            "C. Avoiding staff engagement",
+            "D. Spreading rumors"
+        ],
+        "answer": "A",
+        "id": 317
+    },
+    {
+        "question": "Ethical leaders avoid",
+        "options": [
+            "A. Conflicts of interest and bias",
+            "B. Fair treatment",
+            "C. Transparency",
+            "D. Accountability"
+        ],
+        "answer": "A",
+        "id": 318
+    },
+    {
+        "question": "Leaders prepare for crises by",
+        "options": [
+            "A. Developing contingency and response plans",
+            "B. Ignoring potential risks",
+            "C. Waiting until disasters strike",
+            "D. Avoiding drills"
+        ],
+        "answer": "A",
+        "id": 319
+    },
+    {
+        "question": "Leaders ensure staff growth by",
+        "options": [
+            "A. Providing development opportunities",
+            "B. Blocking training access",
+            "C. Favoring only select individuals",
+            "D. Avoiding coaching"
+        ],
+        "answer": "A",
+        "id": 320
+    },
+    {
+        "question": "A leadership case study helps participants",
+        "options": [
+            "A. Analyze challenges and propose solutions",
+            "B. Avoid practical applications",
+            "C. Focus only on theory",
+            "D. Skip critical thinking"
+        ],
+        "answer": "A",
+        "id": 321
+    },
+    {
+        "question": "Leaders create accountability by",
+        "options": [
+            "A. Defining roles and following up consistently",
+            "B. Allowing vague responsibilities",
+            "C. Avoiding documentation",
+            "D. Ignoring outcomes"
+        ],
+        "answer": "A",
+        "id": 322
+    },
+    {
+        "question": "Democratic leaders",
+        "options": [
+            "A. Encourage participation and idea sharing",
+            "B. Rely only on their own decisions",
+            "C. Discourage collaboration",
+            "D. Avoid staff input"
+        ],
+        "answer": "A",
+        "id": 323
+    },
+    {
+        "question": "Leaders encourage innovation by",
+        "options": [
+            "A. Allowing experimentation and learning from failure",
+            "B. Punishing new ideas",
+            "C. Avoiding change",
+            "D. Relying only on tradition"
+        ],
+        "answer": "A",
+        "id": 324
+    },
+    {
+        "question": "Leaders reduce silos by",
+        "options": [
+            "A. Promoting open communication and teamwork",
+            "B. Blocking data sharing",
+            "C. Avoiding collaboration",
+            "D. Isolating departments"
+        ],
+        "answer": "A",
+        "id": 325
+    },
+    {
+        "question": "Effective coaching sessions are",
+        "options": [
+            "A. Structured, goal-oriented, and supportive",
+            "B. Unplanned and vague",
+            "C. Focused on criticism only",
+            "D. Avoided"
+        ],
+        "answer": "A",
+        "id": 326
+    },
+    {
+        "question": "Leaders improve service delivery by",
+        "options": [
+            "A. Streamlining processes and removing bottlenecks",
+            "B. Ignoring feedback",
+            "C. Avoiding technology",
+            "D. Hoarding resources"
+        ],
+        "answer": "A",
+        "id": 327
+    },
+    {
+        "question": "Leaders increase engagement by",
+        "options": [
+            "A. Empowering staff and recognizing efforts",
+            "B. Ignoring suggestions",
+            "C. Allowing unfair treatment",
+            "D. Avoiding transparency"
+        ],
+        "answer": "A",
+        "id": 328
+    },
+    {
+        "question": "Ethical leaders model",
+        "options": [
+            "A. Integrity in decisions and actions",
+            "B. Favoritism",
+            "C. Secrecy",
+            "D. Avoidance of accountability"
+        ],
+        "answer": "A",
+        "id": 329
+    },
+    {
+        "question": "Leaders track reform outcomes by",
+        "options": [
+            "A. Monitoring KPIs and citizen impact",
+            "B. Ignoring progress data",
+            "C. Avoiding reviews",
+            "D. Relying on assumptions"
+        ],
+        "answer": "A",
+        "id": 330
+    },
+    {
+        "question": "A servant leader focuses on",
+        "options": [
+            "A. Building others\u2019 capacity to succeed",
+            "B. Seeking personal glory",
+            "C. Hoarding authority",
+            "D. Avoiding citizen service"
+        ],
+        "answer": "A",
+        "id": 331
+    },
+    {
+        "question": "Leaders develop staff by",
+        "options": [
+            "A. Coaching, mentoring, and providing opportunities",
+            "B. Avoiding training",
+            "C. Ignoring talent",
+            "D. Withholding feedback"
+        ],
+        "answer": "A",
+        "id": 332
+    },
+    {
+        "question": "Leaders prevent groupthink by",
+        "options": [
+            "A. Valuing diverse perspectives and open dialogue",
+            "B. Silencing dissent",
+            "C. Preferring conformity",
+            "D. Avoiding debates"
+        ],
+        "answer": "A",
+        "id": 333
+    },
+    {
+        "question": "Psychological safety improves",
+        "options": [
+            "A. Team confidence to share ideas and challenges",
+            "B. Fear and silence",
+            "C. Secrecy",
+            "D. Avoidance of risk"
+        ],
+        "answer": "A",
+        "id": 334
+    },
+    {
+        "question": "Leaders communicate vision effectively by",
+        "options": [
+            "A. Keeping messages clear, inspiring, and consistent",
+            "B. Using confusing jargon",
+            "C. Avoiding repetition",
+            "D. Withholding rationale"
+        ],
+        "answer": "A",
+        "id": 335
+    },
+    {
+        "question": "Leaders uphold public trust by",
+        "options": [
+            "A. Delivering services fairly and ethically",
+            "B. Allowing corruption",
+            "C. Ignoring complaints",
+            "D. Focusing on personal gain"
+        ],
+        "answer": "A",
+        "id": 336
+    },
+    {
+        "question": "A competency framework helps",
+        "options": [
+            "A. Identify skills required for success",
+            "B. Replace performance appraisals",
+            "C. Ignore staff training needs",
+            "D. Focus only on positions"
+        ],
+        "answer": "A",
+        "id": 337
+    },
+    {
+        "question": "Leaders ensure fair appraisals by",
+        "options": [
+            "A. Using evidence-based and transparent criteria",
+            "B. Favoring certain individuals",
+            "C. Avoiding performance reviews",
+            "D. Relying on gossip"
+        ],
+        "answer": "A",
+        "id": 338
+    },
+    {
+        "question": "Leaders sustain morale by",
+        "options": [
+            "A. Supporting work\u2013life balance and recognition",
+            "B. Ignoring employee concerns",
+            "C. Overworking teams unnecessarily",
+            "D. Avoiding rewards"
+        ],
+        "answer": "A",
+        "id": 339
+    },
+    {
+        "question": "Servant leaders inspire by",
+        "options": [
+            "A. Demonstrating humility and support",
+            "B. Demanding loyalty",
+            "C. Prioritizing self-interest",
+            "D. Avoiding staff needs"
+        ],
+        "answer": "A",
+        "id": 340
+    },
+    {
+        "question": "Leaders improve decisions by",
+        "options": [
+            "A. Analyzing data and considering alternatives",
+            "B. Guessing",
+            "C. Avoiding consultation",
+            "D. Ignoring evidence"
+        ],
+        "answer": "A",
+        "id": 341
+    },
+    {
+        "question": "Leaders embed reforms by",
+        "options": [
+            "A. Integrating them into culture and systems",
+            "B. Relying on external consultants only",
+            "C. Avoiding staff engagement",
+            "D. Ignoring sustainability"
+        ],
+        "answer": "A",
+        "id": 342
+    },
+    {
+        "question": "Leaders enhance staff confidence by",
+        "options": [
+            "A. Providing coaching and constructive feedback",
+            "B. Avoiding support",
+            "C. Ignoring mistakes",
+            "D. Withholding recognition"
+        ],
+        "answer": "A",
+        "id": 343
+    },
+    {
+        "question": "Ethical leaders handle whistleblowing by",
+        "options": [
+            "A. Protecting whistleblowers and investigating fairly",
+            "B. Retaliating",
+            "C. Ignoring allegations",
+            "D. Concealing evidence"
+        ],
+        "answer": "A",
+        "id": 344
+    },
+    {
+        "question": "Leaders reduce resistance by",
+        "options": [
+            "A. Listening and involving staff in solutions",
+            "B. Enforcing change without input",
+            "C. Avoiding communication",
+            "D. Ignoring concerns"
+        ],
+        "answer": "A",
+        "id": 345
+    },
+    {
+        "question": "Leaders encourage learning by",
+        "options": [
+            "A. Providing training and knowledge-sharing platforms",
+            "B. Avoiding development opportunities",
+            "C. Ignoring lessons learned",
+            "D. Withholding resources"
+        ],
+        "answer": "A",
+        "id": 346
+    },
+    {
+        "question": "Leaders track staff development by",
+        "options": [
+            "A. Maintaining training and growth records",
+            "B. Avoiding monitoring",
+            "C. Relying on assumptions",
+            "D. Ignoring progress"
+        ],
+        "answer": "A",
+        "id": 347
+    },
+    {
+        "question": "A leadership retreat focuses on",
+        "options": [
+            "A. Strategic direction and relationship building",
+            "B. Entertainment only",
+            "C. Avoiding tough discussions",
+            "D. Ignoring alignment"
+        ],
+        "answer": "A",
+        "id": 348
+    },
+    {
+        "question": "Leaders foster collaboration by",
+        "options": [
+            "A. Creating joint projects and open communication",
+            "B. Building barriers",
+            "C. Encouraging secrecy",
+            "D. Favoring certain units"
+        ],
+        "answer": "A",
+        "id": 349
+    },
+    {
+        "question": "Leaders develop ethical culture by",
+        "options": [
+            "A. Modeling values and enforcing standards",
+            "B. Ignoring misconduct",
+            "C. Avoiding accountability",
+            "D. Rewarding shortcuts"
+        ],
+        "answer": "A",
+        "id": 350
+    },
+    {
+        "question": "A performance contract clarifies",
+        "options": [
+            "A. Expected deliverables and timelines",
+            "B. Only attendance records",
+            "C. Salary entitlements",
+            "D. Informal agreements"
+        ],
+        "answer": "A",
+        "id": 351
+    },
+    {
+        "question": "Leaders increase adaptability by",
+        "options": [
+            "A. Encouraging flexibility and learning",
+            "B. Avoiding innovation",
+            "C. Focusing only on routine",
+            "D. Punishing risk-taking"
+        ],
+        "answer": "A",
+        "id": 352
+    },
+    {
+        "question": "Leaders create team alignment by",
+        "options": [
+            "A. Linking individual work to organizational goals",
+            "B. Avoiding clear communication",
+            "C. Allowing each team to set unrelated goals",
+            "D. Ignoring performance"
+        ],
+        "answer": "A",
+        "id": 353
+    },
+    {
+        "question": "Ethical leaders ensure procurement is",
+        "options": [
+            "A. Transparent and competitive",
+            "B. Secretive",
+            "C. Based on personal relationships",
+            "D. Ignoring regulations"
+        ],
+        "answer": "A",
+        "id": 354
+    },
+    {
+        "question": "Leaders inspire others by",
+        "options": [
+            "A. Demonstrating integrity and passion",
+            "B. Hoarding power",
+            "C. Avoiding accountability",
+            "D. Keeping plans secret"
+        ],
+        "answer": "A",
+        "id": 355
+    },
+    {
+        "question": "Psychological safety encourages",
+        "options": [
+            "A. Risk-taking and learning",
+            "B. Silence and fear",
+            "C. Avoidance of challenges",
+            "D. Ignoring staff ideas"
+        ],
+        "answer": "A",
+        "id": 356
+    },
+    {
+        "question": "Leaders reduce fraud by",
+        "options": [
+            "A. Strengthening controls and oversight",
+            "B. Ignoring audit results",
+            "C. Allowing unchecked access",
+            "D. Avoiding accountability"
+        ],
+        "answer": "A",
+        "id": 357
+    },
+    {
+        "question": "Leaders strengthen inclusion by",
+        "options": [
+            "A. Ensuring fair opportunities for all",
+            "B. Allowing bias",
+            "C. Avoiding diversity",
+            "D. Focusing only on certain groups"
+        ],
+        "answer": "A",
+        "id": 358
+    },
+    {
+        "question": "Leaders maintain ethical standards by",
+        "options": [
+            "A. Setting clear expectations and monitoring behavior",
+            "B. Ignoring small violations",
+            "C. Rewarding favoritism",
+            "D. Avoiding ethical discussions"
+        ],
+        "answer": "A",
+        "id": 359
+    },
+    {
+        "question": "Servant leaders demonstrate",
+        "options": [
+            "A. A commitment to staff growth and citizen service",
+            "B. Self-promotion",
+            "C. Avoidance of responsibility",
+            "D. Prioritizing personal goals"
+        ],
+        "answer": "A",
+        "id": 360
+    },
+    {
+        "question": "Leaders sustain high performance by",
+        "options": [
+            "A. Regular feedback and support",
+            "B. Ignoring achievements",
+            "C. Avoiding metrics",
+            "D. Withholding resources"
+        ],
+        "answer": "A",
+        "id": 361
+    },
+    {
+        "question": "Leaders evaluate staff potential by",
+        "options": [
+            "A. Using psychometrics and competency assessments",
+            "B. Guessing",
+            "C. Relying on favoritism",
+            "D. Ignoring data"
+        ],
+        "answer": "A",
+        "id": 362
+    },
+    {
+        "question": "Leaders address burnout by",
+        "options": [
+            "A. Supporting workload balance and well-being",
+            "B. Ignoring warning signs",
+            "C. Avoiding flexible work options",
+            "D. Punishing staff"
+        ],
+        "answer": "A",
+        "id": 363
+    },
+    {
+        "question": "Democratic leaders gain buy-in by",
+        "options": [
+            "A. Involving teams in decisions",
+            "B. Avoiding staff input",
+            "C. Keeping decisions secret",
+            "D. Discouraging discussion"
+        ],
+        "answer": "A",
+        "id": 364
+    },
+    {
+        "question": "Leaders improve service delivery by",
+        "options": [
+            "A. Measuring performance and addressing gaps",
+            "B. Avoiding citizen feedback",
+            "C. Ignoring bottlenecks",
+            "D. Prioritizing personal interests"
+        ],
+        "answer": "A",
+        "id": 365
+    },
+    {
+        "question": "Leaders enhance trust by",
+        "options": [
+            "A. Acting fairly and delivering on promises",
+            "B. Allowing inconsistency",
+            "C. Avoiding transparency",
+            "D. Ignoring staff concerns"
+        ],
+        "answer": "A",
+        "id": 366
+    },
+    {
+        "question": "Leaders reduce knowledge loss by",
+        "options": [
+            "A. Documenting processes and mentoring",
+            "B. Avoiding training",
+            "C. Allowing staff isolation",
+            "D. Ignoring succession planning"
+        ],
+        "answer": "A",
+        "id": 367
+    },
+    {
+        "question": "Leaders foster citizen trust by",
+        "options": [
+            "A. Transparent communication and accountability",
+            "B. Concealing failures",
+            "C. Avoiding public engagement",
+            "D. Ignoring feedback"
+        ],
+        "answer": "A",
+        "id": 368
+    },
+    {
+        "question": "Coaching leaders help teams",
+        "options": [
+            "A. Grow through questions and guidance",
+            "B. Depend entirely on leaders",
+            "C. Avoid self-awareness",
+            "D. Focus only on tasks"
+        ],
+        "answer": "A",
+        "id": 369
+    },
+    {
+        "question": "Leaders embed values by",
+        "options": [
+            "A. Integrating them into policies and practices",
+            "B. Using slogans only",
+            "C. Ignoring enforcement",
+            "D. Avoiding ethics"
+        ],
+        "answer": "A",
+        "id": 370
+    },
+    {
+        "question": "Leaders reduce conflict by",
+        "options": [
+            "A. Encouraging open communication and fairness",
+            "B. Avoiding difficult conversations",
+            "C. Taking sides quickly",
+            "D. Allowing unresolved disputes"
+        ],
+        "answer": "A",
+        "id": 371
+    },
+    {
+        "question": "Leaders encourage innovation by",
+        "options": [
+            "A. Supporting calculated risk-taking",
+            "B. Punishing mistakes",
+            "C. Avoiding new ideas",
+            "D. Blocking staff input"
+        ],
+        "answer": "A",
+        "id": 372
+    },
+    {
+        "question": "Leaders build credibility by",
+        "options": [
+            "A. Being consistent and accountable",
+            "B. Overpromising",
+            "C. Avoiding tough issues",
+            "D. Concealing decisions"
+        ],
+        "answer": "A",
+        "id": 373
+    },
+    {
+        "question": "A leadership retreat\u2019s output should",
+        "options": [
+            "A. Include clear action plans and alignment",
+            "B. Be ignored after the retreat",
+            "C. Focus only on entertainment",
+            "D. Avoid follow-up"
+        ],
+        "answer": "A",
+        "id": 374
+    },
+    {
+        "question": "Leaders assess performance fairly by",
+        "options": [
+            "A. Using objective evidence and criteria",
+            "B. Relying on favoritism",
+            "C. Ignoring results",
+            "D. Avoiding feedback"
+        ],
+        "answer": "A",
+        "id": 375
+    },
+    {
+        "question": "Leaders promote continuous learning by",
+        "options": [
+            "A. Encouraging training and knowledge sharing",
+            "B. Avoiding new skills",
+            "C. Withholding information",
+            "D. Focusing only on experience"
+        ],
+        "answer": "A",
+        "id": 376
+    },
+    {
+        "question": "Leaders maintain staff engagement by",
+        "options": [
+            "A. Recognizing contributions and giving autonomy",
+            "B. Avoiding communication",
+            "C. Micromanaging",
+            "D. Ignoring ideas"
+        ],
+        "answer": "A",
+        "id": 377
+    },
+    {
+        "question": "Ethical leaders",
+        "options": [
+            "A. Enforce standards consistently",
+            "B. Ignore violations for friends",
+            "C. Allow double standards",
+            "D. Avoid accountability"
+        ],
+        "answer": "A",
+        "id": 378
+    },
+    {
+        "question": "Leaders ensure inclusivity by",
+        "options": [
+            "A. Giving everyone fair opportunities",
+            "B. Favoring certain groups",
+            "C. Avoiding diversity",
+            "D. Ignoring equity"
+        ],
+        "answer": "A",
+        "id": 379
+    },
+    {
+        "question": "Leaders reduce change fatigue by",
+        "options": [
+            "A. Prioritizing changes and celebrating wins",
+            "B. Launching many initiatives at once",
+            "C. Ignoring capacity",
+            "D. Avoiding communication"
+        ],
+        "answer": "A",
+        "id": 380
+    },
+    {
+        "question": "Leaders use mentoring to",
+        "options": [
+            "A. Guide and develop others\u2019 potential",
+            "B. Avoid engagement",
+            "C. Focus only on tasks",
+            "D. Replace staff input"
+        ],
+        "answer": "A",
+        "id": 381
+    },
+    {
+        "question": "Leaders ensure data-driven decisions by",
+        "options": [
+            "A. Using accurate information and analysis",
+            "B. Guessing outcomes",
+            "C. Ignoring evidence",
+            "D. Depending on assumptions"
+        ],
+        "answer": "A",
+        "id": 382
+    },
+    {
+        "question": "Servant leaders focus on",
+        "options": [
+            "A. Building trust and empowering others",
+            "B. Pursuing personal glory",
+            "C. Avoiding service",
+            "D. Ignoring citizen needs"
+        ],
+        "answer": "A",
+        "id": 383
+    },
+    {
+        "question": "Leaders track project progress by",
+        "options": [
+            "A. Using milestones and metrics",
+            "B. Avoiding monitoring",
+            "C. Guessing",
+            "D. Ignoring deadlines"
+        ],
+        "answer": "A",
+        "id": 384
+    },
+    {
+        "question": "Leaders address bias by",
+        "options": [
+            "A. Applying structured processes and awareness",
+            "B. Allowing subjective judgments",
+            "C. Ignoring diversity issues",
+            "D. Rewarding favoritism"
+        ],
+        "answer": "A",
+        "id": 385
+    },
+    {
+        "question": "Leaders inspire teams by",
+        "options": [
+            "A. Sharing vision and recognizing efforts",
+            "B. Avoiding transparency",
+            "C. Punishing mistakes only",
+            "D. Ignoring staff concerns"
+        ],
+        "answer": "A",
+        "id": 386
+    },
+    {
+        "question": "Leaders foster trust by",
+        "options": [
+            "A. Being reliable and communicating openly",
+            "B. Breaking promises",
+            "C. Avoiding staff engagement",
+            "D. Concealing information"
+        ],
+        "answer": "A",
+        "id": 387
+    },
+    {
+        "question": "Leaders sustain reforms by",
+        "options": [
+            "A. Embedding accountability mechanisms",
+            "B. Relying on temporary champions",
+            "C. Avoiding measurement",
+            "D. Ignoring system changes"
+        ],
+        "answer": "A",
+        "id": 388
+    },
+    {
+        "question": "Leaders manage performance gaps by",
+        "options": [
+            "A. Identifying causes and implementing solutions",
+            "B. Avoiding feedback",
+            "C. Blaming employees",
+            "D. Ignoring data"
+        ],
+        "answer": "A",
+        "id": 389
+    },
+    {
+        "question": "Leaders reduce fraud risk by",
+        "options": [
+            "A. Strengthening audits and controls",
+            "B. Avoiding oversight",
+            "C. Allowing unrestricted access",
+            "D. Ignoring suspicious activity"
+        ],
+        "answer": "A",
+        "id": 390
+    },
+    {
+        "question": "Leaders enhance citizen trust by",
+        "options": [
+            "A. Delivering quality services consistently",
+            "B. Concealing failures",
+            "C. Ignoring complaints",
+            "D. Avoiding transparency"
+        ],
+        "answer": "A",
+        "id": 391
+    },
+    {
+        "question": "Leaders handle underperformance by",
+        "options": [
+            "A. Setting expectations and coaching staff",
+            "B. Avoiding conversations",
+            "C. Punishing without cause",
+            "D. Ignoring the issue"
+        ],
+        "answer": "A",
+        "id": 392
+    },
+    {
+        "question": "Democratic leaders improve morale by",
+        "options": [
+            "A. Valuing staff input and contributions",
+            "B. Avoiding participation",
+            "C. Focusing on personal goals",
+            "D. Silencing voices"
+        ],
+        "answer": "A",
+        "id": 393
+    },
+    {
+        "question": "Leaders encourage open communication by",
+        "options": [
+            "A. Creating safe channels for feedback",
+            "B. Ignoring staff suggestions",
+            "C. Punishing questions",
+            "D. Avoiding transparency"
+        ],
+        "answer": "A",
+        "id": 394
+    },
+    {
+        "question": "Leaders sustain improvements by",
+        "options": [
+            "A. Reviewing outcomes and reinforcing changes",
+            "B. Avoiding follow-up",
+            "C. Relying on one-time efforts",
+            "D. Ignoring data"
+        ],
+        "answer": "A",
+        "id": 395
+    },
+    {
+        "question": "Leaders encourage inclusion by",
+        "options": [
+            "A. Valuing diversity and addressing barriers",
+            "B. Avoiding representation",
+            "C. Allowing exclusion",
+            "D. Ignoring staff differences"
+        ],
+        "answer": "A",
+        "id": 396
+    },
+    {
+        "question": "Leaders inspire citizen confidence by",
+        "options": [
+            "A. Acting ethically and delivering on mandates",
+            "B. Breaking laws",
+            "C. Avoiding accountability",
+            "D. Concealing failures"
+        ],
+        "answer": "A",
+        "id": 397
+    },
+    {
+        "question": "Leaders assess reform success by",
+        "options": [
+            "A. Measuring long-term impact on citizens",
+            "B. Avoiding evaluations",
+            "C. Ignoring indicators",
+            "D. Relying on assumptions"
+        ],
+        "answer": "A",
+        "id": 398
+    },
+    {
+        "question": "Leaders promote fairness by",
+        "options": [
+            "A. Applying standards equally to all",
+            "B. Allowing bias",
+            "C. Ignoring policies",
+            "D. Favoring certain groups"
+        ],
+        "answer": "A",
+        "id": 399
+    },
+    {
+        "question": "Leaders foster team resilience by",
+        "options": [
+            "A. Building trust, adaptability, and support",
+            "B. Ignoring staff needs",
+            "C. Avoiding communication",
+            "D. Focusing only on results"
+        ],
+        "answer": "A",
+        "id": 400
+    },
+    {
+        "question": "Leaders strengthen citizen engagement by",
+        "options": [
+            "A. Listening to feedback and acting transparently",
+            "B. Avoiding public communication",
+            "C. Ignoring community concerns",
+            "D. Withholding service data"
+        ],
+        "answer": "A",
+        "id": 401
+    },
+    {
+        "question": "Leaders ensure inclusivity by",
+        "options": [
+            "A. Providing equal opportunities for all staff",
+            "B. Focusing only on selected groups",
+            "C. Ignoring diversity goals",
+            "D. Avoiding representation"
+        ],
+        "answer": "A",
+        "id": 402
+    },
+    {
+        "question": "A servant leader empowers teams by",
+        "options": [
+            "A. Building capacity and removing barriers",
+            "B. Hoarding authority",
+            "C. Prioritizing self-interest",
+            "D. Ignoring staff needs"
+        ],
+        "answer": "A",
+        "id": 403
+    },
+    {
+        "question": "Leaders maintain ethical culture by",
+        "options": [
+            "A. Consistently reinforcing integrity values",
+            "B. Allowing exceptions for friends",
+            "C. Ignoring small breaches",
+            "D. Avoiding accountability"
+        ],
+        "answer": "A",
+        "id": 404
+    },
+    {
+        "question": "Leaders improve service quality by",
+        "options": [
+            "A. Setting standards and monitoring delivery",
+            "B. Avoiding feedback",
+            "C. Ignoring complaints",
+            "D. Focusing only on process volume"
+        ],
+        "answer": "A",
+        "id": 405
+    },
+    {
+        "question": "Leaders reduce corruption by",
+        "options": [
+            "A. Implementing strong controls and transparency",
+            "B. Avoiding audits",
+            "C. Ignoring red flags",
+            "D. Favoring personal allies"
+        ],
+        "answer": "A",
+        "id": 406
+    },
+    {
+        "question": "Leaders drive collaboration by",
+        "options": [
+            "A. Encouraging shared goals and teamwork",
+            "B. Building silos",
+            "C. Hoarding information",
+            "D. Avoiding inter-departmental projects"
+        ],
+        "answer": "A",
+        "id": 407
+    },
+    {
+        "question": "Leaders sustain reforms by",
+        "options": [
+            "A. Institutionalizing changes in systems and culture",
+            "B. Relying only on champions",
+            "C. Avoiding measurements",
+            "D. Ignoring citizen outcomes"
+        ],
+        "answer": "A",
+        "id": 408
+    },
+    {
+        "question": "Leaders build trust with teams by",
+        "options": [
+            "A. Delivering on promises consistently",
+            "B. Avoiding accountability",
+            "C. Breaking commitments",
+            "D. Hoarding information"
+        ],
+        "answer": "A",
+        "id": 409
+    },
+    {
+        "question": "Leaders communicate vision effectively by",
+        "options": [
+            "A. Using clear, inspiring, and consistent messages",
+            "B. Keeping objectives secret",
+            "C. Avoiding explanation",
+            "D. Using complex jargon"
+        ],
+        "answer": "A",
+        "id": 410
+    },
+    {
+        "question": "Leaders encourage inclusion by",
+        "options": [
+            "A. Removing barriers to participation and advancement",
+            "B. Ignoring representation gaps",
+            "C. Focusing on select individuals only",
+            "D. Avoiding diversity strategies"
+        ],
+        "answer": "A",
+        "id": 411
+    },
+    {
+        "question": "Leaders sustain morale by",
+        "options": [
+            "A. Recognizing effort and supporting work-life balance",
+            "B. Ignoring staff needs",
+            "C. Overburdening teams",
+            "D. Avoiding rewards"
+        ],
+        "answer": "A",
+        "id": 412
+    },
+    {
+        "question": "Leaders manage conflict constructively by",
+        "options": [
+            "A. Addressing root causes and ensuring fairness",
+            "B. Avoiding intervention",
+            "C. Choosing sides prematurely",
+            "D. Ignoring disputes"
+        ],
+        "answer": "A",
+        "id": 413
+    },
+    {
+        "question": "Leaders improve decision-making by",
+        "options": [
+            "A. Considering evidence and stakeholder input",
+            "B. Guessing outcomes",
+            "C. Avoiding consultation",
+            "D. Ignoring data"
+        ],
+        "answer": "A",
+        "id": 414
+    },
+    {
+        "question": "Leaders uphold integrity by",
+        "options": [
+            "A. Declaring and managing conflicts of interest",
+            "B. Concealing relationships",
+            "C. Ignoring regulations",
+            "D. Allowing bias"
+        ],
+        "answer": "A",
+        "id": 415
+    },
+    {
+        "question": "Leaders increase adaptability by",
+        "options": [
+            "A. Promoting flexibility and continuous learning",
+            "B. Avoiding new methods",
+            "C. Punishing mistakes",
+            "D. Focusing only on routines"
+        ],
+        "answer": "A",
+        "id": 416
+    },
+    {
+        "question": "Leaders ensure effective delegation by",
+        "options": [
+            "A. Assigning authority with responsibility",
+            "B. Withholding context",
+            "C. Avoiding follow-ups",
+            "D. Micromanaging tasks"
+        ],
+        "answer": "A",
+        "id": 417
+    },
+    {
+        "question": "Leaders develop future leaders by",
+        "options": [
+            "A. Coaching, mentoring, and offering opportunities",
+            "B. Ignoring talent",
+            "C. Avoiding training",
+            "D. Hoarding knowledge"
+        ],
+        "answer": "A",
+        "id": 418
+    },
+    {
+        "question": "Leaders build high-performing teams by",
+        "options": [
+            "A. Clarifying goals and fostering collaboration",
+            "B. Avoiding communication",
+            "C. Focusing on favoritism",
+            "D. Ignoring strengths"
+        ],
+        "answer": "A",
+        "id": 419
+    },
+    {
+        "question": "Leaders foster ethical behavior by",
+        "options": [
+            "A. Modeling values and holding others accountable",
+            "B. Allowing shortcuts",
+            "C. Avoiding policies",
+            "D. Rewarding misconduct"
+        ],
+        "answer": "A",
+        "id": 420
+    },
+    {
+        "question": "Leaders monitor reforms by",
+        "options": [
+            "A. Tracking KPIs and citizen impact",
+            "B. Ignoring progress reports",
+            "C. Avoiding evaluations",
+            "D. Relying on assumptions"
+        ],
+        "answer": "A",
+        "id": 421
+    },
+    {
+        "question": "Leaders reduce burnout by",
+        "options": [
+            "A. Managing workloads and supporting well-being",
+            "B. Ignoring stress indicators",
+            "C. Avoiding flexibility",
+            "D. Punishing requests for help"
+        ],
+        "answer": "A",
+        "id": 422
+    },
+    {
+        "question": "Leaders encourage innovation by",
+        "options": [
+            "A. Supporting experimentation and learning",
+            "B. Avoiding new ideas",
+            "C. Punishing failed attempts",
+            "D. Relying only on tradition"
+        ],
+        "answer": "A",
+        "id": 423
+    },
+    {
+        "question": "Leaders promote teamwork by",
+        "options": [
+            "A. Building trust and a sense of shared purpose",
+            "B. Encouraging competition only",
+            "C. Avoiding joint tasks",
+            "D. Withholding information"
+        ],
+        "answer": "A",
+        "id": 424
+    },
+    {
+        "question": "Leaders enhance citizen confidence by",
+        "options": [
+            "A. Delivering services ethically and consistently",
+            "B. Concealing failures",
+            "C. Avoiding accountability",
+            "D. Ignoring community needs"
+        ],
+        "answer": "A",
+        "id": 425
+    },
+    {
+        "question": "Leaders sustain improvements by",
+        "options": [
+            "A. Embedding lessons learned into systems",
+            "B. Relying on one-time actions",
+            "C. Ignoring evaluation",
+            "D. Avoiding follow-ups"
+        ],
+        "answer": "A",
+        "id": 426
+    },
+    {
+        "question": "Leaders assess performance by",
+        "options": [
+            "A. Using objective evidence and KPIs",
+            "B. Guessing outcomes",
+            "C. Favoring selected staff",
+            "D. Avoiding feedback"
+        ],
+        "answer": "A",
+        "id": 427
+    },
+    {
+        "question": "Leaders reduce silos by",
+        "options": [
+            "A. Encouraging collaboration and information sharing",
+            "B. Blocking communication",
+            "C. Ignoring teamwork",
+            "D. Avoiding cross-department projects"
+        ],
+        "answer": "A",
+        "id": 428
+    },
+    {
+        "question": "Leaders handle change fatigue by",
+        "options": [
+            "A. Prioritizing initiatives and celebrating milestones",
+            "B. Launching multiple reforms at once",
+            "C. Ignoring staff capacity",
+            "D. Avoiding transparency"
+        ],
+        "answer": "A",
+        "id": 429
+    },
+    {
+        "question": "Leaders foster accountability by",
+        "options": [
+            "A. Setting clear roles and monitoring performance",
+            "B. Avoiding documentation",
+            "C. Ignoring responsibilities",
+            "D. Allowing vague expectations"
+        ],
+        "answer": "A",
+        "id": 430
+    },
+    {
+        "question": "Leaders inspire others by",
+        "options": [
+            "A. Acting with integrity and sharing vision",
+            "B. Avoiding communication",
+            "C. Punishing mistakes only",
+            "D. Concealing goals"
+        ],
+        "answer": "A",
+        "id": 431
+    },
+    {
+        "question": "Leaders strengthen inclusion by",
+        "options": [
+            "A. Creating equal access to opportunities",
+            "B. Favoring certain groups",
+            "C. Ignoring diversity challenges",
+            "D. Avoiding representation"
+        ],
+        "answer": "A",
+        "id": 432
+    },
+    {
+        "question": "Leaders maintain citizen trust by",
+        "options": [
+            "A. Being transparent and delivering quality services",
+            "B. Concealing shortcomings",
+            "C. Avoiding public engagement",
+            "D. Ignoring complaints"
+        ],
+        "answer": "A",
+        "id": 433
+    },
+    {
+        "question": "Leaders reduce fraud by",
+        "options": [
+            "A. Strengthening controls and whistleblowing mechanisms",
+            "B. Ignoring audits",
+            "C. Allowing unchecked access",
+            "D. Avoiding oversight"
+        ],
+        "answer": "A",
+        "id": 434
+    },
+    {
+        "question": "Leaders encourage staff growth by",
+        "options": [
+            "A. Providing learning and development opportunities",
+            "B. Blocking training access",
+            "C. Ignoring talent gaps",
+            "D. Avoiding coaching"
+        ],
+        "answer": "A",
+        "id": 435
+    },
+    {
+        "question": "Leaders enhance collaboration by",
+        "options": [
+            "A. Building joint projects and shared objectives",
+            "B. Avoiding teamwork",
+            "C. Fostering secrecy",
+            "D. Withholding resources"
+        ],
+        "answer": "A",
+        "id": 436
+    },
+    {
+        "question": "Leaders sustain ethical culture by",
+        "options": [
+            "A. Rewarding integrity and addressing breaches",
+            "B. Ignoring misconduct",
+            "C. Avoiding values discussions",
+            "D. Allowing bias"
+        ],
+        "answer": "A",
+        "id": 437
+    },
+    {
+        "question": "Leaders track improvement by",
+        "options": [
+            "A. Using metrics and lessons learned",
+            "B. Ignoring progress data",
+            "C. Avoiding measurement",
+            "D. Relying on assumptions"
+        ],
+        "answer": "A",
+        "id": 438
+    },
+    {
+        "question": "Leaders motivate teams by",
+        "options": [
+            "A. Recognizing achievements and supporting autonomy",
+            "B. Ignoring contributions",
+            "C. Over-controlling work",
+            "D. Avoiding communication"
+        ],
+        "answer": "A",
+        "id": 439
+    },
+    {
+        "question": "Leaders uphold fairness by",
+        "options": [
+            "A. Applying policies consistently to everyone",
+            "B. Favoring certain individuals",
+            "C. Ignoring rules",
+            "D. Allowing double standards"
+        ],
+        "answer": "A",
+        "id": 440
+    },
+    {
+        "question": "Leaders handle resistance by",
+        "options": [
+            "A. Engaging staff and addressing their concerns",
+            "B. Forcing change without dialogue",
+            "C. Ignoring dissent",
+            "D. Avoiding explanation"
+        ],
+        "answer": "A",
+        "id": 441
+    },
+    {
+        "question": "Leaders evaluate citizen satisfaction by",
+        "options": [
+            "A. Conducting surveys and analyzing feedback",
+            "B. Guessing opinions",
+            "C. Avoiding measurement",
+            "D. Ignoring complaints"
+        ],
+        "answer": "A",
+        "id": 442
+    },
+    {
+        "question": "Leaders encourage psychological safety by",
+        "options": [
+            "A. Creating a space where staff feel safe to speak",
+            "B. Punishing questions",
+            "C. Ignoring feedback",
+            "D. Avoiding transparency"
+        ],
+        "answer": "A",
+        "id": 443
+    },
+    {
+        "question": "Leaders sustain performance by",
+        "options": [
+            "A. Providing feedback and reinforcing success",
+            "B. Ignoring staff needs",
+            "C. Avoiding metrics",
+            "D. Overburdening teams"
+        ],
+        "answer": "A",
+        "id": 444
+    },
+    {
+        "question": "Leaders prevent groupthink by",
+        "options": [
+            "A. Encouraging debate and diverse ideas",
+            "B. Silencing dissent",
+            "C. Preferring conformity",
+            "D. Avoiding dialogue"
+        ],
+        "answer": "A",
+        "id": 445
+    },
+    {
+        "question": "Leaders drive service excellence by",
+        "options": [
+            "A. Setting high standards and measuring outcomes",
+            "B. Avoiding feedback",
+            "C. Ignoring quality indicators",
+            "D. Focusing only on process volume"
+        ],
+        "answer": "A",
+        "id": 446
+    },
+    {
+        "question": "Leaders improve staff engagement by",
+        "options": [
+            "A. Involving them in decision-making",
+            "B. Avoiding participation",
+            "C. Ignoring input",
+            "D. Favoring select individuals"
+        ],
+        "answer": "A",
+        "id": 447
+    },
+    {
+        "question": "Leaders foster ethical decision-making by",
+        "options": [
+            "A. Clarifying standards and modeling integrity",
+            "B. Ignoring conflicts",
+            "C. Rewarding shortcuts",
+            "D. Avoiding accountability"
+        ],
+        "answer": "A",
+        "id": 448
+    },
+    {
+        "question": "Leaders improve outcomes by",
+        "options": [
+            "A. Using data to guide decisions",
+            "B. Guessing strategies",
+            "C. Avoiding evidence",
+            "D. Ignoring analysis"
+        ],
+        "answer": "A",
+        "id": 449
+    },
+    {
+        "question": "Leaders sustain reforms by",
+        "options": [
+            "A. Integrating them into organizational culture",
+            "B. Relying on temporary fixes",
+            "C. Avoiding follow-up",
+            "D. Ignoring citizen needs"
+        ],
+        "answer": "A",
+        "id": 450
+    },
+    {
+        "question": "Leaders ensure equal opportunities by",
+        "options": [
+            "A. Addressing systemic barriers and bias",
+            "B. Ignoring equity issues",
+            "C. Favoring certain groups",
+            "D. Avoiding diversity initiatives"
+        ],
+        "answer": "A",
+        "id": 451
+    },
+    {
+        "question": "Leaders foster team spirit by",
+        "options": [
+            "A. Building trust and common purpose",
+            "B. Promoting unhealthy competition",
+            "C. Avoiding joint activities",
+            "D. Withholding support"
+        ],
+        "answer": "A",
+        "id": 452
+    },
+    {
+        "question": "Leaders reduce errors by",
+        "options": [
+            "A. Implementing standard operating procedures",
+            "B. Avoiding documentation",
+            "C. Ignoring training",
+            "D. Relying on guesswork"
+        ],
+        "answer": "A",
+        "id": 453
+    },
+    {
+        "question": "Leaders inspire innovation by",
+        "options": [
+            "A. Encouraging creative problem-solving",
+            "B. Punishing new ideas",
+            "C. Avoiding experimentation",
+            "D. Blocking staff input"
+        ],
+        "answer": "A",
+        "id": 454
+    },
+    {
+        "question": "Leaders measure impact by",
+        "options": [
+            "A. Evaluating changes in citizen outcomes",
+            "B. Avoiding indicators",
+            "C. Guessing",
+            "D. Ignoring data"
+        ],
+        "answer": "A",
+        "id": 455
+    },
+    {
+        "question": "Leaders reduce knowledge gaps by",
+        "options": [
+            "A. Encouraging knowledge sharing and mentoring",
+            "B. Avoiding documentation",
+            "C. Allowing information hoarding",
+            "D. Ignoring training"
+        ],
+        "answer": "A",
+        "id": 456
+    },
+    {
+        "question": "Leaders build strong relationships by",
+        "options": [
+            "A. Listening actively and delivering consistently",
+            "B. Avoiding communication",
+            "C. Breaking commitments",
+            "D. Ignoring trust"
+        ],
+        "answer": "A",
+        "id": 457
+    },
+    {
+        "question": "Leaders encourage staff empowerment by",
+        "options": [
+            "A. Delegating authority and supporting autonomy",
+            "B. Avoiding delegation",
+            "C. Micromanaging",
+            "D. Ignoring staff input"
+        ],
+        "answer": "A",
+        "id": 458
+    },
+    {
+        "question": "Leaders maintain ethical standards by",
+        "options": [
+            "A. Enforcing policies without bias",
+            "B. Allowing double standards",
+            "C. Ignoring violations",
+            "D. Favoring friends"
+        ],
+        "answer": "A",
+        "id": 459
+    },
+    {
+        "question": "Leaders sustain morale by",
+        "options": [
+            "A. Supporting staff well-being and recognizing efforts",
+            "B. Overburdening employees",
+            "C. Avoiding rewards",
+            "D. Ignoring feedback"
+        ],
+        "answer": "A",
+        "id": 460
+    },
+    {
+        "question": "Leaders improve clarity by",
+        "options": [
+            "A. Communicating expectations clearly and consistently",
+            "B. Using vague instructions",
+            "C. Avoiding documentation",
+            "D. Ignoring roles"
+        ],
+        "answer": "A",
+        "id": 461
+    },
+    {
+        "question": "Leaders strengthen accountability by",
+        "options": [
+            "A. Following up on responsibilities and outcomes",
+            "B. Avoiding evaluations",
+            "C. Ignoring results",
+            "D. Allowing vague goals"
+        ],
+        "answer": "A",
+        "id": 462
+    },
+    {
+        "question": "Leaders reduce conflicts of interest by",
+        "options": [
+            "A. Setting clear guidelines and disclosures",
+            "B. Ignoring relationships",
+            "C. Concealing violations",
+            "D. Rewarding favoritism"
+        ],
+        "answer": "A",
+        "id": 463
+    },
+    {
+        "question": "Leaders enhance citizen satisfaction by",
+        "options": [
+            "A. Delivering quality and accessible services",
+            "B. Concealing failures",
+            "C. Avoiding public feedback",
+            "D. Ignoring service standards"
+        ],
+        "answer": "A",
+        "id": 464
+    },
+    {
+        "question": "Leaders manage change effectively by",
+        "options": [
+            "A. Communicating vision and supporting staff",
+            "B. Avoiding explanation",
+            "C. Ignoring resistance",
+            "D. Forcing reforms suddenly"
+        ],
+        "answer": "A",
+        "id": 465
+    },
+    {
+        "question": "Leaders maintain performance levels by",
+        "options": [
+            "A. Monitoring progress and addressing gaps",
+            "B. Avoiding metrics",
+            "C. Ignoring data",
+            "D. Relying on assumptions"
+        ],
+        "answer": "A",
+        "id": 466
+    },
+    {
+        "question": "Leaders foster inclusion by",
+        "options": [
+            "A. Celebrating diversity and equal participation",
+            "B. Favoring certain groups",
+            "C. Avoiding equity initiatives",
+            "D. Ignoring barriers"
+        ],
+        "answer": "A",
+        "id": 467
+    },
+    {
+        "question": "Leaders enhance decision quality by",
+        "options": [
+            "A. Considering multiple perspectives and evidence",
+            "B. Avoiding consultation",
+            "C. Guessing outcomes",
+            "D. Ignoring risks"
+        ],
+        "answer": "A",
+        "id": 468
+    },
+    {
+        "question": "Leaders build organizational learning by",
+        "options": [
+            "A. Capturing lessons and applying improvements",
+            "B. Avoiding knowledge sharing",
+            "C. Ignoring feedback",
+            "D. Focusing only on routine"
+        ],
+        "answer": "A",
+        "id": 469
+    },
+    {
+        "question": "Leaders inspire staff loyalty by",
+        "options": [
+            "A. Showing respect and fairness consistently",
+            "B. Favoring a few individuals",
+            "C. Avoiding accountability",
+            "D. Ignoring staff contributions"
+        ],
+        "answer": "A",
+        "id": 470
+    },
+    {
+        "question": "Leaders track service delivery by",
+        "options": [
+            "A. Using measurable standards and citizen feedback",
+            "B. Guessing outcomes",
+            "C. Avoiding indicators",
+            "D. Ignoring reports"
+        ],
+        "answer": "A",
+        "id": 471
+    },
+    {
+        "question": "Leaders encourage teamwork by",
+        "options": [
+            "A. Aligning tasks to shared objectives",
+            "B. Avoiding collaboration",
+            "C. Ignoring staff cohesion",
+            "D. Favoring competition"
+        ],
+        "answer": "A",
+        "id": 472
+    },
+    {
+        "question": "Leaders build credibility by",
+        "options": [
+            "A. Acting ethically and fulfilling commitments",
+            "B. Breaking promises",
+            "C. Avoiding transparency",
+            "D. Ignoring accountability"
+        ],
+        "answer": "A",
+        "id": 473
+    },
+    {
+        "question": "Leaders reduce risk by",
+        "options": [
+            "A. Identifying threats and implementing controls",
+            "B. Ignoring warning signs",
+            "C. Avoiding contingency plans",
+            "D. Concealing vulnerabilities"
+        ],
+        "answer": "A",
+        "id": 474
+    },
+    {
+        "question": "Leaders promote service excellence by",
+        "options": [
+            "A. Setting clear goals and measuring outcomes",
+            "B. Ignoring citizen expectations",
+            "C. Avoiding improvement",
+            "D. Focusing only on inputs"
+        ],
+        "answer": "A",
+        "id": 475
+    },
+    {
+        "question": "Leaders handle ethical dilemmas by",
+        "options": [
+            "A. Applying integrity and fair judgment",
+            "B. Avoiding tough choices",
+            "C. Ignoring policies",
+            "D. Favoring personal interest"
+        ],
+        "answer": "A",
+        "id": 476
+    },
+    {
+        "question": "Leaders foster innovation by",
+        "options": [
+            "A. Creating a culture that rewards creativity",
+            "B. Punishing failure harshly",
+            "C. Avoiding experimentation",
+            "D. Blocking new ideas"
+        ],
+        "answer": "A",
+        "id": 477
+    },
+    {
+        "question": "Leaders maintain focus by",
+        "options": [
+            "A. Prioritizing strategic objectives",
+            "B. Allowing distractions",
+            "C. Avoiding planning",
+            "D. Ignoring alignment"
+        ],
+        "answer": "A",
+        "id": 478
+    },
+    {
+        "question": "Leaders reduce resistance by",
+        "options": [
+            "A. Involving staff in change processes",
+            "B. Avoiding engagement",
+            "C. Ignoring feedback",
+            "D. Forcing reforms unilaterally"
+        ],
+        "answer": "A",
+        "id": 479
+    },
+    {
+        "question": "Leaders uphold public trust by",
+        "options": [
+            "A. Acting transparently and delivering value",
+            "B. Concealing failures",
+            "C. Avoiding citizen input",
+            "D. Ignoring service quality"
+        ],
+        "answer": "A",
+        "id": 480
+    },
+    {
+        "question": "Leaders evaluate staff fairly by",
+        "options": [
+            "A. Using objective criteria and data",
+            "B. Favoring close allies",
+            "C. Avoiding appraisals",
+            "D. Ignoring evidence"
+        ],
+        "answer": "A",
+        "id": 481
+    },
+    {
+        "question": "Leaders drive collaboration by",
+        "options": [
+            "A. Building partnerships across agencies",
+            "B. Avoiding integration",
+            "C. Hoarding resources",
+            "D. Blocking joint efforts"
+        ],
+        "answer": "A",
+        "id": 482
+    },
+    {
+        "question": "Leaders improve organizational culture by",
+        "options": [
+            "A. Modeling desired behaviors consistently",
+            "B. Allowing double standards",
+            "C. Ignoring values",
+            "D. Avoiding accountability"
+        ],
+        "answer": "A",
+        "id": 483
+    },
+    {
+        "question": "Leaders sustain reforms by",
+        "options": [
+            "A. Building structures that enforce change",
+            "B. Relying on temporary champions",
+            "C. Ignoring culture",
+            "D. Avoiding monitoring"
+        ],
+        "answer": "A",
+        "id": 484
+    },
+    {
+        "question": "Leaders strengthen capacity by",
+        "options": [
+            "A. Investing in staff training and development",
+            "B. Avoiding upskilling",
+            "C. Blocking career progression",
+            "D. Ignoring potential"
+        ],
+        "answer": "A",
+        "id": 485
+    },
+    {
+        "question": "Leaders measure impact by",
+        "options": [
+            "A. Evaluating outcomes against baseline data",
+            "B. Guessing effectiveness",
+            "C. Avoiding metrics",
+            "D. Ignoring citizen impact"
+        ],
+        "answer": "A",
+        "id": 486
+    },
+    {
+        "question": "Leaders encourage openness by",
+        "options": [
+            "A. Creating channels for honest dialogue",
+            "B. Punishing questions",
+            "C. Avoiding communication",
+            "D. Concealing information"
+        ],
+        "answer": "A",
+        "id": 487
+    },
+    {
+        "question": "Leaders improve problem-solving by",
+        "options": [
+            "A. Analyzing root causes and options",
+            "B. Guessing",
+            "C. Ignoring evidence",
+            "D. Avoiding collaboration"
+        ],
+        "answer": "A",
+        "id": 488
+    },
+    {
+        "question": "Leaders promote accountability by",
+        "options": [
+            "A. Linking responsibilities to consequences",
+            "B. Allowing vague roles",
+            "C. Avoiding follow-ups",
+            "D. Ignoring results"
+        ],
+        "answer": "A",
+        "id": 489
+    },
+    {
+        "question": "Leaders sustain motivation by",
+        "options": [
+            "A. Recognizing contributions and offering growth paths",
+            "B. Ignoring achievements",
+            "C. Overburdening staff",
+            "D. Avoiding rewards"
+        ],
+        "answer": "A",
+        "id": 490
+    },
+    {
+        "question": "Leaders reduce error rates by",
+        "options": [
+            "A. Implementing process controls and training",
+            "B. Avoiding documentation",
+            "C. Ignoring SOPs",
+            "D. Allowing shortcuts"
+        ],
+        "answer": "A",
+        "id": 491
+    },
+    {
+        "question": "Leaders build resilience by",
+        "options": [
+            "A. Preparing teams for uncertainty and change",
+            "B. Ignoring potential risks",
+            "C. Avoiding support",
+            "D. Punishing mistakes"
+        ],
+        "answer": "A",
+        "id": 492
+    },
+    {
+        "question": "Leaders inspire others by",
+        "options": [
+            "A. Demonstrating authenticity and vision",
+            "B. Avoiding transparency",
+            "C. Hoarding credit",
+            "D. Ignoring team needs"
+        ],
+        "answer": "A",
+        "id": 493
+    },
+    {
+        "question": "Leaders foster inclusion by",
+        "options": [
+            "A. Valuing diverse perspectives and talents",
+            "B. Ignoring representation gaps",
+            "C. Allowing exclusionary practices",
+            "D. Avoiding diversity initiatives"
+        ],
+        "answer": "A",
+        "id": 494
+    },
+    {
+        "question": "Leaders maintain service standards by",
+        "options": [
+            "A. Monitoring delivery and addressing gaps",
+            "B. Avoiding measurement",
+            "C. Ignoring citizen feedback",
+            "D. Focusing only on inputs"
+        ],
+        "answer": "A",
+        "id": 495
+    },
+    {
+        "question": "Leaders encourage teamwork by",
+        "options": [
+            "A. Creating clear roles and collaboration opportunities",
+            "B. Avoiding staff cohesion",
+            "C. Withholding goals",
+            "D. Promoting secrecy"
+        ],
+        "answer": "A",
+        "id": 496
+    },
+    {
+        "question": "Leaders uphold ethics by",
+        "options": [
+            "A. Leading by example and enforcing policies",
+            "B. Allowing exceptions for allies",
+            "C. Avoiding tough choices",
+            "D. Ignoring misconduct"
+        ],
+        "answer": "A",
+        "id": 497
+    },
+    {
+        "question": "Leaders strengthen trust by",
+        "options": [
+            "A. Acting consistently and keeping commitments",
+            "B. Avoiding accountability",
+            "C. Concealing mistakes",
+            "D. Ignoring staff concerns"
+        ],
+        "answer": "A",
+        "id": 498
+    },
+    {
+        "question": "Leaders drive engagement by",
+        "options": [
+            "A. Connecting work to organizational purpose",
+            "B. Ignoring staff aspirations",
+            "C. Avoiding recognition",
+            "D. Focusing only on tasks"
+        ],
+        "answer": "A",
+        "id": 499
+    },
+    {
+        "question": "Leaders achieve long-term impact by",
+        "options": [
+            "A. Aligning vision, systems, and citizen needs",
+            "B. Prioritizing short-term wins only",
+            "C. Avoiding strategy",
+            "D. Ignoring public value"
+        ],
+        "answer": "A",
+        "id": 500
+    }
+]

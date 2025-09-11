@@ -1,0 +1,4402 @@
+[
+  {
+    "question_number": 1,
+    "question": "What is the apex financial institution responsible for monetary policy in Nigeria?",
+    "options": {
+      "A": "Ministry of Finance",
+      "B": "Central Bank of Nigeria",
+      "C": "Debt Management Office",
+      "D": "Nigerian Stock Exchange"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 2,
+    "question": "Which year was the Central Bank of Nigeria established?",
+    "options": {
+      "A": "1958",
+      "B": "1960",
+      "C": "1962",
+      "D": "1970"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 3,
+    "question": "Which is NOT a function of the CBN?",
+    "options": {
+      "A": "Issuing legal tender",
+      "B": "Conducting national census",
+      "C": "Managing foreign reserves",
+      "D": "Regulating banks"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 4,
+    "question": "The MPC primarily:",
+    "options": {
+      "A": "Sets interest rate and money supply stance",
+      "B": "Approves bank branch locations",
+      "C": "Designs currency artwork",
+      "D": "Audits private firms"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 5,
+    "question": "A key objective of monetary policy is:",
+    "options": {
+      "A": "Price stability",
+      "B": "Population growth",
+      "C": "High fuel subsidy",
+      "D": "Fixed electricity tariffs"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 6,
+    "question": "Cash Reserve Ratio (CRR) is:",
+    "options": {
+      "A": "Portion of deposits kept with CBN",
+      "B": "Interest paid on savings",
+      "C": "Share of profit banks keep",
+      "D": "Tax on bank assets"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 7,
+    "question": "Which is a quantitative tool?",
+    "options": {
+      "A": "Open Market Operations",
+      "B": "Moral suasion",
+      "C": "Administrative directive",
+      "D": "Communication memo"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 8,
+    "question": "Open Market Operations are used to:",
+    "options": {
+      "A": "Control money supply",
+      "B": "Hire civil servants",
+      "C": "Fix road tolls",
+      "D": "Collect taxes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 9,
+    "question": "A contractionary stance typically involves:",
+    "options": {
+      "A": "Raising MPR",
+      "B": "Lowering CRR",
+      "C": "Buying securities",
+      "D": "Reducing SLR"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 10,
+    "question": "MPR stands for:",
+    "options": {
+      "A": "Minimum Price Ratio",
+      "B": "Monetary Policy Rate",
+      "C": "Market Pricing Rule",
+      "D": "Monthly Policy Review"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 11,
+    "question": "The current legal framework for CBN operations is the:",
+    "options": {
+      "A": "CBN Act 1991",
+      "B": "CBN Act 1999",
+      "C": "CBN Act 2007",
+      "D": "CBN Act 2015"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 12,
+    "question": "Raising the MPR tends to:",
+    "options": {
+      "A": "Reduce borrowing",
+      "B": "Lower interest rates",
+      "C": "Raise inflation",
+      "D": "Expand lending"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 13,
+    "question": "Exchange rate policy forms part of:",
+    "options": {
+      "A": "Fiscal policy",
+      "B": "Monetary policy",
+      "C": "Labour policy",
+      "D": "Education policy"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 14,
+    "question": "Which policy promotes access for the unbanked?",
+    "options": {
+      "A": "National Financial Inclusion Strategy",
+      "B": "Fiscal Responsibility Act",
+      "C": "Import Substitution Policy",
+      "D": "Telecoms Act"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 15,
+    "question": "'Lender of last resort' in Nigeria is the:",
+    "options": {
+      "A": "World Bank",
+      "B": "IMF",
+      "C": "Central Bank of Nigeria",
+      "D": "Finance Ministry"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 16,
+    "question": "Lowest current naira note in circulation is:",
+    "options": {
+      "A": "₦2",
+      "B": "₦5",
+      "C": "₦10",
+      "D": "₦20"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 17,
+    "question": "Redenomination typically aims to:",
+    "options": {
+      "A": "Simplify pricing and accounting",
+      "B": "Boost inflation",
+      "C": "Ban coins",
+      "D": "Raise foreign debt"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 18,
+    "question": "Which is qualitative?",
+    "options": {
+      "A": "Selective Credit Control",
+      "B": "CRR",
+      "C": "OMO",
+      "D": "SLR"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 19,
+    "question": "Monetary tightening targets:",
+    "options": {
+      "A": "Containing inflation",
+      "B": "Expanding subsidies",
+      "C": "Lowering savings",
+      "D": "Raising fiscal deficit"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 20,
+    "question": "To restrain credit creation, CBN may issue:",
+    "options": {
+      "A": "Prudential guidelines",
+      "B": "Fuel coupons",
+      "C": "Education grants",
+      "D": "Import licences"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 21,
+    "question": "Which department designs/handles notes issuance logistics?",
+    "options": {
+      "A": "Currency Operations Department",
+      "B": "Development Finance Dept.",
+      "C": "Internal Audit",
+      "D": "ICT Unit"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 22,
+    "question": "A fall in CRR usually:",
+    "options": {
+      "A": "Raises banks' lending capacity",
+      "B": "Cuts banks' liquidity",
+      "C": "Lowers deposits",
+      "D": "Raises tax revenue"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 23,
+    "question": "Treasury bills are primarily used to:",
+    "options": {
+      "A": "Control short-term liquidity",
+      "B": "Finance local roads",
+      "C": "Pay school fees",
+      "D": "Fund parties"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 24,
+    "question": "A short-term monetary instrument is:",
+    "options": {
+      "A": "Treasury bill",
+      "B": "Infrastructure bond",
+      "C": "Mortgage note",
+      "D": "Eurobond"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 25,
+    "question": "Moral suasion involves:",
+    "options": {
+      "A": "Persuading banks to comply",
+      "B": "Court injunctions",
+      "C": "Tax penalties",
+      "D": "Import bans"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 26,
+    "question": "Inflation targeting is aimed at:",
+    "options": {
+      "A": "Maintaining price stability range",
+      "B": "Eliminating interest income",
+      "C": "Fixing exchange rate",
+      "D": "Raising oil output"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 27,
+    "question": "Which replaced the Nigerian pound in 1973?",
+    "options": {
+      "A": "Naira and Kobo",
+      "B": "Dollar and Cent",
+      "C": "Shilling and Pence",
+      "D": "Franc and Centime"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 28,
+    "question": "Foreign reserves help to:",
+    "options": {
+      "A": "Stabilize exchange rates",
+      "B": "Fix petrol price",
+      "C": "Pay domestic salaries",
+      "D": "Conduct elections"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 29,
+    "question": "In the interbank market, CBN chiefly:",
+    "options": {
+      "A": "Buys/sells government securities",
+      "B": "Sets retail loan rates",
+      "C": "Prices school levies",
+      "D": "Issues driver licences"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 30,
+    "question": "Liquidity Ratio ensures banks:",
+    "options": {
+      "A": "Meet short‑term obligations",
+      "B": "Cut all lending",
+      "C": "Hold only cash",
+      "D": "Close rural branches"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 31,
+    "question": "Nigeria’s legal tender is the:",
+    "options": {
+      "A": "Naira",
+      "B": "Dollar",
+      "C": "Pound",
+      "D": "Rand"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 32,
+    "question": "Persistent rise in general price level is:",
+    "options": {
+      "A": "Deflation",
+      "B": "Inflation",
+      "C": "Disinflation",
+      "D": "Stagflation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 33,
+    "question": "Forex intervention by CBN aims to:",
+    "options": {
+      "A": "Stabilize the naira",
+      "B": "Fix food prices",
+      "C": "Build bridges",
+      "D": "Set school fees"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 34,
+    "question": "A long‑term government security is:",
+    "options": {
+      "A": "Development bond",
+      "B": "Treasury bill",
+      "C": "Overnight call money",
+      "D": "Commercial paper"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 35,
+    "question": "A high MPR likely:",
+    "options": {
+      "A": "Discourages borrowing",
+      "B": "Raises inflation",
+      "C": "Cuts savings incentives",
+      "D": "Encourages borrowing"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 36,
+    "question": "CBN Act last overhauled in:",
+    "options": {
+      "A": "1999",
+      "B": "2007",
+      "C": "2010",
+      "D": "2015"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 37,
+    "question": "Primary mandate includes:",
+    "options": {
+      "A": "Monetary and price stability",
+      "B": "Road construction",
+      "C": "Curriculum design",
+      "D": "Voter registration"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 38,
+    "question": "Which body takes rate decisions?",
+    "options": {
+      "A": "Monetary Policy Committee",
+      "B": "Supreme Court",
+      "C": "Senate",
+      "D": "FEC"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 39,
+    "question": "Falling interest rates often:",
+    "options": {
+      "A": "Encourage borrowing/spending",
+      "B": "Cut investment",
+      "C": "Raise money supply instantly",
+      "D": "Raise default risk mechanically"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 40,
+    "question": "CBN selling securities tends to:",
+    "options": {
+      "A": "Reduce money supply",
+      "B": "Boost money supply",
+      "C": "Lower rates",
+      "D": "Raise bank profits"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 41,
+    "question": "Quantitative easing means:",
+    "options": {
+      "A": "CB buying securities to inject money",
+      "B": "Raising taxes",
+      "C": "Banning imports",
+      "D": "Printing counterfeit notes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 42,
+    "question": "Monetary base equals:",
+    "options": {
+      "A": "Currency + bank reserves",
+      "B": "Bank capital only",
+      "C": "GDP + CPI",
+      "D": "Taxes + spending"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 43,
+    "question": "NSPM Plc (the Mint) is overseen by:",
+    "options": {
+      "A": "CBN",
+      "B": "BPE",
+      "C": "SEC",
+      "D": "Ministry of Culture"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 44,
+    "question": "Monetary policy decisions are made by:",
+    "options": {
+      "A": "MPC",
+      "B": "National Assembly",
+      "C": "Judiciary",
+      "D": "Party caucus"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 45,
+    "question": "Selective credit control aims to:",
+    "options": {
+      "A": "Channel credit to target sectors",
+      "B": "Ban consumer loans",
+      "C": "Peg exchange rate",
+      "D": "Raise VAT"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 46,
+    "question": "NOT a quantitative tool:",
+    "options": {
+      "A": "Moral suasion",
+      "B": "CRR",
+      "C": "OMO",
+      "D": "SLR"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 47,
+    "question": "Currency appreciation means:",
+    "options": {
+      "A": "Increase in currency value",
+      "B": "Drop in imports only",
+      "C": "CPI decline",
+      "D": "Money supply contraction only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 48,
+    "question": "Financial inclusion means:",
+    "options": {
+      "A": "Access to affordable financial services",
+      "B": "Closing rural branches",
+      "C": "Cardless economy",
+      "D": "Forex bans"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 49,
+    "question": "Who sets minimum capital for banks?",
+    "options": {
+      "A": "CBN",
+      "B": "NSE",
+      "C": "NDIC",
+      "D": "DMO"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 50,
+    "question": "Interest rate adjustments are used to:",
+    "options": {
+      "A": "Control inflation",
+      "B": "Raise oil output",
+      "C": "Cut tuition fees",
+      "D": "Set tariffs"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 51,
+    "question": "Key goal of exchange rate policy is to:",
+    "options": {
+      "A": "Stabilize the naira",
+      "B": "Increase imports",
+      "C": "Reduce exports",
+      "D": "Encourage inflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 52,
+    "question": "CBN is empowered to:",
+    "options": {
+      "A": "Collect taxes",
+      "B": "Issue legal tender",
+      "C": "Run public schools",
+      "D": "Build airports"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 53,
+    "question": "Decrease in general price level is:",
+    "options": {
+      "A": "Deflation",
+      "B": "Inflation",
+      "C": "Reflation",
+      "D": "Stagflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 54,
+    "question": "Selling T‑bills in OMO will:",
+    "options": {
+      "A": "Reduce money supply",
+      "B": "Increase money supply",
+      "C": "Lower lending rates",
+      "D": "Raise inflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 55,
+    "question": "NIBSS is supervised by:",
+    "options": {
+      "A": "Finance Ministry",
+      "B": "CBN",
+      "C": "NSE",
+      "D": "DMO"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 56,
+    "question": "Liquidity Ratio ensures banks:",
+    "options": {
+      "A": "Hold adequate liquid assets",
+      "B": "Avoid forex trades",
+      "C": "Slash deposits",
+      "D": "Raise cash withdrawals"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 57,
+    "question": "A long‑term effect of high inflation:",
+    "options": {
+      "A": "Reduced investment",
+      "B": "Higher purchasing power",
+      "C": "Stronger currency",
+      "D": "Export surge by default"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 58,
+    "question": "CRR stands for:",
+    "options": {
+      "A": "Cash Reserve Requirement",
+      "B": "Capital Revenue Ratio",
+      "C": "Credit Risk Rate",
+      "D": "Corporate Reserve Rule"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 59,
+    "question": "Cashless policy was introduced to:",
+    "options": {
+      "A": "Promote e‑payments",
+      "B": "Eliminate ATMs",
+      "C": "Reduce customers",
+      "D": "End mobile banking"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 60,
+    "question": "Tool to absorb excess liquidity:",
+    "options": {
+      "A": "Open Market Operations",
+      "B": "FDI",
+      "C": "Excise taxes",
+      "D": "Import quotas"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 61,
+    "question": "MPR directly influences:",
+    "options": {
+      "A": "Commercial bank lending rates",
+      "B": "Global oil prices",
+      "C": "Import duties",
+      "D": "Government salaries"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 62,
+    "question": "Cutting MPR generally:",
+    "options": {
+      "A": "Stimulates borrowing/investment",
+      "B": "Spikes inflation automatically",
+      "C": "Shrinks deposits",
+      "D": "Kills exports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 63,
+    "question": "Financial stability is supported via:",
+    "options": {
+      "A": "Bank supervision",
+      "B": "Agro subsidies",
+      "C": "Road contracts",
+      "D": "Currency swaps alone"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 64,
+    "question": "Selective credit control is designed to:",
+    "options": {
+      "A": "Limit/target sector lending",
+      "B": "Boost reserves automatically",
+      "C": "Reduce VAT",
+      "D": "Raise oil exports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 65,
+    "question": "Naira symbol is:",
+    "options": {
+      "A": "₦",
+      "B": "$",
+      "C": "£",
+      "D": "¥"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 66,
+    "question": "Prudential guidelines help banks to:",
+    "options": {
+      "A": "Manage risks effectively",
+      "B": "Fund politics",
+      "C": "Control petrol price",
+      "D": "Reduce public debt automatically"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 67,
+    "question": "Forex intervention aims to:",
+    "options": {
+      "A": "Stabilize naira value",
+      "B": "Cut tuition",
+      "C": "Increase road safety",
+      "D": "Fund elections"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 68,
+    "question": "Inflation control is primarily the role of:",
+    "options": {
+      "A": "CBN",
+      "B": "Defence Ministry",
+      "C": "State Governors",
+      "D": "Education Ministry"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 69,
+    "question": "Reducing SLR typically:",
+    "options": {
+      "A": "Lets banks lend more",
+      "B": "Halts lending",
+      "C": "Shrinks money supply",
+      "D": "Crushes inflation instantly"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 70,
+    "question": "NOT a CBN function:",
+    "options": {
+      "A": "Manage reserves",
+      "B": "Conduct monetary policy",
+      "C": "Retail banking to public",
+      "D": "Issue currency"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 71,
+    "question": "Currency depreciation refers to:",
+    "options": {
+      "A": "Fall in currency value",
+      "B": "Rise in currency value",
+      "C": "Abolition of currency",
+      "D": "Higher reserves"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 72,
+    "question": "Direct instrument of monetary policy:",
+    "options": {
+      "A": "Interest rate control",
+      "B": "Population census",
+      "C": "Import licensing",
+      "D": "Extension services"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 73,
+    "question": "Withdrawal limits under cashless policy:",
+    "options": {
+      "A": "Encourage e‑payments",
+      "B": "Increase inflation",
+      "C": "Reduce savings",
+      "D": "Boost imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 74,
+    "question": "CBN Governor appointed by:",
+    "options": {
+      "A": "President",
+      "B": "Senate",
+      "C": "House of Reps",
+      "D": "Judiciary"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 75,
+    "question": "CBN acts as:",
+    "options": {
+      "A": "Lender of last resort",
+      "B": "Tax collector",
+      "C": "Education regulator",
+      "D": "Agro manager"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 76,
+    "question": "Money supply categories inclusive of deposits:",
+    "options": {
+      "A": "M1, M2, M3",
+      "B": "T1, T2, T3",
+      "C": "L1, L2, L3",
+      "D": "C1, C2, C3"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 77,
+    "question": "Raising CRR will:",
+    "options": {
+      "A": "Reduce banks’ lending ability",
+      "B": "Increase money supply",
+      "C": "Cut interest rates",
+      "D": "Boost borrowing"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 78,
+    "question": "Naira subdivided into:",
+    "options": {
+      "A": "100 kobo",
+      "B": "10 kobo",
+      "C": "50 kobo",
+      "D": "20 kobo"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 79,
+    "question": "A major objective of monetary policy:",
+    "options": {
+      "A": "Maintain price stability",
+      "B": "Build schools",
+      "C": "Provide electricity",
+      "D": "Fund parties"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 80,
+    "question": "CBN programme for smallholders:",
+    "options": {
+      "A": "Anchor Borrowers Programme",
+      "B": "Cashless Policy",
+      "C": "Inclusion Strategy",
+      "D": "E‑naira"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 81,
+    "question": "Advantage of high reserves:",
+    "options": {
+      "A": "Exchange rate support",
+      "B": "Reduce exports",
+      "C": "Raise inflation",
+      "D": "Deter investment"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 82,
+    "question": "Naira fall vs USD is:",
+    "options": {
+      "A": "Currency depreciation",
+      "B": "Appreciation",
+      "C": "Pegging",
+      "D": "Redenomination"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 83,
+    "question": "Moral suasion works by:",
+    "options": {
+      "A": "Persuasion of banks",
+      "B": "Forced compliance",
+      "C": "New criminal law",
+      "D": "Minting coins"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 84,
+    "question": "NOT a monetary tool:",
+    "options": {
+      "A": "Import tariffs",
+      "B": "SLR",
+      "C": "CRR",
+      "D": "OMO"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 85,
+    "question": "MPR reviewed:",
+    "options": {
+      "A": "Quarterly (commonly)",
+      "B": "Annually only",
+      "C": "Weekly",
+      "D": "Daily"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 86,
+    "question": "Banking Supervision Department:",
+    "options": {
+      "A": "Monitors/regulates banks",
+      "B": "Prints notes",
+      "C": "Builds branches",
+      "D": "Loans to customers"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 87,
+    "question": "Market‑determined currency value:",
+    "options": {
+      "A": "Floating exchange rate",
+      "B": "Fixed rate",
+      "C": "Pegged rate",
+      "D": "Controlled rate"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 88,
+    "question": "Inflation rate measures:",
+    "options": {
+      "A": "Percent change in price level",
+      "B": "Change in deposits",
+      "C": "Value of reserves",
+      "D": "Population growth"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 89,
+    "question": "CBN HQ city:",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Kano",
+      "D": "PH"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 90,
+    "question": "CBN circulars represent:",
+    "options": {
+      "A": "Policy communication",
+      "B": "Legal convictions",
+      "C": "Court orders",
+      "D": "Client contracts"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 91,
+    "question": "Monetary policy is:",
+    "options": {
+      "A": "Managing money supply & rates",
+      "B": "Managing embassies",
+      "C": "Managing oil rigs",
+      "D": "Managing highways"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 92,
+    "question": "Sustained fall in rates leads to:",
+    "options": {
+      "A": "Higher borrowing/investment",
+      "B": "Lower money supply",
+      "C": "Guaranteed inflation",
+      "D": "Automatic FX gain"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 93,
+    "question": "Holding reserves helps:",
+    "options": {
+      "A": "Currency stability",
+      "B": "Build highways",
+      "C": "Pay domestic wages",
+      "D": "Election funding"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 94,
+    "question": "Regulating microfinance banks promotes:",
+    "options": {
+      "A": "Financial inclusion",
+      "B": "Reduce foreign debt",
+      "C": "Control population",
+      "D": "Increase oil exports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 95,
+    "question": "NOT a CBN objective:",
+    "options": {
+      "A": "Maintain monetary stability",
+      "B": "Promote sound system",
+      "C": "Banker to govt",
+      "D": "Fix food prices"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 96,
+    "question": "Tenure of a CBN Governor:",
+    "options": {
+      "A": "5 years",
+      "B": "4 years",
+      "C": "6 years",
+      "D": "3 years"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 97,
+    "question": "Currency forms issued:",
+    "options": {
+      "A": "Notes and coins",
+      "B": "Coins & cheques",
+      "C": "Notes & drafts",
+      "D": "Notes & bonds"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 98,
+    "question": "Risk of excessive money printing:",
+    "options": {
+      "A": "Inflation",
+      "B": "Deflation",
+      "C": "Appreciation",
+      "D": "Lower rates"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 99,
+    "question": "Policy to reduce cash usage:",
+    "options": {
+      "A": "Cashless Policy",
+      "B": "Liquidity Policy",
+      "C": "Forex Policy",
+      "D": "Credit Policy"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "Primary aim of CRR:",
+    "options": {
+      "A": "Control banks’ lending capacity",
+      "B": "Increase reserves by law",
+      "C": "Close branches",
+      "D": "Boost exports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 101,
+    "question": "CBN acts as banker to:",
+    "options": {
+      "A": "Commercial banks",
+      "B": "Federal Government",
+      "C": "Private corporations",
+      "D": "State assemblies"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 102,
+    "question": "A disadvantage of high inflation:",
+    "options": {
+      "A": "Reduced value of money",
+      "B": "Higher purchasing power",
+      "C": "Higher reserves",
+      "D": "Export boom guaranteed"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 103,
+    "question": "E‑Naira is:",
+    "options": {
+      "A": "Digital currency",
+      "B": "Commodity currency",
+      "C": "FX reserve",
+      "D": "T‑bill"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 104,
+    "question": "Raising policy rates aims to:",
+    "options": {
+      "A": "Reduce inflation",
+      "B": "Increase borrowing",
+      "C": "Boost spending",
+      "D": "Expand money supply"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 105,
+    "question": "Short‑term government security:",
+    "options": {
+      "A": "Treasury bill",
+      "B": "Dev. bond",
+      "C": "Mortgage note",
+      "D": "Corporate bond"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 106,
+    "question": "Cashless policy seeks to:",
+    "options": {
+      "A": "Reduce cash reliance",
+      "B": "End online banking",
+      "C": "Cut accounts",
+      "D": "Raise cheque usage"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 107,
+    "question": "Base rate refers to:",
+    "options": {
+      "A": "CBN benchmark rate",
+      "B": "Avg lending rate",
+      "C": "Prime rate",
+      "D": "Savings rate"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 108,
+    "question": "NOT qualitative tool:",
+    "options": {
+      "A": "Liquidity Ratio",
+      "B": "Selective credit control",
+      "C": "Moral suasion",
+      "D": "Credit ceiling"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 109,
+    "question": "Currency swaps can:",
+    "options": {
+      "A": "Boost reserves/liquidity management",
+      "B": "Ban imports",
+      "C": "End inflation",
+      "D": "Finance roads directly"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 110,
+    "question": "CBN mandate includes:",
+    "options": {
+      "A": "Price stability",
+      "B": "Free housing",
+      "C": "Free healthcare",
+      "D": "Oil exploration"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 111,
+    "question": "Broad money is:",
+    "options": {
+      "A": "Currency + deposits (savings/time)",
+      "B": "Only cash",
+      "C": "Govt revenue",
+      "D": "Reserves only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 112,
+    "question": "Licences are overseen by:",
+    "options": {
+      "A": "Banking Supervision Dept.",
+      "B": "Dev. Finance Dept.",
+      "C": "Monetary Policy Dept.",
+      "D": "Financial Markets Dept."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 113,
+    "question": "If inflation is very low, CBN may:",
+    "options": {
+      "A": "Lower interest rates",
+      "B": "Raise rates",
+      "C": "Increase CRR",
+      "D": "Sell T‑bills"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 114,
+    "question": "Currency operations ensure:",
+    "options": {
+      "A": "Adequate clean notes supply",
+      "B": "Printing foreign notes",
+      "C": "Coins only circulation",
+      "D": "Hoarding"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 115,
+    "question": "Tool for directing credit:",
+    "options": {
+      "A": "Selective credit control",
+      "B": "OMO",
+      "C": "SLR",
+      "D": "CRR"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 116,
+    "question": "Fixed exchange rate means:",
+    "options": {
+      "A": "Pegged to another currency",
+      "B": "Market‑determined",
+      "C": "No FX allowed",
+      "D": "Daily changing peg"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 117,
+    "question": "NOT a CBN role:",
+    "options": {
+      "A": "Regulate payment systems",
+      "B": "Banker to govt",
+      "C": "Set national taxes",
+      "D": "Issue currency"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 118,
+    "question": "Raising CRR is used to:",
+    "options": {
+      "A": "Reduce lending capacity",
+      "B": "Expand money supply",
+      "C": "Lower rates",
+      "D": "Boost inflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 119,
+    "question": "Naira introduced in:",
+    "options": {
+      "A": "1973",
+      "B": "1960",
+      "C": "1970",
+      "D": "1980"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 120,
+    "question": "Monetary policy feature:",
+    "options": {
+      "A": "Influences money supply",
+      "B": "Controls tax revenue",
+      "C": "Increases oil output",
+      "D": "Improves roads directly"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 121,
+    "question": "Sterilization in CBN context:",
+    "options": {
+      "A": "Neutralizing excess FX inflows",
+      "B": "Sanitizing notes",
+      "C": "Replacing old coins",
+      "D": "Stopping inflation fully"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 122,
+    "question": "Development Finance Dept. role:",
+    "options": {
+      "A": "Support growth via schemes",
+      "B": "Set CRR",
+      "C": "Issue notes",
+      "D": "Supervise MPC"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 123,
+    "question": "Smallest coin currently:",
+    "options": {
+      "A": "50 kobo",
+      "B": "₦1",
+      "C": "₦2",
+      "D": "25 kobo"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 124,
+    "question": "Real interest rate:",
+    "options": {
+      "A": "Nominal minus inflation",
+      "B": "Highest bank rate",
+      "C": "Nominal plus tax",
+      "D": "Lowest rate"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 125,
+    "question": "NOT a function of monetary policy:",
+    "options": {
+      "A": "Build infrastructure",
+      "B": "Control inflation",
+      "C": "Regulate money supply",
+      "D": "Manage rates"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 126,
+    "question": "Cost of credit influenced by:",
+    "options": {
+      "A": "MPR",
+      "B": "Exchange rate",
+      "C": "Tax incentives",
+      "D": "Subsidies"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 127,
+    "question": "Free‑float regime is:",
+    "options": {
+      "A": "Floating exchange rate",
+      "B": "Pegged",
+      "C": "Fixed",
+      "D": "Controlled"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 128,
+    "question": "Coordination with NDIC aims:",
+    "options": {
+      "A": "Depositor protection",
+      "B": "Set reserves",
+      "C": "Issue MFB licences",
+      "D": "Fix MPR"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 129,
+    "question": "Reserves above requirement are:",
+    "options": {
+      "A": "Excess reserves",
+      "B": "Cash deficit",
+      "C": "Liquidity shortage",
+      "D": "Monetary surplus"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 130,
+    "question": "MPC’s primary task:",
+    "options": {
+      "A": "Formulate policy decisions",
+      "B": "Inspect banks",
+      "C": "Build branches",
+      "D": "Approve foreign aid"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 131,
+    "question": "Effect of appreciation on exporters:",
+    "options": {
+      "A": "Reduced external competitiveness",
+      "B": "Higher sales abroad",
+      "C": "Higher demand overseas",
+      "D": "Lower costs guaranteed"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 132,
+    "question": "Goal of financial sector reforms:",
+    "options": {
+      "A": "Efficiency and stability",
+      "B": "Raise inflation",
+      "C": "Cut bank lending",
+      "D": "Limit FDI"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 133,
+    "question": "A CBN liability:",
+    "options": {
+      "A": "Currency in circulation",
+      "B": "Foreign reserves",
+      "C": "Loans to govt",
+      "D": "Vault cash of banks"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 134,
+    "question": "CRR adjustments seek to:",
+    "options": {
+      "A": "Manage lending power",
+      "B": "Boost inflation",
+      "C": "Reduce exports",
+      "D": "Set tariffs"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 135,
+    "question": "Liquidity management helps:",
+    "options": {
+      "A": "Maintain monetary stability",
+      "B": "Increase oil price",
+      "C": "Raise taxes",
+      "D": "Cut imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 136,
+    "question": "Currency peg designed to:",
+    "options": {
+      "A": "Stabilize exchange rates",
+      "B": "Increase volatility",
+      "C": "Cause inflation",
+      "D": "Reduce imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 137,
+    "question": "True about CBN:",
+    "options": {
+      "A": "Operational independence in policy",
+      "B": "Controlled by stock market",
+      "C": "Manages state taxes",
+      "D": "Sets global oil prices"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 138,
+    "question": "Withdrawal limits aim to:",
+    "options": {
+      "A": "Reduce cash handling costs",
+      "B": "Raise inflation",
+      "C": "Cause depreciation",
+      "D": "Ban imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 139,
+    "question": "Risk of excessive FX borrowing:",
+    "options": {
+      "A": "Debt service burden",
+      "B": "Currency appreciation",
+      "C": "Inflation collapse",
+      "D": "None"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 140,
+    "question": "Liquidity monitoring via:",
+    "options": {
+      "A": "Prudential ratios",
+      "B": "Fuel prices",
+      "C": "Tax rates",
+      "D": "Population data"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 141,
+    "question": "High SLR implies:",
+    "options": {
+      "A": "More liquid assets held",
+      "B": "More risky loans",
+      "C": "Rates must fall",
+      "D": "Inflation rising"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 142,
+    "question": "CBN encourages savings by:",
+    "options": {
+      "A": "Stable interest environment",
+      "B": "Note over‑printing",
+      "C": "Agro subsidy",
+      "D": "Tax hikes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 143,
+    "question": "Anchor Borrowers aims to:",
+    "options": {
+      "A": "Boost farm output",
+      "B": "Raise bank profit",
+      "C": "Stabilize petrol price",
+      "D": "Fund campaigns"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 144,
+    "question": "Currency board is:",
+    "options": {
+      "A": "Issuer backed by reserves",
+      "B": "A CBN unit",
+      "C": "A forex club",
+      "D": "Bankers circle"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 145,
+    "question": "Policy implementation seeks:",
+    "options": {
+      "A": "Economic stability",
+      "B": "Raise taxes",
+      "C": "Cut oil output",
+      "D": "Fund infrastructure directly"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 146,
+    "question": "Tool directly affecting liquidity:",
+    "options": {
+      "A": "Open Market Operations",
+      "B": "Tax rebate",
+      "C": "Govt subsidy",
+      "D": "Import ban"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 147,
+    "question": "Currency substitution is:",
+    "options": {
+      "A": "Foreign currency displacing local in use",
+      "B": "Pegging",
+      "C": "Appreciation",
+      "D": "Redenomination"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 148,
+    "question": "Manager of external reserves:",
+    "options": {
+      "A": "CBN",
+      "B": "NDIC",
+      "C": "Finance Ministry",
+      "D": "SEC"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 149,
+    "question": "Core mandate:",
+    "options": {
+      "A": "Monetary & price stability",
+      "B": "Build schools",
+      "C": "Provide healthcare",
+      "D": "Control population"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 150,
+    "question": "Policy to reduce dependency on foreign currency:",
+    "options": {
+      "A": "Import substitution policy",
+      "B": "Currency appreciation policy",
+      "C": "Rate liberalization only",
+      "D": "Monetary expansion"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 151,
+    "question": "High interest rate environment generally:",
+    "options": {
+      "A": "Discourages borrowing",
+      "B": "Increases inflation",
+      "C": "Boosts imports automatically",
+      "D": "Reduces savings by force"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 152,
+    "question": "CBN regulates money supply mainly to:",
+    "options": {
+      "A": "Maintain price stability",
+      "B": "Increase oil output",
+      "C": "Eliminate unemployment",
+      "D": "Fund all public projects"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 153,
+    "question": "Tool targeting aggregate credit volume:",
+    "options": {
+      "A": "Quantitative tools",
+      "B": "Qualitative tools",
+      "C": "Taxation policy",
+      "D": "Subsidy programme"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 154,
+    "question": "Inflation from excess demand is:",
+    "options": {
+      "A": "Demand‑pull inflation",
+      "B": "Cost‑push inflation",
+      "C": "Hyperinflation",
+      "D": "Stagflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 155,
+    "question": "Fiat money is:",
+    "options": {
+      "A": "Government‑backed without intrinsic value",
+      "B": "Gold‑backed",
+      "C": "Commodity money",
+      "D": "Foreign‑trade only money"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 156,
+    "question": "Risk of excessive monetary expansion:",
+    "options": {
+      "A": "Inflation",
+      "B": "Deflation",
+      "C": "Lower employment",
+      "D": "Higher base rate always"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 157,
+    "question": "Financial inclusion promoted by:",
+    "options": {
+      "A": "Expanding access to services",
+      "B": "Limiting rural banking",
+      "C": "Removing ATMs",
+      "D": "Raising cheque use"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 158,
+    "question": "Forex market regulator:",
+    "options": {
+      "A": "CBN",
+      "B": "NDIC",
+      "C": "Trade Ministry",
+      "D": "NNPC"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 159,
+    "question": "Contractionary policy is used to:",
+    "options": {
+      "A": "Reduce inflation",
+      "B": "Increase employment",
+      "C": "Increase liquidity directly",
+      "D": "Boost exports mechanically"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 160,
+    "question": "Naira stabilization through:",
+    "options": {
+      "A": "Selling FX reserves",
+      "B": "Printing money",
+      "C": "Raising subsidies",
+      "D": "Cutting taxes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 161,
+    "question": "ATM adoption supports:",
+    "options": {
+      "A": "Cashless transactions",
+      "B": "Increased cash handling",
+      "C": "Currency depreciation",
+      "D": "Reduced e‑banking"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 162,
+    "question": "Long‑term government security:",
+    "options": {
+      "A": "Development bond",
+      "B": "Treasury bill",
+      "C": "Commercial paper",
+      "D": "Call money"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 163,
+    "question": "Inflation targeting aims at:",
+    "options": {
+      "A": "Specific inflation range",
+      "B": "No interest rates",
+      "C": "Fixed exchange rate",
+      "D": "Lower bank deposits"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 164,
+    "question": "Instrument influencing bank lending directly:",
+    "options": {
+      "A": "Credit ceiling",
+      "B": "Import licence",
+      "C": "Tax rate",
+      "D": "Subsidy"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 165,
+    "question": "Microfinance bank regulation helps:",
+    "options": {
+      "A": "Small‑scale stability",
+      "B": "Increase reserves directly",
+      "C": "Control oil prices",
+      "D": "Subsidize imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 166,
+    "question": "Expansionary monetary policy likely:",
+    "options": {
+      "A": "Lowers interest rates",
+      "B": "Reduces money supply",
+      "C": "Raises unemployment",
+      "D": "Cuts demand"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 167,
+    "question": "Supply‑demand determined FX regime:",
+    "options": {
+      "A": "Floating rate",
+      "B": "Pegged",
+      "C": "Fixed",
+      "D": "Currency board"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 168,
+    "question": "BVN system introduced to:",
+    "options": {
+      "A": "Curb fraud via identity management",
+      "B": "Reduce ATM usage",
+      "C": "Raise withdrawals",
+      "D": "Replace accounts"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 169,
+    "question": "Printing without output growth leads to:",
+    "options": {
+      "A": "Inflation",
+      "B": "Deflation",
+      "C": "Stagflation always",
+      "D": "Growth guarantee"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 170,
+    "question": "Primary reason for monetary policy:",
+    "options": {
+      "A": "Maintain economic stability",
+      "B": "Raise tax revenue",
+      "C": "Build infrastructure",
+      "D": "Control elections"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 171,
+    "question": "Indirect control example:",
+    "options": {
+      "A": "Open Market Operations",
+      "B": "Credit rationing",
+      "C": "Admin rate control",
+      "D": "Selective credit control"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 172,
+    "question": "Agro support via:",
+    "options": {
+      "A": "Intervention funds/loan schemes",
+      "B": "Fuel subsidy",
+      "C": "Machinery import bans",
+      "D": "Tax exemptions only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 173,
+    "question": "Role of NIBSS:",
+    "options": {
+      "A": "Interbank e‑payment processing",
+      "B": "Budget allocation",
+      "C": "Reserve management",
+      "D": "Note printing"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 174,
+    "question": "Naira decline vs USD is:",
+    "options": {
+      "A": "Depreciation",
+      "B": "Appreciation",
+      "C": "Pegging",
+      "D": "Stabilization"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 175,
+    "question": "Anti‑counterfeit measure:",
+    "options": {
+      "A": "Security features on notes",
+      "B": "Removing old coins",
+      "C": "Printing more",
+      "D": "Reducing denominations"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 176,
+    "question": "NOT a monetary objective:",
+    "options": {
+      "A": "Price stability",
+      "B": "Full employment (supportive)",
+      "C": "Balanced growth",
+      "D": "Political funding"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 177,
+    "question": "Easier transactions via:",
+    "options": {
+      "A": "Redenomination",
+      "B": "Revaluation",
+      "C": "Devaluation",
+      "D": "Substitution"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 178,
+    "question": "Pro‑growth recession action:",
+    "options": {
+      "A": "Lower policy rates",
+      "B": "Raise CRR",
+      "C": "Sell T‑bills",
+      "D": "Shrink money supply"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 179,
+    "question": "Depositor protection via:",
+    "options": {
+      "A": "Prudential enforcement",
+      "B": "Printing currency",
+      "C": "Lower deposit rates",
+      "D": "Higher bank fees"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 180,
+    "question": "Liquidity ratio requires:",
+    "options": {
+      "A": "Minimum liquid assets",
+      "B": "All deposits kept as cash",
+      "C": "No loans granted",
+      "D": "Urban‑only operations"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 181,
+    "question": "Key input to policy decisions:",
+    "options": {
+      "A": "Inflation rate",
+      "B": "Bank branch count",
+      "C": "Literacy rate",
+      "D": "Oil reserve size"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 182,
+    "question": "Appointment of CBN Governor:",
+    "options": {
+      "A": "President nominates; Senate confirms",
+      "B": "National Assembly alone",
+      "C": "Finance Ministry",
+      "D": "NDIC"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 183,
+    "question": "Who reviews MPR:",
+    "options": {
+      "A": "Monetary Policy Committee",
+      "B": "Bank Supervision",
+      "C": "FX Desk",
+      "D": "Treasury"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 184,
+    "question": "Monetary tightening is:",
+    "options": {
+      "A": "Reducing money supply to curb inflation",
+      "B": "Printing more currency",
+      "C": "Lowering lending rates",
+      "D": "Boosting liquidity directly"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 185,
+    "question": "SME financing support:",
+    "options": {
+      "A": "MSME Development Fund",
+      "B": "Fuel subsidy",
+      "C": "Import duty waiver",
+      "D": "Road grant"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 186,
+    "question": "Inflationary gap is:",
+    "options": {
+      "A": "Excess demand at full employment",
+      "B": "Excess supply",
+      "C": "Fall in GDP only",
+      "D": "Low investment"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 187,
+    "question": "OMO involves:",
+    "options": {
+      "A": "Buying/selling govt securities",
+      "B": "Printing notes",
+      "C": "Setting tax rates",
+      "D": "Allocating budgets"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 188,
+    "question": "Monetary stability ensured through:",
+    "options": {
+      "A": "Effective instrument use",
+      "B": "Tax enforcement",
+      "C": "Import licences",
+      "D": "Road building"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 189,
+    "question": "Reissuance of currency aims to:",
+    "options": {
+      "A": "Replace worn‑out notes",
+      "B": "Increase inflation",
+      "C": "Reduce branches",
+      "D": "Boost imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 190,
+    "question": "Exchange rate volatility affects:",
+    "options": {
+      "A": "Trade stability",
+      "B": "National anthem",
+      "C": "Voter turnout",
+      "D": "Festivals"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 191,
+    "question": "Payment system modernization feature:",
+    "options": {
+      "A": "Instant payment platforms",
+      "B": "Increased cheques",
+      "C": "Reduced e‑banking",
+      "D": "Manual settlement only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 192,
+    "question": "Managing expectations by:",
+    "options": {
+      "A": "Clear policy communication",
+      "B": "Restricting speeches",
+      "C": "Cutting staff",
+      "D": "Raising fuel prices"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 193,
+    "question": "Investment stimulus tool:",
+    "options": {
+      "A": "Lower interest rates",
+      "B": "Raise taxes",
+      "C": "Sell T‑bills",
+      "D": "Raise CRR"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 194,
+    "question": "Forex intervention objective:",
+    "options": {
+      "A": "Stabilize exchange rate",
+      "B": "Raise inflation",
+      "C": "Force depreciation",
+      "D": "Ban imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 195,
+    "question": "Higher MPR leads banks to:",
+    "options": {
+      "A": "Increase lending rates",
+      "B": "Lower lending rates",
+      "C": "Increase defaults automatically",
+      "D": "Cut deposit rates only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 196,
+    "question": "Prudential guidelines purpose:",
+    "options": {
+      "A": "Sound bank operations",
+      "B": "Control oil exports",
+      "C": "Limit FDI",
+      "D": "Raise inflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 197,
+    "question": "Demonetization means:",
+    "options": {
+      "A": "Withdrawal of legal tender status",
+      "B": "Redesign only",
+      "C": "Higher denominations",
+      "D": "FX peg"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 198,
+    "question": "Risk of foreign portfolio flows:",
+    "options": {
+      "A": "Sudden capital flight",
+      "B": "Guaranteed inflation",
+      "C": "Lower revenue",
+      "D": "Falling literacy"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 199,
+    "question": "Direct impact of easing:",
+    "options": {
+      "A": "More credit availability",
+      "B": "Higher lending rates",
+      "C": "Lower money supply",
+      "D": "Stronger currency"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 200,
+    "question": "Which statement best describes the role of the MPC in Nigeria?",
+    "options": {
+      "A": "Advises and decides the stance of monetary policy",
+      "B": "Sets tax rates for the federation",
+      "C": "Allocates the federal budget",
+      "D": "Licenses all professional bodies"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 201,
+    "question": "The Central Bank of Nigeria’s core mandate does NOT include:",
+    "options": {
+      "A": "Issuing currency",
+      "B": "Controlling inflation",
+      "C": "Managing commercial bank loans to individuals",
+      "D": "Maintaining financial stability"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 202,
+    "question": "Which year did the CBN introduce the Bank Verification Number (BVN) policy?",
+    "options": {
+      "A": "2013",
+      "B": "2014",
+      "C": "2015",
+      "D": "2016"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 203,
+    "question": "The term “monetary easing” refers to:",
+    "options": {
+      "A": "Increasing interest rates to slow down inflation",
+      "B": "Reducing interest rates to stimulate borrowing",
+      "C": "Increasing taxes to boost revenue",
+      "D": "Cutting government spending"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 204,
+    "question": "Which tool is commonly used by CBN to absorb excess liquidity in the economy?",
+    "options": {
+      "A": "Reduction of MPR",
+      "B": "Selling Treasury Bills",
+      "C": "Increasing imports",
+      "D": "Cutting taxes"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 205,
+    "question": "A rise in the Liquidity Ratio requirement will:",
+    "options": {
+      "A": "Increase funds available for lending",
+      "B": "Reduce funds available for lending",
+      "C": "Have no effect on lending",
+      "D": "Automatically increase inflation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 206,
+    "question": "Which policy aims to reduce inflation by restricting credit availability?",
+    "options": {
+      "A": "Expansionary monetary policy",
+      "B": "Contractionary monetary policy",
+      "C": "Neutral monetary policy",
+      "D": "Fiscal stimulus"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 207,
+    "question": "Who appoints the Governor of the Central Bank of Nigeria?",
+    "options": {
+      "A": "CBN Board",
+      "B": "President of Nigeria",
+      "C": "National Assembly",
+      "D": "Federal Executive Council"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 208,
+    "question": "Which financial market instrument is NOT issued by the CBN?",
+    "options": {
+      "A": "Treasury Bills",
+      "B": "Treasury Bonds",
+      "C": "Commercial Papers",
+      "D": "CBN Promissory Notes"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 209,
+    "question": "The CBN’s “Cashless Policy” was introduced to:",
+    "options": {
+      "A": "Eliminate bank branches",
+      "B": "Promote electronic transactions",
+      "C": "Reduce staff in banks",
+      "D": "Increase cash circulation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 210,
+    "question": "Which department of the CBN is primarily responsible for foreign exchange management?",
+    "options": {
+      "A": "Trade & Exchange Department",
+      "B": "Research Department",
+      "C": "Banking Supervision Department",
+      "D": "Development Finance Department"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 211,
+    "question": "Which policy tool is used by the CBN to influence short-term interest rates?",
+    "options": {
+      "A": "Moral suasion",
+      "B": "Monetary Policy Rate",
+      "C": "Import tariffs",
+      "D": "Subsidy removal"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 212,
+    "question": "The CBN Governor’s tenure is currently set at:",
+    "options": {
+      "A": "3 years",
+      "B": "4 years",
+      "C": "5 years",
+      "D": "6 years"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 213,
+    "question": "In Nigeria, “OMO” in monetary policy stands for:",
+    "options": {
+      "A": "Open Market Operations",
+      "B": "Official Monetary Order",
+      "C": "Overdraft Management Option",
+      "D": "Open Money Offer"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 214,
+    "question": "Which measure would the CBN adopt to combat high inflation?",
+    "options": {
+      "A": "Reduce CRR",
+      "B": "Sell government securities",
+      "C": "Increase money supply",
+      "D": "Lower MPR"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 215,
+    "question": "The CBN’s Financial Policy and Regulation Department oversees:",
+    "options": {
+      "A": "Agricultural lending",
+      "B": "Banking licensing and compliance",
+      "C": "Currency printing",
+      "D": "Market surveys"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 216,
+    "question": "Which act provides the CBN with legal authority to operate?",
+    "options": {
+      "A": "Banks and Other Financial Institutions Act",
+      "B": "CBN Act of 2007",
+      "C": "Money Laundering Act",
+      "D": "Fiscal Responsibility Act"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 217,
+    "question": "When the naira depreciates sharply, the CBN may intervene by:",
+    "options": {
+      "A": "Printing more naira",
+      "B": "Selling foreign reserves",
+      "C": "Increasing import tariffs",
+      "D": "Closing banks"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 218,
+    "question": "The CBN’s monetary policy stance that encourages borrowing and investment is called:",
+    "options": {
+      "A": "Contractionary stance",
+      "B": "Neutral stance",
+      "C": "Expansionary stance",
+      "D": "Restrictive stance"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 219,
+    "question": "What does “Sterilization” in monetary policy mean?",
+    "options": {
+      "A": "Injecting money into the economy",
+      "B": "Withdrawing excess liquidity to control inflation",
+      "C": "Freezing foreign accounts",
+      "D": "Restricting imports"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 220,
+    "question": "Which of the following is NOT a core function of the CBN?",
+    "options": {
+      "A": "Regulating commercial banks",
+      "B": "Managing national currency",
+      "C": "Drafting national budget",
+      "D": "Implementing monetary policy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 221,
+    "question": "The Monetary Policy Committee is composed of:",
+    "options": {
+      "A": "Only the Governor and Deputy Governors",
+      "B": "Members from CBN and Ministry of Finance",
+      "C": "CBN executives, government representatives, and experts",
+      "D": "Bank CEOs and auditors"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 222,
+    "question": "A reduction in the MPR generally leads to:",
+    "options": {
+      "A": "Higher borrowing costs",
+      "B": "Lower borrowing costs",
+      "C": "Currency appreciation",
+      "D": "Increased unemployment"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 223,
+    "question": "Which CBN department handles financial inclusion programs?",
+    "options": {
+      "A": "Research Department",
+      "B": "Development Finance Department",
+      "C": "Banking Supervision Department",
+      "D": "Corporate Communications Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 224,
+    "question": "The policy rate used by CBN as a benchmark for lending is:",
+    "options": {
+      "A": "CRR",
+      "B": "MPR",
+      "C": "LR",
+      "D": "OMO rate"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 225,
+    "question": "When inflation is low and economic growth is slow, the CBN is likely to:",
+    "options": {
+      "A": "Increase MPR",
+      "B": "Decrease MPR",
+      "C": "Increase CRR",
+      "D": "Sell securities"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 226,
+    "question": "What does “monetary tightening” achieve?",
+    "options": {
+      "A": "Boosts inflation",
+      "B": "Slows down inflation",
+      "C": "Increases money supply",
+      "D": "Encourages borrowing"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 227,
+    "question": "CBN’s Liquidity Ratio policy is aimed at:",
+    "options": {
+      "A": "Controlling the credit capacity of banks",
+      "B": "Encouraging exports",
+      "C": "Increasing tax revenue",
+      "D": "Expanding rural electrification"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 228,
+    "question": "Which statement is TRUE about Open Market Operations?",
+    "options": {
+      "A": "It involves buying and selling government securities",
+      "B": "It fixes the exchange rate directly",
+      "C": "It is a fiscal policy instrument",
+      "D": "It targets unemployment directly"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 229,
+    "question": "The CBN introduced the Anchor Borrowers’ Programme to:",
+    "options": {
+      "A": "Support large-scale oil companies",
+      "B": "Provide loans to smallholder farmers",
+      "C": "Build foreign reserves",
+      "D": "Regulate telecom companies"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 230,
+    "question": "Which monetary policy tool affects bank reserves directly?",
+    "options": {
+      "A": "Cash Reserve Ratio",
+      "B": "Exchange rate policy",
+      "C": "Import tariffs",
+      "D": "VAT rate changes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 231,
+    "question": "The “Ways and Means” facility allows the CBN to:",
+    "options": {
+      "A": "Lend to the federal government temporarily",
+      "B": "Give grants to foreign investors",
+      "C": "Pay civil servants’ salaries",
+      "D": "Finance state projects"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 232,
+    "question": "Increasing the CRR will most likely:",
+    "options": {
+      "A": "Increase lending to the public",
+      "B": "Reduce liquidity in banks",
+      "C": "Raise inflation",
+      "D": "Encourage imports"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 233,
+    "question": "Which type of inflation occurs when there is too much money chasing too few goods?",
+    "options": {
+      "A": "Demand-pull inflation",
+      "B": "Cost-push inflation",
+      "C": "Imported inflation",
+      "D": "Structural inflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 234,
+    "question": "The CBN’s banknotes redesign exercise in 2022 aimed to:",
+    "options": {
+      "A": "Change the currency symbol",
+      "B": "Improve security features and control cash outside banks",
+      "C": "Eliminate coins",
+      "D": "Increase currency denominations"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 235,
+    "question": "Which unit of the CBN manages daily liquidity in the banking system?",
+    "options": {
+      "A": "Operations Department",
+      "B": "Monetary Policy Department",
+      "C": "Financial Markets Department",
+      "D": "Banking Supervision Department"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 236,
+    "question": "What is the main aim of the CBN’s “Cashless Lagos” pilot program?",
+    "options": {
+      "A": "Eliminate ATMs",
+      "B": "Encourage electronic payments",
+      "C": "Ban cash withdrawals",
+      "D": "Promote coin usage"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 237,
+    "question": "The term “financial stability” in CBN’s context refers to:",
+    "options": {
+      "A": "Stable exchange rates alone",
+      "B": "Resilience of the financial system to shocks",
+      "C": "Constant GDP growth",
+      "D": "High foreign reserves"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 238,
+    "question": "Which of these is NOT a quantitative monetary policy tool?",
+    "options": {
+      "A": "Liquidity Ratio",
+      "B": "CRR",
+      "C": "Open Market Operations",
+      "D": "Selective Credit Control"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 239,
+    "question": "The introduction of eNaira is aimed at:",
+    "options": {
+      "A": "Replacing all cash immediately",
+      "B": "Providing a digital currency for payments",
+      "C": "Eliminating bank accounts",
+      "D": "Restricting international trade"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 240,
+    "question": "Which institution approves amendments to the CBN Act?",
+    "options": {
+      "A": "CBN Board",
+      "B": "National Assembly",
+      "C": "Federal Executive Council",
+      "D": "Ministry of Finance"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 241,
+    "question": "Which CBN measure can be described as expansionary?",
+    "options": {
+      "A": "Reducing MPR",
+      "B": "Increasing CRR",
+      "C": "Selling government securities",
+      "D": "Increasing liquidity ratio"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 242,
+    "question": "The CBN’s intervention funds for SMEs are part of:",
+    "options": {
+      "A": "Monetary control tools",
+      "B": "Development finance initiatives",
+      "C": "Bank capital requirements",
+      "D": "Tax policy"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 243,
+    "question": "The prime lending rate is:",
+    "options": {
+      "A": "The highest rate charged to customers",
+      "B": "The lowest rate banks charge their most creditworthy customers",
+      "C": "Set by the National Assembly",
+      "D": "The same as MPR"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 244,
+    "question": "Which CBN policy encourages banks to lend to specific sectors?",
+    "options": {
+      "A": "Selective Credit Control",
+      "B": "Liquidity Ratio Adjustment",
+      "C": "Exchange Rate Pegging",
+      "D": "Currency Swap Agreement"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 245,
+    "question": "Which is NOT a function of the CBN’s Research Department?",
+    "options": {
+      "A": "Data collection and analysis",
+      "B": "Economic forecasting",
+      "C": "Managing currency reserves",
+      "D": "Policy recommendation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 246,
+    "question": "The CBN Governor reports to:",
+    "options": {
+      "A": "Nigerian public directly",
+      "B": "National Assembly and President",
+      "C": "Only the National Assembly",
+      "D": "Only the President"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 247,
+    "question": "The CBN’s monetary policy transmission mechanism describes:",
+    "options": {
+      "A": "How banks create currency",
+      "B": "How policy changes affect the economy",
+      "C": "How taxes are collected",
+      "D": "How exchange rates are set"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 248,
+    "question": "Which of these is a short-term debt instrument issued by the CBN?",
+    "options": {
+      "A": "Treasury Bill",
+      "B": "Treasury Bond",
+      "C": "Development Bond",
+      "D": "Corporate Bond"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 249,
+    "question": "A sustained rise in the general price level is known as:",
+    "options": {
+      "A": "Inflation",
+      "B": "Deflation",
+      "C": "Stagflation",
+      "D": "Reflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 250,
+    "question": "The CBN regulates microfinance banks under the:",
+    "options": {
+      "A": "CBN Microfinance Policy Framework",
+      "B": "BOFIA 2020",
+      "C": "Money Laundering Act",
+      "D": "Fiscal Responsibility Act"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 251,
+    "question": "Which corridor defines the band around the MPR for standing facilities?",
+    "options": {
+      "A": "Policy rate corridor",
+      "B": "Inflation corridor",
+      "C": "FX swap corridor",
+      "D": "Treasury corridor"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 252,
+    "question": "Seigniorage refers to the:",
+    "options": {
+      "A": "Profit from issuing currency",
+      "B": "Loss from currency depreciation",
+      "C": "Tax on bank profits",
+      "D": "Fee on international transfers"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 253,
+    "question": "Exchange rate pass-through primarily affects:",
+    "options": {
+      "A": "Domestic prices via import costs",
+      "B": "Government tax policy",
+      "C": "Population growth",
+      "D": "Election outcomes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 254,
+    "question": "Which committee coordinates industry-wide policy communication to banks?",
+    "options": {
+      "A": "Bankers’ Committee",
+      "B": "Fiscal Responsibility Committee",
+      "C": "Public Accounts Committee",
+      "D": "Trade Council"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 255,
+    "question": "The Standing Deposit Facility allows banks to:",
+    "options": {
+      "A": "Place excess funds overnight with CBN",
+      "B": "Borrow without collateral for a year",
+      "C": "Avoid statutory reserves",
+      "D": "Issue T-bills directly"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 256,
+    "question": "Which statement best describes countercyclical monetary policy?",
+    "options": {
+      "A": "Eases in downturns and tightens in booms",
+      "B": "Always eases regardless of cycle",
+      "C": "Always tightens regardless of cycle",
+      "D": "Ignores output gaps"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 257,
+    "question": "Which payment system license type is overseen by the CBN?",
+    "options": {
+      "A": "Switching and processing",
+      "B": "Aviation safety licence",
+      "C": "Television broadcast licence",
+      "D": "Education quality licence"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 258,
+    "question": "Liquidity management by CBN aims to:",
+    "options": {
+      "A": "Align banking system liquidity with policy stance",
+      "B": "Set political party funding",
+      "C": "Fix petroleum prices",
+      "D": "Build highways"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 259,
+    "question": "Which risk is mitigated by capital adequacy requirements?",
+    "options": {
+      "A": "Insolvency risk",
+      "B": "Exchange rate risk only",
+      "C": "Weather risk",
+      "D": "Election risk"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 260,
+    "question": "Which CBN tool directly shapes interbank rates daily?",
+    "options": {
+      "A": "Open Market Operations",
+      "B": "Import tariff changes",
+      "C": "VAT adjustments",
+      "D": "Customs duties"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 261,
+    "question": "The main goal of contractionary monetary policy is to:",
+    "options": {
+      "A": "Increase inflation",
+      "B": "Reduce inflation",
+      "C": "Boost exports",
+      "D": "Increase unemployment"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 262,
+    "question": "Which of the following is an example of a qualitative monetary policy tool?",
+    "options": {
+      "A": "Open Market Operations",
+      "B": "Credit Rationing",
+      "C": "Cash Reserve Ratio",
+      "D": "Liquidity Ratio"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 263,
+    "question": "The CBN’s development finance interventions are designed to:",
+    "options": {
+      "A": "Increase bank profits",
+      "B": "Channel credit to priority sectors",
+      "C": "Reduce public sector debt",
+      "D": "Promote foreign tourism"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 264,
+    "question": "A floating exchange rate is determined by:",
+    "options": {
+      "A": "The CBN alone",
+      "B": "Demand and supply in the forex market",
+      "C": "Minister of Finance",
+      "D": "Importers’ associations"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 265,
+    "question": "The CBN uses the MPR primarily to:",
+    "options": {
+      "A": "Control government spending",
+      "B": "Influence lending and deposit rates",
+      "C": "Fix the naira’s value",
+      "D": "Set tax rates"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 266,
+    "question": "The CBN was established in:",
+    "options": {
+      "A": "1952",
+      "B": "1958",
+      "C": "1960",
+      "D": "1962"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 267,
+    "question": "When the CBN increases the supply of money, it is pursuing:",
+    "options": {
+      "A": "Contractionary policy",
+      "B": "Expansionary policy",
+      "C": "Neutral policy",
+      "D": "Deflationary policy"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 268,
+    "question": "Which is the highest decision-making body on monetary policy in Nigeria?",
+    "options": {
+      "A": "Senate Committee on Finance",
+      "B": "CBN Board",
+      "C": "Monetary Policy Committee",
+      "D": "Ministry of Finance"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 269,
+    "question": "A major risk of excessive monetary easing is:",
+    "options": {
+      "A": "Deflation",
+      "B": "High inflation",
+      "C": "Currency appreciation",
+      "D": "High unemployment"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 270,
+    "question": "The CBN’s intervention in the foreign exchange market is aimed at:",
+    "options": {
+      "A": "Boosting tax revenue",
+      "B": "Stabilizing the naira",
+      "C": "Controlling domestic debt",
+      "D": "Increasing bank deposits"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 271,
+    "question": "Which monetary policy tool requires banks to keep a percentage of deposits with CBN?",
+    "options": {
+      "A": "CRR",
+      "B": "LR",
+      "C": "MPR",
+      "D": "OMO"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 272,
+    "question": "The CBN’s “Financial Inclusion Strategy” seeks to:",
+    "options": {
+      "A": "Increase government revenue",
+      "B": "Provide financial services to the unbanked",
+      "C": "Close rural bank branches",
+      "D": "Reduce foreign borrowing"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 273,
+    "question": "Inflation caused by rising production costs is called:",
+    "options": {
+      "A": "Demand-pull inflation",
+      "B": "Cost-push inflation",
+      "C": "Structural inflation",
+      "D": "Imported inflation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 274,
+    "question": "The CBN issues currency in which forms?",
+    "options": {
+      "A": "Only notes",
+      "B": "Notes and coins",
+      "C": "Only coins",
+      "D": "Notes, coins, and cheques"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 275,
+    "question": "The term “credit rationing” refers to:",
+    "options": {
+      "A": "Restricting loans to certain sectors",
+      "B": "Printing more currency",
+      "C": "Reducing government spending",
+      "D": "Buying government securities"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 276,
+    "question": "Which of these would likely follow an increase in MPR?",
+    "options": {
+      "A": "Cheaper loans",
+      "B": "Reduced borrowing",
+      "C": "Higher inflation",
+      "D": "More economic expansion"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 277,
+    "question": "Which is NOT a role of the CBN in foreign reserves management?",
+    "options": {
+      "A": "Investing reserves abroad",
+      "B": "Maintaining liquidity",
+      "C": "Funding political campaigns",
+      "D": "Preserving value of reserves"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 278,
+    "question": "The CBN’s “Development Finance” function supports:",
+    "options": {
+      "A": "Oil exports",
+      "B": "Agriculture and SMEs",
+      "C": "Luxury imports",
+      "D": "Foreign bank operations"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 279,
+    "question": "Treasury Bills issued by the CBN are generally for:",
+    "options": {
+      "A": "Long-term borrowing",
+      "B": "Short-term borrowing",
+      "C": "Building infrastructure",
+      "D": "Paying salaries"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 280,
+    "question": "A persistent fall in the general price level is known as:",
+    "options": {
+      "A": "Inflation",
+      "B": "Deflation",
+      "C": "Stagflation",
+      "D": "Recession"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 281,
+    "question": "The CBN uses moral suasion to:",
+    "options": {
+      "A": "Force banks to comply",
+      "B": "Persuade banks to follow guidelines",
+      "C": "Reduce public debt",
+      "D": "Set interest rates directly"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 282,
+    "question": "A rise in CRR by the CBN will:",
+    "options": {
+      "A": "Increase liquidity",
+      "B": "Decrease liquidity",
+      "C": "Increase credit to private sector",
+      "D": "Boost money supply"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 283,
+    "question": "The introduction of the Standing Deposit Facility allows banks to:",
+    "options": {
+      "A": "Deposit excess reserves overnight with CBN",
+      "B": "Borrow without collateral",
+      "C": "Lend to the public directly",
+      "D": "Avoid paying taxes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 284,
+    "question": "The purpose of CBN’s capital adequacy requirement is to:",
+    "options": {
+      "A": "Ensure banks have enough capital to absorb losses",
+      "B": "Increase bank profits",
+      "C": "Reduce taxation",
+      "D": "Encourage imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 285,
+    "question": "Which of these is NOT a goal of monetary policy?",
+    "options": {
+      "A": "Price stability",
+      "B": "Employment generation",
+      "C": "Political party funding",
+      "D": "Economic growth"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 286,
+    "question": "The term “real interest rate” means:",
+    "options": {
+      "A": "Nominal rate minus inflation rate",
+      "B": "Nominal rate plus inflation rate",
+      "C": "CBN base rate",
+      "D": "Loan interest before taxes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 287,
+    "question": "In Nigeria, the legal tender status of currency is granted by:",
+    "options": {
+      "A": "CBN circular",
+      "B": "CBN Act",
+      "C": "Ministry of Finance",
+      "D": "National Assembly resolution"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 288,
+    "question": "What is the tenure of a Treasury Bill issued by CBN?",
+    "options": {
+      "A": "7, 14, or 30 days",
+      "B": "91, 182, or 364 days",
+      "C": "1, 2, or 3 years",
+      "D": "5, 7, or 10 years"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 289,
+    "question": "The CBN’s Monetary Policy Department is responsible for:",
+    "options": {
+      "A": "Issuing bank licenses",
+      "B": "Designing and implementing monetary policy",
+      "C": "Prosecuting fraud cases",
+      "D": "Approving loans to individuals"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 290,
+    "question": "Which factor can limit the effectiveness of monetary policy?",
+    "options": {
+      "A": "Political stability",
+      "B": "Poor transmission mechanism",
+      "C": "Strong banking supervision",
+      "D": "Adequate reserves"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 291,
+    "question": "“Liquidity trap” refers to a situation where:",
+    "options": {
+      "A": "People prefer to hold cash despite low interest rates",
+      "B": "Banks have no liquidity",
+      "C": "Money supply is zero",
+      "D": "Interest rates are very high"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 292,
+    "question": "The term “exchange rate regime” refers to:",
+    "options": {
+      "A": "CBN’s currency printing policy",
+      "B": "The system of managing the naira’s value",
+      "C": "Treasury bill maturity structure",
+      "D": "Bank deposit insurance"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 293,
+    "question": "Which of these is a direct instrument of monetary control?",
+    "options": {
+      "A": "MPR",
+      "B": "Moral suasion",
+      "C": "Credit guidelines",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 294,
+    "question": "The “eNaira” operates on which technology platform?",
+    "options": {
+      "A": "Blockchain",
+      "B": "Centralized banking software",
+      "C": "Cloud computing only",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 295,
+    "question": "Which of the following best describes “Quantitative Easing”?",
+    "options": {
+      "A": "Buying financial assets to inject money into the economy",
+      "B": "Increasing CRR",
+      "C": "Selling government securities",
+      "D": "Reducing bank lending"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 296,
+    "question": "The “Headline Inflation Rate” measures:",
+    "options": {
+      "A": "All goods and services including volatile items",
+      "B": "Only non-food items",
+      "C": "Only imported goods",
+      "D": "Only food items"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 297,
+    "question": "Which is a limitation of moral suasion?",
+    "options": {
+      "A": "It is legally binding",
+      "B": "It depends on voluntary compliance",
+      "C": "It always increases inflation",
+      "D": "It reduces money supply directly"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 298,
+    "question": "The term “Hot Money” in forex refers to:",
+    "options": {
+      "A": "Long-term investments",
+      "B": "Short-term speculative capital flows",
+      "C": "Foreign aid",
+      "D": "Bank fixed deposits"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 299,
+    "question": "CBN’s agricultural credit schemes are examples of:",
+    "options": {
+      "A": "Fiscal policy",
+      "B": "Monetary policy",
+      "C": "Development finance interventions",
+      "D": "Tax policy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 300,
+    "question": "The “core inflation” index excludes:",
+    "options": {
+      "A": "Energy and food prices",
+      "B": "Rent and transport costs",
+      "C": "Education and health costs",
+      "D": "All essential goods"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 301,
+    "question": "Which body approves the MPR change recommendation by MPC?",
+    "options": {
+      "A": "National Assembly",
+      "B": "CBN Governor",
+      "C": "Ministry of Finance",
+      "D": "Federal Executive Council"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 302,
+    "question": "A currency swap agreement between CBN and another central bank aims to:",
+    "options": {
+      "A": "Reduce public debt",
+      "B": "Facilitate trade and forex liquidity",
+      "C": "Increase inflation",
+      "D": "Ban imports"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 303,
+    "question": "The statutory report CBN submits to the National Assembly annually is the:",
+    "options": {
+      "A": "Banking Supervision Report",
+      "B": "Annual Report and Statement of Accounts",
+      "C": "Inflation Review Report",
+      "D": "FX Policy Paper"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 304,
+    "question": "Which monetary policy tool can directly influence lending rates?",
+    "options": {
+      "A": "MPR",
+      "B": "CRR",
+      "C": "LR",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 305,
+    "question": "“Selective Credit Control” means:",
+    "options": {
+      "A": "Lending to all sectors equally",
+      "B": "Directing credit to specific sectors",
+      "C": "Restricting credit to only government",
+      "D": "Eliminating all credit facilities"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 306,
+    "question": "The balance sheet of CBN includes:",
+    "options": {
+      "A": "Foreign reserves, currency in circulation, and liabilities",
+      "B": "National GDP data",
+      "C": "State government budgets",
+      "D": "All bank loans to individuals"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 307,
+    "question": "The introduction of the Standing Lending Facility allows banks to:",
+    "options": {
+      "A": "Borrow overnight from CBN against collateral",
+      "B": "Borrow without any condition",
+      "C": "Lend directly to SMEs",
+      "D": "Avoid CRR requirements"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 308,
+    "question": "A sudden increase in money supply without matching output can cause:",
+    "options": {
+      "A": "Inflation",
+      "B": "Deflation",
+      "C": "Recession",
+      "D": "Stagnation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 309,
+    "question": "The exchange rate at which CBN sells forex to banks is known as:",
+    "options": {
+      "A": "Official exchange rate",
+      "B": "Interbank rate",
+      "C": "Parallel rate",
+      "D": "Spot rate"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 310,
+    "question": "Which CBN tool is aimed at ensuring banks remain solvent during shocks?",
+    "options": {
+      "A": "Capital adequacy requirement",
+      "B": "Moral suasion",
+      "C": "Credit rationing",
+      "D": "Treasury bill issuance"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 311,
+    "question": "Which policy action is likely to reduce inflationary pressure?",
+    "options": {
+      "A": "Increasing MPR",
+      "B": "Reducing CRR",
+      "C": "Expanding money supply",
+      "D": "Increasing government subsidies"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 312,
+    "question": "The “Inflation Targeting” framework aims to:",
+    "options": {
+      "A": "Fix exchange rates",
+      "B": "Maintain inflation within a set range",
+      "C": "Eliminate taxes",
+      "D": "Control only food prices"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 313,
+    "question": "Which CBN function involves maintaining the value of the currency?",
+    "options": {
+      "A": "Price stability",
+      "B": "Fiscal management",
+      "C": "Public debt servicing",
+      "D": "Political stability"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 314,
+    "question": "The process of selling government securities to mop up excess liquidity is called:",
+    "options": {
+      "A": "Expansionary policy",
+      "B": "Contractionary policy",
+      "C": "Neutral policy",
+      "D": "Currency swap"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 315,
+    "question": "Which measure will likely encourage commercial banks to lend more?",
+    "options": {
+      "A": "Increase in CRR",
+      "B": "Decrease in MPR",
+      "C": "Increase in LR",
+      "D": "Selling treasury bills"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 316,
+    "question": "The CBN is empowered by law to:",
+    "options": {
+      "A": "Control both monetary and fiscal policy",
+      "B": "Formulate and implement monetary policy",
+      "C": "Conduct elections",
+      "D": "Issue passports"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 317,
+    "question": "A situation where both inflation and unemployment are high is called:",
+    "options": {
+      "A": "Deflation",
+      "B": "Stagflation",
+      "C": "Hyperinflation",
+      "D": "Recession"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 318,
+    "question": "CBN’s regulation of payment systems is to:",
+    "options": {
+      "A": "Control the national budget",
+      "B": "Ensure safety and efficiency of transactions",
+      "C": "Reduce bank staff salaries",
+      "D": "Promote political parties"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 319,
+    "question": "Which of the following will strengthen the naira?",
+    "options": {
+      "A": "Increased foreign reserves",
+      "B": "Higher imports than exports",
+      "C": "Excess money supply",
+      "D": "Reduced oil prices"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 320,
+    "question": "A “Pegged Exchange Rate” means:",
+    "options": {
+      "A": "Value determined by market forces",
+      "B": "Fixed to another currency or basket",
+      "C": "Randomly adjusted",
+      "D": "Set by commercial banks"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 321,
+    "question": "Which factor can cause imported inflation?",
+    "options": {
+      "A": "Fall in domestic interest rates",
+      "B": "Depreciation of local currency",
+      "C": "Increase in domestic production",
+      "D": "Decrease in global oil prices"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 322,
+    "question": "“Bank Rate” refers to:",
+    "options": {
+      "A": "Rate charged by CBN on loans to commercial banks",
+      "B": "Rate charged by banks to customers",
+      "C": "Interest on treasury bills",
+      "D": "Rate of inflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 323,
+    "question": "The main aim of “Liquidity Ratio” requirement is to:",
+    "options": {
+      "A": "Ensure banks hold liquid assets to meet obligations",
+      "B": "Increase foreign debt",
+      "C": "Encourage excessive lending",
+      "D": "Reduce public deposits"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 324,
+    "question": "Which of the following is an indirect instrument of monetary policy?",
+    "options": {
+      "A": "Open Market Operations",
+      "B": "Bank rate changes",
+      "C": "Selective credit controls",
+      "D": "Moral suasion"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 325,
+    "question": "The MPC meets at least:",
+    "options": {
+      "A": "Once a year",
+      "B": "Quarterly",
+      "C": "Monthly",
+      "D": "Bi-annually"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 326,
+    "question": "An increase in money supply without a rise in output generally causes:",
+    "options": {
+      "A": "Inflation",
+      "B": "Deflation",
+      "C": "Recession",
+      "D": "Depression"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 327,
+    "question": "The CBN may buy foreign currency to:",
+    "options": {
+      "A": "Weaken the naira",
+      "B": "Strengthen the naira",
+      "C": "Increase reserves",
+      "D": "Reduce reserves"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 328,
+    "question": "In monetary policy, “tightening” refers to:",
+    "options": {
+      "A": "Reducing money supply",
+      "B": "Increasing money supply",
+      "C": "Reducing interest rates",
+      "D": "Increasing subsidies"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 329,
+    "question": "Which policy is used to combat deflation?",
+    "options": {
+      "A": "Contractionary monetary policy",
+      "B": "Expansionary monetary policy",
+      "C": "Neutral monetary policy",
+      "D": "Exchange rate pegging"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 330,
+    "question": "The primary mandate of the CBN includes:",
+    "options": {
+      "A": "Maintaining external reserves",
+      "B": "Promoting a sound financial system",
+      "C": "Issuing legal tender",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 331,
+    "question": "“Hyperinflation” is defined as:",
+    "options": {
+      "A": "Inflation exceeding 50% per month",
+      "B": "Inflation above 5% annually",
+      "C": "Prices falling continuously",
+      "D": "Stable price levels"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 332,
+    "question": "Which CBN policy encourages investment in agriculture?",
+    "options": {
+      "A": "Anchor Borrowers’ Programme",
+      "B": "Treasury bill sales",
+      "C": "Increase in MPR",
+      "D": "Increase in CRR"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 333,
+    "question": "The “Discount Window” is used by banks to:",
+    "options": {
+      "A": "Borrow short-term funds from CBN",
+      "B": "Lend to the public",
+      "C": "Deposit excess reserves",
+      "D": "Purchase foreign currency"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 334,
+    "question": "The CBN Act of 2007 strengthened the bank’s:",
+    "options": {
+      "A": "Autonomy in monetary policy",
+      "B": "Role in party politics",
+      "C": "Fiscal authority",
+      "D": "Electoral powers"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 335,
+    "question": "A “Money Market” deals in:",
+    "options": {
+      "A": "Short-term funds and instruments",
+      "B": "Long-term investments",
+      "C": "Real estate assets",
+      "D": "Foreign aid"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 336,
+    "question": "Which of these is a qualitative credit control measure?",
+    "options": {
+      "A": "MPR changes",
+      "B": "Credit rationing",
+      "C": "CRR changes",
+      "D": "Treasury bill issuance"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 337,
+    "question": "The “Base Money” refers to:",
+    "options": {
+      "A": "Currency in circulation plus reserves with CBN",
+      "B": "Total GDP",
+      "C": "All bank loans to customers",
+      "D": "Foreign currency reserves"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 338,
+    "question": "Which of the following is NOT a CBN monetary policy objective?",
+    "options": {
+      "A": "Price stability",
+      "B": "Exchange rate stability",
+      "C": "Maximizing political campaign funds",
+      "D": "Employment generation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 339,
+    "question": "“Moral Suasion” is effective when:",
+    "options": {
+      "A": "Banks respect CBN’s persuasive directives",
+      "B": "Banks ignore policy guidelines",
+      "C": "CRR is reduced",
+      "D": "Interest rates are lowered"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 340,
+    "question": "Which of the following is a direct monetary control?",
+    "options": {
+      "A": "Open Market Operations",
+      "B": "Moral suasion",
+      "C": "Credit ceilings",
+      "D": "Public debt management"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 341,
+    "question": "The CBN’s foreign reserves serve to:",
+    "options": {
+      "A": "Facilitate international trade and maintain currency stability",
+      "B": "Fund political activities",
+      "C": "Replace bank deposits",
+      "D": "Reduce inflation permanently"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 342,
+    "question": "The demand for money is influenced by:",
+    "options": {
+      "A": "Interest rates",
+      "B": "Income levels",
+      "C": "Price levels",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 343,
+    "question": "“Broad Money Supply” includes:",
+    "options": {
+      "A": "Only currency in circulation",
+      "B": "Narrow money plus quasi-money",
+      "C": "Only bank reserves",
+      "D": "Treasury bills alone"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 344,
+    "question": "An increase in liquidity ratio will:",
+    "options": {
+      "A": "Reduce lending capacity of banks",
+      "B": "Increase lending capacity of banks",
+      "C": "Increase inflation",
+      "D": "Reduce foreign reserves"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 345,
+    "question": "Which of these can help reduce demand-pull inflation?",
+    "options": {
+      "A": "Increasing CRR",
+      "B": "Reducing MPR",
+      "C": "Increasing subsidies",
+      "D": "Reducing taxes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 346,
+    "question": "The CBN’s intervention in SME financing is to:",
+    "options": {
+      "A": "Promote economic diversification",
+      "B": "Reduce foreign investment",
+      "C": "Increase imports",
+      "D": "Control inflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 347,
+    "question": "The “Currency in Circulation” excludes:",
+    "options": {
+      "A": "Cash held in banks",
+      "B": "Cash in ATMs",
+      "C": "Cash held by the public",
+      "D": "Coins"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 348,
+    "question": "An example of a quantitative monetary tool is:",
+    "options": {
+      "A": "Credit rationing",
+      "B": "Moral suasion",
+      "C": "CRR",
+      "D": "Loan-to-deposit ratio"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 349,
+    "question": "The CBN’s regulation of Bureaux de Change aims to:",
+    "options": {
+      "A": "Ensure transparency in forex transactions",
+      "B": "Increase inflation",
+      "C": "Reduce exports",
+      "D": "Boost imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 350,
+    "question": "Which of these can cause cost-push inflation?",
+    "options": {
+      "A": "Higher wages",
+      "B": "Increase in raw material costs",
+      "C": "Higher fuel prices",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 351,
+    "question": "A policy to encourage savings may involve:",
+    "options": {
+      "A": "Increasing deposit interest rates",
+      "B": "Reducing deposit rates",
+      "C": "Printing more money",
+      "D": "Reducing CRR"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 352,
+    "question": "The “Narrow Money” (M1) consists of:",
+    "options": {
+      "A": "Currency in circulation and demand deposits",
+      "B": "Foreign reserves and gold",
+      "C": "Treasury bills and bonds",
+      "D": "Time deposits only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 353,
+    "question": "Which of the following can weaken the naira?",
+    "options": {
+      "A": "Increase in imports",
+      "B": "Increase in exports",
+      "C": "Higher foreign reserves",
+      "D": "More FDI inflows"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 354,
+    "question": "A sudden withdrawal of foreign investment can cause:",
+    "options": {
+      "A": "Capital flight",
+      "B": "Inflation",
+      "C": "Deflation",
+      "D": "Economic boom"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 355,
+    "question": "Which of these is NOT a function of the CBN?",
+    "options": {
+      "A": "Issuing currency",
+      "B": "Controlling monetary policy",
+      "C": "Supervising banks",
+      "D": "Collecting taxes"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 356,
+    "question": "The “Real Sector” includes:",
+    "options": {
+      "A": "Agriculture, manufacturing, and services",
+      "B": "Banking only",
+      "C": "Political organizations",
+      "D": "CBN operations only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 357,
+    "question": "The “Overnight Rate” in banking refers to:",
+    "options": {
+      "A": "Interest rate charged on overnight loans between banks",
+      "B": "Rate for loans to the public",
+      "C": "Inflation rate",
+      "D": "Treasury bill yield"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 358,
+    "question": "A major challenge in implementing monetary policy in Nigeria is:",
+    "options": {
+      "A": "High informal sector activity",
+      "B": "Large number of banks",
+      "C": "Low interest rates",
+      "D": "Adequate infrastructure"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 359,
+    "question": "The CBN’s “Cashless Policy” aims to:",
+    "options": {
+      "A": "Reduce the volume of cash transactions",
+      "B": "Eliminate banking",
+      "C": "Stop all online payments",
+      "D": "Reduce foreign investment"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 360,
+    "question": "Which of these is a tool for managing liquidity?",
+    "options": {
+      "A": "CRR",
+      "B": "MPR",
+      "C": "OMO",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 361,
+    "question": "Which department in CBN handles foreign exchange management?",
+    "options": {
+      "A": "Banking Supervision Department",
+      "B": "Trade and Exchange Department",
+      "C": "Financial Policy and Regulation Department",
+      "D": "Research Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 362,
+    "question": "A contractionary monetary policy is most likely to:",
+    "options": {
+      "A": "Reduce inflation",
+      "B": "Increase inflation",
+      "C": "Increase liquidity",
+      "D": "Encourage excessive borrowing"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 363,
+    "question": "The term “fiat money” means currency:",
+    "options": {
+      "A": "Backed by gold",
+      "B": "Declared legal tender by government",
+      "C": "Issued by private banks",
+      "D": "Convertible to silver"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 364,
+    "question": "Which factor can limit the effectiveness of monetary policy in Nigeria?",
+    "options": {
+      "A": "High level of financial inclusion",
+      "B": "Low informal sector size",
+      "C": "Weak transmission mechanism",
+      "D": "Stable macroeconomic conditions"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 365,
+    "question": "Treasury bills are issued primarily to:",
+    "options": {
+      "A": "Finance short-term government needs",
+      "B": "Fund long-term projects",
+      "C": "Pay salaries of CBN staff",
+      "D": "Finance political campaigns"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 366,
+    "question": "The “Prime Lending Rate” is:",
+    "options": {
+      "A": "Rate banks charge their best customers",
+      "B": "Rate CBN charges commercial banks",
+      "C": "Rate for microfinance institutions",
+      "D": "Government bond yield"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 367,
+    "question": "The CBN can influence credit expansion by adjusting:",
+    "options": {
+      "A": "MPR",
+      "B": "Exchange rate",
+      "C": "Minimum wage",
+      "D": "Inflation index"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 368,
+    "question": "Which of the following is a liability on the CBN balance sheet?",
+    "options": {
+      "A": "Currency in circulation",
+      "B": "Gold reserves",
+      "C": "Foreign investments",
+      "D": "Government securities held"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 369,
+    "question": "The “call money” market deals in:",
+    "options": {
+      "A": "Short-term loans repayable on demand",
+      "B": "Long-term mortgages",
+      "C": "Foreign exchange swaps",
+      "D": "Consumer credit"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 370,
+    "question": "Which monetary policy aims to boost economic activity?",
+    "options": {
+      "A": "Expansionary monetary policy",
+      "B": "Contractionary monetary policy",
+      "C": "Neutral policy",
+      "D": "Inflation targeting"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 371,
+    "question": "An example of a CBN development finance intervention is:",
+    "options": {
+      "A": "Real Sector Support Facility",
+      "B": "Treasury bill auctions",
+      "C": "Liquidity ratio adjustment",
+      "D": "MPR increase"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 372,
+    "question": "CBN regulates microfinance banks through:",
+    "options": {
+      "A": "Prudential guidelines and licensing requirements",
+      "B": "National Assembly",
+      "C": "Bankers’ Committee only",
+      "D": "Political parties"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 373,
+    "question": "The purpose of a currency redesign is to:",
+    "options": {
+      "A": "Enhance security features and reduce counterfeiting",
+      "B": "Reduce foreign reserves",
+      "C": "Increase inflation",
+      "D": "Stop foreign investment"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 374,
+    "question": "The CBN Governor is appointed for a term of:",
+    "options": {
+      "A": "5 years",
+      "B": "4 years",
+      "C": "6 years",
+      "D": "7 years"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 375,
+    "question": "Which of the following is NOT part of the CBN’s core mandate?",
+    "options": {
+      "A": "Price stability",
+      "B": "Currency issuance",
+      "C": "National security operations",
+      "D": "Exchange rate stability"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 376,
+    "question": "The effectiveness of open market operations depends on:",
+    "options": {
+      "A": "Well-developed financial markets",
+      "B": "Political stability",
+      "C": "Adequate taxation",
+      "D": "Increased imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 377,
+    "question": "The “Credit Ceiling” policy limits:",
+    "options": {
+      "A": "Amount of loans banks can extend",
+      "B": "Amount of reserves banks can hold",
+      "C": "Number of customers banks can serve",
+      "D": "Value of foreign reserves"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 378,
+    "question": "Which of the following is a short-term CBN security?",
+    "options": {
+      "A": "Treasury bill",
+      "B": "Development bond",
+      "C": "Infrastructure bond",
+      "D": "Sukuk"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 379,
+    "question": "The “Lender of Last Resort” function means the CBN:",
+    "options": {
+      "A": "Provides emergency liquidity to banks in distress",
+      "B": "Lends to individuals directly",
+      "C": "Funds private companies permanently",
+      "D": "Manages stock exchange operations"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 380,
+    "question": "The CBN uses which policy to address balance of payments deficit?",
+    "options": {
+      "A": "Exchange rate adjustments",
+      "B": "Increase in CRR",
+      "C": "Moral suasion",
+      "D": "Increase in subsidies"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 381,
+    "question": "Which index measures the general price level in the economy?",
+    "options": {
+      "A": "Consumer Price Index",
+      "B": "Prime Rate Index",
+      "C": "Liquidity Ratio Index",
+      "D": "Loan-to-Deposit Ratio Index"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 382,
+    "question": "An increase in demand for money due to income rise is called:",
+    "options": {
+      "A": "Transactionary demand",
+      "B": "Precautionary demand",
+      "C": "Speculative demand",
+      "D": "Derived demand"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 383,
+    "question": "The CBN regulates the supply of money to:",
+    "options": {
+      "A": "Maintain economic stability",
+      "B": "Increase political power",
+      "C": "Reduce exports",
+      "D": "Encourage excessive imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 384,
+    "question": "Which of these may result from excessive money printing?",
+    "options": {
+      "A": "Hyperinflation",
+      "B": "Deflation",
+      "C": "Recession",
+      "D": "Stable prices"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 385,
+    "question": "The “Neutral Monetary Policy” aims to:",
+    "options": {
+      "A": "Keep money supply growth in line with economic growth",
+      "B": "Reduce inflation drastically",
+      "C": "Stimulate high growth",
+      "D": "Increase unemployment"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 386,
+    "question": "Which CBN committee decides on monetary policy stance?",
+    "options": {
+      "A": "Monetary Policy Committee",
+      "B": "Fiscal Responsibility Committee",
+      "C": "Bankers’ Committee",
+      "D": "Exchange Rate Committee"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 387,
+    "question": "The cashless policy promotes:",
+    "options": {
+      "A": "Electronic transactions over cash usage",
+      "B": "Elimination of banking services",
+      "C": "Only ATM withdrawals",
+      "D": "Higher import duties"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 388,
+    "question": "The “Hot Money” inflow refers to:",
+    "options": {
+      "A": "Short-term foreign investment in domestic markets",
+      "B": "Long-term FDI",
+      "C": "Domestic borrowing",
+      "D": "Public sector wages"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 389,
+    "question": "Which is an advantage of holding high foreign reserves?",
+    "options": {
+      "A": "Ability to defend currency value during volatility",
+      "B": "Reduce domestic lending",
+      "C": "Increase imports only",
+      "D": "Decrease exports only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 390,
+    "question": "CBN’s regulation of the banking sector is aimed at:",
+    "options": {
+      "A": "Promoting a sound and stable financial system",
+      "B": "Funding political campaigns",
+      "C": "Increasing inflation",
+      "D": "Reducing exports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 391,
+    "question": "The “Time Deposit” in banking is:",
+    "options": {
+      "A": "Deposit that cannot be withdrawn before maturity",
+      "B": "Cash available instantly",
+      "C": "Foreign currency savings only",
+      "D": "Government bond investment"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 392,
+    "question": "Which of the following is NOT a form of money?",
+    "options": {
+      "A": "Commodity money",
+      "B": "Fiduciary money",
+      "C": "Imaginary money",
+      "D": "Fiat money"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 393,
+    "question": "The primary role of the discount rate is to:",
+    "options": {
+      "A": "Influence borrowing costs for commercial banks",
+      "B": "Control government spending",
+      "C": "Increase subsidies",
+      "D": "Set tax levels"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 394,
+    "question": "The CBN’s “Stability Fund” is designed to:",
+    "options": {
+      "A": "Provide liquidity support to banks during crises",
+      "B": "Fund road construction",
+      "C": "Finance agriculture",
+      "D": "Support political rallies"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 395,
+    "question": "Which of the following will reduce the money supply?",
+    "options": {
+      "A": "Selling government securities",
+      "B": "Buying government securities",
+      "C": "Reducing CRR",
+      "D": "Lowering MPR"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 396,
+    "question": "The “Velocity of Money” measures:",
+    "options": {
+      "A": "Number of times money changes hands in an economy",
+      "B": "Speed of electronic transfers",
+      "C": "Number of ATMs in a country",
+      "D": "Time taken for loan approval"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 397,
+    "question": "Which monetary policy is suitable during high unemployment?",
+    "options": {
+      "A": "Expansionary",
+      "B": "Contractionary",
+      "C": "Neutral",
+      "D": "Restrictive"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 398,
+    "question": "A persistent rise in general price levels is called:",
+    "options": {
+      "A": "Inflation",
+      "B": "Deflation",
+      "C": "Stagnation",
+      "D": "Recession"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 399,
+    "question": "The main purpose of the CBN’s Agricultural Credit Guarantee Scheme is to:",
+    "options": {
+      "A": "Encourage lending to farmers by guaranteeing loans",
+      "B": "Increase import duties",
+      "C": "Reduce foreign reserves",
+      "D": "Support luxury imports"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 400,
+    "question": "Which of these is a measure of controlling inflation?",
+    "options": {
+      "A": "Increasing MPR and CRR",
+      "B": "Reducing MPR and CRR",
+      "C": "Printing more money",
+      "D": "Increasing subsidies"
+    },
+    "answer": "A"
+  }
+]

@@ -1,0 +1,6602 @@
+[
+  {
+    "id": 1,
+    "question": "Which principle is the foundation of information security in MDAs?",
+    "options": {
+      "A": "Confidentiality, Integrity, Availability (CIA)",
+      "B": "Profit Maximization",
+      "C": "Market Share",
+      "D": "Customer Discounting"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Which federal body primarily regulates IT development and standards for MDAs?",
+    "options": {
+      "A": "NCC",
+      "B": "NITDA",
+      "C": "CBN",
+      "D": "CODE OF CONDUCT BUREAU"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "What system manages personnel and payroll data across the federal civil service?",
+    "options": {
+      "A": "BVN",
+      "B": "TSA",
+      "C": "IPPIS",
+      "D": "GIFMIS"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Which platform primarily supports government-wide financial management integration?",
+    "options": {
+      "A": "Remita private wallets",
+      "B": "GIFMIS",
+      "C": "FOI Portal",
+      "D": "Google Docs"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "question": "What is the recommended approach to protect official email accounts?",
+    "options": {
+      "A": "Use personal passwords on all sites",
+      "B": "Share passwords with colleagues",
+      "C": "Enable multi-factor authentication (MFA)",
+      "D": "Disable password expiration"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "What is the first step in responding to a suspected phishing email?",
+    "options": {
+      "A": "Reply to confirm identity",
+      "B": "Click the link to verify",
+      "C": "Report to ICT/security desk",
+      "D": "Forward to all staff"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Which law now provides the primary legal framework for data protection in Nigeria’s public sector?",
+    "options": {
+      "A": "Cybercrimes Act 2015 only",
+      "B": "Nigeria Data Protection Act 2023",
+      "C": "Evidence Act 2011 only",
+      "D": "FOI Act 2011"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "Which organization operates government network and data centre services for many MDAs?",
+    "options": {
+      "A": "Private ISP consortium",
+      "B": "Galaxy Backbone",
+      "C": "State Ministries of Works",
+      "D": "National Assembly"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 9,
+    "question": "Before MDAs commence major IT projects, what approval is commonly required?",
+    "options": {
+      "A": "Office party memo",
+      "B": "NITDA IT Project Clearance",
+      "C": "Verbal approval from vendor",
+      "D": "Internal WhatsApp poll"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "What is the best control for protecting data on lost government laptops?",
+    "options": {
+      "A": "No login required",
+      "B": "Full-disk encryption",
+      "C": "Stick passwords under the keyboard",
+      "D": "Disable screensaver"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "What does the “least privilege” principle mean?",
+    "options": {
+      "A": "Everyone is admin",
+      "B": "Staff get maximum access by default",
+      "C": "Users get only necessary access for their roles",
+      "D": "Access never expires"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "Which method best verifies that a backup can be used during a disaster?",
+    "options": {
+      "A": "Counting backup files",
+      "B": "Visual inspection of tapes",
+      "C": "Regular restore tests",
+      "D": "Asking the vendor verbally"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "question": "Which control reduces the risk of man-in-the-middle attacks on government portals?",
+    "options": {
+      "A": "HTTP only",
+      "B": "Public Wi-Fi without VPN",
+      "C": "HTTPS/TLS with strong ciphers",
+      "D": "Passwords written in notebooks"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "Which is the most appropriate channel for official correspondence?",
+    "options": {
+      "A": "Personal Gmail",
+      "B": "Unofficial social media DMs",
+      "C": "Official .gov.ng email",
+      "D": "Family group chat"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "question": "What document records system requirements, stakeholders, costs, and risks before procurement?",
+    "options": {
+      "A": "Press release",
+      "B": "Business case",
+      "C": "Social media post",
+      "D": "Thank-you letter"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "What’s the recommended method to manage security patches on many PCs?",
+    "options": {
+      "A": "Ignore updates",
+      "B": "Manual updates once a year",
+      "C": "Centralized patch management",
+      "D": "Disable antivirus"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "question": "Which practice helps preserve the integrity of electronic records?",
+    "options": {
+      "A": "Ad-hoc file naming",
+      "B": "Disabling audit logs",
+      "C": "Version control and audit trails",
+      "D": "Deleting logs daily"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Acceptable use policy typically prohibits which activity?",
+    "options": {
+      "A": "Accessing official systems for assigned work",
+      "B": "Downloading pirated software",
+      "C": "Using official email professionally",
+      "D": "Following password policy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "What is the primary purpose of a Change Advisory Board (CAB) in MDAs?",
+    "options": {
+      "A": "Plan office picnics",
+      "B": "Approve and govern IT changes",
+      "C": "Approve staff leave",
+      "D": "Manage payroll"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Which is a key benefit of MFA for civil servants?",
+    "options": {
+      "A": "Longer single passwords",
+      "B": "Bypassing policies",
+      "C": "Additional layer beyond passwords",
+      "D": "Sharing tokens among staff"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "What should an ICT unit define with vendors to ensure dependable service quality?",
+    "options": {
+      "A": "Raffle draws",
+      "B": "Service Level Agreements (SLAs)",
+      "C": "Social media guidelines only",
+      "D": "Unwritten promises"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Which concept requires collecting only data necessary for the task?",
+    "options": {
+      "A": "Data hoarding",
+      "B": "Data minimization",
+      "C": "Data advertising",
+      "D": "Data resale"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "The official policy that guides electronic records’ retention and disposal schedules is called:",
+    "options": {
+      "A": "Office gossip",
+      "B": "Records management policy",
+      "C": "Birthday calendar",
+      "D": "Wall notice"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "Which tool reduces risk when working remotely on public Wi-Fi?",
+    "options": {
+      "A": "Open ports",
+      "B": "Unencrypted FTP",
+      "C": "Virtual Private Network (VPN)",
+      "D": "Posting login details online"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "question": "What does RPO stand for in disaster recovery?",
+    "options": {
+      "A": "Recovery Point Objective",
+      "B": "Repair Policy Outline",
+      "C": "Regional Program Office",
+      "D": "Record Position Order"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "What is RTO?",
+    "options": {
+      "A": "Return to Office",
+      "B": "Record Transfer Order",
+      "C": "Recovery Time Objective",
+      "D": "Remote Task Operation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "question": "Which is the most secure way to share large sensitive files across MDAs?",
+    "options": {
+      "A": "Personal cloud links without controls",
+      "B": "Public social media",
+      "C": "Encrypted transfer with access controls",
+      "D": "Flash drives passed around"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Which act recognizes electronic evidence and signatures in Nigeria?",
+    "options": {
+      "A": "Companies and Allied Matters Act only",
+      "B": "Evidence Act 2011",
+      "C": "Land Use Act",
+      "D": "Finance Act"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 29,
+    "question": "What is the core goal of ITIL incident management?",
+    "options": {
+      "A": "Delay service restoration",
+      "B": "Restore service quickly and minimize impact",
+      "C": "Increase ticket volume",
+      "D": "Ignore user reports"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "Which platform aggregates many MDAs onto a shared backbone for connectivity?",
+    "options": {
+      "A": "Random private Wi-Fi",
+      "B": "Galaxy Backbone network",
+      "C": "Single staff hotspot",
+      "D": "Personal routers only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "question": "What is the safest action if a colleague asks for your VPN credentials?",
+    "options": {
+      "A": "Share them",
+      "B": "Ignore policy",
+      "C": "Report and refuse",
+      "D": "Write on sticky note for them"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "question": "What should MDAs use to authenticate APIs between agencies?",
+    "options": {
+      "A": "Hard-coded passwords in code",
+      "B": "Public tokens on GitHub",
+      "C": "Managed API keys/certificates with rotation",
+      "D": "Plain text over HTTP"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 33,
+    "question": "Which role is responsible for defining who can access what data?",
+    "options": {
+      "A": "Data Owner",
+      "B": "Janitor",
+      "C": "Office Driver",
+      "D": "Visitor"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "What is data classification primarily used for?",
+    "options": {
+      "A": "Office decoration",
+      "B": "Determining security controls by sensitivity",
+      "C": "Payroll calculations",
+      "D": "Staff birthdays"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "question": "Which device protects servers from power surges and outages?",
+    "options": {
+      "A": "Fan",
+      "B": "UPS",
+      "C": "Extension cord only",
+      "D": "Desk lamp"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Which control best reduces email spoofing risk?",
+    "options": {
+      "A": "Public Wi-Fi",
+      "B": "SPF, DKIM, DMARC",
+      "C": "Guessable passwords",
+      "D": "Disabling MFA"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "What is the purpose of user awareness training?",
+    "options": {
+      "A": "Teach staff to ignore policy",
+      "B": "Promote safe ICT practices and reduce risks",
+      "C": "Replace technical controls",
+      "D": "Lower productivity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "Which framework helps agencies share and integrate data consistently?",
+    "options": {
+      "A": "Ne-GIF/interoperability standards",
+      "B": "Personal templates",
+      "C": "Random CSVs",
+      "D": "Verbal calls only"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 39,
+    "question": "What should be done before going live with a new e-service?",
+    "options": {
+      "A": "Skip testing",
+      "B": "UAT and security testing",
+      "C": "Share passwords openly",
+      "D": "Turn off backups"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "Which is a secure method for password storage by systems?",
+    "options": {
+      "A": "Plain text",
+      "B": "Reversible encryption",
+      "C": "Strong hashing with salt",
+      "D": "Excel list on desktop"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 41,
+    "question": "What is the right action when a USB drive of unknown origin is found?",
+    "options": {
+      "A": "Plug into office PC",
+      "B": "Take home",
+      "C": "Submit to ICT/security for safe handling",
+      "D": "Share with colleagues"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 42,
+    "question": "Which policy controls personal device use for official work?",
+    "options": {
+      "A": "BYOD policy",
+      "B": "Dress code",
+      "C": "Transport policy",
+      "D": "Community relations"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "What metric shows service desk effectiveness at first contact?",
+    "options": {
+      "A": "Number of chairs",
+      "B": "First Contact Resolution (FCR)",
+      "C": "Weather report",
+      "D": "Staff birthdays"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "question": "Which control helps detect suspicious activity on networks?",
+    "options": {
+      "A": "IDS/IPS and log monitoring",
+      "B": "Loud music",
+      "C": "Open ports to the internet",
+      "D": "Sharing admin accounts"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "question": "Who should approve user access privileges?",
+    "options": {
+      "A": "Any colleague",
+      "B": "External vendor only",
+      "C": "Data owner or line manager as per policy",
+      "D": "Social media admin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 46,
+    "question": "What is the recommended practice for software licensing?",
+    "options": {
+      "A": "Use pirated copies",
+      "B": "Track and comply with licenses",
+      "C": "Share one license with all",
+      "D": "Ignore audits"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "question": "Which statement about cloud for MDAs is most appropriate?",
+    "options": {
+      "A": "Use any free cloud without assessment",
+      "B": "Adopt government/approved cloud with risk assessment and controls",
+      "C": "Post data on public forums",
+      "D": "Ignore data residency"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "question": "What is a key element of privacy by design?",
+    "options": {
+      "A": "Add privacy at the end",
+      "B": "Ignore user consent",
+      "C": "Embed privacy controls from the start",
+      "D": "Publish all data by default"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 49,
+    "question": "What should be documented for each system account?",
+    "options": {
+      "A": "Favorite food",
+      "B": "Access rights, owner, purpose, and review cycle",
+      "C": "Football club",
+      "D": "Staff height"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "question": "What’s the safest action when asked to install unknown software?",
+    "options": {
+      "A": "Install immediately",
+      "B": "Disable antivirus first",
+      "C": "Seek ICT approval and verify source",
+      "D": "Give admin rights to vendor"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "question": "What helps ensure continuity of critical e-services during outages?",
+    "options": {
+      "A": "Ignoring risks",
+      "B": "Business Continuity Plan (BCP)",
+      "C": "Random backups",
+      "D": "Postponing controls"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "question": "Which is a common sign of phishing?",
+    "options": {
+      "A": "Official domain and correct spelling",
+      "B": "Urgent tone + suspicious links/attachments",
+      "C": "Verified sender and DKIM pass",
+      "D": "Policy references with correct logos only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 53,
+    "question": "What should MDAs do with logs?",
+    "options": {
+      "A": "Delete daily",
+      "B": "Keep unprotected",
+      "C": "Collect, protect, and review per policy",
+      "D": "Share on WhatsApp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "question": "What protects web apps from common injection attacks?",
+    "options": {
+      "A": "Static pages only",
+      "B": "Input validation and parameterized queries",
+      "C": "Turning off HTTPS",
+      "D": "Hard-coding credentials"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 55,
+    "question": "What is the preferred channel for staff to reset passwords?",
+    "options": {
+      "A": "Through secure service desk process",
+      "B": "Asking a colleague",
+      "C": "Posting on chat groups",
+      "D": "Using vendor’s public email"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 56,
+    "question": "What should be done when an employee exits service?",
+    "options": {
+      "A": "Keep all access",
+      "B": "Increase privileges",
+      "C": "Revoke/disable accounts promptly",
+      "D": "Share credentials with replacement"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "question": "Which document outlines how to handle security incidents?",
+    "options": {
+      "A": "Office timetable",
+      "B": "Incident Response Plan (IRP)",
+      "C": "Vehicle log",
+      "D": "Event flyer"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 58,
+    "question": "What is social engineering?",
+    "options": {
+      "A": "Hardware upgrade",
+      "B": "Tricking people to reveal information",
+      "C": "Network encryption",
+      "D": "Software patching"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "question": "What protects mobile devices used for official work?",
+    "options": {
+      "A": "No PIN",
+      "B": "MDM with encryption and policies",
+      "C": "Public charging stations only",
+      "D": "Root/jailbreak by default"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "question": "What is the best practice for sharing meeting links?",
+    "options": {
+      "A": "Publicly on social media",
+      "B": "Only to authorized attendees",
+      "C": "Paste on office wall",
+      "D": "Send to any mailing list"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 61,
+    "question": "Which is a primary aim of ICT governance in MDAs?",
+    "options": {
+      "A": "Ad-hoc spending",
+      "B": "Alignment of ICT with strategic objectives",
+      "C": "Personal projects",
+      "D": "Bypassing procurement"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "question": "What should be done to third-party vendors before giving data access?",
+    "options": {
+      "A": "Blind trust",
+      "B": "No contract",
+      "C": "Due diligence and NDAs/DPAs",
+      "D": "Share admin passwords"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "question": "Which practice reduces shadow IT?",
+    "options": {
+      "A": "Blocking official channels",
+      "B": "Providing approved, easy-to-use tools",
+      "C": "Punishing users only",
+      "D": "Encouraging personal clouds"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "question": "What standard is often referenced for information security management systems?",
+    "options": {
+      "A": "ISO 14001",
+      "B": "ISO 27001",
+      "C": "ISO 9004",
+      "D": "ISO 31015"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 65,
+    "question": "What is a secure approach to database access?",
+    "options": {
+      "A": "Single shared admin account",
+      "B": "Hard-coded credentials",
+      "C": "Role-based access control (RBAC)",
+      "D": "Public read/write access"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "question": "Why is data inventory important?",
+    "options": {
+      "A": "To decorate dashboards",
+      "B": "To know what data exists, where it resides, and who owns it",
+      "C": "To increase emails",
+      "D": "To slow audits"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 67,
+    "question": "Which backup approach offers least downtime for critical systems?",
+    "options": {
+      "A": "No backup",
+      "B": "Single weekly tape",
+      "C": "Hot standby/replication",
+      "D": "Manual copies"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 68,
+    "question": "What does “segregation of duties” achieve?",
+    "options": {
+      "A": "One person controls everything",
+      "B": "Split critical tasks to reduce fraud/error",
+      "C": "Faster shortcuts",
+      "D": "Unlimited admin rights"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 69,
+    "question": "What is the purpose of a data retention schedule?",
+    "options": {
+      "A": "Keep data forever",
+      "B": "Delete everything immediately",
+      "C": "Keep data as long as needed, then dispose securely",
+      "D": "Share with vendors freely"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 70,
+    "question": "What helps ensure integrity of software releases?",
+    "options": {
+      "A": "Untracked changes",
+      "B": "Public USBs",
+      "C": "Code review and signed builds",
+      "D": "Ignoring version control"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "question": "Which channel should NOT be used for sharing classified documents?",
+    "options": {
+      "A": "Encrypted official email with approval",
+      "B": "Approved secure platforms",
+      "C": "Locked document management systems",
+      "D": "Personal messaging apps"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "question": "What is the key goal of capacity building in ICT for civil servants?",
+    "options": {
+      "A": "Entertainment",
+      "B": "Improve digital skills and service delivery",
+      "C": "Reduce accountability",
+      "D": "Encourage shadow IT"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "question": "Why should default passwords be changed?",
+    "options": {
+      "A": "They are widely known and unsafe",
+      "B": "They are stylish",
+      "C": "To confuse auditors",
+      "D": "For aesthetics"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 74,
+    "question": "Which is the safest way to decommission storage media?",
+    "options": {
+      "A": "Throw in bin",
+      "B": "Sell without wiping",
+      "C": "Secure wiping or destruction per policy",
+      "D": "Keep in open drawer"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 75,
+    "question": "Which approach ensures traceability in financial systems?",
+    "options": {
+      "A": "Shared logins",
+      "B": "Unique user IDs and logs",
+      "C": "No logs",
+      "D": "Anonymous access"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "question": "What should be in an ICT project risk register?",
+    "options": {
+      "A": "Jokes",
+      "B": "Identified risks, owners, mitigations",
+      "C": "Random numbers",
+      "D": "Only successes"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "question": "Which parameter is critical for password policy?",
+    "options": {
+      "A": "Birthday as password",
+      "B": "Minimum length and complexity requirements",
+      "C": "Password = “password”",
+      "D": "Never change passwords"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "question": "What is smishing?",
+    "options": {
+      "A": "Email phishing",
+      "B": "Voice phishing",
+      "C": "SMS-based phishing",
+      "D": "Hardware hacking"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 79,
+    "question": "Which access should system administrators use for routine email?",
+    "options": {
+      "A": "Domain admin accounts",
+      "B": "Shared “admin” login",
+      "C": "Normal user accounts; elevate only when needed",
+      "D": "Public internet café"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 80,
+    "question": "Which is the best way to protect web admin consoles?",
+    "options": {
+      "A": "Expose to internet",
+      "B": "Default passwords",
+      "C": "Restrict by VPN/IP and MFA",
+      "D": "Commit keys to GitHub"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 81,
+    "question": "What is the benefit of asset tagging?",
+    "options": {
+      "A": "Slows work",
+      "B": "Enables tracking and lifecycle management",
+      "C": "Removes controls",
+      "D": "Hides equipment"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 82,
+    "question": "Which step is essential before procuring an ICT solution?",
+    "options": {
+      "A": "Ignore user needs",
+      "B": "Market hype only",
+      "C": "Requirements analysis and stakeholder engagement",
+      "D": "Bypass competitive bidding"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "question": "What should a clean desk policy prevent?",
+    "options": {
+      "A": "Locked cabinets",
+      "B": "Leaving sensitive documents/equipment unattended",
+      "C": "Using shredders",
+      "D": "Logging off"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 84,
+    "question": "Which tool detects vulnerabilities in systems?",
+    "options": {
+      "A": "Coffee machine",
+      "B": "Vulnerability scanner",
+      "C": "Office fan",
+      "D": "Loudspeaker"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 85,
+    "question": "Which practice helps ensure only trusted software runs?",
+    "options": {
+      "A": "Allow all",
+      "B": "Application whitelisting and code signing",
+      "C": "Disable antivirus",
+      "D": "Public downloads"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "question": "A Data Protection Impact Assessment (DPIA) is most needed when:",
+    "options": {
+      "A": "No personal data is processed",
+      "B": "High-risk processing of personal data is planned",
+      "C": "System is offline",
+      "D": "Only test data used forever"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "question": "Which measure reduces risk of ransomware?",
+    "options": {
+      "A": "Disable backups",
+      "B": "Regular offline/immutable backups and patching",
+      "C": "Reuse passwords",
+      "D": "Open unknown attachments"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "question": "Which practice supports transparency and access to information?",
+    "options": {
+      "A": "Destroying records on request",
+      "B": "FOI Act compliance processes",
+      "C": "Disabling helpdesk",
+      "D": "Ignoring citizens"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 89,
+    "question": "What is the safe approach to shared printers with confidential documents?",
+    "options": {
+      "A": "Leave prints uncollected",
+      "B": "Use pull/secure print and collect immediately",
+      "C": "Print to public café",
+      "D": "Ask strangers to help"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "question": "Which tool centralizes identities across systems?",
+    "options": {
+      "A": "Sticky notes",
+      "B": "Identity and Access Management (IAM)",
+      "C": "Public folders",
+      "D": "Manual lists"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "question": "Which practice limits data exfiltration risk via email?",
+    "options": {
+      "A": "No DLP",
+      "B": "Data Loss Prevention (DLP) rules and encryption",
+      "C": "Public mailing lists",
+      "D": "Large public attachments"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "question": "What should be done after a major incident is resolved?",
+    "options": {
+      "A": "Forget about it",
+      "B": "Post-incident review/lessons learned",
+      "C": "Delete all logs",
+      "D": "Punish users only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "question": "What is a key benefit of network segmentation?",
+    "options": {
+      "A": "Easier lateral movement for attackers",
+      "B": "Limits blast radius of breaches",
+      "C": "Slower network",
+      "D": "More public IPs"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 94,
+    "question": "Which measure protects against shoulder surfing in open offices?",
+    "options": {
+      "A": "No screen locks",
+      "B": "Privacy filters and screen locks",
+      "C": "Public display",
+      "D": "Larger fonts only"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 95,
+    "question": "Which test validates security with controlled, ethical attacks?",
+    "options": {
+      "A": "Brainstorm",
+      "B": "Penetration testing",
+      "C": "Coffee break",
+      "D": "Town hall"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 96,
+    "question": "What should be done with administrative privileges?",
+    "options": {
+      "A": "Give everyone admin rights",
+      "B": "Use JIT/JEA and monitor",
+      "C": "Hard-code in apps",
+      "D": "Share openly"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 97,
+    "question": "Which practice ensures approved changes only go to production?",
+    "options": {
+      "A": "Direct edits in prod",
+      "B": "Change control with approvals and tracking",
+      "C": "Random deployments",
+      "D": "Vendor shortcuts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 98,
+    "question": "Which is a secure way to authenticate users on SSO?",
+    "options": {
+      "A": "Weak shared passwords",
+      "B": "SSO + MFA and conditional access",
+      "C": "Open Wi-Fi only",
+      "D": "Public tokens"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 99,
+    "question": "What is the main aim of ICT service catalog?",
+    "options": {
+      "A": "Hide services",
+      "B": "List available services and how to request them",
+      "C": "Record birthdays",
+      "D": "Sell adverts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 100,
+    "question": "Which step protects sensitive configuration files?",
+    "options": {
+      "A": "World-readable permissions",
+      "B": "Store in plain text",
+      "C": "Restrict access and encrypt secrets",
+      "D": "Share via chat"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 101,
+    "question": "Which solution best enforces secure printing of confidential memos?",
+    "options": {
+      "A": "Print-to-all",
+      "B": "Public café printers",
+      "C": "Email to reception",
+      "D": "Pull/secure print with PIN"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 102,
+    "question": "Which body gives IT Project Clearance for major MDA ICT procurements?",
+    "options": {
+      "A": "BPP",
+      "B": "National Assembly",
+      "C": "NCC",
+      "D": "NIMC"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 103,
+    "question": "The main purpose of IPPIS is to:",
+    "options": {
+      "A": "Manage pensions",
+      "B": "Manage personnel and payroll",
+      "C": "Track vehicles",
+      "D": "Archive emails"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "question": "What control most reduces lateral movement after a breach?",
+    "options": {
+      "A": "Single flat network",
+      "B": "Shared admin accounts",
+      "C": "VLAN/Zero Trust segmentation",
+      "D": "Disabling logs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 105,
+    "question": "The most appropriate baseline for an Information Security Management System in an MDA is:",
+    "options": {
+      "A": "ISO 9001",
+      "B": "ISO 27001",
+      "C": "ISO 14001",
+      "D": "COBIT only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 106,
+    "question": "What should an agency do before sharing personal data with a vendor?",
+    "options": {
+      "A": "Nothing",
+      "B": "Execute a Data Processing Agreement and assess risks",
+      "C": "Ask on WhatsApp",
+      "D": "Share via flash drive"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "question": "Which is the safest way to access a government portal remotely?",
+    "options": {
+      "A": "HTTP only",
+      "B": "Public Wi-Fi without controls",
+      "C": "VPN + MFA",
+      "D": "Simple password"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 108,
+    "question": "What test confirms the effectiveness of disaster recovery procedures?",
+    "options": {
+      "A": "Visual inspection",
+      "B": "Pen test only",
+      "C": "Tabletop/technical DR tests with restore verification",
+      "D": "Inventory count"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 109,
+    "question": "Which platform primarily provides backbone connectivity and shared services for MDAs?",
+    "options": {
+      "A": "Private café Wi-Fi",
+      "B": "Galaxy Backbone",
+      "C": "Personal hotspots",
+      "D": "Social media"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 110,
+    "question": "The best first response to a suspected ransomware infection is to:",
+    "options": {
+      "A": "Pay immediately",
+      "B": "Power off all servers",
+      "C": "Isolate affected systems and invoke IR plan",
+      "D": "Announce on social media"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 111,
+    "question": "A DPIA is most required when:",
+    "options": {
+      "A": "No users involved",
+      "B": "Low-risk internal memo",
+      "C": "Introducing high-risk personal data processing",
+      "D": "Purchasing furniture"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 112,
+    "question": "Which password practice is most acceptable?",
+    "options": {
+      "A": "“Password1”",
+      "B": "Unique, long passphrases with MFA",
+      "C": "Same password everywhere",
+      "D": "Shared team password"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 113,
+    "question": "What ensures reproducible software releases?",
+    "options": {
+      "A": "Manual copying",
+      "B": "Signed builds/CI pipeline with checks",
+      "C": "Editing in production",
+      "D": "No version control"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "question": "Who is primarily accountable for deciding who may access a dataset?",
+    "options": {
+      "A": "Driver",
+      "B": "Data Owner",
+      "C": "Security guard",
+      "D": "Visitor"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 115,
+    "question": "The FOI Act primarily promotes:",
+    "options": {
+      "A": "Secrecy of all records",
+      "B": "Uncontrolled leaks",
+      "C": "Transparency with defined exemptions and processes",
+      "D": "Record destruction"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 116,
+    "question": "Which measure reduces email spoofing?",
+    "options": {
+      "A": "Allow all senders",
+      "B": "POP3 only",
+      "C": "SPF, DKIM, DMARC",
+      "D": "Turn off TLS"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 117,
+    "question": "The most appropriate way to transfer restricted files between MDAs is:",
+    "options": {
+      "A": "USB drives",
+      "B": "Encrypted managed file transfer with access controls",
+      "C": "Personal email",
+      "D": "Messaging apps"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 118,
+    "question": "What should be documented in a service catalog?",
+    "options": {
+      "A": "Staff birthdays",
+      "B": "All ICT services, request paths, SLAs",
+      "C": "Only hardware",
+      "D": "Only vendor names"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 119,
+    "question": "Which is a red flag for phishing?",
+    "options": {
+      "A": "Proper domain and DKIM pass",
+      "B": "Urgent tone + odd links/attachments",
+      "C": "Proper spelling",
+      "D": "Expected invoice from known source"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 120,
+    "question": "What is the recommended principle for assigning user privileges?",
+    "options": {
+      "A": "Most privilege",
+      "B": "Least privilege",
+      "C": "Random privilege",
+      "D": "Rotating privilege"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 121,
+    "question": "To prevent data loss on stolen laptops, MDAs should enforce:",
+    "options": {
+      "A": "Guest login",
+      "B": "Full-disk encryption and remote wipe",
+      "C": "Screensavers only",
+      "D": "Large stickers"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 122,
+    "question": "Which law governs data protection comprehensively in Nigeria (superseding NDPR)?",
+    "options": {
+      "A": "Cybercrimes Act 2015 only",
+      "B": "Evidence Act 2011",
+      "C": "Nigeria Data Protection Act 2023",
+      "D": "Finance Act"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 123,
+    "question": "The purpose of a CAB (Change Advisory Board) is to:",
+    "options": {
+      "A": "Approve travel claims",
+      "B": "Approve and govern ICT changes",
+      "C": "Approve salaries",
+      "D": "Approve leave"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 124,
+    "question": "What is the safest approach to default passwords on new systems?",
+    "options": {
+      "A": "Keep them forever",
+      "B": "Share with team",
+      "C": "Change immediately and store securely",
+      "D": "Write on whiteboard"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 125,
+    "question": "Which control detects suspicious traffic patterns?",
+    "options": {
+      "A": "Loud music",
+      "B": "IDS/IPS and SIEM monitoring",
+      "C": "Open ports",
+      "D": "Public proxies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 126,
+    "question": "Which concept supports collecting only necessary personal data?",
+    "options": {
+      "A": "Data advertising",
+      "B": "Data minimization",
+      "C": "Data hoarding",
+      "D": "Data resale"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 127,
+    "question": "A good vendor contract for ICT services should include:",
+    "options": {
+      "A": "Jokes",
+      "B": "SLAs, security clauses, DPAs, penalties",
+      "C": "Only price",
+      "D": "Only duration"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "question": "What is the goal of incident management under ITIL?",
+    "options": {
+      "A": "Increase downtime",
+      "B": "Restore service quickly and minimize impact",
+      "C": "Hide tickets",
+      "D": "Delay communication"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 129,
+    "question": "Which is a secure method for API-to-API authentication?",
+    "options": {
+      "A": "Hard-coded passwords",
+      "B": "Shared secrets in chat",
+      "C": "Certificates/managed keys with rotation",
+      "D": "HTTP basic only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 130,
+    "question": "What is smishing?",
+    "options": {
+      "A": "Email phishing",
+      "B": "SMS-based phishing",
+      "C": "Voice phishing",
+      "D": "Hardware tampering"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 131,
+    "question": "To reduce shadow IT, ICT units should:",
+    "options": {
+      "A": "Ignore users",
+      "B": "Provide approved, easy tools",
+      "C": "Block everything useful",
+      "D": "Punish all requests"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 132,
+    "question": "What is the best practice for classified documents?",
+    "options": {
+      "A": "Share via personal cloud",
+      "B": "Encrypt and restrict to authorized channels",
+      "C": "Print and leave on desks",
+      "D": "Email widely"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 133,
+    "question": "What protects databases from SQL injection?",
+    "options": {
+      "A": "Free-text concatenation",
+      "B": "Parameterized queries and input validation",
+      "C": "Hard-coded admin user",
+      "D": "HTTP only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 134,
+    "question": "A robust backup strategy should include:",
+    "options": {
+      "A": "Single copy onsite",
+      "B": "3-2-1 rule with periodic restore tests",
+      "C": "No encryption",
+      "D": "Ad-hoc schedule"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 135,
+    "question": "Which metric reflects helpdesk effectiveness at first contact?",
+    "options": {
+      "A": "Handle time only",
+      "B": "First Contact Resolution (FCR)",
+      "C": "Number of chairs",
+      "D": "Ticket color"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 136,
+    "question": "For remote meetings, links should be shared:",
+    "options": {
+      "A": "Publicly",
+      "B": "To authorized attendees only",
+      "C": "On social media",
+      "D": "On office wall"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 137,
+    "question": "The main benefit of network segmentation is:",
+    "options": {
+      "A": "Faster lateral movement",
+      "B": "Limits breach impact",
+      "C": "More broadcast storms",
+      "D": "More complexity only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 138,
+    "question": "What is the preferred way to decommission drives with restricted data?",
+    "options": {
+      "A": "Sell as-is",
+      "B": "Secure wipe or physical destruction per policy",
+      "C": "Donate to café",
+      "D": "Keep in drawer"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 139,
+    "question": "Privileged access should be:",
+    "options": {
+      "A": "Shared",
+      "B": "Just-in-time and monitored",
+      "C": "Granted to everyone",
+      "D": "Hard-coded in apps"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 140,
+    "question": "What should be conducted after major incidents?",
+    "options": {
+      "A": "Ignore and move on",
+      "B": "Post-incident review and lessons learned",
+      "C": "Delete logs",
+      "D": "Punish users"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 141,
+    "question": "To protect admin consoles:",
+    "options": {
+      "A": "Expose to internet",
+      "B": "Default passwords",
+      "C": "Restrict by VPN/IP and MFA",
+      "D": "Post credentials"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 142,
+    "question": "Which records policy helps ensure integrity and authenticity?",
+    "options": {
+      "A": "Random naming",
+      "B": "Version control and audit trails",
+      "C": "Delete versions",
+      "D": "Use personal email"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 143,
+    "question": "Which body manages Nigeria’s national identity database and NIN?",
+    "options": {
+      "A": "NCC",
+      "B": "NIMC",
+      "C": "NITDA",
+      "D": "NOA"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 144,
+    "question": "What tool centralizes identities across MDAs?",
+    "options": {
+      "A": "Sticky notes",
+      "B": "IAM/Directory services",
+      "C": "Paper registers",
+      "D": "Open shares"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 145,
+    "question": "What is the role of a Business Continuity Plan?",
+    "options": {
+      "A": "Promote downtime",
+      "B": "Sustain critical services during disruptions",
+      "C": "Increase risk",
+      "D": "Replace DR entirely"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 146,
+    "question": "What should be verified before go-live of an e-service?",
+    "options": {
+      "A": "Skip UAT",
+      "B": "UAT pass and security testing results",
+      "C": "Social media hype",
+      "D": "Vendor promise"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 147,
+    "question": "Which email content is most suspicious?",
+    "options": {
+      "A": "Expected report from DG",
+      "B": "“Urgent: verify account” with odd link",
+      "C": "Internal memo with correct domain",
+      "D": "Meeting invite from known unit"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 148,
+    "question": "Data classification mainly helps to:",
+    "options": {
+      "A": "Decorate folders",
+      "B": "Apply controls based on sensitivity",
+      "C": "Calculate salaries",
+      "D": "Sort by color"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 149,
+    "question": "Which government platform supports integrated financial management?",
+    "options": {
+      "A": "WhatsApp",
+      "B": "GIFMIS",
+      "C": "Instagram",
+      "D": "Personal Excel"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 150,
+    "question": "What’s the most secure storage for system secrets?",
+    "options": {
+      "A": "Plain text files",
+      "B": "Hard-code in code",
+      "C": "Managed secrets vault",
+      "D": "Paste in wiki"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 151,
+    "question": "For email security awareness, staff should:",
+    "options": {
+      "A": "Click unknown links",
+      "B": "Report suspicious emails to ICT/security",
+      "C": "Reply with data",
+      "D": "Ignore policies"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 152,
+    "question": "Which is best for protecting mobile devices used for official work?",
+    "options": {
+      "A": "No PIN",
+      "B": "MDM with encryption and policies",
+      "C": "Public charging only",
+      "D": "Root/jailbreak"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 153,
+    "question": "What ensures traceability in financial applications?",
+    "options": {
+      "A": "Shared logins",
+      "B": "Unique user IDs and logs",
+      "C": "Anonymous access",
+      "D": "Public access"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 154,
+    "question": "Which approach strengthens cloud adoption for MDAs?",
+    "options": {
+      "A": "Free public cloud without assessment",
+      "B": "Approved cloud with risk assessment and controls",
+      "C": "Share keys openly",
+      "D": "Ignore data residency"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 155,
+    "question": "The most secure action when asked to install unknown software is:",
+    "options": {
+      "A": "Install quickly",
+      "B": "Disable antivirus",
+      "C": "Seek ICT approval and verify source",
+      "D": "Use admin for vendor"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 156,
+    "question": "What is the main goal of capacity building in ICT?",
+    "options": {
+      "A": "Entertainment",
+      "B": "Improve digital skills and service delivery",
+      "C": "Reduce accountability",
+      "D": "Encourage shadow IT"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 157,
+    "question": "“Segregation of duties” helps to:",
+    "options": {
+      "A": "Concentrate power",
+      "B": "Reduce fraud and error via split tasks",
+      "C": "Slow work only",
+      "D": "Remove controls"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 158,
+    "question": "Which practice reduces data exfiltration through email?",
+    "options": {
+      "A": "No policies",
+      "B": "DLP and encryption",
+      "C": "Public CC lists",
+      "D": "Use personal email"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 159,
+    "question": "A core element of privacy by design is:",
+    "options": {
+      "A": "Add privacy at the end",
+      "B": "Embed privacy from inception",
+      "C": "Publish all data",
+      "D": "Remove consent"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 160,
+    "question": "Which control helps against shoulder surfing?",
+    "options": {
+      "A": "No screen locks",
+      "B": "Privacy filters and automatic locking",
+      "C": "Public displays",
+      "D": "Large fonts only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 161,
+    "question": "The most reliable measure against ransomware impact is:",
+    "options": {
+      "A": "Disable backups",
+      "B": "Offline/immutable backups + patching",
+      "C": "Reuse passwords",
+      "D": "Open all attachments"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 162,
+    "question": "What’s the right step when an employee exits?",
+    "options": {
+      "A": "Keep accounts",
+      "B": "Increase access",
+      "C": "Promptly revoke/disable accounts",
+      "D": "Share with replacement"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 163,
+    "question": "Which procurement step is critical before buying ICT solutions?",
+    "options": {
+      "A": "Ignore needs",
+      "B": "Requirements analysis and stakeholder engagement",
+      "C": "Choose first vendor",
+      "D": "Bypass competition"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 164,
+    "question": "Which control reduces MITM on portals?",
+    "options": {
+      "A": "HTTP only",
+      "B": "HTTPS/TLS with strong ciphers",
+      "C": "Public Wi-Fi",
+      "D": "Plain passwords"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 165,
+    "question": "The best way to verify backups actually work is:",
+    "options": {
+      "A": "Count files",
+      "B": "Regular restore tests",
+      "C": "Vendor email",
+      "D": "Visual check"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 166,
+    "question": "The primary intent of ICT governance is:",
+    "options": {
+      "A": "Ad-hoc spending",
+      "B": "Align ICT with strategy and value delivery",
+      "C": "Bypass procurement",
+      "D": "Personal projects"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 167,
+    "question": "Who should approve user access?",
+    "options": {
+      "A": "Any colleague",
+      "B": "Data owner/line manager per policy",
+      "C": "Vendor only",
+      "D": "Driver"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 168,
+    "question": "Which is a secure way to authenticate SSO users?",
+    "options": {
+      "A": "Weak shared passwords",
+      "B": "SSO + MFA and conditional access",
+      "C": "Open Wi-Fi only",
+      "D": "Public tokens"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 169,
+    "question": "What’s the safest action with an unknown USB drive?",
+    "options": {
+      "A": "Plug into office PC",
+      "B": "Share around",
+      "C": "Submit to ICT/security",
+      "D": "Take home"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 170,
+    "question": "The most appropriate channel for official correspondence is:",
+    "options": {
+      "A": "Personal Gmail",
+      "B": "Official .gov.ng email",
+      "C": "Social DMs",
+      "D": "Family chat"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 171,
+    "question": "What is RPO?",
+    "options": {
+      "A": "Return to Office",
+      "B": "Recovery Point Objective",
+      "C": "Record Point Order",
+      "D": "Remote Process Output"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 172,
+    "question": "What is RTO?",
+    "options": {
+      "A": "Record Transfer Order",
+      "B": "Remote Task Operation",
+      "C": "Recovery Time Objective",
+      "D": "Return to Office"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 173,
+    "question": "Which policy governs personal device use for official work?",
+    "options": {
+      "A": "Dress code",
+      "B": "BYOD policy",
+      "C": "Parking policy",
+      "D": "Travel policy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 174,
+    "question": "Which measure protects secrets in code repositories?",
+    "options": {
+      "A": "Commit keys",
+      "B": "Public README",
+      "C": "Secret scanning and commit hooks",
+      "D": "Ignore reviews"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 175,
+    "question": "Which tool helps detect vulnerabilities periodically?",
+    "options": {
+      "A": "Coffee machine",
+      "B": "Vulnerability scanner",
+      "C": "Electric fan",
+      "D": "Radio"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 176,
+    "question": "A robust access review should be done:",
+    "options": {
+      "A": "Never",
+      "B": "Only at hiring",
+      "C": "Periodically and on role changes",
+      "D": "On birthdays"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 177,
+    "question": "Which is safest for video-conferencing recordings with restricted content?",
+    "options": {
+      "A": "Public links",
+      "B": "Storage in approved, access-controlled repository",
+      "C": "Personal drives",
+      "D": "Messaging apps"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 178,
+    "question": "For inter-agency data exchange, MDAs should adopt:",
+    "options": {
+      "A": "Random formats",
+      "B": "Interoperability standards/data schemas",
+      "C": "Verbal calls only",
+      "D": "PDFs only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 179,
+    "question": "The function of logs in security is to:",
+    "options": {
+      "A": "Entertain auditors",
+      "B": "Provide evidence and enable detection",
+      "C": "Increase storage cost",
+      "D": "Replace policies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 180,
+    "question": "Which control reduces risks from contractor laptops?",
+    "options": {
+      "A": "No checks",
+      "B": "Onboarding with security baselines/MDM and limited access",
+      "C": "Full admin to all",
+      "D": "Public Wi-Fi mandate"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 181,
+    "question": "The best way to manage software licenses is:",
+    "options": {
+      "A": "Ignore",
+      "B": "Track, audit, and comply",
+      "C": "Share one license",
+      "D": "Use pirated copies"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 182,
+    "question": "Which statement about e-procurement is accurate?",
+    "options": {
+      "A": "Replace due process",
+      "B": "Enhances transparency and auditability",
+      "C": "Removes competition",
+      "D": "Encourages shadow deals"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 183,
+    "question": "Which role is responsible for daily monitoring of security events?",
+    "options": {
+      "A": "Protocol officer",
+      "B": "SOC/ICT security team",
+      "C": "Driver",
+      "D": "Storekeeper"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 184,
+    "question": "What’s the safest channel for sharing high-sensitivity data?",
+    "options": {
+      "A": "Personal email",
+      "B": "Approved encrypted channel per policy",
+      "C": "Messaging apps",
+      "D": "Open portals"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 185,
+    "question": "Which control reduces credential stuffing?",
+    "options": {
+      "A": "Password reuse",
+      "B": "Rate limiting and MFA",
+      "C": "Public lists",
+      "D": "Shared accounts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 186,
+    "question": "Which practice improves endpoint security posture?",
+    "options": {
+      "A": "Disable updates",
+      "B": "Centralized patch management and EDR",
+      "C": "Free public antivirus",
+      "D": "Ignore alerts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 187,
+    "question": "How should configuration changes be tracked?",
+    "options": {
+      "A": "Verbal notes",
+      "B": "Change tickets with approvals and logs",
+      "C": "Whiteboard only",
+      "D": "Not needed"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 188,
+    "question": "Which measure supports legal admissibility of e-records?",
+    "options": {
+      "A": "Random edits",
+      "B": "Integrity controls and audit trails (Evidence Act)",
+      "C": "Public sharing",
+      "D": "Deleting metadata"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 189,
+    "question": "What is the secure method for disposing printed confidential drafts?",
+    "options": {
+      "A": "Bin",
+      "B": "Desk drawer",
+      "C": "Shredder/secure disposal",
+      "D": "Take home"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 190,
+    "question": "Which control hardens privileged admin workstations?",
+    "options": {
+      "A": "Normal internet access",
+      "B": "PAWs with isolation and strict policies",
+      "C": "Public browsing",
+      "D": "Shared PCs"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 191,
+    "question": "What is the purpose of an Information Asset Register?",
+    "options": {
+      "A": "Decor",
+      "B": "Catalogue assets, owners, classification, location",
+      "C": "Track birthdays",
+      "D": "Record vehicle fuel"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 192,
+    "question": "What does “need-to-know” imply?",
+    "options": {
+      "A": "Everyone knows everything",
+      "B": "Access limited to those who require it",
+      "C": "Public by default",
+      "D": "Share with friends"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 193,
+    "question": "Which standard helps with IT governance and value realization?",
+    "options": {
+      "A": "COBIT",
+      "B": "OSHA",
+      "C": "ISO 22000",
+      "D": "FMVSS"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 194,
+    "question": "Which practice secures web session management?",
+    "options": {
+      "A": "No timeouts",
+      "B": "Secure cookies, short lifetimes, re-auth for sensitive ops",
+      "C": "Plain tokens",
+      "D": "URL-based sessions"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 195,
+    "question": "What is the safest place to store long-term keys?",
+    "options": {
+      "A": "Text file on desktop",
+      "B": "Hardware Security Module/managed KMS",
+      "C": "Clipboard",
+      "D": "Email drafts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 196,
+    "question": "Which action most helps meet NDPA obligations?",
+    "options": {
+      "A": "Ignore consent",
+      "B": "Maintain RoPA, DPIAs, lawful bases, and safeguards",
+      "C": "Share datasets freely",
+      "D": "Keep no records"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 197,
+    "question": "What is the secure approach to public Wi-Fi?",
+    "options": {
+      "A": "No controls",
+      "B": "VPN + avoid sensitive tasks if possible",
+      "C": "Share passwords",
+      "D": "Disable MFA"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 198,
+    "question": "Which procurement artifact justifies the project and options?",
+    "options": {
+      "A": "Social post",
+      "B": "Business case with CBA and risks",
+      "C": "Staff party note",
+      "D": "Simple email"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 199,
+    "question": "Which testing reduces common web vulnerabilities before launch?",
+    "options": {
+      "A": "None",
+      "B": "Static/dynamic testing and code review",
+      "C": "Only unit tests",
+      "D": "Only UI tests"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 200,
+    "question": "Which policy mandates clear rules for technology use by staff?",
+    "options": {
+      "A": "Dress policy",
+      "B": "Acceptable Use Policy (AUP)",
+      "C": "Parking policy",
+      "D": "Transport policy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 201,
+    "question": "Which framework primarily guides IT governance and value realization in public sector ICT?",
+    "options": {
+      "A": "ISO 9001",
+      "B": "OSHA 18001",
+      "C": "COBIT",
+      "D": "PCI DSS"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 202,
+    "question": "What is the safest way to expose internal dashboards for remote officials?",
+    "options": {
+      "A": "Open to the internet",
+      "B": "Port-forward on staff routers",
+      "C": "Email screenshots",
+      "D": "Publish behind VPN with MFA"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 203,
+    "question": "Which agency provides national backbone services to many MDAs?",
+    "options": {
+      "A": "Galaxy Backbone",
+      "B": "NIMC",
+      "C": "NCC",
+      "D": "OAGF"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 204,
+    "question": "What is the main purpose of an SLA between an MDA and a service provider?",
+    "options": {
+      "A": "Replace procurement law",
+      "B": "Define service levels, metrics, and remedies",
+      "C": "Approve staff leave",
+      "D": "Provide gifts to users"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 205,
+    "question": "The evidence-friendly control that preserves authenticity of e-records is:",
+    "options": {
+      "A": "Ad-hoc editing",
+      "B": "Shared logins",
+      "C": "Audit trails and versioning",
+      "D": "Orally agreed procedures"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 206,
+    "question": "Which combination best protects official email domains from spoofing?",
+    "options": {
+      "A": "POP3 + IMAP",
+      "B": "HTTP only",
+      "C": "Strong passwords only",
+      "D": "SPF, DKIM, and DMARC"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 207,
+    "question": "Before a major ICT purchase, MDAs should obtain:",
+    "options": {
+      "A": "NITDA IT Project Clearance",
+      "B": "Verbal vendor assurance",
+      "C": "A social media poll",
+      "D": "An office party memo"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 208,
+    "question": "Which testing is best done just before go-live for a new e-service?",
+    "options": {
+      "A": "None",
+      "B": "User Acceptance Testing plus security testing",
+      "C": "Weather analysis",
+      "D": "Only visual design review"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 209,
+    "question": "A Data Protection Impact Assessment is MOST necessary when:",
+    "options": {
+      "A": "Buying office chairs",
+      "B": "Backing up logs",
+      "C": "High-risk processing of personal data is planned",
+      "D": "Publishing open data"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 210,
+    "question": "The most effective countermeasure against credential stuffing is:",
+    "options": {
+      "A": "Password reuse",
+      "B": "Public login pages without limits",
+      "C": "Disable logging",
+      "D": "MFA with rate limiting"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 211,
+    "question": "In the NDPA 2023, the entity that determines purposes of processing is the:",
+    "options": {
+      "A": "Data Controller",
+      "B": "Data Processor",
+      "C": "Data Subject",
+      "D": "DPO"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 212,
+    "question": "Which policy controls the use of personal devices for official duties?",
+    "options": {
+      "A": "Dress code",
+      "B": "BYOD policy with security baselines",
+      "C": "Gifts policy",
+      "D": "Fleet policy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 213,
+    "question": "The RPO in disaster recovery refers to:",
+    "options": {
+      "A": "Required Permit Order",
+      "B": "Recruitment Posting Office",
+      "C": "Recovery Point Objective",
+      "D": "Regional Posting Option"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 214,
+    "question": "The MOST secure practice for admin consoles is to:",
+    "options": {
+      "A": "Use default passwords",
+      "B": "Allow internet access from anywhere",
+      "C": "Reuse shared admin accounts",
+      "D": "Restrict by VPN/IP and enforce MFA"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 215,
+    "question": "For software integrity, the best release pipeline is:",
+    "options": {
+      "A": "Copy files by hand",
+      "B": "Email zips to servers",
+      "C": "Signed builds via CI/CD with change approvals",
+      "D": "Direct edits in production"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 216,
+    "question": "What should an Information Asset Register contain?",
+    "options": {
+      "A": "Staff birthdays",
+      "B": "Asset owner, classification, location, lifecycle",
+      "C": "Only device serials",
+      "D": "Colour of racks"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 217,
+    "question": "Which control reduces the impact of successful phishing?",
+    "options": {
+      "A": "Disable backups",
+      "B": "Shared passwords",
+      "C": "MFA and least privilege",
+      "D": "Turn off logging"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 218,
+    "question": "To ensure backups are usable, MDAs should:",
+    "options": {
+      "A": "Count tapes weekly",
+      "B": "Keep them unlocked",
+      "C": "Store only onsite",
+      "D": "Perform regular restore tests"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 219,
+    "question": "The primary goal of incident management (ITIL) is to:",
+    "options": {
+      "A": "Increase downtime",
+      "B": "Reduce ticket visibility",
+      "C": "Restore service quickly, minimizing impact",
+      "D": "Replace problem management"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 220,
+    "question": "What should happen to accounts when a staff exits service?",
+    "options": {
+      "A": "Increase privileges",
+      "B": "Prompt de-provisioning/disablement",
+      "C": "Keep for 6 months by default",
+      "D": "Share with replacement"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 221,
+    "question": "What is the preferred way to mitigate lateral movement after a breach?",
+    "options": {
+      "A": "Single flat network",
+      "B": "Broad local admin rights",
+      "C": "Network segmentation/Zero Trust",
+      "D": "Turning off IDS"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 222,
+    "question": "Which is the MOST appropriate secure method for inter-agency file transfer?",
+    "options": {
+      "A": "Personal email",
+      "B": "USB sticks",
+      "C": "Messaging apps",
+      "D": "Encrypted managed file transfer with access control"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 223,
+    "question": "Which law provides the primary legal framework for data protection in Nigeria?",
+    "options": {
+      "A": "Companies and Allied Matters Act",
+      "B": "FOI Act 2011",
+      "C": "Nigeria Data Protection Act 2023",
+      "D": "Cybercrimes Act only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 224,
+    "question": "Evidence Act 2011 supports admissibility of:",
+    "options": {
+      "A": "Paper only",
+      "B": "Handwritten notes only",
+      "C": "Verbal assurances",
+      "D": "Electronic records/signatures with integrity"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 225,
+    "question": "The MOST secure place to store long-term cryptographic keys is:",
+    "options": {
+      "A": "Spreadsheet on desktop",
+      "B": "Email drafts",
+      "C": "Hardware Security Module/managed KMS",
+      "D": "Public wiki"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 226,
+    "question": "What BEST reduces data exfiltration via email?",
+    "options": {
+      "A": "Public CC lists",
+      "B": "No policies",
+      "C": "Bigger attachments",
+      "D": "DLP rules with encryption where required"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 227,
+    "question": "Which platform integrates government financial management?",
+    "options": {
+      "A": "GIFMIS",
+      "B": "Instagram",
+      "C": "Personal Excel sheets",
+      "D": "Shared flash drives"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 228,
+    "question": "The primary objective of capacity building in ICT is to:",
+    "options": {
+      "A": "Entertain staff",
+      "B": "Improve digital skills and service delivery outcomes",
+      "C": "Replace governance",
+      "D": "Promote shadow IT"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 229,
+    "question": "Which approach ensures only trusted software runs on endpoints?",
+    "options": {
+      "A": "Disable antivirus",
+      "B": "Allow all installers",
+      "C": "Application allow-listing and code signing",
+      "D": "Public downloads"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 230,
+    "question": "Which is the best first action upon detecting ransomware on one PC?",
+    "options": {
+      "A": "Pay immediately",
+      "B": "Post on social media",
+      "C": "Power-cycle servers",
+      "D": "Isolate the host and invoke the IR plan"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 231,
+    "question": "The MOST appropriate baseline for an ISMS in MDAs is:",
+    "options": {
+      "A": "ISO 27001",
+      "B": "ISO 14001",
+      "C": "ISO 22000",
+      "D": "ISO 50001"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 232,
+    "question": "The goal of post-incident reviews is to:",
+    "options": {
+      "A": "Assign blame",
+      "B": "Hide evidence",
+      "C": "Celebrate outages",
+      "D": "Identify lessons and improvements"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 233,
+    "question": "The principle of “data minimization” means collecting:",
+    "options": {
+      "A": "All data you can get",
+      "B": "Only what is necessary",
+      "C": "Everything for future use",
+      "D": "Nothing at all"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 234,
+    "question": "What BEST protects session management in web apps?",
+    "options": {
+      "A": "Long sessions, no re-auth",
+      "B": "Storing sessions in URLs",
+      "C": "Plain cookies",
+      "D": "Secure cookies, timeouts, re-auth for sensitive actions"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 235,
+    "question": "To limit insider fraud, MDAs should apply:",
+    "options": {
+      "A": "Single person control",
+      "B": "Unlimited admin rights",
+      "C": "Segregation of duties",
+      "D": "Ad-hoc approvals"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 236,
+    "question": "A secure approach to API authentication between MDAs is:",
+    "options": {
+      "A": "Hard-coded passwords",
+      "B": "Tokens in public repos",
+      "C": "mTLS/OAuth2 with key rotation",
+      "D": "HTTP basic over plain HTTP"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 237,
+    "question": "Which backup posture minimizes downtime for critical services?",
+    "options": {
+      "A": "Weekly tape only",
+      "B": "Cloud email only",
+      "C": "Hot standby/replication",
+      "D": "No backups"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 238,
+    "question": "Which measure strengthens cloud adoption for MDAs?",
+    "options": {
+      "A": "Free public cloud without assessment",
+      "B": "Ignore data residency",
+      "C": "Share keys in chat",
+      "D": "Approved cloud with risk assessment and controls"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 239,
+    "question": "The role primarily accountable for access decisions to a dataset is the:",
+    "options": {
+      "A": "Data Owner",
+      "B": "Driver",
+      "C": "Visitor",
+      "D": "Cleaner"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 240,
+    "question": "Which platform manages personnel and payroll for FG employees?",
+    "options": {
+      "A": "NIN",
+      "B": "TSA",
+      "C": "BVN",
+      "D": "IPPIS"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 241,
+    "question": "Which email is appropriate for official correspondence?",
+    "options": {
+      "A": "yahoo.com",
+      "B": "personal gmail",
+      "C": ".gov.ng official mail",
+      "D": "family group chat"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 242,
+    "question": "Which tool helps detect suspicious activity across logs?",
+    "options": {
+      "A": "Loud music",
+      "B": "Spreadsheets",
+      "C": "Manual eyeballing alone",
+      "D": "SIEM with alerting"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 243,
+    "question": "Which test safely simulates real-world attacks to find gaps?",
+    "options": {
+      "A": "Brainstorming",
+      "B": "Fire drill only",
+      "C": "Desk check",
+      "D": "Penetration testing"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 244,
+    "question": "What should be done with default passwords on new systems?",
+    "options": {
+      "A": "Keep them",
+      "B": "Share with team",
+      "C": "Post on a wall",
+      "D": "Change immediately and store securely"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 245,
+    "question": "Which control reduces shoulder-surfing in open offices?",
+    "options": {
+      "A": "No screen locks",
+      "B": "Large fonts",
+      "C": "Privacy filters and auto-lock",
+      "D": "Public TVs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 246,
+    "question": "The MOST secure channel for restricted recordings of meetings is:",
+    "options": {
+      "A": "Public links",
+      "B": "Personal drives",
+      "C": "Messaging apps",
+      "D": "Approved repository with access control"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 247,
+    "question": "Which standard primarily addresses information security management?",
+    "options": {
+      "A": "ISO 27001",
+      "B": "ISO 9004",
+      "C": "ISO 31015",
+      "D": "ISO 22301"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 248,
+    "question": "The key objective of a service catalog is to:",
+    "options": {
+      "A": "Hide services",
+      "B": "List services and request paths with SLAs",
+      "C": "Show staff birthdays",
+      "D": "Display adverts"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 249,
+    "question": "What is the safest action after finding an unknown USB in the office?",
+    "options": {
+      "A": "Plug into a PC",
+      "B": "Take home",
+      "C": "Submit to ICT/security",
+      "D": "Share around"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 250,
+    "question": "Which practice hardens privileged admin workstations (PAWs)?",
+    "options": {
+      "A": "Normal internet use",
+      "B": "Shared PCs for everyone",
+      "C": "Public browsing",
+      "D": "Isolated PAWs with strict policies"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 251,
+    "question": "The primary purpose of a Change Advisory Board is to:",
+    "options": {
+      "A": "Approve leave",
+      "B": "Plan office trips",
+      "C": "Approve and govern ICT changes",
+      "D": "Run payroll"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 252,
+    "question": "Which is the MOST secure method for database access control?",
+    "options": {
+      "A": "Public read/write",
+      "B": "Shared admin accounts",
+      "C": "Role-based access control",
+      "D": "Hard-coded credentials"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 253,
+    "question": "Which control set reduces network MITM risk?",
+    "options": {
+      "A": "HTTP only",
+      "B": "Public Wi-Fi",
+      "C": "HTTPS/TLS with strong ciphers",
+      "D": "Weak ciphers"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 254,
+    "question": "Which statement about open data is MOST accurate?",
+    "options": {
+      "A": "Publish everything including restricted data",
+      "B": "No metadata needed",
+      "C": "FOI/open data require vetting and de-identification where needed",
+      "D": "Open data equals raw dumps"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 255,
+    "question": "Which is the BEST practice for secrets in code repositories?",
+    "options": {
+      "A": "Commit keys to Git",
+      "B": "Email .env files",
+      "C": "Screenshots of passwords",
+      "D": "Secret scanning and pre-commit hooks"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 256,
+    "question": "For remote access to sensitive dashboards, MDAs should:",
+    "options": {
+      "A": "Share generic accounts",
+      "B": "Use VPN plus conditional access",
+      "C": "Allow public links",
+      "D": "Disable MFA"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 257,
+    "question": "The metric that reflects resolution at first contact is:",
+    "options": {
+      "A": "Handle time only",
+      "B": "Ticket colour",
+      "C": "First Contact Resolution (FCR)",
+      "D": "Ticket count"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 258,
+    "question": "Which is a core element of privacy by design?",
+    "options": {
+      "A": "Add privacy last",
+      "B": "Ignore user consent",
+      "C": "Publish all data by default",
+      "D": "Embed privacy controls from inception"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 259,
+    "question": "Which device protects servers from power fluctuations?",
+    "options": {
+      "A": "Ceiling fan",
+      "B": "Extension cord",
+      "C": "UPS",
+      "D": "Desk lamp"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 260,
+    "question": "The secure approach to disposing printed drafts with sensitive data is:",
+    "options": {
+      "A": "Trash bin",
+      "B": "Desk drawer",
+      "C": "Take home",
+      "D": "Shredder/secure disposal"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 261,
+    "question": "Which directory service capability centralizes identities?",
+    "options": {
+      "A": "Sticky notes",
+      "B": "Local text files",
+      "C": "IAM/Directory with SSO",
+      "D": "Public spreadsheets"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 262,
+    "question": "Which practice lessens risks from contractor laptops?",
+    "options": {
+      "A": "Grant full admin",
+      "B": "Public Wi-Fi mandate",
+      "C": "No checks",
+      "D": "Onboard with baselines/MDM and limited access"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 263,
+    "question": "The main goal of ICT governance is:",
+    "options": {
+      "A": "Ad-hoc spending",
+      "B": "Personal projects",
+      "C": "Alignment with strategy and value delivery",
+      "D": "Bypass procurement"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 264,
+    "question": "Which measure hardens web session security?",
+    "options": {
+      "A": "No timeouts",
+      "B": "URL session IDs",
+      "C": "Plain cookies",
+      "D": "Short lifetimes, secure cookies, re-auth for high-risk actions"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 265,
+    "question": "Which control helps ensure auditability in financial systems?",
+    "options": {
+      "A": "Anonymous access",
+      "B": "No logs",
+      "C": "Shared logins",
+      "D": "Unique user IDs with logs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 266,
+    "question": "The most appropriate practice for vulnerability management is:",
+    "options": {
+      "A": "Ignore low severities",
+      "B": "Scan once a year",
+      "C": "Track in spreadsheets only",
+      "D": "Periodic scanning with risk-based remediation"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 267,
+    "question": "Which method is MOST secure for SSO authentication?",
+    "options": {
+      "A": "Shared weak passwords",
+      "B": "Printed tokens",
+      "C": "SSO with MFA and conditional access",
+      "D": "Open Wi-Fi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 268,
+    "question": "What should MDAs perform after major incidents?",
+    "options": {
+      "A": "Forget about it",
+      "B": "Delete logs",
+      "C": "Punish users",
+      "D": "Lessons-learned/post-incident review"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 269,
+    "question": "What is the BEST way to ensure software licensing compliance?",
+    "options": {
+      "A": "Pirate copies",
+      "B": "Share one license",
+      "C": "Ignore audits",
+      "D": "Track, audit, and comply"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 270,
+    "question": "Which practice reduces shadow IT growth?",
+    "options": {
+      "A": "Punish all requests",
+      "B": "Provide approved, easy-to-use tools",
+      "C": "Block everything useful",
+      "D": "Ignore user needs"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 271,
+    "question": "Which network design reduces breach blast radius?",
+    "options": {
+      "A": "Flat network",
+      "B": "One VLAN for all",
+      "C": "Unlimited trust",
+      "D": "Segmentation/Zero Trust"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 272,
+    "question": "Which email content is MOST suspicious?",
+    "options": {
+      "A": "Expected internal memo",
+      "B": "Meeting invite from known unit",
+      "C": "“Urgent: verify account” with odd link",
+      "D": "Report from DG with proper domain"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 273,
+    "question": "Which role monitors security events daily?",
+    "options": {
+      "A": "Protocol officer",
+      "B": "SOC/ICT security team",
+      "C": "Storekeeper",
+      "D": "Driver"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 274,
+    "question": "The BEST practice for sharing restricted datasets is:",
+    "options": {
+      "A": "Open portals",
+      "B": "Personal email",
+      "C": "Messaging apps",
+      "D": "Approved encrypted channels per policy"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 275,
+    "question": "Which activity validates controls using controlled, ethical attacks?",
+    "options": {
+      "A": "Coffee break",
+      "B": "Brainstorm only",
+      "C": "Ignore testing",
+      "D": "Penetration testing"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 276,
+    "question": "The purpose of a Business Continuity Plan is to:",
+    "options": {
+      "A": "Promote downtime",
+      "B": "Replace DR entirely",
+      "C": "Increase risk",
+      "D": "Sustain critical services during disruptions"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 277,
+    "question": "Which item belongs in a project risk register?",
+    "options": {
+      "A": "Jokes",
+      "B": "Identified risks, owners, mitigations",
+      "C": "Team birthdays",
+      "D": "Building colours"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 278,
+    "question": "Which technique protects databases from SQL injection?",
+    "options": {
+      "A": "Concatenated strings",
+      "B": "Public admin user",
+      "C": "Input validation & parameterized queries",
+      "D": "HTTP basic"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 279,
+    "question": "The MOST secure way to store system secrets is:",
+    "options": {
+      "A": "Plain text file",
+      "B": "Shared chat",
+      "C": "Managed secrets vault",
+      "D": "Screenshot"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 280,
+    "question": "The RIGHT first response to a suspected phishing email is to:",
+    "options": {
+      "A": "Click the link to check",
+      "B": "Forward to all",
+      "C": "Reply with details",
+      "D": "Report to ICT/security desk"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 281,
+    "question": "Which option BEST defines an OLA (Operational Level Agreement)?",
+    "options": {
+      "A": "Contract with external vendor",
+      "B": "Rules for dress code",
+      "C": "Internal support commitment between teams",
+      "D": "Citizen charter"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 282,
+    "question": "Which is MOST appropriate for lawful processing under NDPA?",
+    "options": {
+      "A": "Process anything freely",
+      "B": "Ignore consent and notices",
+      "C": "Use unlawful bases",
+      "D": "Identify lawful bases (e.g., consent, public interest) and document"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 283,
+    "question": "Which standard focuses on organizational risk management?",
+    "options": {
+      "A": "ISO 22301",
+      "B": "ISO 27001",
+      "C": "ISO 31000",
+      "D": "ISO 20000"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 284,
+    "question": "What BEST ensures change traceability?",
+    "options": {
+      "A": "Direct edits in prod",
+      "B": "Verbal approvals",
+      "C": "Untracked scripts",
+      "D": "Change control with approvals and logs"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 285,
+    "question": "Which fire suppression is common in data centres?",
+    "options": {
+      "A": "Water buckets",
+      "B": "Sand",
+      "C": "Clean agent systems (e.g., FM-200/Novec)",
+      "D": "CO₂ in open office"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 286,
+    "question": "Which is the MOST secure approach to contractor identity onboarding?",
+    "options": {
+      "A": "Shared accounts",
+      "B": "Email-only validation",
+      "C": "No time limits",
+      "D": "Identity proofing and time-bound, least-privilege access"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 287,
+    "question": "Which protocol secures web traffic for portals?",
+    "options": {
+      "A": "FTP",
+      "B": "Telnet",
+      "C": "HTTPS/TLS",
+      "D": "POP3"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 288,
+    "question": "The MOST appropriate method to verify backups routinely is:",
+    "options": {
+      "A": "Counting files",
+      "B": "Visual check of labels",
+      "C": "Asking vendor verbally",
+      "D": "Scheduled restore drills"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 289,
+    "question": "Which model describes cloud service types?",
+    "options": {
+      "A": "SDLC",
+      "B": "PRINCE2",
+      "C": "IaaS/PaaS/SaaS",
+      "D": "PMBOK"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 290,
+    "question": "For sharing high-sensitivity data, MDAs should use:",
+    "options": {
+      "A": "Personal Gmail",
+      "B": "Public folders",
+      "C": "Open links",
+      "D": "Approved encrypted channels"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 291,
+    "question": "What is the purpose of a service desk?",
+    "options": {
+      "A": "Sell adverts",
+      "B": "Single point of contact for users",
+      "C": "Host parties",
+      "D": "Approve leave"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 292,
+    "question": "Which practice secures privileged access?",
+    "options": {
+      "A": "Everyone gets domain admin",
+      "B": "Hard-code admin credentials",
+      "C": "One shared admin",
+      "D": "Just-in-time access with monitoring"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 293,
+    "question": "Which Nigerian platform supports TSA receipts and collections?",
+    "options": {
+      "A": "Remita",
+      "B": "Facebook",
+      "C": "Instagram",
+      "D": "WhatsApp"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 294,
+    "question": "Which policy clarifies expected staff behaviour on ICT resources?",
+    "options": {
+      "A": "Travel policy",
+      "B": "Acceptable Use Policy",
+      "C": "Furniture policy",
+      "D": "Meeting policy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 295,
+    "question": "Which method improves endpoint security posture?",
+    "options": {
+      "A": "Disable updates",
+      "B": "Ignore alerts",
+      "C": "Patch management and EDR",
+      "D": "Use public antivirus only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 296,
+    "question": "What should be verified before production deployment?",
+    "options": {
+      "A": "Only UI colour",
+      "B": "Vendor promise",
+      "C": "UAT sign-off and security test results",
+      "D": "Social media buzz"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 297,
+    "question": "Which is MOST appropriate for secure remote access by officials?",
+    "options": {
+      "A": "RDP open to internet",
+      "B": "Password-only login",
+      "C": "VPN with conditional access/MFA",
+      "D": "Public café PC"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 298,
+    "question": "What should MDAs maintain for accountability under NDPA?",
+    "options": {
+      "A": "Nothing written",
+      "B": "Random notes",
+      "C": "Records of Processing Activities (RoPA)",
+      "D": "Private chats"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 299,
+    "question": "Which approach lowers the risk of data loss on stolen laptops?",
+    "options": {
+      "A": "Stickers",
+      "B": "Screen savers",
+      "C": "Full-disk encryption with remote wipe",
+      "D": "Guest login"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 300,
+    "question": "Which configuration helps protect privileged admin sessions?",
+    "options": {
+      "A": "Use personal mail for admin",
+      "B": "Surf the web on PAWs",
+      "C": "Disable logs",
+      "D": "Dedicated PAWs isolated from risky browsing"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 301,
+    "question": "Which framework specifically guides data exchange and interoperability among Nigerian MDAs?",
+    "options": {
+      "A": "ISO 9001",
+      "B": "PCI DSS",
+      "C": "Nigeria e-Government Interoperability Framework (Ne-GIF)",
+      "D": "OSHA 18001"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 302,
+    "question": "Which artifact prescribes how long government e-records are kept and how they’re disposed?",
+    "options": {
+      "A": "Staff Handbook",
+      "B": "Asset Register",
+      "C": "Press Release",
+      "D": "Records Retention & Disposal Schedule"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 303,
+    "question": "Which practice ensures only authorized, tested changes reach production systems?",
+    "options": {
+      "A": "Formal change control with approvals and tracking",
+      "B": "Ad-hoc edits in production",
+      "C": "Direct vendor access anytime",
+      "D": "Chat approval only"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 304,
+    "question": "What’s the proper way for systems to store user passwords?",
+    "options": {
+      "A": "In spreadsheets",
+      "B": "Strong hashing with unique salt",
+      "C": "Reversible encryption",
+      "D": "Plain text in DB"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 305,
+    "question": "Which network design MOST limits the blast radius after a breach?",
+    "options": {
+      "A": "Single flat VLAN for all",
+      "B": "Any-to-any trust by default",
+      "C": "Segmentation/Zero Trust",
+      "D": "Expose management ports"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 306,
+    "question": "Which law is Nigeria’s primary comprehensive data protection statute?",
+    "options": {
+      "A": "FOI Act 2011",
+      "B": "Companies and Allied Matters Act",
+      "C": "Cybercrimes Act only",
+      "D": "Nigeria Data Protection Act 2023"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 307,
+    "question": "Which is BEST for verifying disaster recovery readiness?",
+    "options": {
+      "A": "Visual inspection of backup media",
+      "B": "Counting backup files",
+      "C": "Scheduled restore drills and failover tests",
+      "D": "Vendor verbal assurance"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 308,
+    "question": "Which government entity provides national backbone and shared services to many MDAs?",
+    "options": {
+      "A": "NIMC",
+      "B": "BPP",
+      "C": "OAGF",
+      "D": "Galaxy Backbone"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 309,
+    "question": "What principle limits a user’s access to just what their role requires?",
+    "options": {
+      "A": "Need-to-share",
+      "B": "Maximum privilege",
+      "C": "Least privilege",
+      "D": "Unlimited admin"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 310,
+    "question": "Which combination most reduces email spoofing against a .gov.ng domain?",
+    "options": {
+      "A": "POP3 only",
+      "B": "HTTP only",
+      "C": "Long passwords alone",
+      "D": "SPF, DKIM, and DMARC"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 311,
+    "question": "Which control strengthens security of privileged admin sessions?",
+    "options": {
+      "A": "Browsing with admin accounts",
+      "B": "Shared admin logins",
+      "C": "Dedicated PAWs with isolation and monitoring",
+      "D": "Credential sharing via chat"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 312,
+    "question": "Before MDAs fund a major ICT project, what approval is commonly required?",
+    "options": {
+      "A": "Social media poll",
+      "B": "Manager’s verbal nod",
+      "C": "Unit’s WhatsApp vote",
+      "D": "NITDA IT Project Clearance"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 313,
+    "question": "Which is MOST appropriate for secure inter-agency file transfer of restricted data?",
+    "options": {
+      "A": "Public links",
+      "B": "Personal email",
+      "C": "Messaging apps",
+      "D": "Encrypted managed file transfer with access controls"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 314,
+    "question": "Under ICT governance, what is the main purpose of SLAs?",
+    "options": {
+      "A": "Approve leave",
+      "B": "Replace procurement law",
+      "C": "Incentivize gossip",
+      "D": "Define service levels, metrics, and remedies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 315,
+    "question": "What should MDAs implement to prevent data exfiltration via email?",
+    "options": {
+      "A": "Giant attachments",
+      "B": "Disable TLS",
+      "C": "Open forwarding",
+      "D": "DLP policies and encryption where needed"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 316,
+    "question": "What should happen to an exiting employee’s system access?",
+    "options": {
+      "A": "Privileges increased for handover",
+      "B": "Left as is for convenience",
+      "C": "Shared with replacement",
+      "D": "Promptly revoked/disabled per offboarding process"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 317,
+    "question": "Which security testing simulates real-world attacks to uncover gaps?",
+    "options": {
+      "A": "UI review only",
+      "B": "Brainstorming",
+      "C": "Penetration testing",
+      "D": "Counting devices"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 318,
+    "question": "Which standard is primarily for information security management systems?",
+    "options": {
+      "A": "ISO 14001",
+      "B": "ISO 9004",
+      "C": "ISO 27001",
+      "D": "ISO 22000"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 319,
+    "question": "Which platform integrates FG financial management processes for MDAs?",
+    "options": {
+      "A": "Instagram",
+      "B": "WhatsApp",
+      "C": "GIFMIS",
+      "D": "Personal spreadsheets"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 320,
+    "question": "What is the main aim of incident management under ITIL in MDAs?",
+    "options": {
+      "A": "Increase downtime",
+      "B": "Hide incidents",
+      "C": "Restore service quickly and minimize impact",
+      "D": "Replace problem management"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 321,
+    "question": "Which approach best protects web admin consoles of government portals?",
+    "options": {
+      "A": "Expose to the internet",
+      "B": "Default passwords",
+      "C": "Hard-coded creds in code",
+      "D": "Restrict by VPN/IP and enforce MFA"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 322,
+    "question": "Which policy governs staff expectations on technology use?",
+    "options": {
+      "A": "Dress policy",
+      "B": "Transport policy",
+      "C": "Parking policy",
+      "D": "Acceptable Use Policy (AUP)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 323,
+    "question": "Which is the safest action on discovering an unknown USB device in the office?",
+    "options": {
+      "A": "Plug in and check",
+      "B": "Share around",
+      "C": "Take home",
+      "D": "Submit to ICT/security for safe handling"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 324,
+    "question": "To ensure lawful processing under the NDPA, MDAs should:",
+    "options": {
+      "A": "Ignore consent/notices",
+      "B": "Rely on verbal approvals",
+      "C": "Process anything freely",
+      "D": "Identify lawful bases, keep RoPA, conduct DPIAs as needed"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 325,
+    "question": "What is the purpose of a Business Continuity Plan (BCP)?",
+    "options": {
+      "A": "Encourage downtime",
+      "B": "Replace disaster recovery entirely",
+      "C": "Reduce accountability",
+      "D": "Sustain critical services during disruptions"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 326,
+    "question": "Which practice helps ensure integrity and authenticity of electronic records?",
+    "options": {
+      "A": "Deleting logs",
+      "B": "Shared accounts",
+      "C": "Audit trails and version control",
+      "D": "Random file naming"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 327,
+    "question": "Which control protects databases from SQL injection?",
+    "options": {
+      "A": "Concatenated SQL strings",
+      "B": "Default admin user",
+      "C": "Parameterized queries and input validation",
+      "D": "HTTP basic over plain HTTP"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 328,
+    "question": "Which solution centralizes identities and enables SSO across systems?",
+    "options": {
+      "A": "Sticky notes",
+      "B": "Public spreadsheets",
+      "C": "Identity & Access Management (IAM)/Directory",
+      "D": "Local text files"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 329,
+    "question": "Which metric best indicates service desk effectiveness at first contact?",
+    "options": {
+      "A": "Ticket color",
+      "B": "Number of chairs",
+      "C": "Average handle time only",
+      "D": "First Contact Resolution (FCR)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 330,
+    "question": "Which measure reduces risk from contractor-owned laptops on MDA networks?",
+    "options": {
+      "A": "Give full admin and internet",
+      "B": "No checks",
+      "C": "Bring any device unvetted",
+      "D": "Onboard with security baselines/MDM; limit access"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 331,
+    "question": "What’s the safest way to handle default passwords on new devices?",
+    "options": {
+      "A": "Keep them",
+      "B": "Write on whiteboard",
+      "C": "Share with the team",
+      "D": "Change immediately and store in a secrets vault"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 332,
+    "question": "Which combination is BEST for securing web sessions?",
+    "options": {
+      "A": "Long sessions/no timeout",
+      "B": "URL-based session IDs",
+      "C": "Plain cookies",
+      "D": "Short lifetimes, secure cookies, re-auth for sensitive actions"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 333,
+    "question": "The Evidence Act 2011 supports admissibility of:",
+    "options": {
+      "A": "Only paper records",
+      "B": "Handwritten notes only",
+      "C": "Verbal assurances",
+      "D": "Electronic records/signatures where integrity is preserved"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 334,
+    "question": "What’s the FIRST response to a suspected ransomware incident on one workstation?",
+    "options": {
+      "A": "Post on social media",
+      "B": "Pay immediately",
+      "C": "Reboot all servers",
+      "D": "Isolate the host and invoke the IR plan"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 335,
+    "question": "Which policy covers staff using personal devices for official work?",
+    "options": {
+      "A": "Fleet policy",
+      "B": "Gifts policy",
+      "C": "Dress code",
+      "D": "BYOD policy with security baselines"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 336,
+    "question": "Which standard/framework focuses on enterprise IT governance and value realization?",
+    "options": {
+      "A": "OSHA 18001",
+      "B": "ISO 22000",
+      "C": "COBIT",
+      "D": "PCI DSS"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 337,
+    "question": "Which control helps reduce credential-stuffing attacks on citizen portals?",
+    "options": {
+      "A": "Password reuse across sites",
+      "B": "Unlimited login attempts",
+      "C": "Shared accounts",
+      "D": "MFA plus rate limiting"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 338,
+    "question": "Which is a key privacy-by-design principle?",
+    "options": {
+      "A": "Add privacy at the end",
+      "B": "Ignore data subjects",
+      "C": "Publish all data by default",
+      "D": "Embed privacy controls from inception"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 339,
+    "question": "Which backup posture minimizes downtime for mission-critical systems?",
+    "options": {
+      "A": "Weekly tape only",
+      "B": "No backups",
+      "C": "Cloud email only",
+      "D": "Hot standby/replication with restore testing"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 340,
+    "question": "What’s the secure method to dispose printed drafts with sensitive information?",
+    "options": {
+      "A": "Trash bin",
+      "B": "Desk drawer",
+      "C": "Take home",
+      "D": "Shredder/secure disposal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 341,
+    "question": "Which is MOST appropriate for high-sensitivity meeting recordings?",
+    "options": {
+      "A": "Public links",
+      "B": "Messaging apps",
+      "C": "Personal drives",
+      "D": "Approved repository with access control"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 342,
+    "question": "What is the correct definition of RTO?",
+    "options": {
+      "A": "Remote Task Operation",
+      "B": "Return to Office",
+      "C": "Record Transfer Order",
+      "D": "Recovery Time Objective"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 343,
+    "question": "Which Nigerian platform supports TSA receipts/collections for FG?",
+    "options": {
+      "A": "Facebook",
+      "B": "Remita",
+      "C": "Instagram",
+      "D": "X (Twitter)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 344,
+    "question": "What should MDAs do to strengthen cloud adoption?",
+    "options": {
+      "A": "Share keys in public repos",
+      "B": "Ignore data residency",
+      "C": "Use free public clouds without assessment",
+      "D": "Use approved cloud with risk assessment and controls"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 345,
+    "question": "Which unit typically monitors security events daily in an MDA?",
+    "options": {
+      "A": "Protocol office",
+      "B": "Stores",
+      "C": "SOC/ICT security team",
+      "D": "Transport"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 346,
+    "question": "Which is the safest channel for sharing restricted datasets between MDAs?",
+    "options": {
+      "A": "Open portals",
+      "B": "Personal email",
+      "C": "Social media DMs",
+      "D": "Approved encrypted channel per policy"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 347,
+    "question": "Which practice keeps production secrets safe during development?",
+    "options": {
+      "A": "Check secrets into Git",
+      "B": "Email .env files",
+      "C": "Screenshot passwords",
+      "D": "Secret scanning/pre-commit hooks and managed vault"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 348,
+    "question": "Which test type should be part of pre-go-live quality gates?",
+    "options": {
+      "A": "None",
+      "B": "Static/dynamic security tests + code review",
+      "C": "Weather forecast",
+      "D": "Only UI tests"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 349,
+    "question": "Which statement BEST describes the role of a CAB?",
+    "options": {
+      "A": "Plans office parties",
+      "B": "Approves travel claims",
+      "C": "Approves and governs ICT changes",
+      "D": "Runs payroll"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 350,
+    "question": "What’s the appropriate email channel for official correspondence?",
+    "options": {
+      "A": "Personal Gmail",
+      "B": "Family group chat",
+      "C": ".gov.ng official email",
+      "D": "Public mailing list"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 351,
+    "question": "Which control reduces risks of shoulder surfing in open offices?",
+    "options": {
+      "A": "No screen locks",
+      "B": "Large fonts only",
+      "C": "Public TVs",
+      "D": "Privacy filters and automatic screen lock"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 352,
+    "question": "Which role decides who may access a dataset?",
+    "options": {
+      "A": "Driver",
+      "B": "Visitor",
+      "C": "Data Owner",
+      "D": "Cleaner"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 353,
+    "question": "Which control increases integrity of software releases?",
+    "options": {
+      "A": "Manual copying to servers",
+      "B": "Direct edits in production",
+      "C": "Signed builds through CI/CD with approvals",
+      "D": "Verbal change notes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 354,
+    "question": "Which is the MOST secure method for DB access?",
+    "options": {
+      "A": "Public read/write access",
+      "B": "Shared admin accounts",
+      "C": "Role-based access control (RBAC)",
+      "D": "Hard-coded credentials"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 355,
+    "question": "Which law ensures citizen access to public information with exemptions?",
+    "options": {
+      "A": "Finance Act",
+      "B": "Land Use Act",
+      "C": "FOI Act 2011",
+      "D": "Evidence Act only"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 356,
+    "question": "What MOST reduces MITM risk on government portals?",
+    "options": {
+      "A": "HTTP only",
+      "B": "Open Wi-Fi",
+      "C": "Weak ciphers",
+      "D": "HTTPS/TLS with strong configurations"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 357,
+    "question": "Which is MOST appropriate for secure remote access by officials?",
+    "options": {
+      "A": "RDP open to internet",
+      "B": "Password-only login",
+      "C": "Public café PC",
+      "D": "VPN with conditional access/MFA"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 358,
+    "question": "Which procurement artifact justifies the need, costs, and options?",
+    "options": {
+      "A": "Appreciation memo",
+      "B": "Business case with CBA and risks",
+      "C": "Birthday calendar",
+      "D": "Poster"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 359,
+    "question": "Which practice curbs shadow IT growth?",
+    "options": {
+      "A": "Ignore user needs",
+      "B": "Block everything useful",
+      "C": "Punish all requests",
+      "D": "Provide approved, user-friendly tools"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 360,
+    "question": "Which standard helps organizations manage overall risk?",
+    "options": {
+      "A": "ISO 31000",
+      "B": "ISO 22301",
+      "C": "ISO 27018",
+      "D": "ISO 13485"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 361,
+    "question": "What should be done with administrative privileges?",
+    "options": {
+      "A": "Give to everyone",
+      "B": "Share on paper",
+      "C": "Hard-code in apps",
+      "D": "Use just-in-time access and monitor"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 362,
+    "question": "Which artifact records processing activities for accountability?",
+    "options": {
+      "A": "Wall chart",
+      "B": "None",
+      "C": "Random notes",
+      "D": "Records of Processing Activities (RoPA)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 363,
+    "question": "Which measure hardens endpoints across the fleet?",
+    "options": {
+      "A": "Disable updates",
+      "B": "Ignore alerts",
+      "C": "Public antivirus only",
+      "D": "Central patch management + EDR"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 364,
+    "question": "Which is a secure approach to public Wi-Fi?",
+    "options": {
+      "A": "No controls",
+      "B": "Share passwords",
+      "C": "Disable MFA",
+      "D": "Use VPN and avoid sensitive tasks if possible"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 365,
+    "question": "Which element belongs in a project risk register?",
+    "options": {
+      "A": "Jokes",
+      "B": "Team birthdays",
+      "C": "Identified risks, owners, mitigations",
+      "D": "Paint colour"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 366,
+    "question": "What is the purpose of a service catalog for an ICT unit?",
+    "options": {
+      "A": "Hide services",
+      "B": "Promote adverts",
+      "C": "Record birthdays",
+      "D": "List available services, request paths, and SLAs"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 367,
+    "question": "Which control helps ensure auditability in financial applications?",
+    "options": {
+      "A": "Anonymous access",
+      "B": "No logs",
+      "C": "Shared logins",
+      "D": "Unique user IDs with logging"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 368,
+    "question": "What should MDAs do after a major incident is resolved?",
+    "options": {
+      "A": "Delete logs",
+      "B": "Forget about it",
+      "C": "Punish users only",
+      "D": "Conduct a lessons-learned/post-incident review"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 369,
+    "question": "Which safeguard protects mobile devices used for official work?",
+    "options": {
+      "A": "No PIN",
+      "B": "Root/jailbreak devices",
+      "C": "Public charging only",
+      "D": "MDM with encryption and policies"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 370,
+    "question": "Which is the BEST place to store long-term cryptographic keys?",
+    "options": {
+      "A": "Desktop text file",
+      "B": "Email drafts",
+      "C": "Public wiki",
+      "D": "HSM/managed KMS"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 371,
+    "question": "Which Nigerian body manages the national identity database (NIN)?",
+    "options": {
+      "A": "NCC",
+      "B": "NIMC",
+      "C": "NITDA",
+      "D": "NOA"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 372,
+    "question": "What should be verified before go-live of an e-service?",
+    "options": {
+      "A": "Social media hype",
+      "B": "Colour theme only",
+      "C": "Vendor promise",
+      "D": "UAT sign-off and security testing results"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 373,
+    "question": "Which action should staff take on suspicious emails?",
+    "options": {
+      "A": "Click links to confirm",
+      "B": "Forward widely",
+      "C": "Reply with details",
+      "D": "Report to ICT/security desk"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 374,
+    "question": "Which combination helps keep only trusted software running on endpoints?",
+    "options": {
+      "A": "Disable antivirus",
+      "B": "Allow all installers",
+      "C": "Public downloads",
+      "D": "Application allow-listing and code signing"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 375,
+    "question": "Which Nigerian standard/initiative provides reference enterprise architecture for MDAs?",
+    "options": {
+      "A": "NGEA (Nigeria Government Enterprise Architecture)",
+      "B": "NERC Tariff Order",
+      "C": "SONCAP",
+      "D": "NESREA guideline"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 376,
+    "question": "Which control lowers data-loss risk on stolen laptops?",
+    "options": {
+      "A": "Guest logins",
+      "B": "Screen savers",
+      "C": "Stickers",
+      "D": "Full-disk encryption with remote wipe"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 377,
+    "question": "Which agreement clarifies internal support commitments between units?",
+    "options": {
+      "A": "SLA with vendor",
+      "B": "Purchase Order",
+      "C": "OLA (Operational Level Agreement)",
+      "D": "MoU with citizens"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 378,
+    "question": "Which practice strengthens repository security for government code?",
+    "options": {
+      "A": "Permit secrets in commits",
+      "B": "Disable reviews",
+      "C": "Use public forks for prod secrets",
+      "D": "Enforce branch protection and mandatory reviews"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 379,
+    "question": "Which email content is MOST suspicious?",
+    "options": {
+      "A": "Expected internal memo",
+      "B": "Properly signed report from DG",
+      "C": "Meeting invite from known unit",
+      "D": "“Urgent: verify account” with odd link/attachment"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 380,
+    "question": "Which step ensures licensing compliance for software assets?",
+    "options": {
+      "A": "Ignore audits",
+      "B": "Use pirated copies",
+      "C": "Share one license across all",
+      "D": "Track, audit, and comply with licensing terms"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 381,
+    "question": "Which process ensures ICT initiatives align with MDA strategy?",
+    "options": {
+      "A": "Ad-hoc spending",
+      "B": "Personal projects",
+      "C": "ICT governance and portfolio management",
+      "D": "Vendor promises"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 382,
+    "question": "Which control aids early detection of suspicious network activity?",
+    "options": {
+      "A": "Loud music",
+      "B": "SIEM with alerting and tuned rules",
+      "C": "Open all ports",
+      "D": "Public proxies"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 383,
+    "question": "Which is the correct definition of RPO?",
+    "options": {
+      "A": "Record Point Order",
+      "B": "Return to Office",
+      "C": "Remote Processing Option",
+      "D": "Recovery Point Objective"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 384,
+    "question": "Which method secures API-to-API calls between agencies?",
+    "options": {
+      "A": "Hard-coded passwords",
+      "B": "Tokens in public repos",
+      "C": "HTTP basic over HTTP",
+      "D": "Certificates/managed keys with rotation (e.g., mTLS, OAuth2)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 385,
+    "question": "Which practice improves traceability in financial systems?",
+    "options": {
+      "A": "No logs",
+      "B": "Anonymous access",
+      "C": "Shared logins",
+      "D": "Unique user IDs and audit logs"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 386,
+    "question": "Which step is essential before procuring an ICT solution?",
+    "options": {
+      "A": "Follow hype only",
+      "B": "Bypass competition",
+      "C": "Requirements analysis with stakeholder engagement",
+      "D": "Verbal approvals"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 387,
+    "question": "Which is the MOST secure way to authenticate SSO users?",
+    "options": {
+      "A": "Weak shared passwords",
+      "B": "Printed tokens",
+      "C": "Open Wi-Fi only",
+      "D": "SSO with MFA and conditional access"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 388,
+    "question": "Which measure hardens privileged access workstations (PAWs)?",
+    "options": {
+      "A": "Normal internet use",
+      "B": "Shared PCs",
+      "C": "Public browsing",
+      "D": "Isolation from risky browsing and strict policy"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 389,
+    "question": "Which control helps protect websites from common injection attacks?",
+    "options": {
+      "A": "Static pages only",
+      "B": "Turn off HTTPS",
+      "C": "Hard-code admin credentials",
+      "D": "Input validation and parameterized queries"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 390,
+    "question": "Which item belongs in a change record?",
+    "options": {
+      "A": "Team birthdays",
+      "B": "Jokes",
+      "C": "Risk assessment, approvals, testing notes, back-out plan",
+      "D": "Wall paint color"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 391,
+    "question": "Which unit issues procurement regulations and supervises due process?",
+    "options": {
+      "A": "OAGF",
+      "B": "NIMC",
+      "C": "BPP (due process/procurement regulator)",
+      "D": "NCC"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 392,
+    "question": "Which is the safest approach to sharing meeting links?",
+    "options": {
+      "A": "Post on social media",
+      "B": "Paste on office wall",
+      "C": "Send to any mailing list",
+      "D": "Share only with authorized attendees"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 393,
+    "question": "Which practice reduces insider fraud risk?",
+    "options": {
+      "A": "One person controls everything",
+      "B": "Unlimited admin rights",
+      "C": "Segregation of duties and periodic access reviews",
+      "D": "No audits"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 394,
+    "question": "Which is MOST appropriate for onboarding third-party vendors needing limited access?",
+    "options": {
+      "A": "Share admin passwords",
+      "B": "Blind trust",
+      "C": "Open network access",
+      "D": "Due diligence, NDAs/DPAs, least-privilege, time-bound accounts"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 395,
+    "question": "Which control prevents casual viewing of sensitive screens in shared spaces?",
+    "options": {
+      "A": "Larger fonts",
+      "B": "Public TVs",
+      "C": "Privacy filters + auto-lock",
+      "D": "No screen locks"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 396,
+    "question": "Which document explains ICT services and how to request them?",
+    "options": {
+      "A": "Org chart",
+      "B": "Service catalog with SLAs and request paths",
+      "C": "Press brief",
+      "D": "Asset list"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 397,
+    "question": "Which platform primarily manages personnel and payroll data in FG service?",
+    "options": {
+      "A": "TSA",
+      "B": "BVN",
+      "C": "IPPIS",
+      "D": "NIN"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 398,
+    "question": "Which step verifies that backups are actually restorable?",
+    "options": {
+      "A": "Count files",
+      "B": "Vendor verbal report",
+      "C": "Visual check",
+      "D": "Periodic restore testing"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 399,
+    "question": "Which standard defines business continuity management systems?",
+    "options": {
+      "A": "ISO 22301",
+      "B": "ISO 27017",
+      "C": "ISO 37001",
+      "D": "ISO 45001"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 400,
+    "question": "Which is the MOST secure storage for system secrets?",
+    "options": {
+      "A": "Plain text on desktop",
+      "B": "Managed secrets vault (e.g., KMS/Key Vault)",
+      "C": "Email drafts",
+      "D": "Sticky notes"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 401,
+    "question": "Which body established by the Nigeria Data Protection Act (2023) regulates personal data protection?",
+    "options": {
+      "A": "NCC",
+      "B": "NIMC",
+      "C": "Nigeria Data Protection Commission (NDPC)",
+      "D": "SON"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 402,
+    "question": "Which control MOST reduces the risk of account takeover on citizen portals?",
+    "options": {
+      "A": "Longer passwords only",
+      "B": "Captcha only",
+      "C": "Shared admin accounts",
+      "D": "MFA with risk-based/conditional access"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 403,
+    "question": "What document defines why an ICT initiative should be done and compares options and costs?",
+    "options": {
+      "A": "Business case",
+      "B": "Minutes of meeting",
+      "C": "Purchase Order",
+      "D": "Office memo"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 404,
+    "question": "Which email domain is appropriate for official correspondence in MDAs?",
+    "options": {
+      "A": "@yahoo.com",
+      "B": "@gov.ng (official)",
+      "C": "@outlook.com personal",
+      "D": "@gmail.com personal"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 405,
+    "question": "What is the primary purpose of a Records Retention & Disposal Schedule?",
+    "options": {
+      "A": "Backup encryption",
+      "B": "Bandwidth management",
+      "C": "Decide how long to keep records and how to dispose",
+      "D": "Decide printer locations"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 406,
+    "question": "To securely expose an internal dashboard to remote officials, which approach is BEST?",
+    "options": {
+      "A": "Open to the internet",
+      "B": "Public link with password",
+      "C": "Port forwarding at home",
+      "D": "VPN plus MFA and IP restriction"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 407,
+    "question": "Which principle of access control should guide account provisioning?",
+    "options": {
+      "A": "First come, first served",
+      "B": "Need-to-share",
+      "C": "Least privilege",
+      "D": "Unlimited admin"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 408,
+    "question": "Which system supports integrated public financial management for MDAs?",
+    "options": {
+      "A": "Instagram",
+      "B": "GIFMIS",
+      "C": "Personal Excel files",
+      "D": "Open forums"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 409,
+    "question": "Which combines to protect official email domains from spoofing?",
+    "options": {
+      "A": "POP3 + IMAP",
+      "B": "Firewall only",
+      "C": "SPF, DKIM, and DMARC",
+      "D": "Screensavers"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 410,
+    "question": "After isolating a ransomware-infected PC, what should the team do NEXT?",
+    "options": {
+      "A": "Pay ransom",
+      "B": "Announce on social media",
+      "C": "Wipe backups",
+      "D": "Invoke IR plan and begin evidence-preserving triage"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 411,
+    "question": "Which artifact lists ICT services, how to request them, and SLAs?",
+    "options": {
+      "A": "Asset register",
+      "B": "Staff handbook",
+      "C": "Service catalog",
+      "D": "Wall notice"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 412,
+    "question": "What is the MOST secure storage for long-term cryptographic keys?",
+    "options": {
+      "A": "Desktop text file",
+      "B": "Email drafts",
+      "C": "Shared spreadsheet",
+      "D": "Hardware Security Module/managed KMS"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 413,
+    "question": "Which Nigerian initiative provides a reference enterprise architecture for MDAs?",
+    "options": {
+      "A": "SONCAP",
+      "B": "NERC Order",
+      "C": "Nigeria Government Enterprise Architecture (NGEA)",
+      "D": "NESREA Code"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 414,
+    "question": "Which testing should be part of quality gates before go-live?",
+    "options": {
+      "A": "Colour review only",
+      "B": "Manual UI check",
+      "C": "Rumour check",
+      "D": "Static/dynamic security tests + code reviews"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 415,
+    "question": "Which measure MOST reduces lateral movement after a breach?",
+    "options": {
+      "A": "Flat network",
+      "B": "Shared admin",
+      "C": "Unlimited trust",
+      "D": "Segmentation/Zero Trust"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 416,
+    "question": "What should MDAs maintain to meet accountability obligations under NDPA?",
+    "options": {
+      "A": "Nothing written",
+      "B": "Chat confirmations",
+      "C": "Random notes",
+      "D": "Records of Processing Activities (RoPA)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 417,
+    "question": "Which team is typically responsible for daily monitoring of security events?",
+    "options": {
+      "A": "Protocol office",
+      "B": "Stores",
+      "C": "SOC/ICT security team",
+      "D": "Procurement unit"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 418,
+    "question": "Which is the MOST appropriate channel for sharing highly restricted files?",
+    "options": {
+      "A": "Social media DMs",
+      "B": "Personal email",
+      "C": "Public drive link",
+      "D": "Approved encrypted channel per policy"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 419,
+    "question": "Which backup posture minimizes downtime for critical services?",
+    "options": {
+      "A": "Weekly tape only",
+      "B": "No backups",
+      "C": "Email backups only",
+      "D": "Hot standby/replication with tested restores"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 420,
+    "question": "Which policy governs acceptable use of government ICT resources by staff?",
+    "options": {
+      "A": "Dress code",
+      "B": "Vehicle policy",
+      "C": "Parking policy",
+      "D": "Acceptable Use Policy (AUP)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 421,
+    "question": "What is the right handling for default passwords on new systems?",
+    "options": {
+      "A": "Keep them",
+      "B": "Share broadly",
+      "C": "Change immediately and store securely",
+      "D": "Write on whiteboard"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 422,
+    "question": "Which approach best protects admin consoles of government portals?",
+    "options": {
+      "A": "Expose to the internet",
+      "B": "Default passwords",
+      "C": "Hard-coded credentials in code",
+      "D": "Restrict by VPN/IP and enforce MFA"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 423,
+    "question": "Which law underpins transparency and access to information with defined exemptions?",
+    "options": {
+      "A": "Land Use Act",
+      "B": "Finance Act",
+      "C": "FOI Act 2011",
+      "D": "Evidence Act"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 424,
+    "question": "For secure session management, which is BEST?",
+    "options": {
+      "A": "URL-based sessions",
+      "B": "Long sessions without timeout",
+      "C": "Plain cookies",
+      "D": "Secure cookies, short lifetimes, re-auth for sensitive actions"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 425,
+    "question": "What is the core aim of ICT governance in MDAs?",
+    "options": {
+      "A": "Bypass procurement",
+      "B": "Fund pet projects",
+      "C": "Align ICT with strategy and deliver value",
+      "D": "Freeze innovation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 426,
+    "question": "Which control helps prevent data exfiltration via email?",
+    "options": {
+      "A": "Large attachments",
+      "B": "“Reply all” culture",
+      "C": "DLP policies with encryption requirements",
+      "D": "Unrestricted forwarding"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 427,
+    "question": "Who determines who may access a dataset?",
+    "options": {
+      "A": "Driver",
+      "B": "Visitor",
+      "C": "Data Owner",
+      "D": "Cleaner"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 428,
+    "question": "Which is the BEST first action on a suspected phishing email?",
+    "options": {
+      "A": "Click the link to verify",
+      "B": "Forward widely",
+      "C": "Reply with details",
+      "D": "Report to ICT/security desk"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 429,
+    "question": "What is the purpose of a Business Continuity Plan (BCP)?",
+    "options": {
+      "A": "Increase downtime",
+      "B": "Replace DR entirely",
+      "C": "Sustain critical services during disruptions",
+      "D": "Punish users"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 430,
+    "question": "Which practice should follow major incident resolution?",
+    "options": {
+      "A": "Delete logs",
+      "B": "Ignore lessons",
+      "C": "Public blame game",
+      "D": "Post-incident review/lessons learned"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 431,
+    "question": "Which organization provides backbone connectivity and data centre services for many MDAs?",
+    "options": {
+      "A": "NIMC",
+      "B": "NUC",
+      "C": "Galaxy Backbone",
+      "D": "NPA"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 432,
+    "question": "Which control BOOSTS email domain trust and deliverability?",
+    "options": {
+      "A": "Open relays",
+      "B": "Weak passwords",
+      "C": "Public SMTP",
+      "D": "SPF, DKIM and DMARC"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 433,
+    "question": "Which procurement artifact justifies the project with options and risks?",
+    "options": {
+      "A": "Staff duty roster",
+      "B": "Flyer",
+      "C": "Business case with cost-benefit analysis",
+      "D": "Verbal request"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 434,
+    "question": "Which policy controls use of personal devices for official work?",
+    "options": {
+      "A": "Gifts policy",
+      "B": "Fleet policy",
+      "C": "Dress code",
+      "D": "BYOD policy with security baselines"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 435,
+    "question": "Which standard is primarily used for Information Security Management Systems?",
+    "options": {
+      "A": "ISO 14001",
+      "B": "ISO 27001",
+      "C": "ISO 50001",
+      "D": "ISO 22000"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 436,
+    "question": "Which approach ensures only trusted software runs on endpoints?",
+    "options": {
+      "A": "Allow all installers",
+      "B": "Disable antivirus",
+      "C": "Public downloads",
+      "D": "Application allow-listing and code signing"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 437,
+    "question": "Which is MOST secure for storing app secrets?",
+    "options": {
+      "A": ".env in public repo",
+      "B": "Email to team",
+      "C": "Managed secrets vault",
+      "D": "Sticky notes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 438,
+    "question": "Which combo best reduces credential-stuffing risk?",
+    "options": {
+      "A": "Password reuse + no limits",
+      "B": "Unlimited attempts",
+      "C": "Shared accounts",
+      "D": "MFA and rate limiting"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 439,
+    "question": "What should be verified before launching an e-service?",
+    "options": {
+      "A": "Social media hype",
+      "B": "Colour theme only",
+      "C": "Vendor promises",
+      "D": "UAT sign-off and security test results"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 440,
+    "question": "Which metric reflects helpdesk resolution at first contact?",
+    "options": {
+      "A": "Ticket colour",
+      "B": "Number of chairs",
+      "C": "First Contact Resolution (FCR)",
+      "D": "Stickers issued"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 441,
+    "question": "Which framework primarily guides enterprise IT governance and value?",
+    "options": {
+      "A": "PCI DSS",
+      "B": "OSHA 18001",
+      "C": "COBIT",
+      "D": "ISO 14001"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 442,
+    "question": "Which practice improves evidence value of e-records?",
+    "options": {
+      "A": "Ad-hoc edits",
+      "B": "Delete audit trails",
+      "C": "Shared admin",
+      "D": "Version control and audit trails"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 443,
+    "question": "Which is the safest action when you find an unknown USB in the office?",
+    "options": {
+      "A": "Plug in to check",
+      "B": "Share around",
+      "C": "Take home",
+      "D": "Submit to ICT/security for safe handling"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 444,
+    "question": "Which platform manages personnel and payroll in the FG civil service?",
+    "options": {
+      "A": "BVN",
+      "B": "NIN",
+      "C": "Remita alone",
+      "D": "IPPIS"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 445,
+    "question": "Which statement about open data is MOST accurate?",
+    "options": {
+      "A": "Publish restricted data freely",
+      "B": "No metadata needed",
+      "C": "FOI/open data require vetting and de-identification where needed",
+      "D": "Open data equals raw dumps"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 446,
+    "question": "Which testing validates security via controlled ethical attacks?",
+    "options": {
+      "A": "UI review only",
+      "B": "Brainstorm",
+      "C": "Penetration testing",
+      "D": "Colour check"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 447,
+    "question": "Which control protects databases from SQL injection?",
+    "options": {
+      "A": "Concatenated SQL",
+      "B": "Default admin",
+      "C": "Parameterized queries and input validation",
+      "D": "HTTP basic"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 448,
+    "question": "What reduces risk from contractor laptops on MDA networks?",
+    "options": {
+      "A": "Full admin for all",
+      "B": "No checks",
+      "C": "Public Wi-Fi mandate",
+      "D": "Onboarding with baselines/MDM; limit access"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 449,
+    "question": "Which is a key privacy-by-design element?",
+    "options": {
+      "A": "Add privacy at the end",
+      "B": "Ignore consent",
+      "C": "Publish all data",
+      "D": "Embed privacy controls from inception"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 450,
+    "question": "What is the correct definition of RPO?",
+    "options": {
+      "A": "Return to Office",
+      "B": "Record Posting Order",
+      "C": "Recovery Point Objective",
+      "D": "Remote Processing Option"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 451,
+    "question": "Which policy clarifies what staff may and may not do with ICT resources?",
+    "options": {
+      "A": "Travel policy",
+      "B": "Meeting policy",
+      "C": "Acceptable Use Policy (AUP)",
+      "D": "Furniture policy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 452,
+    "question": "Which measure hardens privileged admin workstations?",
+    "options": {
+      "A": "Normal internet use",
+      "B": "Shared PCs",
+      "C": "Public browsing",
+      "D": "Isolation from risky browsing and strict controls"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 453,
+    "question": "Which law supports admissibility of electronic records and signatures?",
+    "options": {
+      "A": "Companies and Allied Matters Act",
+      "B": "Evidence Act 2011",
+      "C": "Land Use Act",
+      "D": "Finance Act"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 454,
+    "question": "Which approach is BEST for secure remote access by officials?",
+    "options": {
+      "A": "RDP open to internet",
+      "B": "Password-only logins",
+      "C": "Café computers",
+      "D": "VPN with conditional access/MFA"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 455,
+    "question": "Which agreement clarifies internal support expectations between units?",
+    "options": {
+      "A": "SLA with vendor",
+      "B": "MoU with citizens",
+      "C": "Grant letter",
+      "D": "OLA (Operational Level Agreement)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 456,
+    "question": "Which practice ensures change traceability?",
+    "options": {
+      "A": "Edit in production",
+      "B": "Verbal approvals",
+      "C": "Untracked scripts",
+      "D": "Change control with approvals and logs"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 457,
+    "question": "Which Nigerian framework guides data exchange/interoperability?",
+    "options": {
+      "A": "PCI DSS",
+      "B": "ISO 45001",
+      "C": "Ne-GIF",
+      "D": "OSHA 18001"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 458,
+    "question": "What should happen to user accounts when a staff exits?",
+    "options": {
+      "A": "Keep indefinitely",
+      "B": "Increase access for handover",
+      "C": "Share credentials",
+      "D": "Promptly revoke/disable per offboarding"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 459,
+    "question": "Which is the MOST secure place to store long-term keys?",
+    "options": {
+      "A": "Email drafts",
+      "B": "Public wiki",
+      "C": "HSM/managed KMS",
+      "D": "Desktop text file"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 460,
+    "question": "Which is the correct definition of RTO?",
+    "options": {
+      "A": "Remote Task Operation",
+      "B": "Recovery Time Objective",
+      "C": "Record Transfer Order",
+      "D": "Return to Office"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 461,
+    "question": "Which control helps detect suspicious network activity early?",
+    "options": {
+      "A": "Loud music",
+      "B": "Open ports",
+      "C": "SIEM with tuned alerts",
+      "D": "Public proxies"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 462,
+    "question": "Which combo best secures web sessions?",
+    "options": {
+      "A": "No timeouts",
+      "B": "URL session IDs",
+      "C": "Plain cookies",
+      "D": "Secure cookies, short lifetimes, re-auth for sensitive actions"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 463,
+    "question": "Which procurement step should precede solution acquisition?",
+    "options": {
+      "A": "Follow hype",
+      "B": "Bypass competition",
+      "C": "Requirements analysis and stakeholder engagement",
+      "D": "Verbal “go ahead”"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 464,
+    "question": "Which approach mitigates data loss on stolen laptops?",
+    "options": {
+      "A": "Stickers",
+      "B": "Screensavers",
+      "C": "Full-disk encryption with remote wipe",
+      "D": "Guest mode"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 465,
+    "question": "Which statement about cloud adoption for MDAs is MOST appropriate?",
+    "options": {
+      "A": "Use any free cloud without checks",
+      "B": "Ignore data residency",
+      "C": "Share keys in chat",
+      "D": "Use approved cloud with risk assessment and controls"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 466,
+    "question": "Which tool centralizes identities and enables SSO across systems?",
+    "options": {
+      "A": "Sticky notes",
+      "B": "IAM/Directory services",
+      "C": "Paper registers",
+      "D": "Public spreadsheets"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 467,
+    "question": "Which step verifies that backups actually work?",
+    "options": {
+      "A": "Count files",
+      "B": "Vendor email",
+      "C": "Visual check",
+      "D": "Periodic restore testing"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 468,
+    "question": "Which practice reduces shadow IT?",
+    "options": {
+      "A": "Block every useful tool",
+      "B": "Ignore user needs",
+      "C": "Provide approved, easy-to-use tools",
+      "D": "Punish requests"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 469,
+    "question": "Which is MOST appropriate for handling secrets during development?",
+    "options": {
+      "A": "Commit secrets to Git",
+      "B": "Share in chat",
+      "C": "Screenshot passwords",
+      "D": "Secret scanning + managed vault"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 470,
+    "question": "Which standard helps manage organizational risk?",
+    "options": {
+      "A": "ISO 31000",
+      "B": "ISO 13485",
+      "C": "ISO 37001",
+      "D": "ISO 27018"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 471,
+    "question": "Which role approves user access under policy?",
+    "options": {
+      "A": "Any colleague",
+      "B": "Visitor",
+      "C": "Data owner/line manager",
+      "D": "Driver"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 472,
+    "question": "Which control reduces shoulder surfing?",
+    "options": {
+      "A": "Larger fonts only",
+      "B": "Public TVs",
+      "C": "No screen locks",
+      "D": "Privacy filters + auto-lock"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 473,
+    "question": "Which platform collects TSA receipts for the FG?",
+    "options": {
+      "A": "Facebook",
+      "B": "Remita",
+      "C": "Instagram",
+      "D": "X (Twitter)"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 474,
+    "question": "Which practice hardens privileged access?",
+    "options": {
+      "A": "Domain admin for all",
+      "B": "Hard-coded admin creds",
+      "C": "Shared admin account",
+      "D": "Just-in-time elevation with monitoring"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 475,
+    "question": "Which policy defines rules for technology use by staff?",
+    "options": {
+      "A": "Transport policy",
+      "B": "Acceptable Use Policy (AUP)",
+      "C": "Furniture policy",
+      "D": "Parking policy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 476,
+    "question": "Which control helps prevent email spoofing?",
+    "options": {
+      "A": "Turn off TLS",
+      "B": "Allow open relay",
+      "C": "Short passwords",
+      "D": "SPF, DKIM and DMARC"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 477,
+    "question": "Which is MOST secure for database access control?",
+    "options": {
+      "A": "Public read/write",
+      "B": "Shared admin logins",
+      "C": "Role-based access control (RBAC)",
+      "D": "Hard-coded creds"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 478,
+    "question": "Which measure strengthens repository security for government code?",
+    "options": {
+      "A": "Permit secrets in commits",
+      "B": "Disable branch protections",
+      "C": "Public forks with prod secrets",
+      "D": "Enforce reviews and branch protection"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 479,
+    "question": "Which outcome is the aim of incident management (ITIL)?",
+    "options": {
+      "A": "Increase downtime",
+      "B": "Hide incidents",
+      "C": "Restore service quickly and minimize impact",
+      "D": "Replace problem management"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 480,
+    "question": "Which unit issues public procurement regulations/due process?",
+    "options": {
+      "A": "OAGF",
+      "B": "NCC",
+      "C": "BPP",
+      "D": "NIMC"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 481,
+    "question": "Which approach helps ensure integrity of software releases?",
+    "options": {
+      "A": "Manual copying",
+      "B": "Edit in production",
+      "C": "Signed builds in CI/CD with approvals",
+      "D": "Verbal change notes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 482,
+    "question": "Which is the safest place to store restricted meeting recordings?",
+    "options": {
+      "A": "Public links",
+      "B": "Personal drives",
+      "C": "Messaging apps",
+      "D": "Approved access-controlled repository"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 483,
+    "question": "Which measure protects against man-in-the-middle on portals?",
+    "options": {
+      "A": "HTTP only",
+      "B": "Weak ciphers",
+      "C": "Public Wi-Fi",
+      "D": "HTTPS/TLS with strong configurations"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 484,
+    "question": "Which agreement is between an MDA and an external service provider?",
+    "options": {
+      "A": "OLA",
+      "B": "Internal memo",
+      "C": "SLA",
+      "D": "Staff roster"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 485,
+    "question": "Which practice improves auditability in financial systems?",
+    "options": {
+      "A": "Anonymous access",
+      "B": "No logs",
+      "C": "Shared accounts",
+      "D": "Unique user IDs with audit logs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 486,
+    "question": "Which solution best enforces secure printing of confidential memos?",
+    "options": {
+      "A": "Print-to-all",
+      "B": "Public café printers",
+      "C": "Email to reception",
+      "D": "Pull/secure print with PIN"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 487,
+    "question": "Which legal basis can an MDA rely on to process data for statutory functions?",
+    "options": {
+      "A": "Personal curiosity",
+      "B": "Vendor marketing",
+      "C": "Public interest/official authority (documented)",
+      "D": "Rumours"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 488,
+    "question": "Which DR metric defines the MAXIMUM acceptable data loss (time)?",
+    "options": {
+      "A": "RTO",
+      "B": "MTBF",
+      "C": "MTTR",
+      "D": "RPO"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 489,
+    "question": "Which item belongs in a change record?",
+    "options": {
+      "A": "Birthday list",
+      "B": "Jokes",
+      "C": "Risk assessment, approvals, test evidence, back-out plan",
+      "D": "Paint colour"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 490,
+    "question": "Which network design MOST limits breach blast radius?",
+    "options": {
+      "A": "One flat VLAN",
+      "B": "Unlimited trust",
+      "C": "Segmentation/Zero Trust",
+      "D": "Expose management ports"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 491,
+    "question": "Which step should precede major ICT procurements in MDAs?",
+    "options": {
+      "A": "Social media poll",
+      "B": "Vendor letter",
+      "C": "NITDA IT Project Clearance (where applicable)",
+      "D": "Verbal promise"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 492,
+    "question": "Which control lowers risk from contractor-owned laptops?",
+    "options": {
+      "A": "Full admin everywhere",
+      "B": "No checks",
+      "C": "Personal hotspots only",
+      "D": "Onboarding with baselines/MDM; limit access"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 493,
+    "question": "Which statement about NDPC (under NDPA 2023) is MOST accurate?",
+    "options": {
+      "A": "It licenses drivers",
+      "B": "It manages telecom tariffs",
+      "C": "It regulates personal data protection and enforces the Act",
+      "D": "It runs payroll"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 494,
+    "question": "Which is MOST appropriate for securing API-to-API exchanges?",
+    "options": {
+      "A": "Shared passwords in code",
+      "B": "Tokens in public repos",
+      "C": "HTTP basic over HTTP",
+      "D": "Certificates/managed keys with rotation (e.g., mTLS/OAuth2)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 495,
+    "question": "Which approach is BEST for secrets in CI/CD pipelines?",
+    "options": {
+      "A": "Store in plaintext",
+      "B": "Email to team",
+      "C": "Print and file",
+      "D": "Use the platform’s secrets manager/KMS with least privilege"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 496,
+    "question": "Which measure enhances staff ability to spot cyber threats?",
+    "options": {
+      "A": "Ignore training",
+      "B": "Annual party",
+      "C": "User awareness and phishing simulations",
+      "D": "Remove MFA"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 497,
+    "question": "Which control prevents casual viewing of screens in shared spaces?",
+    "options": {
+      "A": "Larger fonts",
+      "B": "Public TVs",
+      "C": "Privacy filters + auto-lock",
+      "D": "Disable locks"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 498,
+    "question": "Which standard defines Business Continuity Management Systems?",
+    "options": {
+      "A": "ISO 27017",
+      "B": "ISO 22301",
+      "C": "ISO 37001",
+      "D": "ISO 45001"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 499,
+    "question": "Which practice reduces risk of data loss during staff exit?",
+    "options": {
+      "A": "Keep accounts active",
+      "B": "Share credentials",
+      "C": "Prompt offboarding and revocation of access",
+      "D": "Transfer accounts to colleague"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 500,
+    "question": "Which email habit MOST reduces data-leak risk?",
+    "options": {
+      "A": "CC all staff",
+      "B": "Use personal email for speed",
+      "C": "Apply DLP rules and encrypt sensitive messages",
+      "D": "Disable spam filters"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 501,
+    "question": "Your MDA discovers a staff spreadsheet with citizen NINs saved to a shared drive without access controls. What is the BEST immediate action?",
+    "options": {
+      "A": "Email staff to be careful next time",
+      "B": "Delete the file without records",
+      "C": "Restrict access immediately, register the incident, notify DPO and begin containment",
+      "D": "Move the file to a USB for safekeeping"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 502,
+    "question": "A unit wants to pilot a new cloud HR tool that will process staff personal data. What should happen before pilot data is uploaded?",
+    "options": {
+      "A": "Upload a small sample first",
+      "B": "Rely on vendor’s marketing brochure",
+      "C": "Sign up with personal emails",
+      "D": "Conduct vendor due diligence, DPIA, and get approvals (including NDPA compliance)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 503,
+    "question": "A phishing email appears to come from the Accountant-General asking you to “re-confirm IPPIS password.” What’s the most appropriate first response?",
+    "options": {
+      "A": "Report to ICT/security desk using the phishing channel",
+      "B": "Click to verify quickly",
+      "C": "Forward to colleagues for awareness",
+      "D": "Reply to confirm authenticity"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 504,
+    "question": "During procurement, your team can’t justify a proposed analytics tool against alternatives. Which document should you complete to proceed?",
+    "options": {
+      "A": "Project charter only",
+      "B": "Business case with options, CBA, and risk analysis",
+      "C": "Press release",
+      "D": "A WhatsApp vote"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 505,
+    "question": "A web portal UAT reveals session timeouts are set to 8 hours by default. What should you recommend?",
+    "options": {
+      "A": "Keep as is for convenience",
+      "B": "Disable timeouts",
+      "C": "Implement secure cookies, shorter lifetimes, and re-auth for sensitive actions",
+      "D": "Use URL session IDs"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 506,
+    "question": "Your SOC detects credential-stuffing attempts on a login page. What combined control is MOST effective?",
+    "options": {
+      "A": "Longer passwords only",
+      "B": "CAPTCHAs only",
+      "C": "IP whitelisting only",
+      "D": "Rate limiting + MFA/conditional access"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 507,
+    "question": "A developer proposes storing API keys in a .env file checked into Git. What is the correct guidance?",
+    "options": {
+      "A": "Proceed; the repo is private",
+      "B": "Email the keys to the team",
+      "C": "Use a managed secrets vault and remove keys from code",
+      "D": "Put the keys in a spreadsheet"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 508,
+    "question": "Your records officer asks when to dispose of scanned payroll documents. What should guide the decision?",
+    "options": {
+      "A": "Whether storage is full",
+      "B": "Verbal instruction from a colleague",
+      "C": "The Records Retention & Disposal Schedule and documented disposal process",
+      "D": "Random team consensus"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 509,
+    "question": "A vendor laptop needs temporary access to your internal network for two weeks. What’s the BEST approach?",
+    "options": {
+      "A": "Share an admin password",
+      "B": "Allow full network access",
+      "C": "Use a time-bound, least-privilege account with MDM baseline and monitoring",
+      "D": "Tell them to use public Wi-Fi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 510,
+    "question": "Your MDA plans to integrate two portals over the internet. What should you enforce for API-to-API trust?",
+    "options": {
+      "A": "HTTP basic over plain HTTP",
+      "B": "Shared passwords in code",
+      "C": "Public tokens in the repo",
+      "D": "Certificates/managed keys (e.g., mTLS/OAuth2) with rotation"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 511,
+    "question": "A staff member lost an unencrypted laptop containing citizen data. What is the first action?",
+    "options": {
+      "A": "Wait for them to find it",
+      "B": "Issue a public apology",
+      "C": "Trigger the incident response process, attempt remote wipe, and notify the DPO",
+      "D": "Buy a new laptop quietly"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 512,
+    "question": "Management wants remote access to an internal dashboard. What’s the MOST secure pattern?",
+    "options": {
+      "A": "Publish to internet with a strong password",
+      "B": "Send screenshots weekly",
+      "C": "Build a public link with URL secret",
+      "D": "Publish behind VPN with MFA and IP restrictions"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 513,
+    "question": "During change review, you notice the rollback plan is missing. What should you do?",
+    "options": {
+      "A": "Approve to meet deadlines",
+      "B": "Ignore—rarely needed",
+      "C": "Require a documented back-out plan before approval",
+      "D": "Ask the vendor to “manage it”"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 514,
+    "question": "A new SaaS will process staff health data. What step is ESSENTIAL before onboarding?",
+    "options": {
+      "A": "Ask colleagues if it’s fine",
+      "B": "Pilot with real data to test",
+      "C": "Skip controls because it’s urgent",
+      "D": "Conduct DPIA and ensure lawful basis, DPA, and security clauses in contract"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 515,
+    "question": "An FOI request asks for “all staff personal records.” What should you do?",
+    "options": {
+      "A": "Release everything to avoid fines",
+      "B": "Delete sensitive parts and release immediately",
+      "C": "Apply FOI processes, consider exemptions, and consult legal/FOI focal person",
+      "D": "Ignore the request"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 516,
+    "question": "The SOC flags unusual data transfers from a privileged workstation. What’s the BEST immediate action?",
+    "options": {
+      "A": "Wait until tomorrow",
+      "B": "Disable logging",
+      "C": "Isolate the endpoint and begin triage under the IR plan",
+      "D": "Email the user for explanation first"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 517,
+    "question": "A project team insists on going live without UAT due to timelines. Your stance?",
+    "options": {
+      "A": "Approve—timeline rules",
+      "B": "UAT can happen after go-live",
+      "C": "Do a visual check only",
+      "D": "UAT and security testing must pass before go-live"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 518,
+    "question": "An admin wants to browse the open internet from a PAW (Privileged Access Workstation). What do you enforce?",
+    "options": {
+      "A": "No controls—trust admins",
+      "B": "Allow if the admin promises",
+      "C": "Shared PAWs for everyone",
+      "D": "Isolate PAWs from risky browsing; use separate device for general use"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 519,
+    "question": "A unit requests opening RDP to the internet for quick access. Your advice?",
+    "options": {
+      "A": "Approve and monitor later",
+      "B": "Use password-only login",
+      "C": "Require VPN with MFA/conditional access, not open RDP",
+      "D": "Change the RDP port only"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 520,
+    "question": "You discover default passwords on newly deployed switches. What should happen?",
+    "options": {
+      "A": "Keep them until next quarter",
+      "B": "Write them on a whiteboard",
+      "C": "Change immediately, store securely, and review build procedures",
+      "D": "Disable password rotation"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 521,
+    "question": "A data subject complains about unlawful processing of their data by your MDA. What is the right channel?",
+    "options": {
+      "A": "Tell them to write to the media",
+      "B": "Ignore unless they sue",
+      "C": "Direct to the DPO; log and handle per NDPA timelines",
+      "D": "Ask them to withdraw the complaint"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 522,
+    "question": "Your pen-test finds critical SQL injection on a live service. What’s the RIGHT next step?",
+    "options": {
+      "A": "Note it for the next release",
+      "B": "Hide the finding",
+      "C": "Patch immediately, validate with re-test, and consider a temporary takedown if necessary",
+      "D": "Change the site color"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 523,
+    "question": "A minister requests staff personal data for a speech—“send it now.” What should you do?",
+    "options": {
+      "A": "Send everything immediately",
+      "B": "Post in a group chat",
+      "C": "Ask for a letter later",
+      "D": "Verify lawful basis and authorization; provide only what is lawful and necessary"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 524,
+    "question": "Your backup restore drill fails for a mission-critical app. What must you do?",
+    "options": {
+      "A": "Ignore; it’s just a drill",
+      "B": "Count the backup files instead",
+      "C": "Investigate root cause, fix, and re-test restores promptly",
+      "D": "Reduce drill frequency"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 525,
+    "question": "A staff member asks to use personal Gmail for official mail because Outlook is “slow.” Your response?",
+    "options": {
+      "A": "Approve permanently",
+      "B": "Approve for confidential emails only",
+      "C": "Permit if others agree",
+      "D": "Require use of official .gov.ng email; escalate Outlook issues to ICT"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 526,
+    "question": "Your MDA wants to publish open data sets that include quasi-identifiers. What should you do?",
+    "options": {
+      "A": "Publish as is for transparency",
+      "B": "Hide a few columns only",
+      "C": "Remove metadata",
+      "D": "Apply de-identification/anonymization and legal/privacy review before release"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 527,
+    "question": "A staff WhatsApp group shares screenshots of a restricted dashboard. What is the BEST action?",
+    "options": {
+      "A": "Do nothing—informal group",
+      "B": "Ask them to delete and move on",
+      "C": "Like the message",
+      "D": "Stop further sharing, report incident, and educate on approved channels"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 528,
+    "question": "You detect expired TLS certificates on an internal portal. What should you do?",
+    "options": {
+      "A": "Ignore—internal users only",
+      "B": "Disable HTTPS",
+      "C": "Switch to HTTP",
+      "D": "Renew/replace certs, fix automation (ACME/Lifecycle), and validate"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 529,
+    "question": "Procurement asks whether a proposed ICT project requires NITDA IT Project Clearance. Your step?",
+    "options": {
+      "A": "Assume it doesn’t",
+      "B": "Ask the vendor",
+      "C": "Skip to save time",
+      "D": "Check NITDA guidelines and obtain clearance where applicable before procurement"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 530,
+    "question": "A unit insists on keeping shared admin accounts for “speed.” What’s the correct directive?",
+    "options": {
+      "A": "Keep using them",
+      "B": "Store the shared password in chat",
+      "C": "Rotate monthly only",
+      "D": "Enforce unique accounts, least privilege, and auditing"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 531,
+    "question": "You find a public GitHub repo containing your agency’s API key. What should you do FIRST?",
+    "options": {
+      "A": "Comment “please delete”",
+      "B": "Wait for next sprint",
+      "C": "Change nothing until a meeting",
+      "D": "Immediately revoke/rotate the key, remove exposure, and investigate usage"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 532,
+    "question": "Your e-service receives an FOI request; some records include confidential third-party data. What’s the correct handling?",
+    "options": {
+      "A": "Release everything unredacted",
+      "B": "Refuse all FOI requests",
+      "C": "Redact and apply exemptions as allowed; document the decision",
+      "D": "Ask requestor to withdraw"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 533,
+    "question": "A laptop with FDE enabled is stolen, but the PIN is weak. What should you do?",
+    "options": {
+      "A": "Ignore because FDE exists",
+      "B": "Post about it publicly",
+      "C": "Blame the user only",
+      "D": "Trigger IR, remote wipe if possible, assess residual risk, and strengthen policy"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 534,
+    "question": "Your SOC flags repeated failed logins from one IP. What’s the BEST immediate response?",
+    "options": {
+      "A": "Turn off logging",
+      "B": "Do nothing yet",
+      "C": "Disable MFA to reduce friction",
+      "D": "Rate-limit/temporarily block, investigate source, and check for credential stuffing"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 535,
+    "question": "During exit processing, HR forgets to disable system accounts. What is the correct procedure?",
+    "options": {
+      "A": "Wait one month",
+      "B": "Keep access for handover",
+      "C": "Share accounts with the replacement",
+      "D": "Prompt access revocation as part of the offboarding checklist"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 536,
+    "question": "A contractor requests a database export via email. What should you enforce?",
+    "options": {
+      "A": "Email it as an attachment",
+      "B": "Upload to a public drive",
+      "C": "Print hard copy",
+      "D": "Use approved encrypted transfer with access controls and NDA/DPA in place"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 537,
+    "question": "An internal app stores passwords with reversible encryption. Your fix?",
+    "options": {
+      "A": "Keep it—works fine",
+      "B": "Put passwords in Excel",
+      "C": "Rely on long passwords",
+      "D": "Use strong hashing with unique salts (e.g., bcrypt/Argon2) and migrate"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 538,
+    "question": "Users report spoofed emails “from the DG.” What should you implement/verify?",
+    "options": {
+      "A": "POP3 only",
+      "B": "Longer signatures",
+      "C": "Open relay",
+      "D": "SPF, DKIM, and DMARC alignment"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 539,
+    "question": "A citizen portal faces a zero-day browser exploit campaign. What’s the immediate action?",
+    "options": {
+      "A": "Announce on social media",
+      "B": "Wait for a week",
+      "C": "Disable logging",
+      "D": "Apply vendor mitigations/virtual patching, enhance monitoring, and communicate advisories"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 540,
+    "question": "Your MDA plans to roll out BYOD. What must be in place?",
+    "options": {
+      "A": "Trust staff judgment",
+      "B": "Let any device connect",
+      "C": "Pay stipends instead",
+      "D": "BYOD policy, MDM controls, and data segregation requirements"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 541,
+    "question": "A team wants to share a restricted report with another MDA. What is the RIGHT channel?",
+    "options": {
+      "A": "Personal email",
+      "B": "Messaging app",
+      "C": "Public drive link",
+      "D": "Approved encrypted channel per policy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 542,
+    "question": "You’re asked to upload sensitive meeting recordings to a public link “for convenience.” Your response?",
+    "options": {
+      "A": "Approve if link is long",
+      "B": "Approve for one week",
+      "C": "Share via a personal cloud",
+      "D": "Store in an approved, access-controlled repository"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 543,
+    "question": "A web app shows user input directly in SQL queries. Your recommendation?",
+    "options": {
+      "A": "Add more UI polish",
+      "B": "Turn off HTTPS",
+      "C": "Keep queries for speed",
+      "D": "Implement parameterized queries and input validation"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 544,
+    "question": "A pen-test report arrives with critical findings. What must you do?",
+    "options": {
+      "A": "File it away",
+      "B": "Wait for annual review",
+      "C": "Share only with friends",
+      "D": "Track remediation with owners, timelines, and re-testing"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 545,
+    "question": "Your agency plans to collect new categories of personal data. What principle should guide collection?",
+    "options": {
+      "A": "Collect everything you can",
+      "B": "Collect data for future unknown use",
+      "C": "Data minimization—only what’s necessary and lawful",
+      "D": "Whatever the vendor recommends"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 546,
+    "question": "A service owner asks if logs can be deleted daily to save space. Your advice?",
+    "options": {
+      "A": "Yes—storage is costly",
+      "B": "Delete all logs now",
+      "C": "Keep only error logs",
+      "D": "Retain per policy, protect, and review via SIEM; adjust storage strategy"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 547,
+    "question": "A unit wants to email a ZIP of 10,000 citizens’ records to another agency. What’s BEST?",
+    "options": {
+      "A": "Send via personal account",
+      "B": "Split into multiple emails",
+      "C": "Put it on a public link",
+      "D": "Use approved encrypted transfer with access control and audit trail"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 548,
+    "question": "Your portal’s TLS cipher suite is outdated. What’s the action?",
+    "options": {
+      "A": "Ignore—still works",
+      "B": "Switch to HTTP",
+      "C": "Add more weak ciphers",
+      "D": "Update to strong TLS configurations and validate"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 549,
+    "question": "A staffer plugs in a found USB drive to “see who owns it.” What’s the correct response?",
+    "options": {
+      "A": "Praise curiosity",
+      "B": "Keep using it if clean",
+      "C": "Share the drive for others to check",
+      "D": "Treat as a security incident; stop use and submit to ICT/security"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 550,
+    "question": "A certificate will expire in 5 days on a critical system. What should you do?",
+    "options": {
+      "A": "Wait for expiry to verify monitoring",
+      "B": "Disable HTTPS briefly",
+      "C": "Accept user warnings",
+      "D": "Renew/replace immediately and fix automated lifecycle to prevent recurrences"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 551,
+    "question": "Your data catalogue shows many “unknown owners.” What is the BEST remediation?",
+    "options": {
+      "A": "Ignore; the systems work",
+      "B": "Delete those entries",
+      "C": "Ask vendors to pick owners",
+      "D": "Assign data owners/stewards, classify, and maintain the register"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 552,
+    "question": "You learn that a vendor sub-processor handles your data without notice. What should you do?",
+    "options": {
+      "A": "It’s fine—vendor chose them",
+      "B": "Do nothing if they’re famous",
+      "C": "Post on social media",
+      "D": "Review contracts/DPAs, assess risk, and ensure approvals/notifications per NDPA"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 553,
+    "question": "A staff member requests raw logs to “take home” for analysis. Your decision?",
+    "options": {
+      "A": "Approve via email",
+      "B": "Use a flash drive",
+      "C": "Public drive link",
+      "D": "Provide least-privilege access in a secure environment; avoid uncontrolled copies"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 554,
+    "question": "Your website’s admin console is reachable from the internet. What’s the BEST fix?",
+    "options": {
+      "A": "Change the port only",
+      "B": "Rely on a strong password",
+      "C": "Leave it—nobody knows the URL",
+      "D": "Restrict by VPN/IP, enforce MFA, and separate admin plane"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 555,
+    "question": "A new feature requires processing staff health data. What must precede build?",
+    "options": {
+      "A": "Start coding immediately",
+      "B": "Ask users for verbal consent",
+      "C": "Skip paperwork",
+      "D": "Perform DPIA, identify lawful basis, and bake privacy by design"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 556,
+    "question": "During inventory, you find 40 unsupported Windows PCs. What should you do?",
+    "options": {
+      "A": "Keep using them",
+      "B": "Turn off updates",
+      "C": "Use them for sensitive data",
+      "D": "Plan upgrades/segmentation, restrict access, and retire promptly"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 557,
+    "question": "A citizen requests deletion of their data. What is the proper handling?",
+    "options": {
+      "A": "Delete everything instantly",
+      "B": "Refuse all requests",
+      "C": "Consider legal basis/retention; process per NDPA rights procedures",
+      "D": "Ask them to submit again"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 558,
+    "question": "HR wants to circulate a staff list with home addresses via email to “confirm accuracy.” Your advice?",
+    "options": {
+      "A": "Send to all staff",
+      "B": "Post on public noticeboard",
+      "C": "Upload to social media",
+      "D": "Use a secure channel; minimize data shared; apply NDPA principles"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 559,
+    "question": "After an incident, management asks for “who to blame.” What should you deliver?",
+    "options": {
+      "A": "Names only",
+      "B": "A public memo",
+      "C": "Nothing",
+      "D": "A lessons-learned/post-incident review with actions and owners"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 560,
+    "question": "A unit insists backups aren’t needed because “we have RAID.” Your reply?",
+    "options": {
+      "A": "Agree—RAID is enough",
+      "B": "Keep only one copy",
+      "C": "Copy to the same disk",
+      "D": "Maintain 3-2-1 backups with periodic restore tests"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 561,
+    "question": "A staff wants to record a Teams meeting containing restricted data and store it locally. Guidance?",
+    "options": {
+      "A": "Allow freely",
+      "B": "Post to a public drive",
+      "C": "Email to everyone",
+      "D": "Store in approved repository with access control and retention rules"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 562,
+    "question": "You’re evaluating a SaaS with data centers abroad. What must you check?",
+    "options": {
+      "A": "Nothing—cloud is safe",
+      "B": "Vendor logo quality",
+      "C": "Price only",
+      "D": "Cross-border transfer safeguards, data residency, and legal compliance"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 563,
+    "question": "A suspicious USB is found in reception. What’s the proper handling?",
+    "options": {
+      "A": "Plug into a test PC",
+      "B": "Give to a curious intern",
+      "C": "Leave at the desk",
+      "D": "Submit to ICT/security; do not connect it"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 564,
+    "question": "The service desk asks to reset passwords via email requests. What should you enforce?",
+    "options": {
+      "A": "Approve if the email looks official",
+      "B": "Allow for VIPs",
+      "C": "Accept WhatsApp requests",
+      "D": "Use verified identity process through the service desk system"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 565,
+    "question": "A vendor proposes keeping raw production data in their dev environment. What’s your stance?",
+    "options": {
+      "A": "Approve to speed testing",
+      "B": "Approve if the team is small",
+      "C": "Approve if zipped",
+      "D": "Disallow; use masked/synthetic data unless strictly justified with controls"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 566,
+    "question": "A team wants to publish a dashboard that includes personal data as “demo.” What should you do?",
+    "options": {
+      "A": "Approve since it’s a demo",
+      "B": "Put it on a public screen",
+      "C": "Blur a few names only",
+      "D": "Remove/obfuscate personal data, apply data minimization, restrict access"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 567,
+    "question": "A staff reports a suspected smishing SMS linking to a government portal. Best first action?",
+    "options": {
+      "A": "Click to verify",
+      "B": "Forward to friends",
+      "C": "Ignore",
+      "D": "Report to ICT/security and warn users via official channel"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 568,
+    "question": "You notice many admin accounts are used for routine email. What should you require?",
+    "options": {
+      "A": "Keep using admin accounts",
+      "B": "Share admin credentials",
+      "C": "Use personal email for admin",
+      "D": "Use normal user accounts for routine work; elevate only when needed"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 569,
+    "question": "A third-party needs one-time access to upload data. What access pattern is BEST?",
+    "options": {
+      "A": "Permanent admin account",
+      "B": "Shared generic account",
+      "C": "Public link",
+      "D": "Time-bound, least-privilege account with logging"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 570,
+    "question": "The DR team meets RTO but exceeds RPO after an outage. What should be improved?",
+    "options": {
+      "A": "Meeting invitations",
+      "B": "Office paint",
+      "C": "Backup frequency/replication strategy",
+      "D": "Lunch schedule"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 571,
+    "question": "You discover printed confidential drafts left at a shared printer. Immediate control?",
+    "options": {
+      "A": "Ignore",
+      "B": "Announce a fine",
+      "C": "Remove printers",
+      "D": "Enforce pull/secure printing and awareness"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 572,
+    "question": "A unit wants to send NIN lists over email to a partner MDA. What’s the secure approach?",
+    "options": {
+      "A": "Attach directly",
+      "B": "Use personal Gmail",
+      "C": "Put in a public folder",
+      "D": "Use approved encrypted transfer with access controls and audit trail"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 573,
+    "question": "Your portal reveals a hard-coded admin password in JavaScript. Next step?",
+    "options": {
+      "A": "Leave it—obscure",
+      "B": "Add comments",
+      "C": "Announce later",
+      "D": "Remove secret from client code, rotate credentials, and redesign auth"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 574,
+    "question": "A user falls for phishing and entered credentials. Immediate containment?",
+    "options": {
+      "A": "Wait for them to change password",
+      "B": "Do nothing—MFA exists",
+      "C": "Public blame",
+      "D": "Force credential reset, check for lateral movement, revoke tokens, and monitor"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 575,
+    "question": "An analyst requests “all payroll data” for a slide. Your decision?",
+    "options": {
+      "A": "Send full dataset",
+      "B": "Send by flash drive",
+      "C": "Post to group chat",
+      "D": "Provide the minimal data lawfully necessary and approved for the purpose"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 576,
+    "question": "During UAT, testers ask to use real citizen data. What’s the correct position?",
+    "options": {
+      "A": "Approve by default",
+      "B": "Use public samples",
+      "C": "Ask for screenshots",
+      "D": "Use masked/synthetic data unless strictly justified with controls and approvals"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 577,
+    "question": "A helpdesk agent resets passwords after only an email request. What’s the fix?",
+    "options": {
+      "A": "Encourage faster resets",
+      "B": "Allow VIP bypass",
+      "C": "Put passwords on sticky notes",
+      "D": "Enforce identity verification flow before resets"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 578,
+    "question": "A server shows suspicious outbound traffic at night. First response?",
+    "options": {
+      "A": "Power it off blindly",
+      "B": "Postpone to morning",
+      "C": "Disable logging",
+      "D": "Isolate, triage under IR plan, and review logs/EDR"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 579,
+    "question": "You need to share a large restricted file with another MDA with traceability. What should you use?",
+    "options": {
+      "A": "Personal email",
+      "B": "Public cloud link",
+      "C": "Messaging app",
+      "D": "Approved encrypted transfer with access logs"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 580,
+    "question": "A team insists “RAID plus snapshots equals DR.” Your correction?",
+    "options": {
+      "A": "Agree",
+      "B": "Recommend only RAID 0",
+      "C": "Suggest no backups",
+      "D": "DR needs tested backups/replication and recovery procedures beyond RAID"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 581,
+    "question": "A staff member asks to store restricted reports on a personal USB. Your answer?",
+    "options": {
+      "A": "Approve if encrypted",
+      "B": "Approve for a day",
+      "C": "Approve if labelled",
+      "D": "Disallow; use approved secure storage/services"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 582,
+    "question": "You’re configuring SSO for a new portal. What must you include?",
+    "options": {
+      "A": "Shared passwords",
+      "B": "Plain HTTP",
+      "C": "Open guest access",
+      "D": "MFA and conditional access policies"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 583,
+    "question": "The DPO requests your RoPA update. What should you provide?",
+    "options": {
+      "A": "Nothing—too busy",
+      "B": "A general memo",
+      "C": "A press release",
+      "D": "Current Records of Processing Activities with systems, purposes, and bases"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 584,
+    "question": "A staffer proposes sharing restricted PDFs via a public link “with obscure name.” Best response?",
+    "options": {
+      "A": "Approve because obscure",
+      "B": "Approve if short time limit",
+      "C": "Approve with watermark only",
+      "D": "Use approved, access-controlled repository instead"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 585,
+    "question": "During patching, you discover EOL software still in use. What should you do?",
+    "options": {
+      "A": "Ignore until next year",
+      "B": "Disable antivirus",
+      "C": "Expose to internet for updates",
+      "D": "Plan replacement/segmentation; restrict and retire quickly"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 586,
+    "question": "A unit requests to bypass change control for an urgent fix. Proper action?",
+    "options": {
+      "A": "Allow with no records",
+      "B": "Approve permanently",
+      "C": "Skip testing",
+      "D": "Use emergency change process with documentation and review"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 587,
+    "question": "A citizen emails a scanned ID to a public mailbox. What should you do?",
+    "options": {
+      "A": "Forward broadly",
+      "B": "Ignore security",
+      "C": "Store it in a personal folder",
+      "D": "Move to approved system, limit exposure, and respond via approved channel"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 588,
+    "question": "You find a dashboard publicly exposing staff emails and phones. Immediate step?",
+    "options": {
+      "A": "Leave it until Monday",
+      "B": "Announce on social media",
+      "C": "Change the color theme",
+      "D": "Takedown/lock down access, fix privacy controls, and notify stakeholders"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 589,
+    "question": "A project wants to process biometric data for access control. What’s required first?",
+    "options": {
+      "A": "Install devices immediately",
+      "B": "Ignore NDPA",
+      "C": "Pilot with all staff",
+      "D": "Lawful basis assessment, DPIA, and appropriate safeguards"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 590,
+    "question": "A court issues a litigation hold on certain records. What must you do?",
+    "options": {
+      "A": "Proceed with scheduled disposal",
+      "B": "Shred immediately",
+      "C": "Delete backups",
+      "D": "Suspend disposal for the records in scope and preserve integrity"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 591,
+    "question": "Your MDA receives a cross-border data access request from a foreign vendor admin. What should you check first?",
+    "options": {
+      "A": "Their social media",
+      "B": "Their brand reputation",
+      "C": "Their office color",
+      "D": "Contract/DPAs, lawful bases, and transfer safeguards/approvals"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 592,
+    "question": "A pen-test shows weak admin passwords but MFA is enabled. What’s the right stance?",
+    "options": {
+      "A": "Ignore—MFA solves all",
+      "B": "Disable MFA",
+      "C": "Publish the finding",
+      "D": "Enforce strong password policy alongside MFA"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 593,
+    "question": "A team wants “quick access” to production using shared generic accounts. Your decision?",
+    "options": {
+      "A": "Approve for speed",
+      "B": "Approve with a promise",
+      "C": "Keep as a workaround",
+      "D": "Disallow; require unique accounts, least privilege, and auditing"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 594,
+    "question": "Users report frequent lockouts due to brute force. What should you implement?",
+    "options": {
+      "A": "Disable logs",
+      "B": "Extend lockout time to days",
+      "C": "Nothing",
+      "D": "Smart lockout/rate limits and MFA; investigate source"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 595,
+    "question": "A public Wi-Fi is the only network available for an urgent task. Guidance?",
+    "options": {
+      "A": "Log into all sensitive systems",
+      "B": "Share credentials by phone",
+      "C": "Turn off device PIN",
+      "D": "Use VPN; avoid sensitive tasks if possible; apply least data exposure"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 596,
+    "question": "A unit wants to email a CSV of 50k citizen records for analysis tomorrow. Best alternative?",
+    "options": {
+      "A": "Email in batches",
+      "B": "Use personal email late at night",
+      "C": "Paste into chat",
+      "D": "Use approved secure data-sharing platform with access control and audit trails"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 597,
+    "question": "A certificate pinning error breaks the mobile app after server cert rotation. What should you do?",
+    "options": {
+      "A": "Remove TLS",
+      "B": "Ignore users",
+      "C": "Block the app",
+      "D": "Fix pin set/rollover process, update app configuration, and communicate"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 598,
+    "question": "A staff keeps classified printouts on their desk overnight. What is the remedy?",
+    "options": {
+      "A": "Allow if face down",
+      "B": "Lock the office door only",
+      "C": "Put under the keyboard",
+      "D": "Enforce clean-desk policy and secure storage; raise awareness"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 599,
+    "question": "An analyst requests direct read/write DB access for ad-hoc queries. What’s best?",
+    "options": {
+      "A": "Give them admin",
+      "B": "Share a generic account",
+      "C": "Email the DB password",
+      "D": "Provide a read-only role or curated dataset via a controlled analytics tool"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 600,
+    "question": "After a ransomware incident, services are restored. What should you schedule next?",
+    "options": {
+      "A": "A celebration only",
+      "B": "Media interviews",
+      "C": "Delete all logs",
+      "D": "A post-incident review with lessons and improvements"
+    },
+    "answer": "D"
+  }
+]

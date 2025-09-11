@@ -1,0 +1,5502 @@
+[
+  {
+    "question_number": 1,
+    "question": "What does FCT stand for in the Nigerian context?",
+    "options": {
+      "A": "Federal Country Territory",
+      "B": "Federal Capital Territory",
+      "C": "Federation Central Territory",
+      "D": "Federal Council Tribunal"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 2,
+    "question": "Which Nigerian city is located within the FCT?",
+    "options": {
+      "A": "Lagos",
+      "B": "Enugu",
+      "C": "Abuja",
+      "D": "Ibadan"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 3,
+    "question": "What year was Abuja officially declared the capital of Nigeria?",
+    "options": {
+      "A": "1976",
+      "B": "1991",
+      "C": "1982",
+      "D": "1987"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 4,
+    "question": "The administrative headquarters of FCT is located in which district?",
+    "options": {
+      "A": "Wuse",
+      "B": "Garki",
+      "C": "Maitama",
+      "D": "Area 11"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 5,
+    "question": "Which agency manages the physical development of the FCT?",
+    "options": {
+      "A": "FCDA",
+      "B": "NCDC",
+      "C": "FERMA",
+      "D": "NDDC"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 6,
+    "question": "The Abuja Master Plan was designed by which firm?",
+    "options": {
+      "A": "Julius Berger",
+      "B": "Doxiadis Associates",
+      "C": "Cappa and D'Alberto",
+      "D": "Arab Contractors"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 7,
+    "question": "What is the primary responsibility of the Abuja Metropolitan Management Council (AMMC)?",
+    "options": {
+      "A": "Road construction",
+      "B": "Environmental sanitation and city management",
+      "C": "Election monitoring",
+      "D": "Water resource allocation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 8,
+    "question": "How many Area Councils are in the FCT?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 9,
+    "question": "Which Area Council is home to the Abuja city centre?",
+    "options": {
+      "A": "Kuje",
+      "B": "Bwari",
+      "C": "Abaji",
+      "D": "Abuja Municipal"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 10,
+    "question": "Which agency oversees urban planning and building control in the FCT?",
+    "options": {
+      "A": "FEMA",
+      "B": "DRTS",
+      "C": "Development Control",
+      "D": "AEPB"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 11,
+    "question": "Which FCT agency handles emergency management and disaster response?",
+    "options": {
+      "A": "NEMA",
+      "B": "FEMA",
+      "C": "FIRS",
+      "D": "AMMC"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 12,
+    "question": "Which council in the FCT borders Nasarawa State?",
+    "options": {
+      "A": "Kwali",
+      "B": "Gwagwalada",
+      "C": "Kuje",
+      "D": "Abaji"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 13,
+    "question": "What is the full meaning of AEPB in the context of FCT?",
+    "options": {
+      "A": "Abuja Environmental and Parks Board",
+      "B": "Abuja Electricity and Power Board",
+      "C": "Area Environmental Protection Bureau",
+      "D": "Abuja Environmental Protection Board"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 14,
+    "question": "What is the main function of the Department of Outdoor Advertising and Signage (DOAS)?",
+    "options": {
+      "A": "Road construction",
+      "B": "Regulation of billboards and signage",
+      "C": "Building permit approvals",
+      "D": "Cleaning of streets"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 15,
+    "question": "Which department issues driving licenses in the FCT?",
+    "options": {
+      "A": "Road Safety Corps",
+      "B": "VIO",
+      "C": "Directorate of Road Traffic Services",
+      "D": "Nigeria Police"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 16,
+    "question": "Who is the political head of the FCT?",
+    "options": {
+      "A": "President of Nigeria",
+      "B": "FCT Minister",
+      "C": "Mayor of Abuja",
+      "D": "Chairman of AMAC"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 17,
+    "question": "The FCT is represented in the Nigerian Senate by how many Senators?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 18,
+    "question": "Which of these towns is located in the Kwali Area Council?",
+    "options": {
+      "A": "Zuba",
+      "B": "Yangoji",
+      "C": "Bwari",
+      "D": "Gwagwa"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 19,
+    "question": "What is the responsibility of the FCT Universal Basic Education Board (UBEB)?",
+    "options": {
+      "A": "Construction of hospitals",
+      "B": "Monitoring federal universities",
+      "C": "Overseeing primary and junior secondary education",
+      "D": "Collecting taxes"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 20,
+    "question": "The Millennium Tower is located in which district of Abuja?",
+    "options": {
+      "A": "Asokoro",
+      "B": "Central Business District",
+      "C": "Wuse",
+      "D": "Garki"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 21,
+    "question": "What is the primary goal of the Abuja Master Plan?",
+    "options": {
+      "A": "Promote tourism",
+      "B": "Guide the development of Abuja city",
+      "C": "Provide job opportunities",
+      "D": "Collect tax"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 22,
+    "question": "Which FCT agency is in charge of enforcing environmental laws?",
+    "options": {
+      "A": "NSCDC",
+      "B": "AEPB",
+      "C": "FERMA",
+      "D": "DSS"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 23,
+    "question": "Which Area Council in the FCT is closest to Nnamdi Azikiwe International Airport?",
+    "options": {
+      "A": "Kuje",
+      "B": "Bwari",
+      "C": "Abaji",
+      "D": "Kwali"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 24,
+    "question": "The National Assembly Complex is located in which part of Abuja?",
+    "options": {
+      "A": "Garki",
+      "B": "Wuse",
+      "C": "Three Arms Zone",
+      "D": "Gwagwalada"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 25,
+    "question": "Which of the following is not part of the six Area Councils in FCT?",
+    "options": {
+      "A": "Gwagwalada",
+      "B": "Bwari",
+      "C": "Nyanya",
+      "D": "Kuje"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 26,
+    "question": "Which FCT agency provides water supply to the city?",
+    "options": {
+      "A": "Water Corporation of Nigeria",
+      "B": "FCT Water Board",
+      "C": "Nigerian Dams Authority",
+      "D": "Abuja Municipal Works"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 27,
+    "question": "The FCT Fire Service operates under which department?",
+    "options": {
+      "A": "Federal Ministry of Interior",
+      "B": "FCDA",
+      "C": "AMMC",
+      "D": "FCTA"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 28,
+    "question": "Which FCT agency handles street naming and house numbering?",
+    "options": {
+      "A": "AMMC",
+      "B": "AEPB",
+      "C": "Department of Survey and Mapping",
+      "D": "Urban Affairs Department"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 29,
+    "question": "The Abuja Environmental Protection Board is directly under which FCT body?",
+    "options": {
+      "A": "FCT Water Board",
+      "B": "Abuja Municipal Council",
+      "C": "FCT Administration",
+      "D": "Ministry of Environment"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 30,
+    "question": "Gwagwalada Specialist Hospital is managed by which authority?",
+    "options": {
+      "A": "Federal Ministry of Health",
+      "B": "FCTA Health Secretariat",
+      "C": "AMMC",
+      "D": "NPHCDA"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 31,
+    "question": "What type of governance structure exists in the FCT?",
+    "options": {
+      "A": "State and Local Government",
+      "B": "Ministerial and Area Councils",
+      "C": "Presidential and State Assemblies",
+      "D": "Local and Regional Governance"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 32,
+    "question": "Which FCT department handles land allocation?",
+    "options": {
+      "A": "Urban and Regional Planning",
+      "B": "Lands Administration Department",
+      "C": "Survey and Mapping Department",
+      "D": "Development Control"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 33,
+    "question": "The Federal Capital Development Authority (FCDA) is under which umbrella?",
+    "options": {
+      "A": "Ministry of Interior",
+      "B": "FCT Administration",
+      "C": "Ministry of Environment",
+      "D": "Nigerian Urban Development Council"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 34,
+    "question": "Which of these is a function of the Abuja Geographical Information System (AGIS)?",
+    "options": {
+      "A": "Road design",
+      "B": "Issuance of Certificates of Occupancy",
+      "C": "Health inspection",
+      "D": "Waste evacuation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 35,
+    "question": "What year was the FCT created?",
+    "options": {
+      "A": "1960",
+      "B": "1976",
+      "C": "1991",
+      "D": "1983"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 36,
+    "question": "Who approves the appointments of Area Council Chairmen?",
+    "options": {
+      "A": "National Assembly",
+      "B": "INEC through elections",
+      "C": "FCT Minister",
+      "D": "Local Chiefs"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 37,
+    "question": "Which FCT agency regulates traffic and transportation matters?",
+    "options": {
+      "A": "DRTS",
+      "B": "FERMA",
+      "C": "NURTW",
+      "D": "VON"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 38,
+    "question": "What is the full meaning of DRTS?",
+    "options": {
+      "A": "Directorate of Rural Transport Services",
+      "B": "Department of Road Transport Services",
+      "C": "Directorate of Road Traffic Services",
+      "D": "Department of Rural Traffic Strategy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 39,
+    "question": "Where is the main campus of the University of Abuja located?",
+    "options": {
+      "A": "Asokoro",
+      "B": "Gwagwalada",
+      "C": "Kubwa",
+      "D": "Nyanya"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 40,
+    "question": "Which agency handles development control and urban regulation in FCT?",
+    "options": {
+      "A": "Urban Renewal Board",
+      "B": "Town Planning Council",
+      "C": "Department of Development Control",
+      "D": "Building Monitoring Unit"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 41,
+    "question": "What is the role of the Abuja Investment Company Limited (AICL)?",
+    "options": {
+      "A": "Issuing building permits",
+      "B": "Urban security",
+      "C": "Promoting investment and public-private partnerships",
+      "D": "Land acquisition"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 42,
+    "question": "Which of these areas is known as a satellite town in the FCT?",
+    "options": {
+      "A": "Maitama",
+      "B": "Wuse",
+      "C": "Nyanya",
+      "D": "Asokoro"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 43,
+    "question": "Which Area Council houses the town of Bwari?",
+    "options": {
+      "A": "Gwagwalada",
+      "B": "Kwali",
+      "C": "Bwari",
+      "D": "Kuje"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 44,
+    "question": "The Abuja light rail connects which locations?",
+    "options": {
+      "A": "Wuse to Garki",
+      "B": "Airport to Central Area",
+      "C": "Kubwa to Karshi",
+      "D": "Nyanya to Apo"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 45,
+    "question": "What document guides physical planning in the FCT?",
+    "options": {
+      "A": "Land Use Act",
+      "B": "National Policy on Housing",
+      "C": "Abuja Master Plan",
+      "D": "Urban Development Charter"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 46,
+    "question": "The Satellite Towns Development Department (STDD) was created to?",
+    "options": {
+      "A": "Collect taxes in rural areas",
+      "B": "Oversee development in outskirts of Abuja",
+      "C": "Manage all educational institutions",
+      "D": "Handle power supply"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 47,
+    "question": "Who chairs the FCT Executive Committee?",
+    "options": {
+      "A": "Secretary to FCTA",
+      "B": "Head of Service",
+      "C": "FCT Minister",
+      "D": "Permanent Secretary"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 48,
+    "question": "The Social Development Secretariat in the FCTA is responsible for?",
+    "options": {
+      "A": "Oil exploration",
+      "B": "Security coordination",
+      "C": "Youth and social welfare matters",
+      "D": "Construction permits"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 49,
+    "question": "Which of these is not a district in Abuja?",
+    "options": {
+      "A": "Apo",
+      "B": "Garki",
+      "C": "Zuba",
+      "D": "Wadata"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 50,
+    "question": "Where is the National Mosque in Abuja located?",
+    "options": {
+      "A": "Asokoro",
+      "B": "Wuse",
+      "C": "Central Area",
+      "D": "Kubwa"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 51,
+    "question": "What is the primary law that regulates land in the FCT?",
+    "options": {
+      "A": "Urban Planning Code",
+      "B": "Federal Capital Territory Act",
+      "C": "Land Use Act of 1978",
+      "D": "Master Plan Implementation Guide"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 52,
+    "question": "Who heads each Secretariat, Department, or Agency (SDA) in the FCTA?",
+    "options": {
+      "A": "Chairman",
+      "B": "Director",
+      "C": "Commissioner",
+      "D": "Permanent Secretary"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 53,
+    "question": "FCT operates under a structure known as?",
+    "options": {
+      "A": "Ministry model",
+      "B": "State model",
+      "C": "Secretariat model",
+      "D": "Executive governor model"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 54,
+    "question": "Which FCT department oversees resettlement and compensation?",
+    "options": {
+      "A": "Rural Affairs",
+      "B": "Resettlement and Compensation Department",
+      "C": "Urban Renewal",
+      "D": "Lands and Housing"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 55,
+    "question": "What is the role of the Department of Monitoring and Inspection in FCT?",
+    "options": {
+      "A": "Monitor elections",
+      "B": "Inspect vehicles",
+      "C": "Track project implementation",
+      "D": "Inspect buildings for safety"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 56,
+    "question": "Which FCT agency supervises the Abuja Urban Mass Transport Company (AUMTCO)?",
+    "options": {
+      "A": "Transportation Secretariat",
+      "B": "Works Department",
+      "C": "AMMC",
+      "D": "Security Service"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 57,
+    "question": "The FCT Department of Parks and Recreation manages?",
+    "options": {
+      "A": "Police stations",
+      "B": "Public transport",
+      "C": "Green areas and parks",
+      "D": "Shopping malls"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 58,
+    "question": "Which hospital is a federal tertiary institution in FCT?",
+    "options": {
+      "A": "Nyanya General Hospital",
+      "B": "Gwarinpa Hospital",
+      "C": "National Hospital Abuja",
+      "D": "Karu Hospital"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 59,
+    "question": "What is the official website of the FCT Administration?",
+    "options": {
+      "A": "www.fctnigeria.gov.ng",
+      "B": "www.fcda.org",
+      "C": "www.fcta.gov.ng",
+      "D": "www.fctministry.gov"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 60,
+    "question": "What is the abbreviation for Abuja Environmental Protection Board?",
+    "options": {
+      "A": "AEPB",
+      "B": "AEPC",
+      "C": "AUBB",
+      "D": "ABEB"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 61,
+    "question": "What is the main role of the Legal Services Secretariat in FCTA?",
+    "options": {
+      "A": "Oversee police cases",
+      "B": "Handle legal documentation and advice",
+      "C": "Arrest offenders",
+      "D": "Manage courts"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 62,
+    "question": "What does FCDA stand for?",
+    "options": {
+      "A": "Federal Council for Development Affairs",
+      "B": "Federal Capital Development Authority",
+      "C": "Federation of Capital District Authorities",
+      "D": "Federal Commission for Development Activities"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 63,
+    "question": "Which Area Council is known for being the largest by landmass?",
+    "options": {
+      "A": "Kwali",
+      "B": "Kuje",
+      "C": "Gwagwalada",
+      "D": "Abaji"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 64,
+    "question": "The Department of Facility Maintenance and Management is responsible for?",
+    "options": {
+      "A": "Hosting meetings",
+      "B": "Issuing contracts",
+      "C": "Maintaining government buildings and infrastructure",
+      "D": "Managing electricity"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 65,
+    "question": "The FCT Police Command is under which national body?",
+    "options": {
+      "A": "FCTA",
+      "B": "Ministry of Defence",
+      "C": "Nigeria Police Force",
+      "D": "NSCDC"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 66,
+    "question": "Which district is closest to the Presidential Villa?",
+    "options": {
+      "A": "Wuse",
+      "B": "Asokoro",
+      "C": "Garki",
+      "D": "Jabi"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 67,
+    "question": "The FCT Minister reports directly to?",
+    "options": {
+      "A": "National Assembly",
+      "B": "Chief Justice",
+      "C": "President of Nigeria",
+      "D": "Senate President"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 68,
+    "question": "Who is responsible for refuse collection in the FCT?",
+    "options": {
+      "A": "FERMA",
+      "B": "AEPB",
+      "C": "Development Control",
+      "D": "DSS"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 69,
+    "question": "What agency manages major markets like Wuse and Garki Markets?",
+    "options": {
+      "A": "Abuja Investment Company",
+      "B": "Abuja Market Management Limited",
+      "C": "FCDA",
+      "D": "FCTA Treasury"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 70,
+    "question": "The traditional leadership structure in FCT includes which of the following?",
+    "options": {
+      "A": "Sultans",
+      "B": "Chiefs and Emirs",
+      "C": "Ward Leaders",
+      "D": "Zonal Commanders"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 71,
+    "question": "Which institution regulates public health activities in FCT?",
+    "options": {
+      "A": "Primary Healthcare Board",
+      "B": "Health and Human Services Secretariat",
+      "C": "Ministry of Health",
+      "D": "AMMC"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 72,
+    "question": "What is the capital city of the FCT?",
+    "options": {
+      "A": "Gwagwalada",
+      "B": "Abuja",
+      "C": "Kuje",
+      "D": "Suleja"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 73,
+    "question": "The Abuja Geographic Information System (AGIS) was created to?",
+    "options": {
+      "A": "Train surveyors",
+      "B": "Manage land-related data and documents",
+      "C": "Allocate farms",
+      "D": "Conduct elections"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 74,
+    "question": "The FCT Judiciary operates at what level?",
+    "options": {
+      "A": "Federal only",
+      "B": "State level",
+      "C": "Area Council level",
+      "D": "Customary and Magistrate Courts"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 75,
+    "question": "What is the focus of the FCT Agriculture and Rural Development Secretariat?",
+    "options": {
+      "A": "Trade",
+      "B": "Rural farming and development",
+      "C": "Urban planning",
+      "D": "Energy management"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 76,
+    "question": "Which area in Abuja is home to several embassies?",
+    "options": {
+      "A": "Garki",
+      "B": "Wuse",
+      "C": "Central Area",
+      "D": "Maitama"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 77,
+    "question": "What is the role of the Education Secretariat in FCT?",
+    "options": {
+      "A": "Teaching in universities",
+      "B": "Managing private institutions",
+      "C": "Oversight of public education system",
+      "D": "Budget preparation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 78,
+    "question": "Where is the FCT High Court headquarters located?",
+    "options": {
+      "A": "Maitama",
+      "B": "Garki",
+      "C": "Asokoro",
+      "D": "Wuse"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 79,
+    "question": "The Department of Mass Housing is responsible for?",
+    "options": {
+      "A": "Providing loans",
+      "B": "Coordinating large-scale residential housing projects",
+      "C": "Monitoring contractors",
+      "D": "Rebuilding roads"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 80,
+    "question": "Which body is in charge of security coordination in FCT?",
+    "options": {
+      "A": "Police Command",
+      "B": "FCT Security Committee",
+      "C": "DSS",
+      "D": "Nigeria Army"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 81,
+    "question": "Which Area Council is closest to Nasarawa State?",
+    "options": {
+      "A": "Abuja Municipal",
+      "B": "Gwagwalada",
+      "C": "Karshi",
+      "D": "Abaji"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 82,
+    "question": "Which FCT body conducts physical inspections for building compliance?",
+    "options": {
+      "A": "AEPB",
+      "B": "FCDA",
+      "C": "Department of Development Control",
+      "D": "AGIS"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 83,
+    "question": "The Transport Secretariat manages which of the following?",
+    "options": {
+      "A": "Road construction contracts",
+      "B": "Licensing of intercity vehicles",
+      "C": "Traffic light installations",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 84,
+    "question": "The Abuja Technology Village is located in which area?",
+    "options": {
+      "A": "Garki",
+      "B": "Wuse",
+      "C": "Lugbe",
+      "D": "Galadimawa"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 85,
+    "question": "What is the role of the Women Affairs Department in FCT?",
+    "options": {
+      "A": "Women education only",
+      "B": "Skills training and empowerment of women",
+      "C": "Social media monitoring",
+      "D": "Child birth registration"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 86,
+    "question": "Who supervises all SDAs in the FCT?",
+    "options": {
+      "A": "Director of Service",
+      "B": "Chief of Staff",
+      "C": "FCT Minister",
+      "D": "Secretary to the Government"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 87,
+    "question": "What is the purpose of the FCT Budget and Planning Department?",
+    "options": {
+      "A": "Road supervision",
+      "B": "Resource mobilization",
+      "C": "Budget preparation and implementation",
+      "D": "Market regulation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 88,
+    "question": "Which secretariat manages the FCT scholarship scheme?",
+    "options": {
+      "A": "Finance Secretariat",
+      "B": "Education Secretariat",
+      "C": "Area Council Service Secretariat",
+      "D": "Youth and Social Development Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 89,
+    "question": "In what year did the FCT commence operations from Abuja?",
+    "options": {
+      "A": "1976",
+      "B": "1980",
+      "C": "1991",
+      "D": "1993"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 90,
+    "question": "The official residence of the President in FCT is called?",
+    "options": {
+      "A": "Presidential Quarters",
+      "B": "National Mansion",
+      "C": "Aso Rock Villa",
+      "D": "Commander\u2019s Residence"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 91,
+    "question": "Which area is best known for government office complexes?",
+    "options": {
+      "A": "Central Area",
+      "B": "Jabi",
+      "C": "Gwagwalada",
+      "D": "Bwari"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 92,
+    "question": "The FCT operates under how many Senatorial Districts?",
+    "options": {
+      "A": "3",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 93,
+    "question": "What is the function of the Social Welfare Department?",
+    "options": {
+      "A": "Business registration",
+      "B": "Helping vulnerable citizens and children",
+      "C": "Criminal prosecution",
+      "D": "Road inspection"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 94,
+    "question": "What is the FCTA official responsibility regarding federal roads in Abuja?",
+    "options": {
+      "A": "Road ownership",
+      "B": "Taxation",
+      "C": "Road maintenance",
+      "D": "None"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 95,
+    "question": "Which of these towns is in the Kuje Area Council?",
+    "options": {
+      "A": "Gwagwa",
+      "B": "Gaube",
+      "C": "Wuse",
+      "D": "Apo"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 96,
+    "question": "FCT residents vote for which of the following positions?",
+    "options": {
+      "A": "President, Senator, House of Reps, and Area Council Chairman",
+      "B": "Governor and House of Assembly",
+      "C": "Councillor and State Representative",
+      "D": "Senator and Governor"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 97,
+    "question": "What department is in charge of electricity infrastructure in FCT?",
+    "options": {
+      "A": "Abuja Electricity Distribution Company",
+      "B": "Energy Secretariat",
+      "C": "Works and Infrastructure Department",
+      "D": "Power and Renewable Energy Department"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 98,
+    "question": "What is the significance of the Three Arms Zone?",
+    "options": {
+      "A": "Educational hub",
+      "B": "Residential estates",
+      "C": "Houses the legislative, executive and judicial branches",
+      "D": "Shopping centre"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 99,
+    "question": "Which part of Abuja is known for entertainment and leisure hubs?",
+    "options": {
+      "A": "Wuse II",
+      "B": "Garki II",
+      "C": "Area 11",
+      "D": "Mpape"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "The main purpose of the FCT Urban and Regional Planning Department is?",
+    "options": {
+      "A": "Grant driver\u2019s licenses",
+      "B": "Allocate shops",
+      "C": "Plan and manage land use in the city",
+      "D": "Offer land survey services"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 101,
+    "question": "What is the FCT IRS responsible for?",
+    "options": {
+      "A": "Land sales",
+      "B": "Environmental services",
+      "C": "Revenue and tax collection",
+      "D": "Judicial appeals"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 102,
+    "question": "Which FCT department ensures safety compliance on construction sites?",
+    "options": {
+      "A": "AEPB",
+      "B": "DRTS",
+      "C": "Development Control",
+      "D": "Fire Service"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 103,
+    "question": "Which FCT secretariat is in charge of street lighting projects?",
+    "options": {
+      "A": "Health Secretariat",
+      "B": "Education Secretariat",
+      "C": "Works and Infrastructure Secretariat",
+      "D": "Environment Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 104,
+    "question": "What type of court is primarily used for customary matters in the FCT?",
+    "options": {
+      "A": "Appeal Court",
+      "B": "Magistrate Court",
+      "C": "Customary Court",
+      "D": "Supreme Court"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 105,
+    "question": "The Abuja Light Rail was commissioned to improve what?",
+    "options": {
+      "A": "Electricity distribution",
+      "B": "Agricultural practices",
+      "C": "Public transportation",
+      "D": "Environmental awareness"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 106,
+    "question": "What does FCTA stand for?",
+    "options": {
+      "A": "Federal Central Technical Authority",
+      "B": "Federal Capital Territory Association",
+      "C": "Federal Capital Territory Administration",
+      "D": "Federal Communication and Transportation Agency"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 107,
+    "question": "The FCT Youth Development Department is concerned with?",
+    "options": {
+      "A": "Taxation",
+      "B": "Empowering young people through skills and programs",
+      "C": "Elderly care",
+      "D": "Security training"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 108,
+    "question": "The FCT Budget is approved by?",
+    "options": {
+      "A": "National Assembly",
+      "B": "FCT House of Assembly",
+      "C": "Area Councils",
+      "D": "Federal Ministry of Finance"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 109,
+    "question": "What is the key function of the FCT Department of Surveying and Mapping?",
+    "options": {
+      "A": "Print topographic maps",
+      "B": "Issue birth certificates",
+      "C": "Manage community disputes",
+      "D": "Conduct population census"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 110,
+    "question": "Which body conducts Area Council elections in FCT?",
+    "options": {
+      "A": "FCTA",
+      "B": "AMAC",
+      "C": "INEC",
+      "D": "Ministry of Interior"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 111,
+    "question": "FCT boundary touches all of the following states except?",
+    "options": {
+      "A": "Niger",
+      "B": "Nasarawa",
+      "C": "Kaduna",
+      "D": "Benue"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 112,
+    "question": "What is the official regulatory agency for transport signage in FCT?",
+    "options": {
+      "A": "FERMA",
+      "B": "DOAS",
+      "C": "NURTW",
+      "D": "VIO"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 113,
+    "question": "What does the FCDA primarily oversee?",
+    "options": {
+      "A": "Agricultural development",
+      "B": "Rural electrification",
+      "C": "Physical development of the FCT",
+      "D": "Electoral processes"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 114,
+    "question": "What is the function of the FCT Fire Service?",
+    "options": {
+      "A": "Arrest suspects",
+      "B": "Issue business licenses",
+      "C": "Prevent and fight fire outbreaks",
+      "D": "Handle medical services"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 115,
+    "question": "The FCT Health and Human Services Secretariat oversees which of the following?",
+    "options": {
+      "A": "Billboard installations",
+      "B": "Schools and colleges",
+      "C": "Hospitals and primary healthcare",
+      "D": "Road maintenance"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 116,
+    "question": "Which agency is responsible for signage regulation in FCT?",
+    "options": {
+      "A": "AGIS",
+      "B": "DOAS",
+      "C": "DRTS",
+      "D": "FERMA"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 117,
+    "question": "What is a major function of AGIS in Abuja?",
+    "options": {
+      "A": "Building roads",
+      "B": "Land documentation and GIS mapping",
+      "C": "Voter registration",
+      "D": "Legal advisory"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 118,
+    "question": "Which agency maintains the green areas in Abuja city?",
+    "options": {
+      "A": "DRTS",
+      "B": "AEPB",
+      "C": "FCDA",
+      "D": "Works Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 119,
+    "question": "Which of the following areas is considered a resettlement town in FCT?",
+    "options": {
+      "A": "Karshi",
+      "B": "Jabi",
+      "C": "Apo",
+      "D": "Asokoro"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 120,
+    "question": "The AMMC is responsible for which of the following?",
+    "options": {
+      "A": "Issuing building permits",
+      "B": "School inspections",
+      "C": "Urban infrastructure management",
+      "D": "Currency exchange"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 121,
+    "question": "What agency handles Certificates of Occupancy in FCT?",
+    "options": {
+      "A": "AEPB",
+      "B": "AGIS",
+      "C": "DRTS",
+      "D": "FCDA"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 122,
+    "question": "Which department handles sanitation enforcement in FCT markets?",
+    "options": {
+      "A": "DRTS",
+      "B": "Health Secretariat",
+      "C": "AEPB",
+      "D": "DOAS"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 123,
+    "question": "What is the main role of the Education Resource Centre (ERC) in FCT?",
+    "options": {
+      "A": "Distribution of foreign books",
+      "B": "Training teachers and supporting curriculum development",
+      "C": "Running private schools",
+      "D": "Conducting WAEC exams"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 124,
+    "question": "Which area is known as Abuja\u2019s diplomatic zone?",
+    "options": {
+      "A": "Jabi",
+      "B": "Wuse",
+      "C": "Maitama",
+      "D": "Apo"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 125,
+    "question": "Who has the authority to approve land allocation in the FCT?",
+    "options": {
+      "A": "DRTS",
+      "B": "National Assembly",
+      "C": "Minister of FCT",
+      "D": "Senate President"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 126,
+    "question": "The Department of Reform Coordination and Service Improvement handles?",
+    "options": {
+      "A": "Service delivery monitoring and improvement",
+      "B": "Sanitation inspections",
+      "C": "Religious affairs",
+      "D": "Cultural events"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 127,
+    "question": "What function does the Abuja Markets Management Ltd perform?",
+    "options": {
+      "A": "Conduct elections",
+      "B": "Operate government hospitals",
+      "C": "Manage public markets and facilities",
+      "D": "Supervise rural roads"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 128,
+    "question": "Who prepares the annual budget for the FCTA?",
+    "options": {
+      "A": "FCDA",
+      "B": "Budget and Planning Department",
+      "C": "INEC",
+      "D": "Education Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 129,
+    "question": "The Urban Mass Transit Scheme was designed to?",
+    "options": {
+      "A": "Employ graduates",
+      "B": "Improve sanitation",
+      "C": "Reduce transport challenges",
+      "D": "Train mechanics"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 130,
+    "question": "Which Area Council hosts the National Youth Service Corps (NYSC) Orientation Camp in FCT?",
+    "options": {
+      "A": "Bwari",
+      "B": "Gwagwalada",
+      "C": "Kuje",
+      "D": "Kwali"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 131,
+    "question": "The National Christian Centre in Abuja is located in which area?",
+    "options": {
+      "A": "Wuse",
+      "B": "Central Area",
+      "C": "Maitama",
+      "D": "Jabi"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 132,
+    "question": "Which Abuja district is known for high-end hotels and government lodges?",
+    "options": {
+      "A": "Karu",
+      "B": "Garki",
+      "C": "Maitama",
+      "D": "Nyanya"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 133,
+    "question": "Which department handles the FCT Servicom Unit?",
+    "options": {
+      "A": "Legal Department",
+      "B": "Office of the Head of Service",
+      "C": "Reform Coordination and Service Improvement",
+      "D": "Internal Audit"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 134,
+    "question": "Which of the following is under the Health and Human Services Secretariat?",
+    "options": {
+      "A": "Parks and Gardens",
+      "B": "Gwarinpa General Hospital",
+      "C": "AMAC Secretariat",
+      "D": "Education Resource Centre"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 135,
+    "question": "What is the function of the FCT Internal Audit Department?",
+    "options": {
+      "A": "Monitor civil servants",
+      "B": "Track environmental crimes",
+      "C": "Check financial records and compliance",
+      "D": "Manage road projects"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 136,
+    "question": "What is the Abuja Municipal Area Council (AMAC) responsible for?",
+    "options": {
+      "A": "Foreign affairs",
+      "B": "Federal road maintenance",
+      "C": "Local governance and grassroots development",
+      "D": "Electricity regulation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 137,
+    "question": "The National Children\u2019s Park and Zoo is located in which area of Abuja?",
+    "options": {
+      "A": "Jabi",
+      "B": "Asokoro",
+      "C": "Maitama",
+      "D": "Central Area"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 138,
+    "question": "The FCT Social Development Secretariat supervises which of the following?",
+    "options": {
+      "A": "Taxation",
+      "B": "Sports and recreation",
+      "C": "Airport operations",
+      "D": "Electoral matters"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 139,
+    "question": "What is the function of the Department of Information and Communication?",
+    "options": {
+      "A": "Manage press releases and public communication",
+      "B": "Build ICT centres",
+      "C": "Deliver packages",
+      "D": "Manage elections"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 140,
+    "question": "What area in Abuja is most associated with informal settlements?",
+    "options": {
+      "A": "Garki",
+      "B": "Mpape",
+      "C": "Asokoro",
+      "D": "Utako"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 141,
+    "question": "The FCT Emergency Management Agency (FEMA) works primarily on?",
+    "options": {
+      "A": "Road construction",
+      "B": "Election coordination",
+      "C": "Disaster preparedness and response",
+      "D": "Educational inspection"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 142,
+    "question": "In which year did the FCT begin railway operations?",
+    "options": {
+      "A": "2009",
+      "B": "2013",
+      "C": "2018",
+      "D": "2016"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 143,
+    "question": "The major highway linking FCT to Kaduna is called?",
+    "options": {
+      "A": "Airport Road",
+      "B": "Lokoja Expressway",
+      "C": "Abuja-Kaduna Expressway",
+      "D": "Outer Northern Expressway"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 144,
+    "question": "Which FCT body is responsible for monitoring SDG implementation?",
+    "options": {
+      "A": "FCT Planning Commission",
+      "B": "Budget and Planning Department",
+      "C": "SDG Unit in Reform Coordination Department",
+      "D": "AMMC"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 145,
+    "question": "The biggest motor park in Abuja is located where?",
+    "options": {
+      "A": "Area 1",
+      "B": "Jabi",
+      "C": "Zuba",
+      "D": "Berger Junction"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 146,
+    "question": "Which town in FCT is famous for its pottery works?",
+    "options": {
+      "A": "Karshi",
+      "B": "Kwali",
+      "C": "Karu",
+      "D": "Kuje"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 147,
+    "question": "The FCT Department of Public Buildings is under which Secretariat?",
+    "options": {
+      "A": "Works and Infrastructure",
+      "B": "Housing and Urban Development",
+      "C": "AMMC",
+      "D": "Treasury"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 148,
+    "question": "The Central Bank of Nigeria headquarters is located in which area of Abuja?",
+    "options": {
+      "A": "Asokoro",
+      "B": "Central Area",
+      "C": "Maitama",
+      "D": "Garki"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 149,
+    "question": "Which department enforces anti-hawking laws in FCT?",
+    "options": {
+      "A": "Health Secretariat",
+      "B": "DOAS",
+      "C": "AEPB",
+      "D": "DRTS"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 150,
+    "question": "The FCT Department of Protocol handles?",
+    "options": {
+      "A": "International treaties",
+      "B": "Guests and event logistics for official ceremonies",
+      "C": "Police training",
+      "D": "Legislative scheduling"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 151,
+    "question": "Which road connects Nnamdi Azikiwe Airport to the city centre?",
+    "options": {
+      "A": "Kubwa Expressway",
+      "B": "Airport Expressway",
+      "C": "Gwarinpa Road",
+      "D": "Galadimawa Highway"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 152,
+    "question": "What department handles flood control in the FCT?",
+    "options": {
+      "A": "Department of Development Control",
+      "B": "Water Board",
+      "C": "Public Utilities Department",
+      "D": "Engineering Services of FCDA"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 153,
+    "question": "The Gwarinpa Housing Estate is managed by which body?",
+    "options": {
+      "A": "FCDA",
+      "B": "FHA",
+      "C": "AMMC",
+      "D": "STDD"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 154,
+    "question": "The Department of Urban and Regional Planning is tasked with?",
+    "options": {
+      "A": "Resettlement design",
+      "B": "Ensuring orderly development and zoning",
+      "C": "Managing outdoor events",
+      "D": "Issuing driver\u2019s licenses"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 155,
+    "question": "What is the main function of the FCT Archives and History Bureau?",
+    "options": {
+      "A": "Broadcast news",
+      "B": "Secure historical records and materials",
+      "C": "Train journalists",
+      "D": "Deliver reports to Senate"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 156,
+    "question": "The Abuja Centenary Village project was initiated to?",
+    "options": {
+      "A": "Build a school",
+      "B": "Celebrate Nigeria\u2019s 100 years",
+      "C": "Open a museum",
+      "D": "Relocate a prison"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 157,
+    "question": "What is the main objective of Abuja Enterprise Agency (AEA)?",
+    "options": {
+      "A": "Provide market stalls",
+      "B": "Issue driver\u2019s licenses",
+      "C": "Support entrepreneurship and SMEs",
+      "D": "Build hospitals"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 158,
+    "question": "Who conducts fire drills in public buildings in FCT?",
+    "options": {
+      "A": "Nigeria Police",
+      "B": "Fire Service Department",
+      "C": "AMAC Security",
+      "D": "NSCDC"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 159,
+    "question": "Which secretariat manages youth football tournaments in the FCT?",
+    "options": {
+      "A": "Sports and Development Secretariat",
+      "B": "Youth and Social Development Secretariat",
+      "C": "Education Secretariat",
+      "D": "Public Safety Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 160,
+    "question": "What is the role of the FCT Public Complaints Commission?",
+    "options": {
+      "A": "Investigate consumer complaints against telecoms",
+      "B": "Address grievances from citizens against government bodies",
+      "C": "Provide legal representation",
+      "D": "Collect fines"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 161,
+    "question": "Which Abuja district is home to the Supreme Court of Nigeria?",
+    "options": {
+      "A": "Wuse",
+      "B": "Maitama",
+      "C": "Central Area",
+      "D": "Garki"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 162,
+    "question": "What is the function of the Department of Engineering Services in FCDA?",
+    "options": {
+      "A": "Build schools",
+      "B": "Design and supervise civil engineering works",
+      "C": "Manage hospitals",
+      "D": "Issue passports"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 163,
+    "question": "What does the FCT Mass Housing Scheme aim to achieve?",
+    "options": {
+      "A": "Provide free houses to politicians",
+      "B": "Increase residential housing units for the public",
+      "C": "Develop only rural communities",
+      "D": "Build only student hostels"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 164,
+    "question": "Which of these FCT bodies oversees land titling?",
+    "options": {
+      "A": "Lands Department",
+      "B": "Survey Department",
+      "C": "Department of Urban Renewal",
+      "D": "Department of Housing"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 165,
+    "question": "The FCT Minister is appointed by whom?",
+    "options": {
+      "A": "National Assembly",
+      "B": "Civil Service Commission",
+      "C": "President of Nigeria",
+      "D": "Head of Civil Service"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 166,
+    "question": "Which area in FCT is popularly known as a transport hub for interstate buses?",
+    "options": {
+      "A": "Gwarinpa",
+      "B": "Utako",
+      "C": "Kubwa",
+      "D": "Lugbe"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 167,
+    "question": "The FCT Treasury Department is responsible for?",
+    "options": {
+      "A": "Providing scholarships",
+      "B": "Managing financial resources and payment systems",
+      "C": "Issuing licenses",
+      "D": "Training civil engineers"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 168,
+    "question": "The Parks and Recreation Department in AMMC manages which of the following?",
+    "options": {
+      "A": "Building construction",
+      "B": "Open green spaces and relaxation parks",
+      "C": "City surveillance",
+      "D": "Traffic lights"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 169,
+    "question": "The FCT Committee on Illegal Structures is coordinated by?",
+    "options": {
+      "A": "DRTS",
+      "B": "Development Control Department",
+      "C": "Police Command",
+      "D": "Emergency Management Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 170,
+    "question": "The Abuja Urban Mass Transport Company is owned by?",
+    "options": {
+      "A": "Private investors",
+      "B": "Ministry of Transportation",
+      "C": "FCTA",
+      "D": "National Union of Road Transport Workers"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 171,
+    "question": "Which council in FCT shares boundary with Niger State?",
+    "options": {
+      "A": "Kwali",
+      "B": "Bwari",
+      "C": "Kuje",
+      "D": "Karshi"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 172,
+    "question": "What is the core responsibility of the Department of Outdoor Advertisement and Signage?",
+    "options": {
+      "A": "Monitor telecom masts",
+      "B": "Regulate and control signage and billboards",
+      "C": "Broadcast emergency messages",
+      "D": "Collect radio licenses"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 173,
+    "question": "What does the FCT Satellite Towns Development Department (STDD) primarily focus on?",
+    "options": {
+      "A": "Border control",
+      "B": "Urban beautification",
+      "C": "Infrastructure development in satellite towns",
+      "D": "Medical outreach"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 174,
+    "question": "What is the function of the FCT Department of Resettlement and Compensation?",
+    "options": {
+      "A": "Pay civil servants\u2019 salaries",
+      "B": "Relocate and compensate displaced persons",
+      "C": "Provide birth certificates",
+      "D": "Collect income tax"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 175,
+    "question": "The FCT Area Council Service Commission supervises?",
+    "options": {
+      "A": "The construction of houses",
+      "B": "The appointments and discipline of Area Council staff",
+      "C": "Internally generated revenue",
+      "D": "Street lighting"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 176,
+    "question": "The Zuba Fruit Market is located in which Area Council?",
+    "options": {
+      "A": "Bwari",
+      "B": "Gwagwalada",
+      "C": "Kwali",
+      "D": "Abaji"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 177,
+    "question": "Which secretariat is responsible for public primary and secondary schools in FCT?",
+    "options": {
+      "A": "Health Secretariat",
+      "B": "Social Development Secretariat",
+      "C": "Education Secretariat",
+      "D": "Area Council Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 178,
+    "question": "The public cemeteries in FCT are managed by?",
+    "options": {
+      "A": "DRTS",
+      "B": "AEPB",
+      "C": "Parks and Recreation",
+      "D": "Social Development Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 179,
+    "question": "What agency ensures fire safety standards in public structures in Abuja?",
+    "options": {
+      "A": "DRTS",
+      "B": "DSS",
+      "C": "Fire Service Department",
+      "D": "AMMC"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 180,
+    "question": "The Abuja City Gate is located along which route?",
+    "options": {
+      "A": "Kubwa Expressway",
+      "B": "Airport Road",
+      "C": "Karshi Road",
+      "D": "Zuba Bypass"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 181,
+    "question": "The National Stadium in Abuja is situated in which area?",
+    "options": {
+      "A": "Garki",
+      "B": "Jabi",
+      "C": "Central Business District",
+      "D": "Wuye"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 182,
+    "question": "The Abuja Master Plan was adopted in which year?",
+    "options": {
+      "A": "1979",
+      "B": "1991",
+      "C": "1987",
+      "D": "1976"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 183,
+    "question": "The FCT Administration operates under which Nigerian law?",
+    "options": {
+      "A": "FCT Administration Act",
+      "B": "Nigerian Urban Code",
+      "C": "National Government Charter",
+      "D": "FCT Decree No. 6 of 1976"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 184,
+    "question": "What does the Urban Renewal Unit in FCT do?",
+    "options": {
+      "A": "Build new towns",
+      "B": "Renovate and upgrade old city areas",
+      "C": "Construct highways",
+      "D": "Organize trade fairs"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 185,
+    "question": "The National Library of Nigeria in FCT is located in?",
+    "options": {
+      "A": "Jabi",
+      "B": "Garki",
+      "C": "Central Area",
+      "D": "Wuse"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 186,
+    "question": "The public transport vehicles managed by AUMTCO are branded in what color?",
+    "options": {
+      "A": "Yellow and Black",
+      "B": "Green and White",
+      "C": "Blue and White",
+      "D": "Red and Grey"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 187,
+    "question": "The International Conference Centre in Abuja is found in which district?",
+    "options": {
+      "A": "Central Area",
+      "B": "Maitama",
+      "C": "Garki",
+      "D": "Asokoro"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 188,
+    "question": "Which FCT office prepares the Medium-Term Expenditure Framework (MTEF)?",
+    "options": {
+      "A": "Treasury",
+      "B": "Audit",
+      "C": "Budget and Planning Department",
+      "D": "SDG Office"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 189,
+    "question": "What agency issues fencing permits in FCT?",
+    "options": {
+      "A": "Parks and Gardens",
+      "B": "Development Control",
+      "C": "AMMC",
+      "D": "AEPB"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 190,
+    "question": "Which agency handles environmental health inspection in public schools?",
+    "options": {
+      "A": "AEPB",
+      "B": "Health Secretariat",
+      "C": "Development Control",
+      "D": "Education Secretariat"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 191,
+    "question": "The Abuja Carnival was created to?",
+    "options": {
+      "A": "Launch new TV stations",
+      "B": "Promote Abuja real estate",
+      "C": "Celebrate culture and tourism",
+      "D": "Promote sports"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 192,
+    "question": "Which agency in FCT regulates water production and sale by private vendors?",
+    "options": {
+      "A": "Water Board",
+      "B": "Public Health",
+      "C": "AEPB",
+      "D": "FCT Water Regulatory Unit"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 193,
+    "question": "What role does the Department of Monitoring and Evaluation play?",
+    "options": {
+      "A": "Conduct annual exams",
+      "B": "Monitor and assess project implementation",
+      "C": "Audit teachers\u2019 performance",
+      "D": "Register voters"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 194,
+    "question": "The FCT Minister has the power to revoke land titles based on?",
+    "options": {
+      "A": "Political disagreement",
+      "B": "Illegal property transactions",
+      "C": "Poor sanitation",
+      "D": "Outdated architectural style"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 195,
+    "question": "What secretariat manages road signs and street naming?",
+    "options": {
+      "A": "Information Secretariat",
+      "B": "Engineering Secretariat",
+      "C": "Transportation Secretariat",
+      "D": "Urban and Regional Planning Department"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 196,
+    "question": "The Public Building Department designs what kind of structures?",
+    "options": {
+      "A": "Hotels",
+      "B": "Government buildings and public facilities",
+      "C": "Private houses",
+      "D": "Car parks"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 197,
+    "question": "What unit handles resettlement disputes in FCT?",
+    "options": {
+      "A": "DSS",
+      "B": "Legal Department",
+      "C": "Resettlement and Compensation Department",
+      "D": "Housing Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 198,
+    "question": "Which council in FCT borders Kogi State?",
+    "options": {
+      "A": "Kwali",
+      "B": "Abaji",
+      "C": "Bwari",
+      "D": "Kuje"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 199,
+    "question": "The Abuja Environmental Protection Board has powers to prosecute?",
+    "options": {
+      "A": "Violators of health and environmental laws",
+      "B": "Bank defaulters",
+      "C": "Illegal hawkers only",
+      "D": "Land speculators"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 200,
+    "question": "Which Abuja market is most known for electronics and phone accessories?",
+    "options": {
+      "A": "Garki Market",
+      "B": "Karu Market",
+      "C": "Banex Plaza",
+      "D": "Utako Market"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 201,
+    "question": "What is the function of the FCT Public Enlightenment Unit?",
+    "options": {
+      "A": "Issue birth certificates",
+      "B": "Educate the public on policies, rights, and responsibilities",
+      "C": "Organize sports events",
+      "D": "Monitor election votes"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 202,
+    "question": "Which Area Council is Karu town located in?",
+    "options": {
+      "A": "Abaji",
+      "B": "Kwali",
+      "C": "Karshi",
+      "D": "AMAC"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 203,
+    "question": "The FCT Directorate of Road Traffic Services is also known as?",
+    "options": {
+      "A": "VIO",
+      "B": "LASTMA",
+      "C": "NSCDC",
+      "D": "DRT"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 204,
+    "question": "The Wuye District is primarily known for?",
+    "options": {
+      "A": "Timber market",
+      "B": "Industrial layout",
+      "C": "Residential development and government estates",
+      "D": "Rural farming"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 205,
+    "question": "The Department of Facilities Management ensures what?",
+    "options": {
+      "A": "Effective use and maintenance of government assets",
+      "B": "Food inspection",
+      "C": "Resettlement of farmers",
+      "D": "Hosting national festivals"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 206,
+    "question": "The FCT Department of Reform Coordination operates under which office?",
+    "options": {
+      "A": "Auditor-General",
+      "B": "Minister of State",
+      "C": "Office of the Permanent Secretary",
+      "D": "FCT Treasury"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 207,
+    "question": "Which of the following is a rural community in Kwali Area Council?",
+    "options": {
+      "A": "Deidei",
+      "B": "Pai",
+      "C": "Jabi",
+      "D": "Utako"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 208,
+    "question": "The FCT Vocational Training Centres are managed by?",
+    "options": {
+      "A": "Treasury Secretariat",
+      "B": "Area Council Service Secretariat",
+      "C": "Social Development Secretariat",
+      "D": "AMMC"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 209,
+    "question": "The Abuja Municipal Master Plan Review is undertaken by which agency?",
+    "options": {
+      "A": "AEPB",
+      "B": "FCDA",
+      "C": "AMAC",
+      "D": "DRTS"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 210,
+    "question": "Which satellite town is closest to the Nnamdi Azikiwe International Airport?",
+    "options": {
+      "A": "Karshi",
+      "B": "Zuba",
+      "C": "Lugbe",
+      "D": "Kubwa"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 211,
+    "question": "What is the function of the Urban Furniture Unit in FCT?",
+    "options": {
+      "A": "Designing playgrounds only",
+      "B": "Streetlight maintenance only",
+      "C": "Provision of benches, bus stops, and shelters",
+      "D": "Event decoration"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 212,
+    "question": "The Office of the Secretary in FCT Administration is equivalent to what in state governments?",
+    "options": {
+      "A": "Chief of Staff",
+      "B": "Attorney General",
+      "C": "Secretary to the State Government",
+      "D": "Local Government Chairman"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 213,
+    "question": "The Abuja metro line connects which of the following points?",
+    "options": {
+      "A": "Asokoro to Gwarimpa",
+      "B": "City Centre to Airport",
+      "C": "Garki to Karu",
+      "D": "Kubwa to Zuba"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 214,
+    "question": "The Nigeria Customs Headquarters is located in which district of FCT?",
+    "options": {
+      "A": "Jabi",
+      "B": "Asokoro",
+      "C": "Wuse",
+      "D": "Central Area"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 215,
+    "question": "The FCT Minister of State assists the Minister mainly in what area?",
+    "options": {
+      "A": "Foreign policy",
+      "B": "Technical and administrative duties",
+      "C": "Agricultural exports",
+      "D": "Defense operations"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 216,
+    "question": "What is the key role of the FCT ICT Department?",
+    "options": {
+      "A": "Repair computers only",
+      "B": "Monitor banking activities",
+      "C": "Drive digital transformation and e-government services",
+      "D": "Conduct census"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 217,
+    "question": "The Urban and Regional Planning Tribunal is empowered to?",
+    "options": {
+      "A": "Rule on election disputes",
+      "B": "Handle road accidents",
+      "C": "Decide on planning and building violations",
+      "D": "Issue land titles"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 218,
+    "question": "Which department ensures that government facilities in FCT are power-efficient?",
+    "options": {
+      "A": "Parks and Gardens",
+      "B": "Facilities Maintenance Department",
+      "C": "Energy Management Unit",
+      "D": "Urban Renewal Office"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 219,
+    "question": "The largest Area Council by population in the FCT is?",
+    "options": {
+      "A": "Bwari",
+      "B": "Kuje",
+      "C": "Kwali",
+      "D": "AMAC"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 220,
+    "question": "The FCT Scholarship Board offers assistance to?",
+    "options": {
+      "A": "Market women",
+      "B": "Police officers",
+      "C": "Indigent students in tertiary institutions",
+      "D": "Foreign diplomats"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 221,
+    "question": "Which public transport scheme was introduced to reduce commercial motorcycle operations in FCT?",
+    "options": {
+      "A": "NURTW Drive",
+      "B": "BRT Lite",
+      "C": "Urban Mass Transit Scheme",
+      "D": "Private Bus Connect"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 222,
+    "question": "The Abuja Sheraton Hotel is located in which district?",
+    "options": {
+      "A": "Maitama",
+      "B": "Wuse",
+      "C": "Garki",
+      "D": "Central Area"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 223,
+    "question": "Which department oversees the allocation of shops in government-built markets?",
+    "options": {
+      "A": "DRTS",
+      "B": "AEPB",
+      "C": "Abuja Markets Management Ltd",
+      "D": "DOAS"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 224,
+    "question": "What is the function of the Resettlement Scheme Unit in FCT?",
+    "options": {
+      "A": "Build luxury hotels",
+      "B": "Provide housing for displaced communities",
+      "C": "Sell government lands",
+      "D": "Establish mobile courts"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 225,
+    "question": "The Abuja Environmental Protection Board works under the coordination of which secretariat?",
+    "options": {
+      "A": "Education Secretariat",
+      "B": "Social Development Secretariat",
+      "C": "Health Secretariat",
+      "D": "Environment Secretariat"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 226,
+    "question": "The Legislative Arm of Area Councils in FCT is made up of?",
+    "options": {
+      "A": "Supervisory Councilors",
+      "B": "Councilors elected from wards",
+      "C": "Permanent Secretaries",
+      "D": "Chiefs and Elders"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 227,
+    "question": "The FCT Call Centre was established for?",
+    "options": {
+      "A": "Medical emergencies only",
+      "B": "General public feedback, complaints, and inquiries",
+      "C": "Water supply",
+      "D": "Land allocation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 228,
+    "question": "What is the FCT\u2019s official emergency number?",
+    "options": {
+      "A": "112",
+      "B": "919",
+      "C": "111",
+      "D": "404"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 229,
+    "question": "Which secretariat coordinates the FCT Fire Service?",
+    "options": {
+      "A": "Infrastructure Secretariat",
+      "B": "Public Safety Secretariat",
+      "C": "Health Secretariat",
+      "D": "Emergency Response Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 230,
+    "question": "Which Abuja district is nearest to the city\u2019s geometric center?",
+    "options": {
+      "A": "Central Area",
+      "B": "Asokoro",
+      "C": "Wuse",
+      "D": "Garki"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 231,
+    "question": "The Department of Public Enlightenment in FCT is responsible for?",
+    "options": {
+      "A": "Managing electricity supply",
+      "B": "Educating residents on policies and reforms",
+      "C": "Allocating market stalls",
+      "D": "Collecting taxes"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 232,
+    "question": "Which department handles approval of road setback usage in Abuja?",
+    "options": {
+      "A": "Department of Urban Planning",
+      "B": "Department of Development Control",
+      "C": "Survey and Mapping Department",
+      "D": "Department of Parks and Recreation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 233,
+    "question": "The Abuja International Trade Fair Complex is located along?",
+    "options": {
+      "A": "Lugbe Road",
+      "B": "Airport Expressway",
+      "C": "Kubwa-Zuba Road",
+      "D": "Umaru Musa Yar\u2019Adua Way"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 234,
+    "question": "What is the main function of the Abuja Property Development Company?",
+    "options": {
+      "A": "Build schools",
+      "B": "Provide banking services",
+      "C": "Develop residential and commercial properties",
+      "D": "Collect water rates"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 235,
+    "question": "Which Area Council has the town of Rubochi?",
+    "options": {
+      "A": "Abaji",
+      "B": "Kuje",
+      "C": "Kwali",
+      "D": "Gwagwalada"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 236,
+    "question": "Which Abuja body coordinates the Abuja Geographic Information System (AGIS)?",
+    "options": {
+      "A": "Lands Department",
+      "B": "FCDA",
+      "C": "Office of the Minister",
+      "D": "Department of Planning"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 237,
+    "question": "Who heads the Public Service Commission in FCT?",
+    "options": {
+      "A": "Governor",
+      "B": "Chairman appointed by the President",
+      "C": "FCT Minister",
+      "D": "Chief Judge"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 238,
+    "question": "What is the core mandate of the Department of Engineering Services in FCDA?",
+    "options": {
+      "A": "Handle criminal investigations",
+      "B": "Supervise engineering infrastructure in FCT",
+      "C": "Register engineers",
+      "D": "Manage oil licenses"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 239,
+    "question": "The Abuja Film Village project is targeted at promoting?",
+    "options": {
+      "A": "Political dialogue",
+      "B": "Cultural tourism and entertainment",
+      "C": "Education",
+      "D": "Agriculture"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 240,
+    "question": "What is the name of the agency that ensures standard signage and outdoor advertising in FCT?",
+    "options": {
+      "A": "DOAS",
+      "B": "AEPB",
+      "C": "FCDA",
+      "D": "FEMA"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 241,
+    "question": "The Garki District is classified as a?",
+    "options": {
+      "A": "High-income area",
+      "B": "Rural district",
+      "C": "Government administrative and residential area",
+      "D": "Agricultural zone"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 242,
+    "question": "What department handles the allocation and management of cemeteries in FCT?",
+    "options": {
+      "A": "Parks and Recreation",
+      "B": "Urban Planning",
+      "C": "AEPB",
+      "D": "DRTS"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 243,
+    "question": "What does the FCSSIP25 initiative represent in FCTA operations?",
+    "options": {
+      "A": "A water conservation program",
+      "B": "A service improvement and reform roadmap",
+      "C": "A transportation overhaul plan",
+      "D": "An education calendar"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 244,
+    "question": "The Satellite Towns Development Department was created to solve?",
+    "options": {
+      "A": "Government staff deployment",
+      "B": "Local Government election",
+      "C": "Infrastructure gaps in outskirt towns",
+      "D": "Agriculture challenges"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 245,
+    "question": "The FCT ICT Department reports directly to which unit?",
+    "options": {
+      "A": "Ministry of Technology",
+      "B": "Office of the Head of Service",
+      "C": "Servicom Desk",
+      "D": "Treasury Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 246,
+    "question": "Who leads the daily operations of FCDA?",
+    "options": {
+      "A": "Minister",
+      "B": "Permanent Secretary",
+      "C": "Executive Secretary",
+      "D": "Director of Works"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 247,
+    "question": "The Abuja Arts and Culture Expo is organized by which secretariat?",
+    "options": {
+      "A": "Education",
+      "B": "Social Development",
+      "C": "Public Safety",
+      "D": "Legal Services"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 248,
+    "question": "The Abuja Environmental Sanitation Corps is under which board?",
+    "options": {
+      "A": "FCT Fire Service",
+      "B": "AEPB",
+      "C": "FCDA",
+      "D": "AMMC"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 249,
+    "question": "The FCT e-government initiatives aim to?",
+    "options": {
+      "A": "Replace staff",
+      "B": "Enhance digital interaction between government and citizens",
+      "C": "Sell land",
+      "D": "Increase taxes"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 250,
+    "question": "The Abuja Municipal Water Supply is managed by?",
+    "options": {
+      "A": "Ministry of Environment",
+      "B": "Water Board",
+      "C": "Parks and Gardens",
+      "D": "Treasury"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 251,
+    "question": "What agency reviews public-private partnership proposals in FCTA?",
+    "options": {
+      "A": "AGIS",
+      "B": "Public-Private Partnership Unit",
+      "C": "DRTS",
+      "D": "Legal Services Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 252,
+    "question": "In Abuja, which department enforces rules on noise pollution?",
+    "options": {
+      "A": "Department of Development Control",
+      "B": "Department of Parks",
+      "C": "AEPB",
+      "D": "FEMA"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 253,
+    "question": "Which Area Council is considered the oldest settlement within the FCT?",
+    "options": {
+      "A": "Bwari",
+      "B": "Kuje",
+      "C": "Abaji",
+      "D": "AMAC"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 254,
+    "question": "What does the FCT Treasury Single Account (TSA) ensure?",
+    "options": {
+      "A": "Monthly tax collection",
+      "B": "Centralized control of government funds",
+      "C": "ATM regulation",
+      "D": "Emergency planning"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 255,
+    "question": "What is the primary role of the Legal Secretariat in the FCT?",
+    "options": {
+      "A": "Execute arrest warrants",
+      "B": "Provide legal advice and legislative support",
+      "C": "Build law schools",
+      "D": "Enforce environmental policies"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 256,
+    "question": "Which district houses most foreign missions in Abuja?",
+    "options": {
+      "A": "Garki",
+      "B": "Wuse",
+      "C": "Maitama",
+      "D": "Jabi"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 257,
+    "question": "What is the function of the Abuja Enterprise Agency\u2019s Business Clinics?",
+    "options": {
+      "A": "Conduct surgeries",
+      "B": "Train health workers",
+      "C": "Provide legal aid",
+      "D": "Support and train entrepreneurs"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 258,
+    "question": "The Abuja green city policy aims to achieve?",
+    "options": {
+      "A": "Urban slum development",
+      "B": "Deforestation",
+      "C": "Sustainable environmental practices",
+      "D": "Airport relocation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 259,
+    "question": "Which department conducts valuation of government-owned property in FCT?",
+    "options": {
+      "A": "Treasury",
+      "B": "Legal",
+      "C": "Department of Lands",
+      "D": "Valuation and Compensation Unit"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 260,
+    "question": "The Abuja Investment Company Limited promotes?",
+    "options": {
+      "A": "Infrastructure collapse",
+      "B": "Traffic coordination",
+      "C": "Private sector growth and investments",
+      "D": "Waste dumping"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 261,
+    "question": "Which body handles the implementation of e-procurement in FCTA?",
+    "options": {
+      "A": "ICT Secretariat",
+      "B": "Budget Department",
+      "C": "Procurement Department",
+      "D": "Finance and Accounts"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 262,
+    "question": "The FCT Debt Management Unit manages?",
+    "options": {
+      "A": "Hospital records",
+      "B": "Environmental fines",
+      "C": "Public debt portfolio and servicing",
+      "D": "Land allocation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 263,
+    "question": "What department oversees construction and monitoring of boreholes?",
+    "options": {
+      "A": "Urban Planning",
+      "B": "Parks and Gardens",
+      "C": "Water Board",
+      "D": "Rural Water Supply and Sanitation Agency"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 264,
+    "question": "The AMAC Recycling Project is coordinated by?",
+    "options": {
+      "A": "Parks and Recreation",
+      "B": "DRTS",
+      "C": "AEPB",
+      "D": "Treasury"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 265,
+    "question": "The FCT Education Management Information System (EMIS) is designed to?",
+    "options": {
+      "A": "Track school buses",
+      "B": "Document and manage education data",
+      "C": "Print textbooks",
+      "D": "Pay teachers"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 266,
+    "question": "Which secretariat coordinates cooperative societies in FCT?",
+    "options": {
+      "A": "Education",
+      "B": "Social Development",
+      "C": "Treasury",
+      "D": "Agriculture"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 267,
+    "question": "What unit is responsible for monitoring e-learning tools in public schools?",
+    "options": {
+      "A": "ICT Department",
+      "B": "Education Secretariat",
+      "C": "Treasury",
+      "D": "Legal Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 268,
+    "question": "What FCTA department organizes staff capacity-building training?",
+    "options": {
+      "A": "Audit Department",
+      "B": "Servicom",
+      "C": "Department of Human Resource Management",
+      "D": "Engineering Department"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 269,
+    "question": "The \u201cAbuja City Clean-Up Campaign\u201d is spearheaded by?",
+    "options": {
+      "A": "DOAS",
+      "B": "FCDA",
+      "C": "AEPB",
+      "D": "Police"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 270,
+    "question": "Which department manages internal audits for all SDAs in FCTA?",
+    "options": {
+      "A": "Treasury",
+      "B": "Procurement",
+      "C": "Internal Audit Department",
+      "D": "Office of the Minister"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 271,
+    "question": "What is the name of Abuja\u2019s largest auto spare parts market?",
+    "options": {
+      "A": "Apo Market",
+      "B": "Utako Market",
+      "C": "Kugbo Market",
+      "D": "Garki Ultra Modern Market"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 272,
+    "question": "The Abuja Business and Investment Summit is organized by?",
+    "options": {
+      "A": "FCDA",
+      "B": "Abuja Investment Company",
+      "C": "AEPB",
+      "D": "Works Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 273,
+    "question": "What is the role of FCT\u2019s Transport Inspectorate Division?",
+    "options": {
+      "A": "Maintain bridges",
+      "B": "Monitor and enforce road transport laws",
+      "C": "Publish weather reports",
+      "D": "Register motorcycles"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 274,
+    "question": "The FCT Budget Tracking Dashboard was launched to?",
+    "options": {
+      "A": "Promote campaign speeches",
+      "B": "Track education enrolment",
+      "C": "Monitor capital project spending",
+      "D": "Control water supply"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 275,
+    "question": "Who issues Certificates of Occupancy in Abuja?",
+    "options": {
+      "A": "FCDA",
+      "B": "AGIS",
+      "C": "FCT Minister",
+      "D": "Urban Planning Department"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 276,
+    "question": "What agency implements market sanitation rules in the FCT?",
+    "options": {
+      "A": "Market Union",
+      "B": "AEPB",
+      "C": "AGIS",
+      "D": "FCDA"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 277,
+    "question": "Which agency oversees city beautification in Abuja?",
+    "options": {
+      "A": "AEPB",
+      "B": "Urban Renewal Unit",
+      "C": "Parks and Recreation Department",
+      "D": "Education Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 278,
+    "question": "Which FCTA unit maintains civil servant personnel records?",
+    "options": {
+      "A": "Admin Unit",
+      "B": "Human Resource Management Department",
+      "C": "FCT Civil Service Commission",
+      "D": "Audit Unit"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 279,
+    "question": "The Public Buildings Department operates under?",
+    "options": {
+      "A": "Treasury",
+      "B": "Works and Infrastructure Secretariat",
+      "C": "Education Secretariat",
+      "D": "ICT Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 280,
+    "question": "The FCT One-Stop-Shop for Business Registration was introduced to?",
+    "options": {
+      "A": "Sell land",
+      "B": "Speed up business start-up process",
+      "C": "Reduce power supply",
+      "D": "Print certificates"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 281,
+    "question": "The Abuja Land Swap initiative was designed to?",
+    "options": {
+      "A": "Exchange land for housing",
+      "B": "Promote cultural activities",
+      "C": "Encourage private sector-led infrastructure development",
+      "D": "Relocate markets"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 282,
+    "question": "Which FCT department is responsible for project monitoring and evaluation?",
+    "options": {
+      "A": "Audit Department",
+      "B": "Development Control",
+      "C": "Budget and Planning",
+      "D": "Monitoring and Evaluation Unit"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 283,
+    "question": "The Department of Surveying and Mapping ensures?",
+    "options": {
+      "A": "Fire outbreak control",
+      "B": "Proper geographical mapping of FCT lands",
+      "C": "Hospital equipment maintenance",
+      "D": "Registration of engineering firms"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 284,
+    "question": "FCT area councils are governed by which legal framework?",
+    "options": {
+      "A": "Local Government Act",
+      "B": "Area Councils Act",
+      "C": "FCT Administration Law",
+      "D": "Nigerian Federal Constitution"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 285,
+    "question": "The Secretariat responsible for urban roads in FCT is?",
+    "options": {
+      "A": "Legal Services",
+      "B": "Treasury",
+      "C": "Works and Infrastructure",
+      "D": "Public Safety"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 286,
+    "question": "Which Area Council houses the town of Dabi?",
+    "options": {
+      "A": "Kuje",
+      "B": "Kwali",
+      "C": "Gwagwalada",
+      "D": "Bwari"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 287,
+    "question": "The Abuja Digital Terrestrial Television (DTT) switch-over project is supervised by?",
+    "options": {
+      "A": "NTA",
+      "B": "FCTA ICT Secretariat",
+      "C": "NBC",
+      "D": "DSS"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 288,
+    "question": "What is the primary function of the Department of Public Building?",
+    "options": {
+      "A": "Inspect private estates",
+      "B": "Build and maintain government structures",
+      "C": "Register architects",
+      "D": "Issue electrical permits"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 289,
+    "question": "Which department manages ICT training for civil servants in FCT?",
+    "options": {
+      "A": "Treasury",
+      "B": "Education Secretariat",
+      "C": "ICT Department",
+      "D": "Office of the Auditor General"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 290,
+    "question": "What does the Abuja Green Initiative focus on?",
+    "options": {
+      "A": "Traffic control",
+      "B": "Road demarcation",
+      "C": "Environmental conservation and tree planting",
+      "D": "Tourism promotion"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 291,
+    "question": "The Abuja Security Coordination Committee includes?",
+    "options": {
+      "A": "Traditional rulers only",
+      "B": "Road contractors",
+      "C": "Security chiefs in FCT",
+      "D": "Engineers and architects"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 292,
+    "question": "What agency manages drainage systems and flood channels in FCT?",
+    "options": {
+      "A": "FEMA",
+      "B": "Department of Engineering Services",
+      "C": "AEPB",
+      "D": "Parks and Recreation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 293,
+    "question": "The Department of Information and Communication is part of which secretariat?",
+    "options": {
+      "A": "Education",
+      "B": "Legal",
+      "C": "Office of the Permanent Secretary",
+      "D": "Health"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 294,
+    "question": "What body coordinates Servicom activities across FCT SDAs?",
+    "options": {
+      "A": "Federal Ministry of Information",
+      "B": "Reform Coordination Department",
+      "C": "Treasury Department",
+      "D": "Procurement Unit"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 295,
+    "question": "The Abuja City Monument is located along?",
+    "options": {
+      "A": "Asokoro Road",
+      "B": "Gwarinpa Highway",
+      "C": "Airport Expressway",
+      "D": "Kubwa Expressway"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 296,
+    "question": "Which Area Council contains the town of Tukpechi?",
+    "options": {
+      "A": "Kwali",
+      "B": "Abaji",
+      "C": "Bwari",
+      "D": "Gwagwalada"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 297,
+    "question": "What is the FCT Urban Shelter Program designed to address?",
+    "options": {
+      "A": "Road repairs",
+      "B": "Slum upgrading and low-cost housing",
+      "C": "Women empowerment",
+      "D": "Market regulation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 298,
+    "question": "Which agency is tasked with issuing signage permits in Abuja?",
+    "options": {
+      "A": "AEPB",
+      "B": "AGIS",
+      "C": "DOAS",
+      "D": "FCDA"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 299,
+    "question": "The Karshi-Apo road project connects which Area Councils?",
+    "options": {
+      "A": "Bwari and Kuje",
+      "B": "Karu and Kwali",
+      "C": "AMAC and Karshi",
+      "D": "Abaji and Kuje"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 300,
+    "question": "FCT\u2019s major solid waste dumpsite is located at?",
+    "options": {
+      "A": "Apo",
+      "B": "Gosa",
+      "C": "Lugbe",
+      "D": "Deidei"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 301,
+    "question": "What is the major function of Abuja\u2019s One-Stop Investment Centre?",
+    "options": {
+      "A": "Conduct elections",
+      "B": "Resolve civil disputes",
+      "C": "Facilitate ease of doing business",
+      "D": "Allocate roads"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 302,
+    "question": "The FCT Administrative System is modeled after which structure?",
+    "options": {
+      "A": "Federal State Model",
+      "B": "Presidential Model",
+      "C": "Ministerial-Secretariat Model",
+      "D": "Local Government Model"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 303,
+    "question": "The Department of Monitoring and Inspection falls under which office?",
+    "options": {
+      "A": "Treasury",
+      "B": "Works Secretariat",
+      "C": "Office of the Permanent Secretary",
+      "D": "ICT Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 304,
+    "question": "What department handles urban renewal and resettlement projects?",
+    "options": {
+      "A": "Lands Department",
+      "B": "STDD",
+      "C": "Resettlement and Compensation Department",
+      "D": "Urban and Regional Planning"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 305,
+    "question": "What project links the satellite town of Bwari to the city center?",
+    "options": {
+      "A": "Abuja Metro",
+      "B": "Bwari-Kubwa Expressway",
+      "C": "Zuba flyover",
+      "D": "Maitama Tunnel"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 306,
+    "question": "The Abuja Green Economy Initiative promotes?",
+    "options": {
+      "A": "Use of chemical waste",
+      "B": "Renewable energy and eco-friendly investments",
+      "C": "Heavy industrial pollution",
+      "D": "Mining in parks"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 307,
+    "question": "Who manages Abuja\u2019s District Infrastructure Development?",
+    "options": {
+      "A": "Education Secretariat",
+      "B": "Engineering Services Department",
+      "C": "FCDA",
+      "D": "ICT Department"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 308,
+    "question": "The Department of Procurement ensures?",
+    "options": {
+      "A": "High tax collection",
+      "B": "Transparent bidding and contract processes",
+      "C": "Importation of goods",
+      "D": "Marketing of Abuja festivals"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 309,
+    "question": "Which body ensures compliance with Abuja Master Plan?",
+    "options": {
+      "A": "AEPB",
+      "B": "FCDA",
+      "C": "AMMC",
+      "D": "Development Control"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 310,
+    "question": "FCT Water Board is responsible for?",
+    "options": {
+      "A": "Underground sewage",
+      "B": "Pipe-borne water supply",
+      "C": "Road drainage",
+      "D": "Electricity"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 311,
+    "question": "Which Area Council is closest to Gurara Dam?",
+    "options": {
+      "A": "Kwali",
+      "B": "Bwari",
+      "C": "Kuje",
+      "D": "Abaji"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 312,
+    "question": "What is the role of the Abuja Peace and Conflict Resolution Committee?",
+    "options": {
+      "A": "Wage war",
+      "B": "Promote peace and mediate community disputes",
+      "C": "Publish newspapers",
+      "D": "Employ police officers"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 313,
+    "question": "The FCT SEEFOR project supports?",
+    "options": {
+      "A": "Elderly pensions",
+      "B": "Youth employment and infrastructure",
+      "C": "Import/export regulation",
+      "D": "Judicial reforms"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 314,
+    "question": "The Department of Urban Furniture provides?",
+    "options": {
+      "A": "Cooking gas",
+      "B": "Streetlights, benches, and public structures",
+      "C": "Ladders for firemen",
+      "D": "Traffic police uniforms"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 315,
+    "question": "What is the purpose of the Abuja Development Control Tribunal?",
+    "options": {
+      "A": "Prosecute landlords",
+      "B": "Hear appeals on planning enforcement issues",
+      "C": "Register medical doctors",
+      "D": "Issue police reports"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 316,
+    "question": "The FCT Public Building Unit designs?",
+    "options": {
+      "A": "Only private hostels",
+      "B": "All national roads",
+      "C": "Government hospitals, schools, and offices",
+      "D": "Public toilets"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 317,
+    "question": "What is the role of the Education Quality Assurance Department?",
+    "options": {
+      "A": "Manage land titles",
+      "B": "Supervise teaching and learning in FCT schools",
+      "C": "Train medical workers",
+      "D": "Supply electricity"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 318,
+    "question": "The Abuja Investment Promotion Unit is under?",
+    "options": {
+      "A": "Treasury",
+      "B": "Abuja Investment Company Ltd",
+      "C": "Education Secretariat",
+      "D": "Police"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 319,
+    "question": "The Abuja Municipal Secretariat is headquartered at?",
+    "options": {
+      "A": "Wuse",
+      "B": "Area 10 Garki",
+      "C": "Asokoro",
+      "D": "Jabi"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 320,
+    "question": "What is the main aim of the Abuja Public Private Partnership (PPP) policy?",
+    "options": {
+      "A": "Recruit foreign soldiers",
+      "B": "Promote private participation in service delivery",
+      "C": "Reduce population growth",
+      "D": "Collect all taxes"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 321,
+    "question": "The FCT Economic Planning Team advises on?",
+    "options": {
+      "A": "Wedding permits",
+      "B": "Environmental sanitation",
+      "C": "Budgeting and economic development strategy",
+      "D": "Power allocation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 322,
+    "question": "The Urban Slum Upgrading Project in Abuja is targeted at?",
+    "options": {
+      "A": "Luxury estates",
+      "B": "Street naming",
+      "C": "Informal settlements",
+      "D": "Government schools"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 323,
+    "question": "Who is in charge of security operations within FCT schools?",
+    "options": {
+      "A": "DSS",
+      "B": "Nigeria Police",
+      "C": "School Security Unit of Education Secretariat",
+      "D": "AMMC Taskforce"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 324,
+    "question": "What is the function of the Abuja Urban Observatory Centre?",
+    "options": {
+      "A": "Emergency alerts",
+      "B": "Collect urban development data for planning",
+      "C": "Firefighting",
+      "D": "Pollution control"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 325,
+    "question": "The Abuja Master Plan prohibits development on?",
+    "options": {
+      "A": "Undeveloped estates",
+      "B": "Green areas and buffer zones",
+      "C": "Government lands",
+      "D": "Satellite towns"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 326,
+    "question": "The Abuja Smart City Project promotes?",
+    "options": {
+      "A": "Mechanical construction",
+      "B": "Internet connectivity and digital governance",
+      "C": "Closure of markets",
+      "D": "Farming initiatives"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 327,
+    "question": "What agency monitors housing projects under the Mass Housing Scheme?",
+    "options": {
+      "A": "Resettlement Unit",
+      "B": "Development Control",
+      "C": "Department of Engineering Services",
+      "D": "DRTS"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 328,
+    "question": "The FCT Minister can delegate duties to?",
+    "options": {
+      "A": "Deputy Governors",
+      "B": "Commissioners",
+      "C": "Minister of State and Permanent Secretary",
+      "D": "State Assembly"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 329,
+    "question": "What is the role of Abuja Servicom Unit?",
+    "options": {
+      "A": "Grant building permits",
+      "B": "Enhance citizen satisfaction in public services",
+      "C": "Import fuel",
+      "D": "Sell estate lands"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 330,
+    "question": "The Abuja Urban Design Guidelines were developed to?",
+    "options": {
+      "A": "Expand railways",
+      "B": "Organize land use, building form, and aesthetics",
+      "C": "Provide election rules",
+      "D": "Manage aircraft routes"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 331,
+    "question": "The FCT Directorate of Road Traffic Services manages?",
+    "options": {
+      "A": "Pipeline installations",
+      "B": "Vehicle registration, licensing, and inspections",
+      "C": "Satellite communication",
+      "D": "Market operations"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 332,
+    "question": "What unit in the FCTA tracks government performance indicators?",
+    "options": {
+      "A": "Treasury",
+      "B": "Monitoring and Evaluation Unit",
+      "C": "Budget Office",
+      "D": "Procurement Division"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 333,
+    "question": "The Wuye Modern Market is located in which Abuja district?",
+    "options": {
+      "A": "Wuse",
+      "B": "Asokoro",
+      "C": "Garki",
+      "D": "Wuye"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 334,
+    "question": "Which secretariat oversees cultural and youth programs in the FCT?",
+    "options": {
+      "A": "Social Development Secretariat",
+      "B": "Legal Secretariat",
+      "C": "Public Safety Secretariat",
+      "D": "Works Secretariat"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 335,
+    "question": "The FCDA coordinates which type of development?",
+    "options": {
+      "A": "Electoral Development",
+      "B": "Financial Development",
+      "C": "Physical Development",
+      "D": "Judicial Development"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 336,
+    "question": "The FCT Administration\u2019s internal memo system is managed by which department?",
+    "options": {
+      "A": "Treasury",
+      "B": "ICT Department",
+      "C": "Education Secretariat",
+      "D": "Legal Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 337,
+    "question": "FCT Administration partners with which agency for digital land records?",
+    "options": {
+      "A": "NBC",
+      "B": "DPR",
+      "C": "AGIS",
+      "D": "DSS"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 338,
+    "question": "The FCT Fire Service is under which broader secretariat?",
+    "options": {
+      "A": "Health Secretariat",
+      "B": "Public Safety Secretariat",
+      "C": "Legal Services Secretariat",
+      "D": "Engineering Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 339,
+    "question": "The Abuja School Feeding Programme is coordinated by which body?",
+    "options": {
+      "A": "Ministry of Agriculture",
+      "B": "Education Secretariat",
+      "C": "Area Council Chairmen",
+      "D": "Treasury Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 340,
+    "question": "FCT\u2019s Gender Unit is found under which secretariat?",
+    "options": {
+      "A": "Health",
+      "B": "Social Development",
+      "C": "Public Safety",
+      "D": "Legal"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 341,
+    "question": "Which Area Council has the most extensive road network in the FCT?",
+    "options": {
+      "A": "AMAC",
+      "B": "Bwari",
+      "C": "Abaji",
+      "D": "Kwali"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 342,
+    "question": "The Abuja Municipal Planning Authority was replaced by which department?",
+    "options": {
+      "A": "Treasury",
+      "B": "Development Control Department",
+      "C": "Parks Department",
+      "D": "Police Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 343,
+    "question": "The implementation of cashless policy in FCTA MDAs is supported by?",
+    "options": {
+      "A": "AEPB",
+      "B": "Treasury Department",
+      "C": "ICT Secretariat",
+      "D": "FCT IRS"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 344,
+    "question": "Which agency certifies the integrity of bridges and flyovers in Abuja?",
+    "options": {
+      "A": "Development Control",
+      "B": "Engineering Services",
+      "C": "Fire Service",
+      "D": "ICT Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 345,
+    "question": "In the FCT, which agency is responsible for enforcing vehicle emission standards?",
+    "options": {
+      "A": "AEPB",
+      "B": "DRTS",
+      "C": "Development Control",
+      "D": "DOAS"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 346,
+    "question": "The Abuja Zoological Park is located in?",
+    "options": {
+      "A": "Jabi",
+      "B": "Wuse",
+      "C": "Asokoro",
+      "D": "Garki"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 347,
+    "question": "The Abuja Street Naming Project is handled by which unit?",
+    "options": {
+      "A": "DRTS",
+      "B": "Urban and Regional Planning",
+      "C": "Survey and Mapping Department",
+      "D": "DOAS"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 348,
+    "question": "The AMMC reports directly to which authority?",
+    "options": {
+      "A": "FCDA",
+      "B": "FCT Minister",
+      "C": "President",
+      "D": "Area Councils"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 349,
+    "question": "The FCT Transport Secretariat regulates which of the following?",
+    "options": {
+      "A": "Road construction alone",
+      "B": "Only commercial taxis",
+      "C": "All transportation systems including buses and terminals",
+      "D": "Local Government elections"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 350,
+    "question": "What is the core mandate of the Department of Procurement in FCTA?",
+    "options": {
+      "A": "Regulate business names",
+      "B": "Ensure value-for-money in government spending",
+      "C": "Collect road tax",
+      "D": "Design ICT policies"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 351,
+    "question": "The FCT IRS is supervised by which higher body?",
+    "options": {
+      "A": "Ministry of Finance",
+      "B": "National Assembly",
+      "C": "FCT Administration",
+      "D": "Revenue Mobilization Board"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 352,
+    "question": "Abuja\u2019s emergency response to epidemics is coordinated by?",
+    "options": {
+      "A": "DSS",
+      "B": "Fire Service",
+      "C": "Health and Human Services Secretariat",
+      "D": "Social Development Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 353,
+    "question": "The FCT Customary Court of Appeal is located in?",
+    "options": {
+      "A": "Asokoro",
+      "B": "Maitama",
+      "C": "Wuse",
+      "D": "Garki"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 354,
+    "question": "The Abuja Central Park is situated in?",
+    "options": {
+      "A": "Area 1",
+      "B": "Area 11",
+      "C": "Central Business District",
+      "D": "Gwarinpa"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 355,
+    "question": "The construction of affordable housing for FCT civil servants is coordinated by?",
+    "options": {
+      "A": "Public Safety Secretariat",
+      "B": "Staff Housing Board",
+      "C": "FCT Cooperative Society",
+      "D": "ICT Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 356,
+    "question": "What department conducts biometric enrollment of FCT civil servants?",
+    "options": {
+      "A": "Human Resource Management",
+      "B": "ICT",
+      "C": "Treasury",
+      "D": "Audit"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 357,
+    "question": "FCT waste-to-wealth initiatives fall under?",
+    "options": {
+      "A": "DRTS",
+      "B": "Education Secretariat",
+      "C": "AEPB",
+      "D": "Development Control"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 358,
+    "question": "The Abuja Urban Regeneration Policy is aimed at?",
+    "options": {
+      "A": "Building flyovers",
+      "B": "Revitalizing old neighborhoods and slums",
+      "C": "Removing street vendors",
+      "D": "Creating new districts"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 359,
+    "question": "The Abuja Urban Mobility Project promotes?",
+    "options": {
+      "A": "Air travel",
+      "B": "Efficient and integrated public transport",
+      "C": "Car dealerships",
+      "D": "Water supply"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 360,
+    "question": "What agency maintains traffic lights in Abuja?",
+    "options": {
+      "A": "FCDA",
+      "B": "AEPB",
+      "C": "DRTS",
+      "D": "AMMC"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 361,
+    "question": "The Abuja Social Registry is created to?",
+    "options": {
+      "A": "Track business licenses",
+      "B": "List vulnerable households for social intervention",
+      "C": "Record property disputes",
+      "D": "Regulate elections"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 362,
+    "question": "Which agency provides ICT infrastructure to FCT public schools?",
+    "options": {
+      "A": "Ministry of Education",
+      "B": "Education Secretariat",
+      "C": "ICT Department",
+      "D": "Treasury"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 363,
+    "question": "Which agency handles crowd control during FCT public events?",
+    "options": {
+      "A": "Fire Service",
+      "B": "NSCDC",
+      "C": "Public Safety Secretariat",
+      "D": "Police Command"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 364,
+    "question": "The Abuja City Master Plan was developed to last how many years?",
+    "options": {
+      "A": "15 years",
+      "B": "25 years",
+      "C": "100 years",
+      "D": "50 years"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 365,
+    "question": "The Abuja Master Plan was developed by?",
+    "options": {
+      "A": "Julius Berger",
+      "B": "COREN",
+      "C": "Doxiadis Associates",
+      "D": "Setraco"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 366,
+    "question": "The FCT Primary Health Care Board is supervised by?",
+    "options": {
+      "A": "Public Safety",
+      "B": "Agriculture",
+      "C": "Health and Human Services Secretariat",
+      "D": "Treasury"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 367,
+    "question": "The Abuja Peace Park is located near?",
+    "options": {
+      "A": "National Assembly",
+      "B": "Central Bank",
+      "C": "Presidential Villa",
+      "D": "Ministry of Foreign Affairs"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 368,
+    "question": "The FCT Emergency Communication Centre operates on what code?",
+    "options": {
+      "A": "911",
+      "B": "121",
+      "C": "122",
+      "D": "112"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 369,
+    "question": "The FCT GIS Lab supports?",
+    "options": {
+      "A": "Health research",
+      "B": "Urban mapping and spatial planning",
+      "C": "Road construction",
+      "D": "Economic forecasting"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 370,
+    "question": "The Treasury Department conducts routine checks on?",
+    "options": {
+      "A": "Road signs",
+      "B": "Market stalls",
+      "C": "Financial compliance and expenditure",
+      "D": "Police uniforms"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 371,
+    "question": "Abuja is in which geopolitical zone of Nigeria?",
+    "options": {
+      "A": "North-East",
+      "B": "North-Central",
+      "C": "South-West",
+      "D": "South-South"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 372,
+    "question": "The Abuja Central Mosque is also known as?",
+    "options": {
+      "A": "National Mosque",
+      "B": "Abuja Mosque",
+      "C": "Supreme Mosque",
+      "D": "Garki Mosque"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 373,
+    "question": "The National Christian Centre is located along which road?",
+    "options": {
+      "A": "Herbert Macaulay Way",
+      "B": "Ahmadu Bello Way",
+      "C": "Tafawa Balewa Way",
+      "D": "Nnamdi Azikiwe Way"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 374,
+    "question": "The Central Bank of Nigeria headquarters is in?",
+    "options": {
+      "A": "Garki",
+      "B": "Wuse",
+      "C": "Central Area",
+      "D": "Jabi"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 375,
+    "question": "The Department of Public Buildings coordinates what function?",
+    "options": {
+      "A": "Issue drivers\u2019 licenses",
+      "B": "Construct and maintain government buildings",
+      "C": "Teach technical drawing",
+      "D": "Procure legal permits"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 376,
+    "question": "Which agency provides revenue forecasts for budget planning?",
+    "options": {
+      "A": "Internal Audit",
+      "B": "Department of Budget and Planning",
+      "C": "DRTS",
+      "D": "AMMC"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 377,
+    "question": "The FCT Revenue House is located in which district?",
+    "options": {
+      "A": "Jabi",
+      "B": "Wuse",
+      "C": "Garki",
+      "D": "Area 3"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 378,
+    "question": "Who supervises the FCT Administration staff strength and promotion?",
+    "options": {
+      "A": "Public Service Commission",
+      "B": "Human Resource Department",
+      "C": "Office of the Permanent Secretary",
+      "D": "Area Council Chairmen"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 379,
+    "question": "The Abuja Urban Renewal Strategy targets?",
+    "options": {
+      "A": "Railway lines",
+      "B": "Green belts",
+      "C": "Urban slums and unplanned districts",
+      "D": "Mining areas"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 380,
+    "question": "What is the main aim of the Abuja Infrastructure Investment Summit?",
+    "options": {
+      "A": "Celebrate Nigeria Day",
+      "B": "Showcase public infrastructure for investment",
+      "C": "Launch festivals",
+      "D": "Ban motorbikes"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 381,
+    "question": "What body evaluates FCT infrastructure projects for compliance?",
+    "options": {
+      "A": "FCDA Audit Unit",
+      "B": "Engineering Department",
+      "C": "Department of Monitoring and Evaluation",
+      "D": "Public Complaints Commission"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 382,
+    "question": "FCT Departments are categorized under what administrative structure?",
+    "options": {
+      "A": "Agencies and Units",
+      "B": "Ministries and Departments",
+      "C": "Secretariats, Departments and Agencies (SDAs)",
+      "D": "Local Councils"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 383,
+    "question": "The Abuja Federal Secretariat Complex is located in which area?",
+    "options": {
+      "A": "Garki",
+      "B": "Area 3",
+      "C": "Central Area",
+      "D": "Wuse II"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 384,
+    "question": "Who regulates cooperative societies in FCT?",
+    "options": {
+      "A": "Social Development Secretariat",
+      "B": "Treasury Department",
+      "C": "Education Secretariat",
+      "D": "Public Safety Secretariat"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 385,
+    "question": "The Abuja Street Hawking Taskforce reports to which agency?",
+    "options": {
+      "A": "NSCDC",
+      "B": "Police",
+      "C": "AEPB",
+      "D": "AMMC"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 386,
+    "question": "The Abuja GIS platform is used for?",
+    "options": {
+      "A": "Electronic voting",
+      "B": "Digital mapping, land titling, and C-of-O processing",
+      "C": "Revenue collection",
+      "D": "Staff training"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 387,
+    "question": "The FCT Resettlement Scheme was initiated to?",
+    "options": {
+      "A": "Relocate displaced communities",
+      "B": "Issue property tax",
+      "C": "Provide healthcare",
+      "D": "Employ urban planners"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 388,
+    "question": "Which Area Council is nearest to Zuma Rock?",
+    "options": {
+      "A": "AMAC",
+      "B": "Kuje",
+      "C": "Gwagwalada",
+      "D": "Bwari"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 389,
+    "question": "What does the Abuja Metropolitan Management Council (AMMC) do?",
+    "options": {
+      "A": "Allocate land",
+      "B": "Plan social welfare",
+      "C": "Manage city services and urban order",
+      "D": "Regulate internet speed"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 390,
+    "question": "What agency monitors billboard violations in Abuja?",
+    "options": {
+      "A": "AEPB",
+      "B": "DOAS",
+      "C": "AGIS",
+      "D": "Police"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 391,
+    "question": "The Abuja Smart Surveillance System is aimed at?",
+    "options": {
+      "A": "Remote medical care",
+      "B": "Automated video security in public places",
+      "C": "Street naming",
+      "D": "Rainfall monitoring"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 392,
+    "question": "The Abuja Housing Policy supports?",
+    "options": {
+      "A": "Rural farming",
+      "B": "Subsidized housing for low-income earners",
+      "C": "River dredging",
+      "D": "Road tax reform"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 393,
+    "question": "The Abuja Municipal Council has how many wards?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "15"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 394,
+    "question": "The Department of Human Resource in FCTA is responsible for?",
+    "options": {
+      "A": "Staff welfare, postings, and promotions",
+      "B": "Building roads",
+      "C": "Managing electricity",
+      "D": "Voter registration"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 395,
+    "question": "What agency coordinates Abuja\u2019s market unions?",
+    "options": {
+      "A": "AMMC",
+      "B": "AEPB",
+      "C": "Abuja Market Management Ltd",
+      "D": "Department of Trade"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 396,
+    "question": "The FCT Security Strategy includes?",
+    "options": {
+      "A": "State army",
+      "B": "Vigilante-only security",
+      "C": "Coordination among formal security agencies and intelligence",
+      "D": "Importation of foreign forces"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 397,
+    "question": "What agency controls public toilet facilities in FCT markets?",
+    "options": {
+      "A": "FCDA",
+      "B": "Health Secretariat",
+      "C": "AEPB",
+      "D": "ICT Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 398,
+    "question": "The Abuja Master Plan ensures?",
+    "options": {
+      "A": "Business regulation",
+      "B": "Cultural promotion",
+      "C": "Coordinated development and land use",
+      "D": "Agricultural exports"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 399,
+    "question": "The Department of Urban and Regional Planning was set up to?",
+    "options": {
+      "A": "Control traffic",
+      "B": "Provide electricity",
+      "C": "Guide spatial planning and urban structure",
+      "D": "Prosecute land violators"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 400,
+    "question": "What does FCT stand for?",
+    "options": {
+      "A": "Federal Constitution Tribunal",
+      "B": "Federal Capital Territory",
+      "C": "Federal Control Territory",
+      "D": "Federal Commissioned Town"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 401,
+    "question": "Who is responsible for overseeing the implementation of the Abuja Master Plan?",
+    "options": {
+      "A": "AEPB",
+      "B": "FCDA",
+      "C": "AGIS",
+      "D": "AMMC"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 402,
+    "question": "What is the primary function of Abuja Investments Company Limited (AICL)?",
+    "options": {
+      "A": "Tax collection",
+      "B": "Real estate litigation",
+      "C": "Facilitating economic and investment opportunities",
+      "D": "Civil service training"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 403,
+    "question": "The FCT Area Council Services Commission supervises the activities of how many Area Councils?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "5",
+      "D": "3"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 404,
+    "question": "Which FCTA secretariat manages policies related to women empowerment?",
+    "options": {
+      "A": "Social Development Secretariat",
+      "B": "Health and Human Services Secretariat",
+      "C": "Women Affairs Secretariat",
+      "D": "Legal Services Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 405,
+    "question": "What role does the FCT Treasury Department play in the administration?",
+    "options": {
+      "A": "Developing school curricula",
+      "B": "Managing public health programs",
+      "C": "Managing financial resources and disbursement",
+      "D": "Issuing vehicle licenses"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 406,
+    "question": "Which of the following is NOT a function of the Abuja Environmental Protection Board (AEPB)?",
+    "options": {
+      "A": "Waste collection",
+      "B": "Pollution control",
+      "C": "Infrastructure design",
+      "D": "Environmental education"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 407,
+    "question": "Who is currently the Minister of State for the Federal Capital Territory (as of 2024)?",
+    "options": {
+      "A": "Adesola Olusade",
+      "B": "Maryam Katagum",
+      "C": "Dr. Mariya Mahmoud Bunkure",
+      "D": "Hadiza Bala Usman"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 408,
+    "question": "The Department responsible for vehicle inspection and enforcement of road safety in the FCT is called:",
+    "options": {
+      "A": "AEPB",
+      "B": "Road Traffic Services (RTS)",
+      "C": "Transportation Secretariat",
+      "D": "FCDA"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 409,
+    "question": "Which body handles digitized land records and documentation in the FCT?",
+    "options": {
+      "A": "AEPB",
+      "B": "AGIS",
+      "C": "AMMC",
+      "D": "FCDA"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 410,
+    "question": "Who acts as the \"Governor\" of the FCT according to the 1999 Constitution?",
+    "options": {
+      "A": "FCT Minister",
+      "B": "President of Nigeria",
+      "C": "Senate President",
+      "D": "Chief Judge of the FCT"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 411,
+    "question": "Which of the following is a major challenge facing the FCT Administration?",
+    "options": {
+      "A": "Excess agricultural land",
+      "B": "Overpopulation and urban pressure",
+      "C": "Low school enrolment",
+      "D": "Lack of rainfall"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 412,
+    "question": "The mandate of the FCT Health and Human Services Secretariat includes:",
+    "options": {
+      "A": "Tax administration",
+      "B": "Land allocation",
+      "C": "Public health and hospital services",
+      "D": "Financial auditing"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 413,
+    "question": "Which Secretariat is responsible for social re-orientation and community development?",
+    "options": {
+      "A": "Education Secretariat",
+      "B": "Social Development Secretariat",
+      "C": "Economic Planning Secretariat",
+      "D": "Transport Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 414,
+    "question": "Which council is the largest and most populated in the FCT?",
+    "options": {
+      "A": "Abaji",
+      "B": "AMAC",
+      "C": "Kwali",
+      "D": "Kuje"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 415,
+    "question": "Who currently chairs Bwari Area Council?",
+    "options": {
+      "A": "Christopher Zakka",
+      "B": "Abubakar Umar Abdullahi",
+      "C": "John Gabaya",
+      "D": "Danladi Chiya"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 416,
+    "question": "The Planning, Research and Statistics Department is essential for:",
+    "options": {
+      "A": "Building construction",
+      "B": "Data gathering and policy formulation",
+      "C": "Security enforcement",
+      "D": "Motor vehicle licensing"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 417,
+    "question": "Which of the following is an agency under the AMMC?",
+    "options": {
+      "A": "FCT Treasury",
+      "B": "AEPB",
+      "C": "AGIS",
+      "D": "Federal Inland Revenue Service"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 418,
+    "question": "The FCT\u2019s legal status is distinct because:",
+    "options": {
+      "A": "It is the 37th state",
+      "B": "It is run by a monarch",
+      "C": "It is not a state but treated as one",
+      "D": "It operates under Sharia Law"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 419,
+    "question": "One of the major responsibilities of the FCT Education Secretariat is:",
+    "options": {
+      "A": "Cattle grazing regulation",
+      "B": "Hiring civil engineers",
+      "C": "Overseeing school curriculum and infrastructure",
+      "D": "Allocating land to farmers"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 420,
+    "question": "The FCT Internal Revenue Service is primarily tasked with:",
+    "options": {
+      "A": "Monitoring traffic offenses",
+      "B": "Coordinating local security",
+      "C": "Collecting taxes and boosting IGR",
+      "D": "Managing public parks"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 421,
+    "question": "Who is the current Minister of the Federal Capital Territory (FCT)?",
+    "options": {
+      "A": "Babatunde Fashola",
+      "B": "Nyesom Wike",
+      "C": "Nasir El-Rufai",
+      "D": "Bala Mohammed"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 422,
+    "question": "What is the primary responsibility of the Federal Capital Development Authority (FCDA)?",
+    "options": {
+      "A": "Overseeing agricultural development",
+      "B": "Managing educational institutions",
+      "C": "Planning and developing infrastructure in the FCT",
+      "D": "Regulating financial institutions"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 423,
+    "question": "Which agency is responsible for environmental protection and waste management in Abuja?",
+    "options": {
+      "A": "Abuja Metropolitan Management Council (AMMC)",
+      "B": "Abuja Environmental Protection Board (AEPB)",
+      "C": "Abuja Geographic Information Systems (AGIS)",
+      "D": "Satellite Towns Development Agency (STDA)"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 424,
+    "question": "What is the function of the Abuja Geographic Information Systems (AGIS)?",
+    "options": {
+      "A": "Managing transportation systems",
+      "B": "Overseeing public health services",
+      "C": "Providing geospatial data and land administration services",
+      "D": "Regulating educational curricula"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 425,
+    "question": "Which secretariat oversees the development and implementation of educational policies in the FCT?",
+    "options": {
+      "A": "Health and Human Services Secretariat",
+      "B": "Education Secretariat",
+      "C": "Social Development Secretariat",
+      "D": "Legal Services Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 426,
+    "question": "Who currently serves as the Secretary of the Health and Human Services Secretariat?",
+    "options": {
+      "A": "Dr. Adedolapo Fasawe",
+      "B": "Salman Dako",
+      "C": "Danlami Ihayyo",
+      "D": "Lawan Geidam"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 427,
+    "question": "What is the role of the Abuja Metropolitan Management Council (AMMC)?",
+    "options": {
+      "A": "Managing rural development",
+      "B": "Overseeing municipal services in the FCT",
+      "C": "Regulating financial institutions",
+      "D": "Supervising educational institutions"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 428,
+    "question": "Which department within the FCDA is responsible for urban and regional planning?",
+    "options": {
+      "A": "Department of Transportation",
+      "B": "Department of Urban & Regional Planning",
+      "C": "Department of Health Services",
+      "D": "Department of Legal Affairs"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 429,
+    "question": "What is the primary function of the Satellite Towns Development Agency (STDA)?",
+    "options": {
+      "A": "Managing urban transportation",
+      "B": "Overseeing rural infrastructure development",
+      "C": "Regulating environmental policies",
+      "D": "Supervising educational curricula"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 430,
+    "question": "Who is the current Secretary of the Transportation Secretariat?",
+    "options": {
+      "A": "Uboku Nyah",
+      "B": "Muntari Abdulkadir",
+      "C": "Chinedum Elechi",
+      "D": "Bitrus Garki"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 431,
+    "question": "Which secretariat is responsible for legal affairs within the FCTA?",
+    "options": {
+      "A": "Legal Services Secretariat",
+      "B": "Social Development Secretariat",
+      "C": "Economic Planning Secretariat",
+      "D": "Health and Human Services Secretariat"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 432,
+    "question": "What is the function of the Economic Planning, Revenue Generation, and PPP Secretariat?",
+    "options": {
+      "A": "Managing public health services",
+      "B": "Overseeing educational institutions",
+      "C": "Planning economic strategies and managing public-private partnerships",
+      "D": "Regulating transportation systems"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 433,
+    "question": "Who currently serves as the Secretary of the Area Council Services Secretariat?",
+    "options": {
+      "A": "Lawan Geidam",
+      "B": "Bitrus Garki",
+      "C": "Danlami Ihayyo",
+      "D": "Salman Dako"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 434,
+    "question": "What is the primary role of the Social Development Secretariat?",
+    "options": {
+      "A": "Managing legal affairs",
+      "B": "Overseeing transportation systems",
+      "C": "Promoting social welfare and community development",
+      "D": "Regulating environmental policies"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 435,
+    "question": "Which agency provides a computerized land registry for the FCT?",
+    "options": {
+      "A": "Abuja Environmental Protection Board (AEPB)",
+      "B": "Abuja Geographic Information Systems (AGIS)",
+      "C": "Federal Capital Development Authority (FCDA)",
+      "D": "Satellite Towns Development Agency (STDA)"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 436,
+    "question": "What is the function of the Department of Urban Affairs within the AMMC?",
+    "options": {
+      "A": "Overseeing rural development",
+      "B": "Managing urban planning and development",
+      "C": "Regulating financial institutions",
+      "D": "Supervising educational institutions"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 437,
+    "question": "Which department handles disciplinary issues of staff in the FCTA?",
+    "options": {
+      "A": "Legal Secretariat",
+      "B": "Office of the Head of Service",
+      "C": "Treasury Department",
+      "D": "Public Safety Secretariat"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 438,
+    "question": "The Abuja Municipal Area Council headquarters is located in?",
+    "options": {
+      "A": "Garki",
+      "B": "Wuse",
+      "C": "Jabi",
+      "D": "Area 10"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 439,
+    "question": "What department is responsible for compiling annual reports on capital projects in the FCT?",
+    "options": {
+      "A": "Budget and Planning",
+      "B": "Audit Department",
+      "C": "Works Secretariat",
+      "D": "Legal Services"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 440,
+    "question": "Which unit handles conflict resolution among FCT staff?",
+    "options": {
+      "A": "Servicom",
+      "B": "Internal Audit",
+      "C": "Legal Services Unit",
+      "D": "Human Resource Department"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 441,
+    "question": "The Abuja urban renewal program began under which initiative?",
+    "options": {
+      "A": "Abuja 2020 Plan",
+      "B": "Master Plan of 1979",
+      "C": "FCT Millennium Development Goal Project",
+      "D": "FCSSIP25"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 442,
+    "question": "The One-Stop Business Registration Centre in FCT is operated by?",
+    "options": {
+      "A": "Abuja Markets Ltd",
+      "B": "Abuja Investment Company Ltd",
+      "C": "Department of Trade",
+      "D": "FCT IRS"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 443,
+    "question": "What is the primary function of the Public Safety Secretariat in the FCT?",
+    "options": {
+      "A": "Enforce taxation",
+      "B": "Coordinate safety, security, and emergency services",
+      "C": "Manage teacher postings",
+      "D": "Issue land titles"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 444,
+    "question": "The Department of Public Building operates under which main structure?",
+    "options": {
+      "A": "FCDA",
+      "B": "AMMC",
+      "C": "Treasury Department",
+      "D": "Social Development Secretariat"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 445,
+    "question": "The Abuja Investment Company promotes investment through?",
+    "options": {
+      "A": "Loan disbursement only",
+      "B": "Business registration",
+      "C": "Strategic partnerships and ventures",
+      "D": "Import of building materials"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 446,
+    "question": "What body manages the data for government staff across FCT SDAs?",
+    "options": {
+      "A": "Treasury",
+      "B": "Public Service Commission",
+      "C": "Human Resource Department",
+      "D": "Budget Office"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 447,
+    "question": "The purpose of the Abuja Street Addressing System is to?",
+    "options": {
+      "A": "Locate polling units",
+      "B": "Facilitate mail delivery and property identification",
+      "C": "Distribute electricity",
+      "D": "Register business names"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 448,
+    "question": "The FCT ICT policy focuses on?",
+    "options": {
+      "A": "Civil engineering",
+      "B": "E-governance, connectivity, and digital inclusion",
+      "C": "Fire safety",
+      "D": "Health records"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 449,
+    "question": "The Peace and Conflict Resolution Office in FCT focuses on?",
+    "options": {
+      "A": "Community violence prevention and alternative dispute resolution",
+      "B": "Election monitoring",
+      "C": "Road signage",
+      "D": "School safety inspections"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 450,
+    "question": "The main aim of FCSSIP25 is?",
+    "options": {
+      "A": "Reduce school fees",
+      "B": "Improve Service Delivery and Governance Reforms",
+      "C": "Build new cities",
+      "D": "Encourage importation of goods"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 451,
+    "question": "Which agency manages drainage construction and maintenance in FCT?",
+    "options": {
+      "A": "Parks and Recreation",
+      "B": "AEPB",
+      "C": "Department of Engineering Services",
+      "D": "Department of Urban Planning"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 452,
+    "question": "The Abuja Security Summit is organized to?",
+    "options": {
+      "A": "Fund politicians",
+      "B": "Discuss urban crime solutions and coordination among security agencies",
+      "C": "Issue school licenses",
+      "D": "Build tollgates"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 453,
+    "question": "What is the role of the FCTA Procurement Planning Committee?",
+    "options": {
+      "A": "Disburse staff loans",
+      "B": "Plan procurement activities in compliance with regulations",
+      "C": "Conduct biometric enrolment",
+      "D": "Monitor transport"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 454,
+    "question": "What role does the Urban Design Department play in city development?",
+    "options": {
+      "A": "Create street names",
+      "B": "Draw city layout, aesthetics, and infrastructure alignment",
+      "C": "Clear illegal markets",
+      "D": "Build furniture"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 455,
+    "question": "The Abuja Integrated Transport Policy promotes?",
+    "options": {
+      "A": "Use of motorcycles",
+      "B": "Non-motorized transport and mass transit systems",
+      "C": "Tricycle expansion",
+      "D": "Airfield development"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 456,
+    "question": "Which Area Council has the town of Gwargwada?",
+    "options": {
+      "A": "Kuje",
+      "B": "Bwari",
+      "C": "Abaji",
+      "D": "Kwali"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 457,
+    "question": "Which agency inspects food vendors for hygiene in FCT markets?",
+    "options": {
+      "A": "AEPB",
+      "B": "Parks and Gardens",
+      "C": "Development Control",
+      "D": "Treasury Department"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 458,
+    "question": "What agency provides technical drawings for new public structures?",
+    "options": {
+      "A": "Treasury",
+      "B": "ICT",
+      "C": "Public Buildings Department",
+      "D": "Health Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 459,
+    "question": "The Department of Resettlement and Compensation often collaborates with?",
+    "options": {
+      "A": "International donors",
+      "B": "Traditional rulers and local leaders",
+      "C": "Market unions",
+      "D": "Ministry of Finance"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 460,
+    "question": "Which area is known for Abuja\u2019s top IT hubs and coworking spaces?",
+    "options": {
+      "A": "Gwagwalada",
+      "B": "Asokoro",
+      "C": "Jabi",
+      "D": "Garki"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 461,
+    "question": "The Abuja City Portal offers what services to residents?",
+    "options": {
+      "A": "Electricity connection",
+      "B": "Online access to government services and applications",
+      "C": "Land allocation letters",
+      "D": "Tuition waivers"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 462,
+    "question": "Which department ensures alignment between national plans and FCT development plans?",
+    "options": {
+      "A": "FCDA",
+      "B": "Budget and Planning Department",
+      "C": "Department of Agriculture",
+      "D": "AGIS"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 463,
+    "question": "The Abuja Business School supports FCT goals by?",
+    "options": {
+      "A": "Educating civil servants in business and leadership",
+      "B": "Training primary school pupils",
+      "C": "Conducting road shows",
+      "D": "Disbursing public funds"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 464,
+    "question": "What is the core aim of Abuja's Green Agenda?",
+    "options": {
+      "A": "Replace tree planting with boreholes",
+      "B": "Promote urban greening and sustainability",
+      "C": "Develop gas pipelines",
+      "D": "Sell forestry licenses"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 465,
+    "question": "The Abuja Tourism Promotion Board was created to?",
+    "options": {
+      "A": "Fund entertainment events",
+      "B": "Coordinate cultural events and tourist attractions",
+      "C": "Import crafts",
+      "D": "Set up immigration desks"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 466,
+    "question": "The Abuja E-Tax platform is managed by?",
+    "options": {
+      "A": "Budget Office",
+      "B": "AGIS",
+      "C": "FCT IRS",
+      "D": "ICT Department"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 467,
+    "question": "The Development Control Department issues what type of permit?",
+    "options": {
+      "A": "Market entry",
+      "B": "Environmental noise permit",
+      "C": "Building Plan Approvals",
+      "D": "Food hygiene certificate"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 468,
+    "question": "What is the function of the Health Secretariat Ambulance Service Unit?",
+    "options": {
+      "A": "Manage car sales",
+      "B": "Provide emergency medical transport",
+      "C": "Approve roadworthiness",
+      "D": "Certify construction"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 469,
+    "question": "The FCTA Citizen\u2019s Charter is a document that?",
+    "options": {
+      "A": "Grants C-of-O",
+      "B": "Lists citizens\u2019 rights and government obligations in service delivery",
+      "C": "Promotes agriculture",
+      "D": "Licenses motorcycles"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 470,
+    "question": "The Urban and Regional Planning Department collaborates with which unit for land use data?",
+    "options": {
+      "A": "AEPB",
+      "B": "FCDA Legal Unit",
+      "C": "AGIS",
+      "D": "VIO"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 471,
+    "question": "The official website of FCTA provides access to?",
+    "options": {
+      "A": "Market prices only",
+      "B": "Government services, news, and contacts",
+      "C": "Religious calendars",
+      "D": "Foreign mission briefs"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 472,
+    "question": "What is the primary objective of the Abuja Resilience Strategy (ARS)?",
+    "options": {
+      "A": "Improve electricity",
+      "B": "Improve city capacity to withstand social, environmental, and economic shocks",
+      "C": "Promote tax reform",
+      "D": "Prevent disease outbreaks only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 473,
+    "question": "What body coordinates FCTA\u2019s donor-funded projects?",
+    "options": {
+      "A": "Budget Office",
+      "B": "Treasury",
+      "C": "Donor Coordination Unit",
+      "D": "Area Councils"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 474,
+    "question": "The Abuja Urban Stormwater Project addresses?",
+    "options": {
+      "A": "Traffic congestion",
+      "B": "Flooding and erosion control",
+      "C": "Education gap",
+      "D": "Youth unemployment"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 475,
+    "question": "Which Area Council is nearest to Gurku village?",
+    "options": {
+      "A": "Kwali",
+      "B": "Gwagwalada",
+      "C": "AMAC",
+      "D": "Abaji"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 476,
+    "question": "The Abuja E-Property platform serves to?",
+    "options": {
+      "A": "Allocate plots through mobile SMS",
+      "B": "Process land applications and monitor status online",
+      "C": "Print ID cards",
+      "D": "Upload police reports"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 477,
+    "question": "The FCTA payroll system is managed under which department?",
+    "options": {
+      "A": "Legal Secretariat",
+      "B": "Budget and Planning",
+      "C": "Treasury Department",
+      "D": "ICT Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 478,
+    "question": "Abuja\u2019s Public Procurement Law was adapted from?",
+    "options": {
+      "A": "World Bank Charter",
+      "B": "EFCC Guidelines",
+      "C": "National Public Procurement Act",
+      "D": "Nigerian Tax Reform Bill"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 479,
+    "question": "The Department of Human Resource Management supports what digital process?",
+    "options": {
+      "A": "E-learning for drivers",
+      "B": "E-leave and HR automation for staff",
+      "C": "E-trade permits",
+      "D": "E-health reports"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 480,
+    "question": "The Garki Ultra Modern Market is situated in which area?",
+    "options": {
+      "A": "Wuse Zone 2",
+      "B": "Area 10",
+      "C": "Utako",
+      "D": "Area 3"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 481,
+    "question": "What unit of the FCTA supervises service delivery benchmarking?",
+    "options": {
+      "A": "Treasury",
+      "B": "Reform Coordination and Service Improvement Department",
+      "C": "Budget and Planning",
+      "D": "Human Resource"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 482,
+    "question": "The FCT Public Health Department is under which secretariat?",
+    "options": {
+      "A": "Legal Services",
+      "B": "Health and Human Services",
+      "C": "Treasury",
+      "D": "ICT"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 483,
+    "question": "The Abuja Municipal Water Treatment Plant is located in?",
+    "options": {
+      "A": "Kubwa",
+      "B": "Karshi",
+      "C": "Lower Usuma Dam",
+      "D": "Gwagwalada"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 484,
+    "question": "The FCT Mass Housing Layout approvals are issued by?",
+    "options": {
+      "A": "Treasury",
+      "B": "Legal Department",
+      "C": "Development Control",
+      "D": "Education Secretariat"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 485,
+    "question": "The Abuja Metropolitan Waste Management Strategy is driven by?",
+    "options": {
+      "A": "Development Control",
+      "B": "ICT",
+      "C": "AEPB",
+      "D": "FCDA"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 486,
+    "question": "What department monitors electricity infrastructure in new FCT districts?",
+    "options": {
+      "A": "Treasury",
+      "B": "Engineering Services Department",
+      "C": "ICT Secretariat",
+      "D": "Parks Department"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 487,
+    "question": "The FCDA coordinates which three core development arms?",
+    "options": {
+      "A": "Roads, Schools, Markets",
+      "B": "Engineering, Planning, Surveying",
+      "C": "ICT, Health, Legal",
+      "D": "Housing, Agriculture, Media"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 488,
+    "question": "What unit conducts road signage audits across the FCT?",
+    "options": {
+      "A": "FCDA",
+      "B": "DOAS",
+      "C": "AEPB",
+      "D": "Treasury"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 489,
+    "question": "What department certifies FCT staff promotion eligibility?",
+    "options": {
+      "A": "Human Resource Department",
+      "B": "Public Complaints Commission",
+      "C": "Area Councils",
+      "D": "AGIS"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 490,
+    "question": "The Abuja Arts and Culture Village is located in which area?",
+    "options": {
+      "A": "Jabi",
+      "B": "Central Area",
+      "C": "Bwari",
+      "D": "Asokoro"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 491,
+    "question": "Which agency oversees rural electrification programs in FCT?",
+    "options": {
+      "A": "AMMC",
+      "B": "Rural Electrification and Power Department",
+      "C": "Engineering Services",
+      "D": "Treasury"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 492,
+    "question": "Which Area Council contains the community of Tukpechi?",
+    "options": {
+      "A": "Kuje",
+      "B": "Abaji",
+      "C": "Bwari",
+      "D": "Kwali"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 493,
+    "question": "What role does the Abuja Land Administration Department play?",
+    "options": {
+      "A": "Monitor traffic",
+      "B": "Handle personnel files",
+      "C": "Manage land records, allocations, and revocation",
+      "D": "Provide loans"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 494,
+    "question": "The Abuja City Security Plan includes?",
+    "options": {
+      "A": "CCTV monitoring, patrol teams, and control centers",
+      "B": "Political rallies",
+      "C": "Health missions",
+      "D": "Road construction only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 495,
+    "question": "What department licenses public parking lots in Abuja?",
+    "options": {
+      "A": "Parks Department",
+      "B": "AEPB",
+      "C": "AMMC",
+      "D": "DOAS"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 496,
+    "question": "The Abuja Open Government Policy aims at?",
+    "options": {
+      "A": "Closing offices",
+      "B": "Increasing transparency and accountability",
+      "C": "Dismissing staff",
+      "D": "Canceling elections"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 497,
+    "question": "Which agency conducts quality assurance on FCT school infrastructure?",
+    "options": {
+      "A": "Development Control",
+      "B": "Education Quality Assurance Department",
+      "C": "Human Resource",
+      "D": "Treasury"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 498,
+    "question": "FCT traffic offenders are prosecuted in?",
+    "options": {
+      "A": "Sharia Courts",
+      "B": "Mobile Traffic Courts",
+      "C": "High Courts",
+      "D": "Area Council Assembly"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 499,
+    "question": "The FCT serves as the seat of government of Nigeria since?",
+    "options": {
+      "A": "1960",
+      "B": "1980",
+      "C": "1991",
+      "D": "1976"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 500,
+    "question": "Which agency coordinates Abuja\u2019s rapid response to collapsed buildings?",
+    "options": {
+      "A": "Police",
+      "B": "Development Control",
+      "C": "Fire Service",
+      "D": "Engineering Services"
+    },
+    "answer": "B"
+  }
+]

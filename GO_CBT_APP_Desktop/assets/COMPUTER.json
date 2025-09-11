@@ -1,0 +1,3302 @@
+[
+  {
+    "question_number": 1,
+    "question": "Which device is primarily used to input text into a computer?",
+    "options": {
+      "A": "Monitor",
+      "B": "Printer",
+      "C": "Keyboard",
+      "D": "Scanner"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 2,
+    "question": "What is the brain of the computer known as?",
+    "options": {
+      "A": "RAM",
+      "B": "CPU",
+      "C": "Hard Drive",
+      "D": "USB"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 3,
+    "question": "Which of the following is an example of system software?",
+    "options": {
+      "A": "Microsoft Word",
+      "B": "Windows 10",
+      "C": "Google Chrome",
+      "D": "VLC Media Player"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 4,
+    "question": "Which unit is used to measure the speed of a processor?",
+    "options": {
+      "A": "GB",
+      "B": "MB",
+      "C": "GHz",
+      "D": "DPI"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 5,
+    "question": "Which of these is a permanent storage device?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "Hard Disk",
+      "D": "Cache"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 6,
+    "question": "Which of these is not an output device?",
+    "options": {
+      "A": "Monitor",
+      "B": "Speaker",
+      "C": "Printer",
+      "D": "Mouse"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 7,
+    "question": "What does 'www' stand for in a website address?",
+    "options": {
+      "A": "World Word Web",
+      "B": "Wide Web Window",
+      "C": "World Wide Web",
+      "D": "Wide World Window"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 8,
+    "question": "Which part of the computer temporarily holds data and instructions for processing?",
+    "options": {
+      "A": "Hard Drive",
+      "B": "RAM",
+      "C": "ROM",
+      "D": "USB Drive"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 9,
+    "question": "Which of the following is used to connect a computer to the internet?",
+    "options": {
+      "A": "Scanner",
+      "B": "Printer",
+      "C": "Modem",
+      "D": "Joystick"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 10,
+    "question": "What is the main function of an operating system?",
+    "options": {
+      "A": "Connect to the internet",
+      "B": "Store information",
+      "C": "Manage computer hardware and software",
+      "D": "Display videos"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 11,
+    "question": "Which of these is an example of an input device?",
+    "options": {
+      "A": "Projector",
+      "B": "Headphone",
+      "C": "Webcam",
+      "D": "Monitor"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 12,
+    "question": "Which key is used to delete characters to the left of the cursor?",
+    "options": {
+      "A": "Delete",
+      "B": "Enter",
+      "C": "Shift",
+      "D": "Backspace"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 13,
+    "question": "What does 'CPU' stand for?",
+    "options": {
+      "A": "Central Peripheral Unit",
+      "B": "Computer Processing Unit",
+      "C": "Central Processing Unit",
+      "D": "Core Processor Unit"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 14,
+    "question": "Which of the following is not part of the Microsoft Office suite?",
+    "options": {
+      "A": "Excel",
+      "B": "PowerPoint",
+      "C": "Firefox",
+      "D": "Word"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 15,
+    "question": "Which of these is a graphical user interface operating system?",
+    "options": {
+      "A": "MS-DOS",
+      "B": "Windows",
+      "C": "UNIX",
+      "D": "Linux CLI"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 16,
+    "question": "What type of software is antivirus?",
+    "options": {
+      "A": "System software",
+      "B": "Application software",
+      "C": "Utility software",
+      "D": "Word processor"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 17,
+    "question": "What does 'bit' stand for?",
+    "options": {
+      "A": "Binary digit",
+      "B": "Built-in terminal",
+      "C": "Byte integer",
+      "D": "Basic internal token"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 18,
+    "question": "Which of the following keys is used to capitalize letters?",
+    "options": {
+      "A": "Spacebar",
+      "B": "Tab",
+      "C": "Shift",
+      "D": "Alt"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 19,
+    "question": "Which of the following is not a type of computer?",
+    "options": {
+      "A": "Supercomputer",
+      "B": "Laptop",
+      "C": "Calculator",
+      "D": "Smartphone"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 20,
+    "question": "What type of file is commonly used to store documents?",
+    "options": {
+      "A": ".exe",
+      "B": ".docx",
+      "C": ".mp3",
+      "D": ".jpg"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 21,
+    "question": "Which key is used to capitalize letters when typing?",
+    "options": {
+      "A": "Shift",
+      "B": "Enter",
+      "C": "Spacebar",
+      "D": "Backspace"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 22,
+    "question": "Which file extension is commonly used for image files?",
+    "options": {
+      "A": ".mp3",
+      "B": ".exe",
+      "C": ".docx",
+      "D": ".jpg"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 23,
+    "question": "Which of the following is a type of software?",
+    "options": {
+      "A": "System software",
+      "B": "Application software",
+      "C": "Utility software",
+      "D": "Programming software"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 24,
+    "question": "Which of the following is an operating system?",
+    "options": {
+      "A": "Linux",
+      "B": "macOS",
+      "C": "Windows",
+      "D": "Android"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 25,
+    "question": "Which of the following is NOT an input device?",
+    "options": {
+      "A": "Keyboard",
+      "B": "Joystick",
+      "C": "Printer",
+      "D": "Mouse"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 26,
+    "question": "Which file extension is commonly used for executable files?",
+    "options": {
+      "A": ".jpg",
+      "B": ".exe",
+      "C": ".mp3",
+      "D": ".docx"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 27,
+    "question": "Which file extension is commonly used for audio files?",
+    "options": {
+      "A": ".mp3",
+      "B": ".jpg",
+      "C": ".exe",
+      "D": ".docx"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 28,
+    "question": "Which of these is used for permanent data storage?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "Hard Disk",
+      "D": "Cache"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 29,
+    "question": "Which file extension is commonly used for document files?",
+    "options": {
+      "A": ".exe",
+      "B": ".docx",
+      "C": ".mp3",
+      "D": ".jpg"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 30,
+    "question": "Which of the following is used to prevent unauthorized access to a computer network?",
+    "options": {
+      "A": "Firewall",
+      "B": "Monitor",
+      "C": "USB Drive",
+      "D": "Mouse"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 31,
+    "question": "What is the function of a web browser?",
+    "options": {
+      "A": "Edit spreadsheets",
+      "B": "Play video games",
+      "C": "Access and display web pages",
+      "D": "Print documents"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 32,
+    "question": "Which of the following is not a programming language?",
+    "options": {
+      "A": "Python",
+      "B": "Java",
+      "C": "HTML",
+      "D": "Excel"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 33,
+    "question": "What does URL stand for?",
+    "options": {
+      "A": "Universal Reference Link",
+      "B": "Uniform Resource Locator",
+      "C": "Unique Retrieval Line",
+      "D": "United Routing Location"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 34,
+    "question": "Which of these storage devices has no moving parts?",
+    "options": {
+      "A": "Hard Disk Drive",
+      "B": "Floppy Disk",
+      "C": "Solid State Drive",
+      "D": "CD-ROM"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 35,
+    "question": "Which of these is not a function of the control unit in a CPU?",
+    "options": {
+      "A": "Directing the operation of the processor",
+      "B": "Managing execution of instructions",
+      "C": "Performing mathematical calculations",
+      "D": "Fetching instructions from memory"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 36,
+    "question": "What is the primary purpose of an IP address?",
+    "options": {
+      "A": "Identify software",
+      "B": "Identify hardware",
+      "C": "Identify websites",
+      "D": "Identify devices on a network"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 37,
+    "question": "Which device converts digital signals to analog for transmission over phone lines?",
+    "options": {
+      "A": "Router",
+      "B": "Switch",
+      "C": "Modem",
+      "D": "Firewall"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 38,
+    "question": "Which keyboard shortcut is commonly used to undo an action in most software applications?",
+    "options": {
+      "A": "Ctrl + A",
+      "B": "Ctrl + Z",
+      "C": "Ctrl + C",
+      "D": "Ctrl + V"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 39,
+    "question": "Which of the following is a component of a URL?",
+    "options": {
+      "A": "RAM",
+      "B": "IP address",
+      "C": "Protocol",
+      "D": "HTML"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 40,
+    "question": "Which company developed the Windows operating system?",
+    "options": {
+      "A": "Apple",
+      "B": "IBM",
+      "C": "Microsoft",
+      "D": "Google"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 41,
+    "question": "Which of these is used to run programs and manage hardware resources?",
+    "options": {
+      "A": "Operating System",
+      "B": "Firewall",
+      "C": "Antivirus",
+      "D": "Modem"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 42,
+    "question": "Which type of memory is non-volatile and stores data permanently?",
+    "options": {
+      "A": "RAM",
+      "B": "Cache",
+      "C": "ROM",
+      "D": "Register"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 43,
+    "question": "Which one is a cloud storage service?",
+    "options": {
+      "A": "Word",
+      "B": "Dropbox",
+      "C": "Excel",
+      "D": "Firefox"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 44,
+    "question": "Which of the following is not a web browser?",
+    "options": {
+      "A": "Safari",
+      "B": "Chrome",
+      "C": "Edge",
+      "D": "Excel"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 45,
+    "question": "Which programming language is primarily used for web development?",
+    "options": {
+      "A": "Python",
+      "B": "Java",
+      "C": "HTML",
+      "D": "C++"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 46,
+    "question": "Which of the following is an optical storage device?",
+    "options": {
+      "A": "SSD",
+      "B": "Hard Drive",
+      "C": "CD-ROM",
+      "D": "RAM"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 47,
+    "question": "Which company produces the macOS operating system?",
+    "options": {
+      "A": "Microsoft",
+      "B": "Apple",
+      "C": "Google",
+      "D": "IBM"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 48,
+    "question": "Which of these is a characteristic of open-source software?",
+    "options": {
+      "A": "Requires license purchase",
+      "B": "Source code is hidden",
+      "C": "Source code is publicly available",
+      "D": "Not editable"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 49,
+    "question": "What does GUI stand for?",
+    "options": {
+      "A": "General User Interface",
+      "B": "Graphical User Interface",
+      "C": "Guided Utility Input",
+      "D": "Graphic Unified Interaction"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 50,
+    "question": "Which device is used to scan printed documents into a digital format?",
+    "options": {
+      "A": "Printer",
+      "B": "Projector",
+      "C": "Scanner",
+      "D": "Monitor"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 51,
+    "question": "What does URL help a user do?",
+    "options": {
+      "A": "Store files",
+      "B": "Access a website",
+      "C": "Create images",
+      "D": "Edit videos"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 52,
+    "question": "Which of the following is a secondary memory device?",
+    "options": {
+      "A": "CPU",
+      "B": "Hard Disk",
+      "C": "RAM",
+      "D": "Register"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 53,
+    "question": "Which input device helps users interact through pointing and clicking?",
+    "options": {
+      "A": "Keyboard",
+      "B": "Mouse",
+      "C": "Scanner",
+      "D": "Microphone"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 54,
+    "question": "Which of these is used to display video output from a computer?",
+    "options": {
+      "A": "Keyboard",
+      "B": "Mouse",
+      "C": "Monitor",
+      "D": "Scanner"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 55,
+    "question": "What type of device is used to output sound from a computer?",
+    "options": {
+      "A": "Microphone",
+      "B": "Monitor",
+      "C": "Speaker",
+      "D": "Mouse"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 56,
+    "question": "What does ISP stand for?",
+    "options": {
+      "A": "Internet Service Provider",
+      "B": "Internal Storage Port",
+      "C": "International System Protocol",
+      "D": "Internet Sharing Program"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 57,
+    "question": "Which of these is not a search engine?",
+    "options": {
+      "A": "Bing",
+      "B": "Yahoo",
+      "C": "Chrome",
+      "D": "DuckDuckGo"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 58,
+    "question": "Which computer part performs calculations?",
+    "options": {
+      "A": "Control Unit",
+      "B": "ALU",
+      "C": "RAM",
+      "D": "Hard Disk"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 59,
+    "question": "Which shortcut is used to copy selected items?",
+    "options": {
+      "A": "Ctrl + V",
+      "B": "Ctrl + C",
+      "C": "Ctrl + Z",
+      "D": "Ctrl + P"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 60,
+    "question": "Which key is used to insert a tab space?",
+    "options": {
+      "A": "Enter",
+      "B": "Shift",
+      "C": "Tab",
+      "D": "Alt"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 61,
+    "question": "Which port is commonly used to connect keyboards and mice?",
+    "options": {
+      "A": "HDMI",
+      "B": "VGA",
+      "C": "USB",
+      "D": "Audio Jack"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 62,
+    "question": "What does PDF stand for?",
+    "options": {
+      "A": "Portable Digital File",
+      "B": "Program Document File",
+      "C": "Portable Document Format",
+      "D": "Printed Data Format"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 63,
+    "question": "What is phishing?",
+    "options": {
+      "A": "File compression",
+      "B": "Data backup",
+      "C": "A form of cyber attack",
+      "D": "Programming language"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 64,
+    "question": "Which of these devices is primarily used for printing?",
+    "options": {
+      "A": "Monitor",
+      "B": "Modem",
+      "C": "Printer",
+      "D": "Projector"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 65,
+    "question": "Which shortcut is used to paste content?",
+    "options": {
+      "A": "Ctrl + V",
+      "B": "Ctrl + X",
+      "C": "Ctrl + S",
+      "D": "Ctrl + Z"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 66,
+    "question": "Which of the following stores data in tabular format?",
+    "options": {
+      "A": "Word",
+      "B": "Paint",
+      "C": "Excel",
+      "D": "PowerPoint"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 67,
+    "question": "Which device is primarily used to project visual output to a large screen?",
+    "options": {
+      "A": "Printer",
+      "B": "Speaker",
+      "C": "Projector",
+      "D": "Router"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 68,
+    "question": "Which command is used to restart a Windows computer?",
+    "options": {
+      "A": "Shutdown",
+      "B": "Reboot",
+      "C": "Log off",
+      "D": "Sleep"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 69,
+    "question": "Which menu in MS Word allows changing font styles?",
+    "options": {
+      "A": "Insert",
+      "B": "Review",
+      "C": "Home",
+      "D": "View"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 70,
+    "question": "Which of these is used to build mobile apps?",
+    "options": {
+      "A": "WordPad",
+      "B": "PowerPoint",
+      "C": "Android Studio",
+      "D": "Notepad"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 71,
+    "question": "Which language is primarily used for web page styling?",
+    "options": {
+      "A": "HTML",
+      "B": "CSS",
+      "C": "Java",
+      "D": "Python"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 72,
+    "question": "Which of these is an example of system software?",
+    "options": {
+      "A": "Adobe Reader",
+      "B": "Windows",
+      "C": "Microsoft Excel",
+      "D": "VLC Player"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 73,
+    "question": "What is the function of the recycle bin?",
+    "options": {
+      "A": "Permanently delete files",
+      "B": "Backup files",
+      "C": "Temporarily store deleted files",
+      "D": "Install applications"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 74,
+    "question": "Which of the following is not a storage device?",
+    "options": {
+      "A": "USB Flash Drive",
+      "B": "RAM",
+      "C": "Hard Disk",
+      "D": "CPU"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 75,
+    "question": "Which of these is an example of malware?",
+    "options": {
+      "A": "Antivirus",
+      "B": "Firewall",
+      "C": "Trojan",
+      "D": "VPN"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 76,
+    "question": "Which technology allows wireless internet connection?",
+    "options": {
+      "A": "Bluetooth",
+      "B": "Wi-Fi",
+      "C": "Ethernet",
+      "D": "HDMI"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 77,
+    "question": "Which device helps expand the number of USB ports?",
+    "options": {
+      "A": "Router",
+      "B": "Switch",
+      "C": "USB Hub",
+      "D": "RAM"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 78,
+    "question": "Which of these is a presentation software?",
+    "options": {
+      "A": "Excel",
+      "B": "Word",
+      "C": "PowerPoint",
+      "D": "Notepad"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 79,
+    "question": "Which of the following represents a domain extension?",
+    "options": {
+      "A": "http",
+      "B": "com",
+      "C": "ftp",
+      "D": "url"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 80,
+    "question": "Which keyboard key is used to erase characters to the right of the cursor?",
+    "options": {
+      "A": "Backspace",
+      "B": "Enter",
+      "C": "Delete",
+      "D": "Spacebar"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 81,
+    "question": "Which of the following is used to store data for long-term use?",
+    "options": {
+      "A": "RAM",
+      "B": "Cache",
+      "C": "ROM",
+      "D": "Hard Drive"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 82,
+    "question": "What does HTML stand for?",
+    "options": {
+      "A": "HighText Machine Language",
+      "B": "HyperText Markup Language",
+      "C": "Hyperloop Text Manipulation Language",
+      "D": "High Transfer Mark Language"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 83,
+    "question": "Which of these is a portable storage device?",
+    "options": {
+      "A": "RAM",
+      "B": "USB Flash Drive",
+      "C": "CPU",
+      "D": "Motherboard"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 84,
+    "question": "Which key combination is used to save a document in most applications?",
+    "options": {
+      "A": "Ctrl + V",
+      "B": "Ctrl + S",
+      "C": "Ctrl + C",
+      "D": "Ctrl + X"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 85,
+    "question": "Which of these is NOT an example of an operating system?",
+    "options": {
+      "A": "Windows",
+      "B": "Android",
+      "C": "Linux",
+      "D": "Photoshop"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 86,
+    "question": "What does LAN stand for?",
+    "options": {
+      "A": "Large Area Network",
+      "B": "Local Access Node",
+      "C": "Local Area Network",
+      "D": "Line Access Network"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 87,
+    "question": "Which key combination is used to cut selected text?",
+    "options": {
+      "A": "Ctrl + C",
+      "B": "Ctrl + V",
+      "C": "Ctrl + X",
+      "D": "Ctrl + A"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 88,
+    "question": "What is the main function of the ALU in a computer?",
+    "options": {
+      "A": "Store data",
+      "B": "Perform calculations",
+      "C": "Display images",
+      "D": "Manage memory"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 89,
+    "question": "Which port is commonly used to connect monitors to computers?",
+    "options": {
+      "A": "VGA",
+      "B": "USB",
+      "C": "Ethernet",
+      "D": "Audio Jack"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 90,
+    "question": "Which of these devices allows users to hear audio output?",
+    "options": {
+      "A": "Webcam",
+      "B": "Microphone",
+      "C": "Speaker",
+      "D": "Keyboard"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 91,
+    "question": "What does HTTP stand for?",
+    "options": {
+      "A": "High Transfer Text Protocol",
+      "B": "Hyper Transfer Type Protocol",
+      "C": "HyperText Transfer Protocol",
+      "D": "HyperText Technical Platform"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 92,
+    "question": "What kind of software is Microsoft Excel?",
+    "options": {
+      "A": "Presentation",
+      "B": "Spreadsheet",
+      "C": "Database",
+      "D": "Operating System"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 93,
+    "question": "Which programming language is widely used for data analysis and statistics?",
+    "options": {
+      "A": "HTML",
+      "B": "Python",
+      "C": "CSS",
+      "D": "Java"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 94,
+    "question": "What is the primary function of a firewall?",
+    "options": {
+      "A": "Display websites",
+      "B": "Speed up downloads",
+      "C": "Prevent unauthorized access",
+      "D": "Backup files"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 95,
+    "question": "Which type of computer memory is volatile?",
+    "options": {
+      "A": "ROM",
+      "B": "RAM",
+      "C": "Hard Drive",
+      "D": "SSD"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 96,
+    "question": "What does BIOS stand for?",
+    "options": {
+      "A": "Binary Input Output System",
+      "B": "Basic Internal Output Setup",
+      "C": "Basic Input Output System",
+      "D": "Basic Integrated Output Storage"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 97,
+    "question": "Which of these is not a valid file extension for images?",
+    "options": {
+      "A": ".png",
+      "B": ".jpg",
+      "C": ".gif",
+      "D": ".exe"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 98,
+    "question": "Which of the following is not a hardware component?",
+    "options": {
+      "A": "Monitor",
+      "B": "Mouse",
+      "C": "Antivirus",
+      "D": "RAM"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 99,
+    "question": "Which of these devices is best suited for making video calls?",
+    "options": {
+      "A": "Webcam",
+      "B": "Speaker",
+      "C": "Scanner",
+      "D": "Printer"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "What does VPN stand for?",
+    "options": {
+      "A": "Virtual Platform Network",
+      "B": "Visual Protocol Number",
+      "C": "Virtual Private Network",
+      "D": "Video Packet Node"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 101,
+    "question": "Which of the following is used to protect a computer from viruses?",
+    "options": {
+      "A": "Firewall",
+      "B": "Word Processor",
+      "C": "Antivirus Software",
+      "D": "Browser"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 102,
+    "question": "Which device helps cool the processor?",
+    "options": {
+      "A": "UPS",
+      "B": "Cooling Fan",
+      "C": "Monitor",
+      "D": "Speaker"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 103,
+    "question": "Which storage medium is considered optical?",
+    "options": {
+      "A": "SSD",
+      "B": "Hard Disk",
+      "C": "CD",
+      "D": "RAM"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 104,
+    "question": "Which of the following is not used for input?",
+    "options": {
+      "A": "Mouse",
+      "B": "Keyboard",
+      "C": "Scanner",
+      "D": "Projector"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 105,
+    "question": "What is the shortcut for selecting all content in most applications?",
+    "options": {
+      "A": "Ctrl + A",
+      "B": "Ctrl + S",
+      "C": "Ctrl + X",
+      "D": "Ctrl + V"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 106,
+    "question": "Which of these is a mobile operating system?",
+    "options": {
+      "A": "Windows 10",
+      "B": "Linux",
+      "C": "macOS",
+      "D": "Android"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 107,
+    "question": "Which of these is not a computer network type?",
+    "options": {
+      "A": "LAN",
+      "B": "WAN",
+      "C": "PAN",
+      "D": "GAN"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 108,
+    "question": "Which command allows the user to print a document?",
+    "options": {
+      "A": "Ctrl + V",
+      "B": "Ctrl + P",
+      "C": "Ctrl + C",
+      "D": "Ctrl + T"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 109,
+    "question": "Which of the following is an example of freeware?",
+    "options": {
+      "A": "MS Word",
+      "B": "Adobe Reader",
+      "C": "VLC Media Player",
+      "D": "Linux Ubuntu"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 110,
+    "question": "Which language is used to design the structure of web pages?",
+    "options": {
+      "A": "CSS",
+      "B": "JavaScript",
+      "C": "HTML",
+      "D": "Python"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 111,
+    "question": "What does IP stand for in networking?",
+    "options": {
+      "A": "Internet Process",
+      "B": "Internal Protocol",
+      "C": "Internet Protocol",
+      "D": "Interface Protocol"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 112,
+    "question": "Which of the following is a cloud-based word processor?",
+    "options": {
+      "A": "Notepad",
+      "B": "MS Word",
+      "C": "Google Docs",
+      "D": "WordPad"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 113,
+    "question": "Which computer component temporarily stores data during processing?",
+    "options": {
+      "A": "ROM",
+      "B": "Hard Disk",
+      "C": "RAM",
+      "D": "USB Drive"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 114,
+    "question": "Which term refers to the physical parts of a computer?",
+    "options": {
+      "A": "Hardware",
+      "B": "Software",
+      "C": "Network",
+      "D": "Cloud"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 115,
+    "question": "Which of the following is a popular spreadsheet application?",
+    "options": {
+      "A": "PowerPoint",
+      "B": "Excel",
+      "C": "Word",
+      "D": "Access"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 116,
+    "question": "Which application would you use to create a slide show?",
+    "options": {
+      "A": "Excel",
+      "B": "Word",
+      "C": "PowerPoint",
+      "D": "Notepad"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 117,
+    "question": "Which button is usually used to refresh a web page?",
+    "options": {
+      "A": "F1",
+      "B": "F5",
+      "C": "F3",
+      "D": "F10"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 118,
+    "question": "What is a byte made up of?",
+    "options": {
+      "A": "2 bits",
+      "B": "4 bits",
+      "C": "6 bits",
+      "D": "8 bits"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 119,
+    "question": "Which of these is an example of an email service provider?",
+    "options": {
+      "A": "Google Chrome",
+      "B": "Yahoo Mail",
+      "C": "VLC",
+      "D": "Excel"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 120,
+    "question": "What does GUI allow users to do?",
+    "options": {
+      "A": "Type in code",
+      "B": "Use graphical icons",
+      "C": "Speak to the computer",
+      "D": "Draw sketches"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 121,
+    "question": "Which type of device is used for backup and transfer of large files?",
+    "options": {
+      "A": "RAM",
+      "B": "SSD",
+      "C": "USB Flash Drive",
+      "D": "Speaker"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 122,
+    "question": "Which of these formats is a video file?",
+    "options": {
+      "A": ".jpg",
+      "B": ".docx",
+      "C": ".mp4",
+      "D": ".pdf"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 123,
+    "question": "What is the purpose of the Control Panel in Windows?",
+    "options": {
+      "A": "Play games",
+      "B": "Adjust system settings",
+      "C": "Write code",
+      "D": "Scan documents"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 124,
+    "question": "Which one of the following is not a valid browser?",
+    "options": {
+      "A": "Safari",
+      "B": "Opera",
+      "C": "Chrome",
+      "D": "Ubuntu"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 125,
+    "question": "Which key combination is used to redo an action?",
+    "options": {
+      "A": "Ctrl + Z",
+      "B": "Ctrl + R",
+      "C": "Ctrl + Y",
+      "D": "Ctrl + D"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 126,
+    "question": "Which of these is a biometric device?",
+    "options": {
+      "A": "USB",
+      "B": "Mouse",
+      "C": "Fingerprint Scanner",
+      "D": "Keyboard"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 127,
+    "question": "Which of the following is used to protect passwords and sensitive information online?",
+    "options": {
+      "A": "Antivirus",
+      "B": "Encryption",
+      "C": "Formatting",
+      "D": "Zoom"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 128,
+    "question": "What is the main unit that houses all the important parts of a computer?",
+    "options": {
+      "A": "CPU",
+      "B": "Monitor",
+      "C": "Motherboard",
+      "D": "System Unit"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 129,
+    "question": "Which of the following is an example of freeware?",
+    "options": {
+      "A": "MS Excel",
+      "B": "Adobe Photoshop",
+      "C": "Google Chrome",
+      "D": "AutoCAD"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 130,
+    "question": "Which of these file formats is used for text documents?",
+    "options": {
+      "A": ".docx",
+      "B": ".mp3",
+      "C": ".mp4",
+      "D": ".png"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 131,
+    "question": "Which of the following keys is used to move the cursor to the beginning of a line?",
+    "options": {
+      "A": "End",
+      "B": "Home",
+      "C": "Shift",
+      "D": "Tab"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 132,
+    "question": "What does ICT stand for?",
+    "options": {
+      "A": "Information Communication Technology",
+      "B": "Internal Communication Terminal",
+      "C": "Internet Control Technology",
+      "D": "International Connection Transfer"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 133,
+    "question": "Which software is commonly used for editing photos?",
+    "options": {
+      "A": "VLC Player",
+      "B": "MS Word",
+      "C": "Photoshop",
+      "D": "Excel"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 134,
+    "question": "Which is the smallest unit of data in computing?",
+    "options": {
+      "A": "Byte",
+      "B": "Nibble",
+      "C": "Bit",
+      "D": "Word"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 135,
+    "question": "Which of the following connects computers over long distances?",
+    "options": {
+      "A": "LAN",
+      "B": "WAN",
+      "C": "PAN",
+      "D": "USB"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 136,
+    "question": "Which file extension is used for presentations?",
+    "options": {
+      "A": ".pptx",
+      "B": ".docx",
+      "C": ".xlsx",
+      "D": ".pdf"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 137,
+    "question": "What is the purpose of a router?",
+    "options": {
+      "A": "Print documents",
+      "B": "Connect networks",
+      "C": "Play music",
+      "D": "Write code"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 138,
+    "question": "Which of the following uses light to transmit data?",
+    "options": {
+      "A": "Coaxial Cable",
+      "B": "Fiber Optic Cable",
+      "C": "Ethernet",
+      "D": "USB"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 139,
+    "question": "What is the function of the taskbar in Windows?",
+    "options": {
+      "A": "Show background image",
+      "B": "Navigate between windows",
+      "C": "Display open applications",
+      "D": "Lock the screen"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 140,
+    "question": "Which of these actions can be performed with a right-click?",
+    "options": {
+      "A": "Select text",
+      "B": "Drag files",
+      "C": "Open context menu",
+      "D": "Type letters"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 141,
+    "question": "What does DNS stand for?",
+    "options": {
+      "A": "Domain Name System",
+      "B": "Digital Network Service",
+      "C": "Direct Name Setup",
+      "D": "Dynamic Node Structure"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 142,
+    "question": "Which of the following is not a Microsoft product?",
+    "options": {
+      "A": "PowerPoint",
+      "B": "Access",
+      "C": "Safari",
+      "D": "Outlook"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 143,
+    "question": "Which of these file types is used to compress files?",
+    "options": {
+      "A": ".txt",
+      "B": ".zip",
+      "C": ".doc",
+      "D": ".exe"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 144,
+    "question": "What is the primary function of RAM?",
+    "options": {
+      "A": "Store long-term data",
+      "B": "Store settings",
+      "C": "Temporary data storage",
+      "D": "Manage network connections"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 145,
+    "question": "What is the standard pointing device in a GUI?",
+    "options": {
+      "A": "Touchscreen",
+      "B": "Mouse",
+      "C": "Stylus",
+      "D": "Microphone"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 146,
+    "question": "Which type of computer is used by one person at a time?",
+    "options": {
+      "A": "Supercomputer",
+      "B": "Mainframe",
+      "C": "Personal Computer",
+      "D": "Server"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 147,
+    "question": "Which of the following allows voice communication over the internet?",
+    "options": {
+      "A": "VoIP",
+      "B": "FTP",
+      "C": "DNS",
+      "D": "HTML"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 148,
+    "question": "Which software is used to surf the internet?",
+    "options": {
+      "A": "Google Chrome",
+      "B": "MS Excel",
+      "C": "MS Word",
+      "D": "Notepad"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 149,
+    "question": "What is an example of an email client?",
+    "options": {
+      "A": "Google",
+      "B": "Outlook",
+      "C": "Facebook",
+      "D": "Excel"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 150,
+    "question": "Which programming language is known for its simplicity and readability?",
+    "options": {
+      "A": "C",
+      "B": "Assembly",
+      "C": "Python",
+      "D": "Java"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 151,
+    "question": "What is a computer?",
+    "options": {
+      "A": "A device that cooks food",
+      "B": "A machine that processes data",
+      "C": "A tool for drawing only",
+      "D": "A mobile phone accessory"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 152,
+    "question": "Which of the following best describes data?",
+    "options": {
+      "A": "Processed information",
+      "B": "Raw facts and figures",
+      "C": "Completed tasks",
+      "D": "Software files"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 153,
+    "question": "What is information?",
+    "options": {
+      "A": "Data entered into the computer",
+      "B": "Raw unprocessed facts",
+      "C": "Processed data",
+      "D": "A type of virus"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 154,
+    "question": "Which of these is not a characteristic of a computer?",
+    "options": {
+      "A": "Speed",
+      "B": "Accuracy",
+      "C": "Emotion",
+      "D": "Automation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 155,
+    "question": "Which of these is a basic function of a computer?",
+    "options": {
+      "A": "Painting",
+      "B": "Processing",
+      "C": "Sleeping",
+      "D": "Talking"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 156,
+    "question": "Which one is not a type of computer based on size?",
+    "options": {
+      "A": "Microcomputer",
+      "B": "Minicomputer",
+      "C": "Laptop",
+      "D": "Megacomputer"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 157,
+    "question": "What type of computer is mainly used by individuals at home or school?",
+    "options": {
+      "A": "Supercomputer",
+      "B": "Minicomputer",
+      "C": "Personal Computer",
+      "D": "Mainframe"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 158,
+    "question": "Which type of computer is the fastest and most powerful?",
+    "options": {
+      "A": "Laptop",
+      "B": "Supercomputer",
+      "C": "Mainframe",
+      "D": "Desktop"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 159,
+    "question": "Which type of computer can support hundreds of users at the same time?",
+    "options": {
+      "A": "Mainframe",
+      "B": "Personal Computer",
+      "C": "Notebook",
+      "D": "Tablet"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 160,
+    "question": "What type of computer is small enough to be carried around and used on the go?",
+    "options": {
+      "A": "Minicomputer",
+      "B": "Desktop",
+      "C": "Laptop",
+      "D": "Supercomputer"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 161,
+    "question": "Which type of computer is embedded inside devices like microwaves or washing machines?",
+    "options": {
+      "A": "Personal Computer",
+      "B": "Embedded Computer",
+      "C": "Mainframe",
+      "D": "Workstation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 162,
+    "question": "How many generations of computers exist?",
+    "options": {
+      "A": "Two",
+      "B": "Four",
+      "C": "Five",
+      "D": "Six"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 163,
+    "question": "What technology was used in the first generation of computers?",
+    "options": {
+      "A": "Microchips",
+      "B": "Transistors",
+      "C": "Vacuum Tubes",
+      "D": "Integrated Circuits"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 164,
+    "question": "What is the main limitation of vacuum tubes?",
+    "options": {
+      "A": "Cheap",
+      "B": "Compact",
+      "C": "Produced less heat",
+      "D": "Prone to overheating and large in size"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 165,
+    "question": "Which generation of computers introduced transistors?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fifth"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 166,
+    "question": "What advantage did transistors have over vacuum tubes?",
+    "options": {
+      "A": "Larger size",
+      "B": "More heat",
+      "C": "Slower speed",
+      "D": "More reliability and smaller size"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 167,
+    "question": "What technology was introduced in third-generation computers?",
+    "options": {
+      "A": "Vacuum Tubes",
+      "B": "Magnetic Tapes",
+      "C": "Integrated Circuits",
+      "D": "Artificial Intelligence"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 168,
+    "question": "Which generation of computers saw the introduction of microprocessors?",
+    "options": {
+      "A": "First",
+      "B": "Fourth",
+      "C": "Second",
+      "D": "Third"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 169,
+    "question": "Which generation is associated with Artificial Intelligence?",
+    "options": {
+      "A": "Third",
+      "B": "Fifth",
+      "C": "Second",
+      "D": "Fourth"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 170,
+    "question": "Which of these is a feature of fifth-generation computers?",
+    "options": {
+      "A": "Vacuum Tube",
+      "B": "Use of Artificial Intelligence",
+      "C": "Magnetic Drums",
+      "D": "Transistor Circuits"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 171,
+    "question": "Which device is essential for data entry into a computer system?",
+    "options": {
+      "A": "Monitor",
+      "B": "Keyboard",
+      "C": "Printer",
+      "D": "Speaker"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 172,
+    "question": "Which of the following is considered an output device?",
+    "options": {
+      "A": "Mouse",
+      "B": "Keyboard",
+      "C": "Printer",
+      "D": "Joystick"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 173,
+    "question": "What is the main circuit board of a computer called?",
+    "options": {
+      "A": "Hard Disk",
+      "B": "CPU",
+      "C": "Monitor",
+      "D": "Motherboard"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 174,
+    "question": "What type of computer is best suited for scientific calculations?",
+    "options": {
+      "A": "Supercomputer",
+      "B": "Personal Computer",
+      "C": "Notebook",
+      "D": "Netbook"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 175,
+    "question": "Which generation of computers used high-level languages like COBOL and FORTRAN?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fifth"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 176,
+    "question": "What is a defining feature of third-generation computers?",
+    "options": {
+      "A": "Vacuum Tubes",
+      "B": "Integrated Circuits",
+      "C": "Magnetic Drums",
+      "D": "Punch Cards"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 177,
+    "question": "What was the main limitation of first-generation computers?",
+    "options": {
+      "A": "Cheap",
+      "B": "User-friendly",
+      "C": "Large size and frequent failures",
+      "D": "Touchscreen input"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 178,
+    "question": "What is the purpose of classification by computer size?",
+    "options": {
+      "A": "To identify operating system",
+      "B": "To determine battery type",
+      "C": "To define performance and usage scale",
+      "D": "To know monitor type"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 179,
+    "question": "Which generation of computers is based on parallel processing?",
+    "options": {
+      "A": "Fifth",
+      "B": "First",
+      "C": "Second",
+      "D": "Third"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 180,
+    "question": "Which generation of computers had the largest physical size?",
+    "options": {
+      "A": "Fourth",
+      "B": "Second",
+      "C": "First",
+      "D": "Third"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 181,
+    "question": "Which language was introduced in the second generation?",
+    "options": {
+      "A": "Machine Language",
+      "B": "Assembly Language",
+      "C": "BASIC",
+      "D": "COBOL"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 182,
+    "question": "Which generation introduced the concept of operating systems?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fourth"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 183,
+    "question": "What is one major benefit of using computers in education?",
+    "options": {
+      "A": "Increased weight of books",
+      "B": "Limited access to content",
+      "C": "Quick access to knowledge",
+      "D": "High electricity cost"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 184,
+    "question": "What are the basic operations of a computer?",
+    "options": {
+      "A": "Input, Process, Output, Storage",
+      "B": "Type, Read, Dance, Save",
+      "C": "Talk, Print, Listen, Walk",
+      "D": "Copy, Paste, Format, Paint"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 185,
+    "question": "Which generation marked the beginning of the use of mouse and GUI?",
+    "options": {
+      "A": "Second",
+      "B": "Fourth",
+      "C": "Third",
+      "D": "Fifth"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 186,
+    "question": "What is software?",
+    "options": {
+      "A": "The hard parts of a computer",
+      "B": "The user\u2019s profile",
+      "C": "Instructions that tell a computer what to do",
+      "D": "The monitor screen"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 187,
+    "question": "Which type of computer is most suitable for everyday office tasks?",
+    "options": {
+      "A": "Mainframe",
+      "B": "Supercomputer",
+      "C": "Desktop",
+      "D": "Embedded"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 188,
+    "question": "Which of the following is used to move the cursor on a computer screen?",
+    "options": {
+      "A": "Printer",
+      "B": "Speaker",
+      "C": "Mouse",
+      "D": "Monitor"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 189,
+    "question": "Which of these generations first introduced laptops and mobile computing?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Fourth",
+      "D": "Third"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 190,
+    "question": "Which device is responsible for arithmetic and logic operations in the CPU?",
+    "options": {
+      "A": "RAM",
+      "B": "ALU",
+      "C": "ROM",
+      "D": "Monitor"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 191,
+    "question": "What is the main difference between data and information?",
+    "options": {
+      "A": "Same meaning",
+      "B": "Data is processed; information is raw",
+      "C": "Data is raw; information is processed",
+      "D": "Information is useless"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 192,
+    "question": "Which generation introduced the use of networks and the internet?",
+    "options": {
+      "A": "First",
+      "B": "Third",
+      "C": "Fourth",
+      "D": "Second"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 193,
+    "question": "What is an algorithm?",
+    "options": {
+      "A": "A type of virus",
+      "B": "A set of rules to solve a problem",
+      "C": "A software name",
+      "D": "A hardware part"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 194,
+    "question": "Which of the following is not a valid input device?",
+    "options": {
+      "A": "Mouse",
+      "B": "Scanner",
+      "C": "Webcam",
+      "D": "Monitor"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 195,
+    "question": "Which term describes a computer's ability to perform multiple tasks at once?",
+    "options": {
+      "A": "Multitasking",
+      "B": "Multimedia",
+      "C": "Multilinking",
+      "D": "Multiwindow"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 196,
+    "question": "Which type of computer is designed for use by engineers and designers?",
+    "options": {
+      "A": "Mainframe",
+      "B": "Workstation",
+      "C": "Supercomputer",
+      "D": "Tablet"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 197,
+    "question": "What is the full form of CPU?",
+    "options": {
+      "A": "Central Processing Unit",
+      "B": "Computer Power Utility",
+      "C": "Central Print Unit",
+      "D": "Circuit Process Utility"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 198,
+    "question": "Which generation of computers used Integrated Circuits (IC)?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fourth"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 199,
+    "question": "Which programming language was designed for teaching programming concepts?",
+    "options": {
+      "A": "Python",
+      "B": "Java",
+      "C": "BASIC",
+      "D": "SQL"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 200,
+    "question": "What does the term \"booting\" refer to?",
+    "options": {
+      "A": "Installing new software",
+      "B": "Starting the computer",
+      "C": "Formatting hard disk",
+      "D": "Deleting files"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 201,
+    "question": "Which of these is NOT a function of an operating system?",
+    "options": {
+      "A": "Managing hardware",
+      "B": "Executing programs",
+      "C": "Creating hardware",
+      "D": "File management"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 202,
+    "question": "Which software would you use to type a letter?",
+    "options": {
+      "A": "Microsoft Word",
+      "B": "Excel",
+      "C": "PowerPoint",
+      "D": "Chrome"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 203,
+    "question": "Which of these is an example of application software?",
+    "options": {
+      "A": "Windows",
+      "B": "Linux",
+      "C": "Excel",
+      "D": "BIOS"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 204,
+    "question": "Which of the following is an open-source operating system?",
+    "options": {
+      "A": "Windows",
+      "B": "macOS",
+      "C": "Linux",
+      "D": "DOS"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 205,
+    "question": "What is the full form of USB?",
+    "options": {
+      "A": "Universal System Bus",
+      "B": "United Storage Bus",
+      "C": "Universal Serial Bus",
+      "D": "Uniform System Backup"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 206,
+    "question": "Which of these stores the most data?",
+    "options": {
+      "A": "CD",
+      "B": "DVD",
+      "C": "Hard Disk",
+      "D": "Floppy Disk"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 207,
+    "question": "Which component processes instructions from programs and software?",
+    "options": {
+      "A": "ROM",
+      "B": "CPU",
+      "C": "RAM",
+      "D": "Mouse"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 208,
+    "question": "Which of the following is an example of system software?",
+    "options": {
+      "A": "MS Excel",
+      "B": "Windows 11",
+      "C": "Adobe Reader",
+      "D": "Skype"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 209,
+    "question": "Which of these is used to create and edit images?",
+    "options": {
+      "A": "Excel",
+      "B": "Photoshop",
+      "C": "Word",
+      "D": "Notepad"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 210,
+    "question": "What type of device is a scanner?",
+    "options": {
+      "A": "Output device",
+      "B": "Input device",
+      "C": "Storage device",
+      "D": "Processing device"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 211,
+    "question": "Which of these is not found in a system unit?",
+    "options": {
+      "A": "Motherboard",
+      "B": "Hard Drive",
+      "C": "Keyboard",
+      "D": "CPU"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 212,
+    "question": "What is a file extension used for?",
+    "options": {
+      "A": "To change screen brightness",
+      "B": "To identify file type",
+      "C": "To protect the system",
+      "D": "To install antivirus"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 213,
+    "question": "What is the use of the Recycle Bin in Windows?",
+    "options": {
+      "A": "Stores photos",
+      "B": "Deletes permanently",
+      "C": "Temporarily stores deleted files",
+      "D": "Restarts computer"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 214,
+    "question": "What is the name for harmful software designed to damage a computer?",
+    "options": {
+      "A": "Software",
+      "B": "Hardware",
+      "C": "Malware",
+      "D": "Firmware"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 215,
+    "question": "Which of the following is a spreadsheet function in Excel?",
+    "options": {
+      "A": "=SUM()",
+      "B": "<IMG>",
+      "C": "</HTML>",
+      "D": "@echo"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 216,
+    "question": "Which device is used to connect a computer to a television screen?",
+    "options": {
+      "A": "HDMI Cable",
+      "B": "LAN Cable",
+      "C": "USB Cable",
+      "D": "Power Cable"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 217,
+    "question": "What does \u201cbit\u201d stand for in computing?",
+    "options": {
+      "A": "Binary Term",
+      "B": "Binary Digit",
+      "C": "Big Item",
+      "D": "Basic Interface Tool"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 218,
+    "question": "Which of these allows wireless communication between devices?",
+    "options": {
+      "A": "VGA",
+      "B": "Bluetooth",
+      "C": "Ethernet",
+      "D": "HDMI"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 219,
+    "question": "What is the main function of an antivirus software?",
+    "options": {
+      "A": "Design websites",
+      "B": "Scan and remove malware",
+      "C": "Create documents",
+      "D": "Manage files"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 220,
+    "question": "Which of the following keys is used to delete characters to the left of the cursor?",
+    "options": {
+      "A": "Tab",
+      "B": "Shift",
+      "C": "Backspace",
+      "D": "Enter"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 221,
+    "question": "Which of these best defines software?",
+    "options": {
+      "A": "The physical parts of a computer",
+      "B": "The electric power supply",
+      "C": "The programs and instructions run by a computer",
+      "D": "The keyboard and monitor"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 222,
+    "question": "Which key is used to move to the next line in a text document?",
+    "options": {
+      "A": "Spacebar",
+      "B": "Backspace",
+      "C": "Enter",
+      "D": "Tab"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 223,
+    "question": "Which device converts digital signals into sound?",
+    "options": {
+      "A": "Keyboard",
+      "B": "Microphone",
+      "C": "Speaker",
+      "D": "Scanner"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 224,
+    "question": "What is the main function of a modem?",
+    "options": {
+      "A": "Store files",
+      "B": "Increase sound",
+      "C": "Convert digital to analog signals for internet access",
+      "D": "Scan documents"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 225,
+    "question": "What does HTTP stand for?",
+    "options": {
+      "A": "HyperText Transfer Protocol",
+      "B": "Hyperlink Test Tool Package",
+      "C": "High Task Transfer Policy",
+      "D": "Host Text Type Program"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 226,
+    "question": "Which of the following is not an example of an operating system?",
+    "options": {
+      "A": "Windows",
+      "B": "Android",
+      "C": "Linux",
+      "D": "Excel"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 227,
+    "question": "Which software helps in virus detection and removal?",
+    "options": {
+      "A": "VLC",
+      "B": "WordPad",
+      "C": "Antivirus",
+      "D": "File Explorer"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 228,
+    "question": "What is the function of Ctrl + S in most software?",
+    "options": {
+      "A": "Select all",
+      "B": "Save document",
+      "C": "Close program",
+      "D": "Print file"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 229,
+    "question": "Which of the following is a valid email address?",
+    "options": {
+      "A": "myemail@.com",
+      "B": "user@domain",
+      "C": "user.name@domain.com",
+      "D": "@user.domain.com"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 230,
+    "question": "What is the storage capacity of a standard CD?",
+    "options": {
+      "A": "700 GB",
+      "B": "700 MB",
+      "C": "4.7 GB",
+      "D": "100 MB"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 231,
+    "question": "What is the term for stealing someone\u2019s personal information online?",
+    "options": {
+      "A": "Browsing",
+      "B": "Phishing",
+      "C": "Flashing",
+      "D": "Buffering"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 232,
+    "question": "Which key is used to cancel a current task or dialog box?",
+    "options": {
+      "A": "Esc",
+      "B": "Alt",
+      "C": "Tab",
+      "D": "Enter"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 233,
+    "question": "What kind of memory is permanent and cannot be changed?",
+    "options": {
+      "A": "RAM",
+      "B": "USB",
+      "C": "ROM",
+      "D": "Cache"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 234,
+    "question": "What is the shortcut for copying selected text?",
+    "options": {
+      "A": "Ctrl + X",
+      "B": "Ctrl + P",
+      "C": "Ctrl + C",
+      "D": "Ctrl + V"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 235,
+    "question": "Which of the following stores data even when the power is off?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "Cache",
+      "D": "Registers"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 236,
+    "question": "Which of the following is an internet browser?",
+    "options": {
+      "A": "Firefox",
+      "B": "Paint",
+      "C": "Excel",
+      "D": "VLC"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 237,
+    "question": "Which company developed the Windows operating system?",
+    "options": {
+      "A": "Apple",
+      "B": "Intel",
+      "C": "Microsoft",
+      "D": "IBM"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 238,
+    "question": "Which of the following is a programming language?",
+    "options": {
+      "A": "Google",
+      "B": "C++",
+      "C": "Gmail",
+      "D": "Excel"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 239,
+    "question": "Which type of computer memory is fastest to access?",
+    "options": {
+      "A": "Hard Disk",
+      "B": "RAM",
+      "C": "Cache",
+      "D": "ROM"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 240,
+    "question": "Which file format is best for sharing documents without allowing easy editing?",
+    "options": {
+      "A": ".docx",
+      "B": ".txt",
+      "C": ".pdf",
+      "D": ".xls"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 241,
+    "question": "Which shortcut is used to paste copied content?",
+    "options": {
+      "A": "Ctrl + V",
+      "B": "Ctrl + C",
+      "C": "Ctrl + X",
+      "D": "Ctrl + P"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 242,
+    "question": "What does the acronym ICT stand for?",
+    "options": {
+      "A": "International Communication Technology",
+      "B": "Information and Communication Technology",
+      "C": "Internal Computing Task",
+      "D": "Internet and Computer Training"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 243,
+    "question": "Which of the following is NOT an input device?",
+    "options": {
+      "A": "Keyboard",
+      "B": "Mouse",
+      "C": "Printer",
+      "D": "Scanner"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 244,
+    "question": "Which of the following memory types is typically used to store the BIOS?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "Hard Drive",
+      "D": "Flash Drive"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 245,
+    "question": "Which of the following is used to create presentations?",
+    "options": {
+      "A": "MS Excel",
+      "B": "MS Word",
+      "C": "MS Paint",
+      "D": "MS PowerPoint"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 246,
+    "question": "What is the most common pointing device used in computers?",
+    "options": {
+      "A": "Touchscreen",
+      "B": "Joystick",
+      "C": "Mouse",
+      "D": "Scanner"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 247,
+    "question": "Which of these is NOT a file extension?",
+    "options": {
+      "A": ".exe",
+      "B": ".docx",
+      "C": ".pdf",
+      "D": ".cpu"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 248,
+    "question": "Which of the following allows users to interact with the computer using visual elements?",
+    "options": {
+      "A": "GUI",
+      "B": "BIOS",
+      "C": "API",
+      "D": "DOS"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 249,
+    "question": "Which function key is typically used to refresh a webpage?",
+    "options": {
+      "A": "F3",
+      "B": "F1",
+      "C": "F5",
+      "D": "F12"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 250,
+    "question": "What is a URL used for?",
+    "options": {
+      "A": "Sending emails",
+      "B": "Formatting text",
+      "C": "Locating web resources",
+      "D": "Installing software"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 251,
+    "question": "Which of these allows multiple computers to share resources?",
+    "options": {
+      "A": "Operating System",
+      "B": "Server",
+      "C": "Monitor",
+      "D": "Scanner"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 252,
+    "question": "Which part of the computer holds programs currently in use?",
+    "options": {
+      "A": "ROM",
+      "B": "RAM",
+      "C": "Hard Disk",
+      "D": "USB"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 253,
+    "question": "What is the full form of PDF?",
+    "options": {
+      "A": "Personal Document File",
+      "B": "Portable Document Format",
+      "C": "Printable Data File",
+      "D": "Protected Download Format"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 254,
+    "question": "Which of the following can store the most data?",
+    "options": {
+      "A": "CD",
+      "B": "Flash Drive",
+      "C": "Hard Disk",
+      "D": "RAM"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 255,
+    "question": "What does the \"cut\" command do to text?",
+    "options": {
+      "A": "Copies and duplicates it",
+      "B": "Removes and stores it temporarily",
+      "C": "Deletes it permanently",
+      "D": "Moves it to the end of the file"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 256,
+    "question": "Which of these is a feature of a spreadsheet program?",
+    "options": {
+      "A": "Slides",
+      "B": "Tables",
+      "C": "Cells",
+      "D": "Code"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 257,
+    "question": "Which application is mainly used for managing numeric data and performing calculations?",
+    "options": {
+      "A": "PowerPoint",
+      "B": "Excel",
+      "C": "Word",
+      "D": "Paint"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 258,
+    "question": "What is a common feature of cloud storage services?",
+    "options": {
+      "A": "Offline access only",
+      "B": "Physical hard disk backup",
+      "C": "Remote access to files via internet",
+      "D": "Requires installation of floppy disk"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 259,
+    "question": "Which of these is a programming environment for children to learn coding?",
+    "options": {
+      "A": "Excel",
+      "B": "Scratch",
+      "C": "Notepad",
+      "D": "Chrome"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 260,
+    "question": "Which component is responsible for starting up the computer and managing hardware?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "BIOS",
+      "D": "Monitor"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 261,
+    "question": "Which command is used to remove a file permanently from the Recycle Bin?",
+    "options": {
+      "A": "Delete",
+      "B": "Cut",
+      "C": "Shift + Delete",
+      "D": "Restore"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 262,
+    "question": "Which of these is NOT an operating system?",
+    "options": {
+      "A": "Windows",
+      "B": "Android",
+      "C": "macOS",
+      "D": "Google"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 263,
+    "question": "Which of the following is a disadvantage of computer usage?",
+    "options": {
+      "A": "Accuracy",
+      "B": "Speed",
+      "C": "Eye strain",
+      "D": "Storage"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 264,
+    "question": "Which menu option is commonly used to open a saved file?",
+    "options": {
+      "A": "File > Save",
+      "B": "File > Open",
+      "C": "View > Folder",
+      "D": "Edit > New"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 265,
+    "question": "Which of these is NOT a feature of MS Word?",
+    "options": {
+      "A": "Insert Picture",
+      "B": "Create Graph",
+      "C": "Spell Check",
+      "D": "Word Count"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 266,
+    "question": "The default extension for a Microsoft Word document is:",
+    "options": {
+      "A": ".ppt",
+      "B": ".docx",
+      "C": ".xls",
+      "D": ".pdf"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 267,
+    "question": "What is the function of the Tab key on a keyboard?",
+    "options": {
+      "A": "Start a new paragraph",
+      "B": "Move cursor by 5 spaces",
+      "C": "Open a file",
+      "D": "Turn off the system"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 268,
+    "question": "What type of file is usually opened with Adobe Acrobat Reader?",
+    "options": {
+      "A": ".doc",
+      "B": ".xlsx",
+      "C": ".pptx",
+      "D": ".pdf"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 269,
+    "question": "What is the full meaning of HTML?",
+    "options": {
+      "A": "High Tech Machine Language",
+      "B": "HyperText Markup Language",
+      "C": "Hyper Terminal Memory Link",
+      "D": "High Text Memory Link"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 270,
+    "question": "What is the use of a firewall in a computer network?",
+    "options": {
+      "A": "Speed up the computer",
+      "B": "Store documents",
+      "C": "Protect against unauthorized access",
+      "D": "Display webpages"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 271,
+    "question": "Which unit in the CPU performs arithmetic and logic operations?",
+    "options": {
+      "A": "Control Unit",
+      "B": "ALU",
+      "C": "Registers",
+      "D": "Cache"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 272,
+    "question": "The part of the computer you can physically touch is known as:",
+    "options": {
+      "A": "Software",
+      "B": "Program",
+      "C": "Hardware",
+      "D": "Data"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 273,
+    "question": "Which of these is an example of volatile memory?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "Hard Drive",
+      "D": "DVD"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 274,
+    "question": "What is the common name for malicious software?",
+    "options": {
+      "A": "Driver",
+      "B": "Malware",
+      "C": "Utility",
+      "D": "Program"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 275,
+    "question": "Which of the following best describes an app?",
+    "options": {
+      "A": "Computer virus",
+      "B": "Application software",
+      "C": "Browser",
+      "D": "Hardware tool"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 276,
+    "question": "Which part of a computer allows data to be input by voice?",
+    "options": {
+      "A": "Joystick",
+      "B": "Microphone",
+      "C": "Speaker",
+      "D": "Webcam"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 277,
+    "question": "The bar at the bottom of the Windows desktop is called:",
+    "options": {
+      "A": "Menu Bar",
+      "B": "Title Bar",
+      "C": "Status Bar",
+      "D": "Taskbar"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 278,
+    "question": "Which one is a storage device?",
+    "options": {
+      "A": "Monitor",
+      "B": "Printer",
+      "C": "Hard Disk",
+      "D": "Mouse"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 279,
+    "question": "Which command is used to undo the last action in most software?",
+    "options": {
+      "A": "Ctrl + P",
+      "B": "Ctrl + U",
+      "C": "Ctrl + Z",
+      "D": "Ctrl + X"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 280,
+    "question": "Which of these is used to access websites?",
+    "options": {
+      "A": "Spreadsheet",
+      "B": "Browser",
+      "C": "Word Processor",
+      "D": "Antivirus"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 281,
+    "question": "Which key combination is used to select all content?",
+    "options": {
+      "A": "Ctrl + C",
+      "B": "Ctrl + S",
+      "C": "Ctrl + V",
+      "D": "Ctrl + A"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 282,
+    "question": "Which of the following is a unit of digital storage?",
+    "options": {
+      "A": "Volt",
+      "B": "Byte",
+      "C": "Watt",
+      "D": "Ampere"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 283,
+    "question": "What is the output of a printer?",
+    "options": {
+      "A": "Softcopy",
+      "B": "Electricity",
+      "C": "Hardcopy",
+      "D": "Data"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 284,
+    "question": "What happens when you press Ctrl + X?",
+    "options": {
+      "A": "Save",
+      "B": "Paste",
+      "C": "Copy",
+      "D": "Cut"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 285,
+    "question": "Which of the following is used to access the internet?",
+    "options": {
+      "A": "WordPad",
+      "B": "Browser",
+      "C": "Calculator",
+      "D": "Paint"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 286,
+    "question": "Which of the following is used to draw and color pictures on a computer?",
+    "options": {
+      "A": "Paint",
+      "B": "Excel",
+      "C": "PowerPoint",
+      "D": "Chrome"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 287,
+    "question": "Which of these is not a Microsoft product?",
+    "options": {
+      "A": "Word",
+      "B": "Excel",
+      "C": "PowerPoint",
+      "D": "Safari"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 288,
+    "question": "The CPU is located on which component?",
+    "options": {
+      "A": "Monitor",
+      "B": "Mouse",
+      "C": "Motherboard",
+      "D": "Keyboard"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 289,
+    "question": "What is phishing mainly used for?",
+    "options": {
+      "A": "Cleaning the system",
+      "B": "Stealing user data",
+      "C": "Saving energy",
+      "D": "Formatting a drive"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 290,
+    "question": "Which component stores data permanently?",
+    "options": {
+      "A": "RAM",
+      "B": "Hard Disk",
+      "C": "Cache",
+      "D": "Clipboard"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 291,
+    "question": "Which key is used to delete characters to the right of the cursor?",
+    "options": {
+      "A": "Backspace",
+      "B": "Enter",
+      "C": "Delete",
+      "D": "Shift"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 292,
+    "question": "Which of these is an example of an email client?",
+    "options": {
+      "A": "VLC",
+      "B": "Outlook",
+      "C": "Paint",
+      "D": "WinRAR"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 293,
+    "question": "Which is the most common use of PowerPoint?",
+    "options": {
+      "A": "Spreadsheet work",
+      "B": "Web browsing",
+      "C": "Slide presentation",
+      "D": "Text editing"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 294,
+    "question": "Which is an example of a search engine?",
+    "options": {
+      "A": "Firefox",
+      "B": "Google",
+      "C": "Excel",
+      "D": "Windows"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 295,
+    "question": "Which command is used to print a document?",
+    "options": {
+      "A": "Ctrl + C",
+      "B": "Ctrl + V",
+      "C": "Ctrl + P",
+      "D": "Ctrl + X"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 296,
+    "question": "Which of these is a programming language?",
+    "options": {
+      "A": "Python",
+      "B": "Bing",
+      "C": "Drive",
+      "D": "Sheet"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 297,
+    "question": "Which of the following protects your computer from viruses?",
+    "options": {
+      "A": "Disk Cleanup",
+      "B": "Antivirus",
+      "C": "Notepad",
+      "D": "Media Player"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 298,
+    "question": "What is the function of the Ctrl + Z shortcut?",
+    "options": {
+      "A": "Zoom in",
+      "B": "Redo",
+      "C": "Paste",
+      "D": "Undo"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 299,
+    "question": "Which of the following is a temporary memory storage?",
+    "options": {
+      "A": "Hard Disk",
+      "B": "Flash Drive",
+      "C": "RAM",
+      "D": "CD-ROM"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 300,
+    "question": "Which company developed the Android operating system?",
+    "options": {
+      "A": "Apple",
+      "B": "Google",
+      "C": "Microsoft",
+      "D": "IBM"
+    },
+    "answer": "B"
+  }
+]

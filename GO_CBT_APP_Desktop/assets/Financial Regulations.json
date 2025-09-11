@@ -1,0 +1,4602 @@
+[
+  {
+    "number": 1,
+    "question": "What is the main objective of financial regulations in a public sector environment?",
+    "options": {
+      "A": "To increase profit for government agencies",
+      "B": "To ensure efficient allocation and use of public resources",
+      "C": "To attract foreign investments",
+      "D": "To regulate private sector operations"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 2,
+    "question": "The annual budget of a country is typically presented by the:",
+    "options": {
+      "A": "Minister of Foreign Affairs",
+      "B": "President of the Senate",
+      "C": "Minister of Finance",
+      "D": "Governor of the Central Bank"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 3,
+    "question": "In public finance, what does \u201cbudget deficit\u201d mean?",
+    "options": {
+      "A": "Government revenue exceeds expenditures",
+      "B": "Government expenditures exceed revenue",
+      "C": "Expenditures and revenue are equal",
+      "D": "Budget is balanced over two years"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 4,
+    "question": "A supplementary budget is prepared when:",
+    "options": {
+      "A": "There is no revenue generation",
+      "B": "There is excess cash in the system",
+      "C": "The original budget is inadequate",
+      "D": "Inflation has decreased significantly"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 5,
+    "question": "The process of estimating future financial outcomes based on assumptions is known as:",
+    "options": {
+      "A": "Auditing",
+      "B": "Forecasting",
+      "C": "Balancing",
+      "D": "Liquidity Control"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 6,
+    "question": "The Fiscal Responsibility Act (FRA) was enacted in Nigeria to:",
+    "options": {
+      "A": "Promote transparency and accountability in fiscal operations",
+      "B": "Allow state governments to print money",
+      "C": "Enforce criminal penalties on financial offenders",
+      "D": "Encourage financial secrecy in government"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 7,
+    "question": "The Medium Term Expenditure Framework (MTEF) in budgeting covers a period of:",
+    "options": {
+      "A": "2 years",
+      "B": "3 years",
+      "C": "4 years",
+      "D": "5 years"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 8,
+    "question": "Which body oversees the implementation of the national budget in Nigeria?",
+    "options": {
+      "A": "National Assembly",
+      "B": "Office of the Auditor General",
+      "C": "Ministry of Budget and National Planning",
+      "D": "Central Bank of Nigeria"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 9,
+    "question": "In financial management, capital expenditure refers to:",
+    "options": {
+      "A": "Salaries and wages",
+      "B": "Investment in long-term assets",
+      "C": "Recurrent maintenance fees",
+      "D": "Interest on loans"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 10,
+    "question": "What does the term \u201cfiscal policy\u201d refer to?",
+    "options": {
+      "A": "Government\u2019s regulation of interest rates",
+      "B": "Government\u2019s use of spending and taxation to influence the economy",
+      "C": "Central Bank\u2019s control of money supply",
+      "D": "Taxation laws of the judiciary"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 11,
+    "question": "Which document provides the legal basis for revenue collection and expenditure in a fiscal year?",
+    "options": {
+      "A": "Fiscal Strategy Paper",
+      "B": "Appropriation Act",
+      "C": "Medium-Term Sector Strategy",
+      "D": "Finance Bill"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 12,
+    "question": "Zero-based budgeting requires that:",
+    "options": {
+      "A": "Budgets increase annually",
+      "B": "Every new budget starts from zero, justifying all expenses",
+      "C": "Only recurrent expenditure is allowed",
+      "D": "Past budgets are reused as templates"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 13,
+    "question": "Which of the following is NOT a component of the budget cycle?",
+    "options": {
+      "A": "Preparation",
+      "B": "Implementation",
+      "C": "Forecasting",
+      "D": "Evaluation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 14,
+    "question": "What is the main purpose of budget monitoring and evaluation?",
+    "options": {
+      "A": "To terminate unspent budgets",
+      "B": "To promote budget secrecy",
+      "C": "To assess progress and make corrections",
+      "D": "To reduce staff salaries"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 15,
+    "question": "A contingency fund is primarily used for:",
+    "options": {
+      "A": "Project execution",
+      "B": "Political campaigns",
+      "C": "Emergency and unforeseen expenditures",
+      "D": "Debt repayment"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 16,
+    "question": "Which government agency regulates capital market activities in Nigeria?",
+    "options": {
+      "A": "Central Bank of Nigeria",
+      "B": "Budget Office",
+      "C": "Securities and Exchange Commission",
+      "D": "Nigeria Stock Exchange"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 17,
+    "question": "In budgeting, a variance is the difference between:",
+    "options": {
+      "A": "Cash inflow and outflow",
+      "B": "Budgeted and actual amounts",
+      "C": "Assets and liabilities",
+      "D": "Income and taxation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 18,
+    "question": "What does recurrent expenditure cover in the budget?",
+    "options": {
+      "A": "Construction of infrastructure",
+      "B": "Equipment purchases",
+      "C": "Salaries and overheads",
+      "D": "Capital investments"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 19,
+    "question": "Line-item budgeting is criticized for:",
+    "options": {
+      "A": "Promoting transparency",
+      "B": "Limiting flexibility and outcome tracking",
+      "C": "Being results-oriented",
+      "D": "Being performance-based"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 20,
+    "question": "The Central Bank of Nigeria uses monetary policy to:",
+    "options": {
+      "A": "Manage exchange rates",
+      "B": "Influence government borrowing",
+      "C": "Control inflation and stabilize the economy",
+      "D": "Fund state budgets"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 21,
+    "question": "A finance bill is typically introduced to:",
+    "options": {
+      "A": "Increase political party funding",
+      "B": "Provide legal backing for fiscal proposals",
+      "C": "Reduce foreign reserves",
+      "D": "Limit taxation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 22,
+    "question": "What is the main purpose of a fiscal strategy paper (FSP)?",
+    "options": {
+      "A": "Determine court penalties for tax evasion",
+      "B": "Outline the fiscal framework and budget assumptions",
+      "C": "Evaluate inflationary trends",
+      "D": "Remove subsidies on services"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 23,
+    "question": "The annual budget must be approved by:",
+    "options": {
+      "A": "The Auditor-General",
+      "B": "The Attorney General",
+      "C": "The National Assembly",
+      "D": "The Supreme Court"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 24,
+    "question": "What does \u201cvirement\u201d mean in public financial management?",
+    "options": {
+      "A": "Blocking budget access",
+      "B": "Transferring funds between budget lines with approval",
+      "C": "Abandoning approved budgets",
+      "D": "Allocating extra funds"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 25,
+    "question": "Medium Term Sector Strategy (MTSS) is best described as:",
+    "options": {
+      "A": "A short-term cash release schedule",
+      "B": "A strategy to cut expenditure",
+      "C": "A 3-year plan aligning sector goals with budgets",
+      "D": "A loan repayment strategy"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 26,
+    "question": "Which financial instrument is used by government to raise funds from the public?",
+    "options": {
+      "A": "Treasury bills",
+      "B": "Tax refunds",
+      "C": "Subsidy forms",
+      "D": "Public expenditure report"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 27,
+    "question": "In financial control, internal audit helps to:",
+    "options": {
+      "A": "Delay budget approvals",
+      "B": "Ensure compliance with regulations",
+      "C": "Increase revenue arbitrarily",
+      "D": "Allocate funds to new projects"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 28,
+    "question": "Debt servicing refers to:",
+    "options": {
+      "A": "Grant disbursement",
+      "B": "Payment of salaries",
+      "C": "Repayment of loans and interest",
+      "D": "Budget evaluation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 29,
+    "question": "The Budget Call Circular is issued to:",
+    "options": {
+      "A": "Suspend all procurements",
+      "B": "Direct MDAs to submit budget proposals",
+      "C": "Reduce approved budgets",
+      "D": "Guide ministers on travel"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 30,
+    "question": "Which document reflects government\u2019s borrowing and debt profile?",
+    "options": {
+      "A": "MTEF",
+      "B": "Debt Sustainability Analysis Report",
+      "C": "Economic Recovery Plan",
+      "D": "Appropriation Bill"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 31,
+    "question": "Fiscal deficit can be bridged through:",
+    "options": {
+      "A": "Increase in recurrent expenditure",
+      "B": "Increase in government borrowing",
+      "C": "Currency devaluation",
+      "D": "Decrease in taxes"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 32,
+    "question": "The benchmark crude oil price in a budget is used to:",
+    "options": {
+      "A": "Set oil export limits",
+      "B": "Estimate projected oil revenue",
+      "C": "Determine refinery production",
+      "D": "Fix foreign exchange rates"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 33,
+    "question": "The Consolidated Revenue Fund (CRF) is used for:",
+    "options": {
+      "A": "Allocating local government funds",
+      "B": "Holding all public revenues before disbursement",
+      "C": "Managing private sector revenues",
+      "D": "Monitoring donor aid"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 34,
+    "question": "Budget performance is measured using:",
+    "options": {
+      "A": "Office hours worked",
+      "B": "Number of workers in MDAs",
+      "C": "Ratio of actual to planned results",
+      "D": "Political alignment of heads"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 35,
+    "question": "Statutory transfers are budget allocations to:",
+    "options": {
+      "A": "Only the Presidency",
+      "B": "MDAs under direct control",
+      "C": "Certain institutions by law",
+      "D": "NGOs"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 36,
+    "question": "What does GDP stand for?",
+    "options": {
+      "A": "Gross Domestic Product",
+      "B": "Government Developed Policy",
+      "C": "General Department Plan",
+      "D": "Generated Development Payment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 37,
+    "question": "In public budgeting, what is an envelope ceiling?",
+    "options": {
+      "A": "Upper limit of vote for each MDA",
+      "B": "Bonus allocation for extra performance",
+      "C": "Refundable grant to MDAs",
+      "D": "External aid fund"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 38,
+    "question": "Macroeconomic indicators include all EXCEPT:",
+    "options": {
+      "A": "Inflation",
+      "B": "Employment",
+      "C": "GDP",
+      "D": "Social media popularity"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 39,
+    "question": "The term \u201cappropriation\u201d refers to:",
+    "options": {
+      "A": "Review of a bill",
+      "B": "Execution of a law",
+      "C": "Legal allocation of funds through legislation",
+      "D": "Granting loans"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 40,
+    "question": "Which office prepares Nigeria\u2019s national budget?",
+    "options": {
+      "A": "Auditor-General\u2019s Office",
+      "B": "Central Bank of Nigeria",
+      "C": "Budget Office of the Federation",
+      "D": "National Orientation Agency"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 41,
+    "question": "What is the main goal of public financial management?",
+    "options": {
+      "A": "To suppress government spending",
+      "B": "To encourage only recurrent spending",
+      "C": "To manage resources efficiently, effectively, and transparently",
+      "D": "To promote international politics"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 42,
+    "question": "Which of the following is a source of public revenue?",
+    "options": {
+      "A": "Subsidies",
+      "B": "Taxation",
+      "C": "Grants to citizens",
+      "D": "Budget deficit"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 43,
+    "question": "A budget surplus occurs when:",
+    "options": {
+      "A": "Revenue is less than expenditure",
+      "B": "There is no expenditure",
+      "C": "Revenue equals expenditure",
+      "D": "Revenue exceeds expenditure"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 44,
+    "question": "The Economic Recovery and Growth Plan (ERGP) was designed to:",
+    "options": {
+      "A": "Improve Nigeria\u2019s diplomatic ties",
+      "B": "Strengthen the education sector only",
+      "C": "Achieve economic growth and diversification",
+      "D": "Increase inflation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 45,
+    "question": "Which of the following is NOT part of fiscal policy tools?",
+    "options": {
+      "A": "Taxation",
+      "B": "Government expenditure",
+      "C": "Open market operations",
+      "D": "Public debt management"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 46,
+    "question": "Public Expenditure is classified into:",
+    "options": {
+      "A": "Capital and revenue",
+      "B": "Import and export",
+      "C": "Foreign and domestic",
+      "D": "Development and grant"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 47,
+    "question": "Who is responsible for auditing government accounts in Nigeria?",
+    "options": {
+      "A": "Accountant General",
+      "B": "Auditor General",
+      "C": "Minister of Finance",
+      "D": "National Bureau of Statistics"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 48,
+    "question": "Inflation is defined as:",
+    "options": {
+      "A": "A fall in general price level",
+      "B": "A rise in unemployment",
+      "C": "A general increase in price level over time",
+      "D": "A drop in tax rate"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 49,
+    "question": "The primary function of the National Bureau of Statistics is to:",
+    "options": {
+      "A": "Enforce tax payments",
+      "B": "Provide statistical data for planning and decision-making",
+      "C": "Approve government budgets",
+      "D": "Serve as the central bank"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 50,
+    "question": "Fiscal federalism refers to:",
+    "options": {
+      "A": "Allocation of foreign loans",
+      "B": "Division of government functions and finances among tiers of government",
+      "C": "Political appointments across zones",
+      "D": "Over-centralization of power"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 51,
+    "question": "The capital budget focuses on:",
+    "options": {
+      "A": "Maintenance of offices",
+      "B": "Personnel salaries",
+      "C": "Infrastructure and long-term investment",
+      "D": "Daily office supplies"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 52,
+    "question": "The Act that regulates procurement processes in Nigeria is:",
+    "options": {
+      "A": "Financial Regulation Act",
+      "B": "Budget and Economic Act",
+      "C": "Public Procurement Act",
+      "D": "Fiscal Accountability Act"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 53,
+    "question": "Deficit budgeting may lead to:",
+    "options": {
+      "A": "Increase in national savings",
+      "B": "Economic recession",
+      "C": "Accumulation of public debt",
+      "D": "Surplus in fiscal balance"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 54,
+    "question": "What is the first step in the budget preparation process?",
+    "options": {
+      "A": "Revenue estimation",
+      "B": "Budget implementation",
+      "C": "Auditing",
+      "D": "Bill signing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 55,
+    "question": "E-procurement helps in:",
+    "options": {
+      "A": "Delaying payment processes",
+      "B": "Increasing procurement fraud",
+      "C": "Enhancing transparency and reducing corruption",
+      "D": "Disbanding procurement units"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 56,
+    "question": "A finance circular is used to:",
+    "options": {
+      "A": "Distribute cash grants",
+      "B": "Provide guidance on financial policies or instructions",
+      "C": "Announce new appointments",
+      "D": "Cancel audits"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 57,
+    "question": "What does \"budget realism\" imply?",
+    "options": {
+      "A": "A focus on fantasy-based budgeting",
+      "B": "Use of fixed exchange rates",
+      "C": "Preparing a budget based on actual revenue expectations",
+      "D": "Borrowing to cover all expenses"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 58,
+    "question": "A vote of charge is issued when:",
+    "options": {
+      "A": "An officer is arrested",
+      "B": "Expenditure is incurred without appropriation",
+      "C": "All votes are exhausted",
+      "D": "The National Assembly is dissolved"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 59,
+    "question": "Recurrent budget can also be referred to as:",
+    "options": {
+      "A": "Operational budget",
+      "B": "Emergency budget",
+      "C": "Capital reserve",
+      "D": "Long-term budget"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 60,
+    "question": "What does economic planning in a country aim to achieve?",
+    "options": {
+      "A": "Increase in taxes",
+      "B": "Equitable distribution of resources and development",
+      "C": "Elimination of budgeting",
+      "D": "Frequent change in policy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 61,
+    "question": "Fiscal transparency ensures:",
+    "options": {
+      "A": "Secrecy in government budgets",
+      "B": "Delay in budget reporting",
+      "C": "Public access to information on government finances",
+      "D": "Political cover-up"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 62,
+    "question": "The fiscal year in Nigeria runs from:",
+    "options": {
+      "A": "June to May",
+      "B": "January to December",
+      "C": "October to September",
+      "D": "April to March"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 63,
+    "question": "Which of these is NOT a feature of a good budget?",
+    "options": {
+      "A": "Comprehensiveness",
+      "B": "Flexibility",
+      "C": "Unpredictability",
+      "D": "Transparency"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 64,
+    "question": "What is a rolling plan?",
+    "options": {
+      "A": "A plan with unclear timelines",
+      "B": "A short-term budget",
+      "C": "A continuous plan updated periodically",
+      "D": "A fixed three-year plan"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 65,
+    "question": "What does national planning mean?",
+    "options": {
+      "A": "Designing party manifestoes",
+      "B": "Formulating development strategies for a nation",
+      "C": "Creating election time tables",
+      "D": "Conducting public holidays"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 66,
+    "question": "Excess Crude Account (ECA) is used to:",
+    "options": {
+      "A": "Fund security agencies only",
+      "B": "Save oil revenue above budget benchmark",
+      "C": "Pay contractors",
+      "D": "Service foreign debts"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 67,
+    "question": "Performance-based budgeting links funds to:",
+    "options": {
+      "A": "Office location",
+      "B": "Number of staff",
+      "C": "Results and outcomes",
+      "D": "Level of government"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 68,
+    "question": "The main role of the Accountant-General is to:",
+    "options": {
+      "A": "Approve fiscal policies",
+      "B": "Manage treasury operations and government accounts",
+      "C": "Head the Audit department",
+      "D": "Control monetary policy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 69,
+    "question": "A development plan is usually structured to last:",
+    "options": {
+      "A": "1\u20132 years",
+      "B": "10\u201320 years",
+      "C": "5 years",
+      "D": "Indefinitely"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 70,
+    "question": "What does MTSS stand for?",
+    "options": {
+      "A": "Medium Term Sector Strategy",
+      "B": "Market Tax Strategy Scheme",
+      "C": "Monthly Treasury Standing Statement",
+      "D": "Ministry of Taxation and Services"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 71,
+    "question": "What is a key objective of the Fiscal Responsibility Act in Nigeria?",
+    "options": {
+      "A": "Encourage political campaign spending",
+      "B": "Regulate foreign trade",
+      "C": "Promote prudent management of public finances",
+      "D": "Increase ministerial salaries"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 72,
+    "question": "Who prepares the Fiscal Strategy Paper annually in Nigeria?",
+    "options": {
+      "A": "National Assembly",
+      "B": "Central Bank",
+      "C": "Budget Office of the Federation",
+      "D": "Nigerian Economic Summit Group"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 73,
+    "question": "What is the role of the National Planning Commission?",
+    "options": {
+      "A": "Print new currencies",
+      "B": "Regulate stock exchange",
+      "C": "Formulate economic and development plans",
+      "D": "Approve annual budgets"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 74,
+    "question": "What is budget padding?",
+    "options": {
+      "A": "Legal budget expansion",
+      "B": "Inclusion of unauthorized items in a budget",
+      "C": "Inflation of external debt",
+      "D": "Reduction of personnel cost"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 75,
+    "question": "What does TSA stand for in Nigeria\u2019s financial system?",
+    "options": {
+      "A": "Treasury Services Administration",
+      "B": "Taxation and Subsidy Act",
+      "C": "Treasury Single Account",
+      "D": "Transfer Savings Account"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 76,
+    "question": "Which principle demands that government spending must be authorized by law?",
+    "options": {
+      "A": "Fiscal neutrality",
+      "B": "Rule of law",
+      "C": "Appropriation principle",
+      "D": "Consolidation principle"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 77,
+    "question": "What does \u201ceconomic diversification\u201d aim to reduce?",
+    "options": {
+      "A": "Inflation rate",
+      "B": "National unity",
+      "C": "Dependence on a single source of revenue",
+      "D": "Government regulation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 78,
+    "question": "What does the Consolidated Revenue Fund represent?",
+    "options": {
+      "A": "Tax refunds for citizens",
+      "B": "All revenues received by the government",
+      "C": "Monies from donor agencies",
+      "D": "Budget allocations to LGAs"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 79,
+    "question": "Which of these is a type of budget?",
+    "options": {
+      "A": "Monetary budget",
+      "B": "Judicial budget",
+      "C": "Zero-based budget",
+      "D": "Electoral budget"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 80,
+    "question": "A budget envelope helps in:",
+    "options": {
+      "A": "Reducing currency notes",
+      "B": "Defining fiscal policy",
+      "C": "Allocating available resources to sectors",
+      "D": "Reporting inflation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 81,
+    "question": "What is a development budget?",
+    "options": {
+      "A": "Budget for running costs",
+      "B": "Budget focused on political stability",
+      "C": "Budget for infrastructure and economic growth",
+      "D": "Budget for military expenses"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 82,
+    "question": "Fiscal consolidation aims at:",
+    "options": {
+      "A": "Increasing recurrent expenditure",
+      "B": "Widening the fiscal deficit",
+      "C": "Reducing public debt and deficit",
+      "D": "Expanding import duties"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 83,
+    "question": "What is macroeconomic planning?",
+    "options": {
+      "A": "Regulation of banks",
+      "B": "National-level economic forecasting and target-setting",
+      "C": "Planning for households",
+      "D": "Local government budgeting"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 84,
+    "question": "What is the fiscal anchor used in Nigeria\u2019s budget?",
+    "options": {
+      "A": "Oil price benchmark",
+      "B": "Exchange rate",
+      "C": "Inflation rate",
+      "D": "Treasury bills"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 85,
+    "question": "Which of the following is a performance measurement tool in budgeting?",
+    "options": {
+      "A": "Audit memo",
+      "B": "Budget variance analysis",
+      "C": "Pay slip",
+      "D": "Ministerial briefing"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 86,
+    "question": "The term \u201cbudget realism\u201d implies that:",
+    "options": {
+      "A": "The budget is inflationary",
+      "B": "Revenue assumptions are exaggerated",
+      "C": "The budget is based on achievable projections",
+      "D": "Budgets are doubled for new projects"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 87,
+    "question": "Government borrowing from the public is classified as:",
+    "options": {
+      "A": "Capital receipt",
+      "B": "Revenue grant",
+      "C": "Statutory deduction",
+      "D": "Budget transfer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 88,
+    "question": "Inter-generational equity in budgeting implies:",
+    "options": {
+      "A": "Saving for future generations",
+      "B": "Paying salaries early",
+      "C": "Delaying tax collection",
+      "D": "Cutting capital spending"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 89,
+    "question": "A \u201cvote book\u201d is used to:",
+    "options": {
+      "A": "Document election results",
+      "B": "Record budgetary expenditures",
+      "C": "Allocate contracts",
+      "D": "Approve fiscal audits"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 90,
+    "question": "What is the purpose of Medium-Term Expenditure Framework (MTEF)?",
+    "options": {
+      "A": "Guide economic zones",
+      "B": "Provide sectoral salary plans",
+      "C": "Align spending with government priorities over 3 years",
+      "D": "Track inflation rate quarterly"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 91,
+    "question": "What is a budget ceiling?",
+    "options": {
+      "A": "The highest amount spent on travel",
+      "B": "Maximum allocation a department may receive",
+      "C": "Limit for national borrowing",
+      "D": "Minimum budget performance"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 92,
+    "question": "In budget implementation, what does \u201crelease warrant\u201d authorize?",
+    "options": {
+      "A": "Promotion of staff",
+      "B": "Transfer of civil servants",
+      "C": "Disbursement of funds to MDAs",
+      "D": "Increase in taxes"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 93,
+    "question": "The Economic Sustainability Plan (ESP) was introduced in Nigeria in response to:",
+    "options": {
+      "A": "COVID-19 pandemic",
+      "B": "Fuel subsidy removal",
+      "C": "Exchange rate changes",
+      "D": "Political unrest"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 94,
+    "question": "Which of these is a non-tax revenue?",
+    "options": {
+      "A": "VAT",
+      "B": "Company income tax",
+      "C": "Fees and fines",
+      "D": "Withholding tax"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 95,
+    "question": "What is capital receipt?",
+    "options": {
+      "A": "Funds received from internal borrowing or asset sales",
+      "B": "Payments to contractors",
+      "C": "Salaries for civil servants",
+      "D": "Money for LG administration"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 96,
+    "question": "The primary goal of macroeconomic policy is:",
+    "options": {
+      "A": "Control of media houses",
+      "B": "Stability and growth of the economy",
+      "C": "Promotion of tourism",
+      "D": "Elimination of imports"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 97,
+    "question": "The national planning framework that outlines Nigeria's long-term development goals is:",
+    "options": {
+      "A": "MTEF",
+      "B": "Vision 2020",
+      "C": "ESP",
+      "D": "ERGP"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 98,
+    "question": "Budgetary control ensures:",
+    "options": {
+      "A": "Increase in public debt",
+      "B": "Increase in recurrent costs",
+      "C": "Actual expenditure conforms to planned expenditure",
+      "D": "Foreign aid is unlimited"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 99,
+    "question": "What does \u201ceconomic growth\u201d signify?",
+    "options": {
+      "A": "Increase in population",
+      "B": "Increase in real GDP",
+      "C": "Reduction in taxes",
+      "D": "Decrease in external reserves"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 100,
+    "question": "What is the main aim of budgetary reform?",
+    "options": {
+      "A": "Block foreign investment",
+      "B": "Improve budget performance, transparency and accountability",
+      "C": "Promote political party agendas",
+      "D": "Eliminate external loans"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 101,
+    "question": "Which tier of government in Nigeria has the legal authority to prepare and implement budgets?",
+    "options": {
+      "A": "Only Federal",
+      "B": "Only States",
+      "C": "All three tiers",
+      "D": "Only LGAs"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 102,
+    "question": "Fiscal indiscipline is best described as:",
+    "options": {
+      "A": "Strict compliance with budget",
+      "B": "Deviation from approved financial procedures",
+      "C": "Timely procurement",
+      "D": "Payment of taxes"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 103,
+    "question": "The Excess Crude Account is managed by:",
+    "options": {
+      "A": "Ministry of Labour",
+      "B": "Debt Management Office",
+      "C": "Central Bank of Nigeria",
+      "D": "Ministry of Finance"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 104,
+    "question": "Nigeria\u2019s annual financial statement is also known as the:",
+    "options": {
+      "A": "White Paper",
+      "B": "Green Book",
+      "C": "Appropriation Bill",
+      "D": "Financial Blueprint"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 105,
+    "question": "The Central Bank plays a fiscal role when it:",
+    "options": {
+      "A": "Issues licenses",
+      "B": "Advises on budgetary policy",
+      "C": "Controls external debt",
+      "D": "Allocates funds to private firms"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 106,
+    "question": "Fiscal sustainability is achieved when:",
+    "options": {
+      "A": "Budget deficit increases",
+      "B": "Debt is higher than GDP",
+      "C": "Government can meet long-term obligations without large deficits",
+      "D": "Inflation is rising"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 107,
+    "question": "A supplementary appropriation is usually proposed to:",
+    "options": {
+      "A": "Adjust original allocations",
+      "B": "Declare financial emergency",
+      "C": "Reduce domestic production",
+      "D": "Increase import tax"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 108,
+    "question": "What does a \u201cbalanced budget\u201d mean?",
+    "options": {
+      "A": "Revenue equals expenditure",
+      "B": "Loans cover all costs",
+      "C": "Foreign aid is sufficient",
+      "D": "Recurrent exceeds capital"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 109,
+    "question": "Which of the following is a limitation of budget planning?",
+    "options": {
+      "A": "Transparency",
+      "B": "Forecasting errors",
+      "C": "Accountability",
+      "D": "Documentation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 110,
+    "question": "The Central Bank of Nigeria uses Open Market Operations to:",
+    "options": {
+      "A": "Print new currency",
+      "B": "Sell public assets",
+      "C": "Control liquidity in the economy",
+      "D": "Borrow from IMF"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 111,
+    "question": "Revenue mobilization in Nigeria is handled by:",
+    "options": {
+      "A": "Economic Council",
+      "B": "Federal Inland Revenue Service",
+      "C": "Fiscal Monitoring Committee",
+      "D": "Presidential Tax Team"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 112,
+    "question": "What is a rolling budget?",
+    "options": {
+      "A": "Fixed for one year",
+      "B": "Updated continuously",
+      "C": "Used by only private companies",
+      "D": "Tied to electoral cycles"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 113,
+    "question": "Which document projects the government\u2019s revenue and expenditure over a 3-year period?",
+    "options": {
+      "A": "Audit Report",
+      "B": "MTEF",
+      "C": "Blue Book",
+      "D": "Debt Schedule"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 114,
+    "question": "A fiscal shock may be caused by:",
+    "options": {
+      "A": "Increased foreign reserves",
+      "B": "Improved tax collection",
+      "C": "Sudden revenue shortfall",
+      "D": "Higher budget performance"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 115,
+    "question": "What is an economic indicator?",
+    "options": {
+      "A": "A type of tax",
+      "B": "A pointer to overall economic performance",
+      "C": "A procurement method",
+      "D": "A budget line"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 116,
+    "question": "In budgeting, what is cost-benefit analysis?",
+    "options": {
+      "A": "Examining staff wages",
+      "B": "Comparing loans",
+      "C": "Assessing return on expenditures",
+      "D": "Auditing fiscal reports"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 117,
+    "question": "What is fiscal decentralization?",
+    "options": {
+      "A": "Central government controls everything",
+      "B": "Allocation of more fiscal powers to subnational governments",
+      "C": "Privatization of public funds",
+      "D": "Transfer of police duties"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 118,
+    "question": "Which of the following ensures checks and balances in financial management?",
+    "options": {
+      "A": "Budget call circular",
+      "B": "Internal control system",
+      "C": "Revenue memo",
+      "D": "Capital gain tax"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 119,
+    "question": "What does a negative budget variance indicate?",
+    "options": {
+      "A": "Budget surplus",
+      "B": "Revenue increase",
+      "C": "Overspending",
+      "D": "Improved inflation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 120,
+    "question": "Nigeria\u2019s debt strategy aims to:",
+    "options": {
+      "A": "Increase borrowing only",
+      "B": "Abandon infrastructure",
+      "C": "Ensure debt sustainability",
+      "D": "Stop budgeting"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 121,
+    "question": "A fiscal deficit financed by borrowing can result in:",
+    "options": {
+      "A": "Increase in foreign direct investment",
+      "B": "Reduction in public debt",
+      "C": "Future debt burden",
+      "D": "Increase in budget surplus"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 122,
+    "question": "One key function of the Budget Office is to:",
+    "options": {
+      "A": "Review election results",
+      "B": "Prosecute tax defaulters",
+      "C": "Coordinate and prepare the national budget",
+      "D": "Monitor border security"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 123,
+    "question": "Public procurement is regulated in Nigeria to:",
+    "options": {
+      "A": "Encourage discretionary spending",
+      "B": "Support unverified contracts",
+      "C": "Ensure transparency and value for money",
+      "D": "Promote personal gains"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 124,
+    "question": "A country is said to be in recession when:",
+    "options": {
+      "A": "GDP growth rate is consistently rising",
+      "B": "Two consecutive quarters record negative GDP growth",
+      "C": "Revenue exceeds expenditure",
+      "D": "Capital expenditure increases"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 125,
+    "question": "The Finance Act is passed annually to:",
+    "options": {
+      "A": "Increase salaries of political office holders",
+      "B": "Fund illegal expenditures",
+      "C": "Provide tax and fiscal policy adjustments",
+      "D": "Stop government borrowing"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 126,
+    "question": "Counterpart funding is common in:",
+    "options": {
+      "A": "Government-private partnerships",
+      "B": "Pension schemes",
+      "C": "Annual wage reviews",
+      "D": "Oil subsidy payments"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 127,
+    "question": "An economic buffer in the budget context is:",
+    "options": {
+      "A": "Buffer food reserve",
+      "B": "Additional savings for emergencies",
+      "C": "Increased foreign loans",
+      "D": "Reduced inflation rate"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 128,
+    "question": "The Debt Management Office (DMO) in Nigeria is responsible for:",
+    "options": {
+      "A": "Criminal prosecution",
+      "B": "Internal audit",
+      "C": "Coordinating and managing national debt",
+      "D": "Preparing the annual budget"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 129,
+    "question": "Revenue forecasting helps to:",
+    "options": {
+      "A": "Determine the next election date",
+      "B": "Track past spending",
+      "C": "Predict expected revenue for budgeting",
+      "D": "Determine staff salaries"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 130,
+    "question": "The first budget in Nigeria after independence was presented in:",
+    "options": {
+      "A": "1960",
+      "B": "1961",
+      "C": "1963",
+      "D": "1959"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 131,
+    "question": "In budget reporting, actuals refer to:",
+    "options": {
+      "A": "Unapproved estimates",
+      "B": "Projected expenditures",
+      "C": "Realized revenue and expenditure figures",
+      "D": "Proposed capital allocations"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 132,
+    "question": "Capital project abandonment is often caused by:",
+    "options": {
+      "A": "High inflation",
+      "B": "Excess budget",
+      "C": "Poor planning and insufficient funding",
+      "D": "Recurrent surplus"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 133,
+    "question": "A fixed exchange rate policy can affect budgeting by:",
+    "options": {
+      "A": "Increasing debt repayment cost",
+      "B": "Decreasing inflation",
+      "C": "Stabilizing import/export revenue forecasts",
+      "D": "Removing capital projects"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 134,
+    "question": "What is the main goal of fiscal discipline?",
+    "options": {
+      "A": "Promote rapid expenditure",
+      "B": "Ensure judicious use of resources",
+      "C": "Delay project execution",
+      "D": "Encourage extra-budgetary spending"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 135,
+    "question": "Which of the following is an example of earmarked funds?",
+    "options": {
+      "A": "Statutory allocations",
+      "B": "Debt service payments",
+      "C": "Funds allocated for a specific purpose",
+      "D": "International donations"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 136,
+    "question": "Fiscal decentralization improves:",
+    "options": {
+      "A": "Media influence",
+      "B": "Local government borrowing",
+      "C": "Service delivery at subnational levels",
+      "D": "National tax evasion"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 137,
+    "question": "A procurement plan is prepared to:",
+    "options": {
+      "A": "Assist with revenue collection",
+      "B": "Guide expenditure on staff training",
+      "C": "Outline planned purchases and timelines",
+      "D": "Expand the civil service"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 138,
+    "question": "Fiscal indiscipline can lead to:",
+    "options": {
+      "A": "Budget surplus",
+      "B": "Budget credibility",
+      "C": "Financial mismanagement and deficits",
+      "D": "Improved revenue"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 139,
+    "question": "Supplementary budgets are passed when:",
+    "options": {
+      "A": "The fiscal year begins",
+      "B": "The Auditor General requests it",
+      "C": "There is an urgent need to spend beyond original allocations",
+      "D": "Capital projects are completed"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 140,
+    "question": "Which institution audits federal government accounts in Nigeria?",
+    "options": {
+      "A": "Central Bank",
+      "B": "Federal Inland Revenue Service",
+      "C": "Office of the Auditor General",
+      "D": "Economic and Financial Crimes Commission"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 141,
+    "question": "Which of these is a principle of public budgeting?",
+    "options": {
+      "A": "Confidentiality",
+      "B": "Transparency",
+      "C": "Monopoly",
+      "D": "Exclusivity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 142,
+    "question": "What does \"budget absorption capacity\" refer to?",
+    "options": {
+      "A": "Rate at which budget surplus is achieved",
+      "B": "Extent to which allocated funds are utilized effectively",
+      "C": "Political influence on budgeting",
+      "D": "Minimum capital ratio in public offices"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 143,
+    "question": "Statutory transfers in Nigeria\u2019s budget are allocated to:",
+    "options": {
+      "A": "MDAs and LGAs only",
+      "B": "Agencies established by law like INEC, NJC, NASS",
+      "C": "All political parties",
+      "D": "Private businesses"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 144,
+    "question": "A recurrent budget is primarily concerned with:",
+    "options": {
+      "A": "One-off infrastructure",
+      "B": "Salaries, wages, and overheads",
+      "C": "National reserves",
+      "D": "Emergency responses"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 145,
+    "question": "Off-budget expenditure refers to:",
+    "options": {
+      "A": "Spending under budget lines",
+      "B": "Spending not captured in the official budget",
+      "C": "Capital gains",
+      "D": "Domestic borrowing"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 146,
+    "question": "What is the function of the Fiscal Responsibility Commission?",
+    "options": {
+      "A": "Supervise budget preparation",
+      "B": "Regulate international finance",
+      "C": "Monitor and enforce fiscal responsibility laws",
+      "D": "Print annual finance reports"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 147,
+    "question": "The performance audit focuses on:",
+    "options": {
+      "A": "Budget figures",
+      "B": "Economy, efficiency, and effectiveness of spending",
+      "C": "Interest rates",
+      "D": "Exchange rate planning"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 148,
+    "question": "A contingency vote is often reserved for:",
+    "options": {
+      "A": "Election campaigns",
+      "B": "Loans to state governments",
+      "C": "Emergencies and unforeseen circumstances",
+      "D": "Political party funding"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 149,
+    "question": "What is the result of under-budgeting?",
+    "options": {
+      "A": "Completion of projects",
+      "B": "Accurate expenditure",
+      "C": "Inadequate provision for actual needs",
+      "D": "Low inflation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 150,
+    "question": "Cost-cutting in budgeting involves:",
+    "options": {
+      "A": "Increasing overhead",
+      "B": "Increasing taxes",
+      "C": "Reducing unnecessary expenses",
+      "D": "Raising salaries"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 151,
+    "question": "Government borrowing is categorized as:",
+    "options": {
+      "A": "Recurrent item",
+      "B": "Personal expense",
+      "C": "Capital receipt",
+      "D": "Private equity"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 152,
+    "question": "Which document precedes the Appropriation Bill?",
+    "options": {
+      "A": "Auditor\u2019s Memo",
+      "B": "MTEF & FSP",
+      "C": "Fiscal Reconciliation Form",
+      "D": "Trade Policy Report"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 153,
+    "question": "Fiscal operations can be tracked using:",
+    "options": {
+      "A": "Weather reports",
+      "B": "Budget Implementation Reports",
+      "C": "Personnel files",
+      "D": "Debt Service Bills"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 154,
+    "question": "What is an indicative ceiling in budgeting?",
+    "options": {
+      "A": "Spending minimum",
+      "B": "Benchmark for oil prices",
+      "C": "Preliminary funding limit for planning",
+      "D": "Final contract value"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 155,
+    "question": "Line-item budgeting focuses on:",
+    "options": {
+      "A": "Outcomes and goals",
+      "B": "Cost of individual inputs",
+      "C": "Capital-intensive projects",
+      "D": "Government profits"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 156,
+    "question": "What is a fiscal year?",
+    "options": {
+      "A": "Calendar year used for personal tax",
+      "B": "Government\u2019s annual financial reporting period",
+      "C": "Quarterly financial window",
+      "D": "Debt repayment cycle"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 157,
+    "question": "A government\u2019s fiscal policy can be contractionary when it:",
+    "options": {
+      "A": "Increases public spending",
+      "B": "Cuts taxes",
+      "C": "Reduces public expenditure and increases taxes",
+      "D": "Reduces inflation targets"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 158,
+    "question": "A development plan\u2019s implementation is assessed through:",
+    "options": {
+      "A": "Population census",
+      "B": "Budget defense",
+      "C": "Monitoring and Evaluation",
+      "D": "Personnel audit"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 159,
+    "question": "Transparency in budget execution fosters:",
+    "options": {
+      "A": "Corruption",
+      "B": "Public trust and accountability",
+      "C": "Poor resource allocation",
+      "D": "Revenue suppression"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 160,
+    "question": "A cash plan in financial management is used to:",
+    "options": {
+      "A": "Limit fund utilization",
+      "B": "Allocate cash disbursements monthly or quarterly",
+      "C": "Pay salaries only",
+      "D": "Monitor external borrowing"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 161,
+    "question": "What is the main purpose of the Medium-Term Revenue Strategy?",
+    "options": {
+      "A": "Forecast rainfall",
+      "B": "Improve long-term revenue collection and policy reforms",
+      "C": "Estimate employment growth",
+      "D": "Track food prices"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 162,
+    "question": "Budget defense is done by MDAs to:",
+    "options": {
+      "A": "Cancel old budgets",
+      "B": "Justify proposed expenditures before legislature",
+      "C": "Hire contractors",
+      "D": "Defend capital allocations"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 163,
+    "question": "In Nigeria, the Treasury Single Account was introduced to:",
+    "options": {
+      "A": "Support politicians",
+      "B": "Eliminate ghost workers",
+      "C": "Consolidate government revenue and block leakages",
+      "D": "Raise loan ceilings"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 164,
+    "question": "The balance of payment records:",
+    "options": {
+      "A": "Domestic prices only",
+      "B": "Government budget",
+      "C": "Economic transactions between a country and the rest of the world",
+      "D": "Voter demographics"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 165,
+    "question": "The Public Procurement Act emphasizes:",
+    "options": {
+      "A": "Confidential spending",
+      "B": "Competition and transparency",
+      "C": "Budget secrecy",
+      "D": "Recurrent only procurement"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 166,
+    "question": "Which is NOT a classification of expenditure?",
+    "options": {
+      "A": "Capital",
+      "B": "Recurrent",
+      "C": "Actual",
+      "D": "Statutory"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 167,
+    "question": "What does it mean to roll over a budget?",
+    "options": {
+      "A": "Cancel remaining funds",
+      "B": "Transfer unspent balances to the next fiscal period",
+      "C": "Merge two budgets",
+      "D": "Raise more loans"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 168,
+    "question": "A key element of public financial accountability is:",
+    "options": {
+      "A": "Secret funding",
+      "B": "Timely audit of accounts",
+      "C": "Selective revenue collection",
+      "D": "Irregular procurement"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 169,
+    "question": "Which of the following enhances effective economic planning?",
+    "options": {
+      "A": "Lack of data",
+      "B": "Reliable statistics and forecasting",
+      "C": "Political instability",
+      "D": "High inflation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 170,
+    "question": "The Fiscal Responsibility Act provides sanctions for:",
+    "options": {
+      "A": "Academic misconduct",
+      "B": "Fiscal indiscipline",
+      "C": "Traffic offenses",
+      "D": "Electoral fraud"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 171,
+    "question": "Zero-based budgeting eliminates:",
+    "options": {
+      "A": "Recurring expenses",
+      "B": "Unjustified assumptions from previous budgets",
+      "C": "Capital costs",
+      "D": "Policy formulation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 172,
+    "question": "Budget circulars serve as:",
+    "options": {
+      "A": "Revenue receipts",
+      "B": "Guidelines for budget preparation by MDAs",
+      "C": "Debt collection forms",
+      "D": "Foreign exchange manuals"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 173,
+    "question": "Budget delay can result in:",
+    "options": {
+      "A": "Efficient spending",
+      "B": "Late fund release and poor project execution",
+      "C": "Higher audit compliance",
+      "D": "Better service delivery"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 174,
+    "question": "A disbursement schedule outlines:",
+    "options": {
+      "A": "Staff schedules",
+      "B": "Loan repayment",
+      "C": "Timely cash release for planned activities",
+      "D": "Project beneficiaries"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 175,
+    "question": "In fiscal planning, absorption rate measures:",
+    "options": {
+      "A": "Amount paid in taxes",
+      "B": "Actual spending against budgeted funds",
+      "C": "Office attendance",
+      "D": "Rate of borrowing"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 176,
+    "question": "Which of these supports capital project monitoring?",
+    "options": {
+      "A": "Audit memo",
+      "B": "GPS tracking and project registers",
+      "C": "External borrowing",
+      "D": "Wage increase"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 177,
+    "question": "MDAs must comply with what before budget implementation?",
+    "options": {
+      "A": "Internal memo",
+      "B": "Cash call",
+      "C": "Appropriation Act",
+      "D": "Budget booklet"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 178,
+    "question": "Fiscal policy differs from monetary policy in that it:",
+    "options": {
+      "A": "Controls inflation",
+      "B": "Uses government spending and taxation",
+      "C": "Regulates bank interest rates",
+      "D": "Influences exchange rates directly"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 179,
+    "question": "Social intervention programs are usually funded under:",
+    "options": {
+      "A": "Recurrent budget",
+      "B": "Emergency reserves",
+      "C": "Capital projects",
+      "D": "Statutory transfers"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 180,
+    "question": "A major source of Nigeria\u2019s capital revenue is:",
+    "options": {
+      "A": "Oil exports",
+      "B": "Personal income tax",
+      "C": "Value Added Tax",
+      "D": "Electricity bills"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 181,
+    "question": "A project cash flow analysis evaluates:",
+    "options": {
+      "A": "Media response",
+      "B": "Population figures",
+      "C": "Expected income and expenses",
+      "D": "Legal provisions"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 182,
+    "question": "Public Expenditure Tracking Surveys help to:",
+    "options": {
+      "A": "Block payment",
+      "B": "Evaluate delays in cash release",
+      "C": "Track how funds reach target beneficiaries",
+      "D": "Review contracts"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 183,
+    "question": "The \u201cgolden rule\u201d of public finance allows borrowing for:",
+    "options": {
+      "A": "Political gains",
+      "B": "Capital spending only",
+      "C": "Campaign funding",
+      "D": "Recurrent costs"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 184,
+    "question": "The macroeconomic framework includes:",
+    "options": {
+      "A": "Staff salaries",
+      "B": "Budget ceilings",
+      "C": "GDP growth, inflation, and exchange rates",
+      "D": "Political parties"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 185,
+    "question": "Expenditure efficiency means:",
+    "options": {
+      "A": "Spending more than budget",
+      "B": "Spending with optimal results",
+      "C": "Increasing procurement delays",
+      "D": "Delaying capital release"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 186,
+    "question": "What is cash-backed allocation?",
+    "options": {
+      "A": "Verbal approval",
+      "B": "Physical release of funds against approved budget",
+      "C": "Budget approval",
+      "D": "Loan guarantee"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 187,
+    "question": "Planning, Budgeting, and Execution together form the:",
+    "options": {
+      "A": "Financial agenda",
+      "B": "Budget process cycle",
+      "C": "Economic blueprint",
+      "D": "Political strategy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 188,
+    "question": "A credible budget must be:",
+    "options": {
+      "A": "Overinflated",
+      "B": "Achievable, transparent, and inclusive",
+      "C": "Politically motivated",
+      "D": "Based on assumption"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 189,
+    "question": "Nigeria\u2019s main budgeting approach is:",
+    "options": {
+      "A": "Line-item budgeting",
+      "B": "Zero-based only",
+      "C": "Participatory budgeting",
+      "D": "Risk-based budgeting"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 190,
+    "question": "Multiyear budgeting enhances:",
+    "options": {
+      "A": "Ad-hoc spending",
+      "B": "Short-termism",
+      "C": "Strategic planning and resource allocation",
+      "D": "Election expenses"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 191,
+    "question": "Foreign loans for capital projects must be approved by:",
+    "options": {
+      "A": "Central Bank",
+      "B": "Senate",
+      "C": "Auditor-General",
+      "D": "Federal Executive Council"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 192,
+    "question": "Overhead cost in budgeting refers to:",
+    "options": {
+      "A": "Salaries",
+      "B": "Rent, utilities, and office expenses",
+      "C": "Loan repayments",
+      "D": "Tax waivers"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 193,
+    "question": "What tool is used to evaluate economic reforms?",
+    "options": {
+      "A": "Economic dashboard",
+      "B": "Policy review reports",
+      "C": "Economic modeling",
+      "D": "Capital inventory"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 194,
+    "question": "A project charter defines:",
+    "options": {
+      "A": "Loan ceiling",
+      "B": "Project\u2019s scope, timeline, and responsibilities",
+      "C": "Foreign partners",
+      "D": "Audit policy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 195,
+    "question": "Which principle ensures spending is within limits?",
+    "options": {
+      "A": "Legality",
+      "B": "Integrity",
+      "C": "Control",
+      "D": "Efficiency"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 196,
+    "question": "Budget tracking promotes:",
+    "options": {
+      "A": "Fraud",
+      "B": "Political exclusion",
+      "C": "Transparency and accountability",
+      "D": "Currency inflation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 197,
+    "question": "Who coordinates the preparation of budget at the MDA level?",
+    "options": {
+      "A": "Permanent Secretary",
+      "B": "Director of Finance and Accounts",
+      "C": "Budget Officer",
+      "D": "Procurement Officer"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 198,
+    "question": "Budget ceilings help to:",
+    "options": {
+      "A": "Maximize inflation",
+      "B": "Allocate funds fairly",
+      "C": "Increase loans",
+      "D": "Reduce productivity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 199,
+    "question": "Medium-term fiscal frameworks enhance:",
+    "options": {
+      "A": "Microeconomic data",
+      "B": "Long-term political forecasting",
+      "C": "Predictability and sustainability of public finance",
+      "D": "Reduction in VAT"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 200,
+    "question": "Internal audit serves to:",
+    "options": {
+      "A": "Approve budgets",
+      "B": "Block salary payments",
+      "C": "Verify adherence to rules and prevent misuse of funds",
+      "D": "Promote external borrowing"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 1,
+    "question": "Which statement about Treasury Single Account (TSA) is MOST accurate?",
+    "options": {
+      "A": "Consolidates all FG cash balances at the CBN to strengthen cash management and visibility",
+      "B": "Allows MDAs to keep multiple commercial bank accounts for flexibility",
+      "C": "Primarily serves as a procurement price‑benchmarking portal",
+      "D": "Is a payroll platform for verifying staff records across MDAs"
+    },
+    "correct_option": "A",
+    "correct_answer": "Consolidates all FG cash balances at the CBN to strengthen cash management and visibility"
+  },
+  {
+    "id": 2,
+    "question": "In Nigerian Financial Regulations, what BEST describes Treasury Single Account (TSA)?",
+    "options": {
+      "A": "Allows MDAs to keep multiple commercial bank accounts for flexibility",
+      "B": "Consolidates all FG cash balances at the CBN to strengthen cash management and visibility",
+      "C": "Primarily serves as a procurement price‑benchmarking portal",
+      "D": "Is a payroll platform for verifying staff records across MDAs"
+    },
+    "correct_option": "B",
+    "correct_answer": "Consolidates all FG cash balances at the CBN to strengthen cash management and visibility"
+  },
+  {
+    "id": 3,
+    "question": "Which statement about Government Integrated Financial Management Information System (GIFMIS) is MOST accurate?",
+    "options": {
+      "A": "Is a human resource portal used solely for recruitment into MDAs",
+      "B": "Replaces the Appropriation Act by approving spending ceilings",
+      "C": "Provides end‑to‑end budget execution and accounting with a unified chart of accounts",
+      "D": "Is a file‑sharing tool for transmitting scanned payment vouchers"
+    },
+    "correct_option": "C",
+    "correct_answer": "Provides end‑to‑end budget execution and accounting with a unified chart of accounts"
+  },
+  {
+    "id": 4,
+    "question": "In Nigerian Financial Regulations, what BEST describes Government Integrated Financial Management Information System (GIFMIS)?",
+    "options": {
+      "A": "Is a human resource portal used solely for recruitment into MDAs",
+      "B": "Is a file‑sharing tool for transmitting scanned payment vouchers",
+      "C": "Replaces the Appropriation Act by approving spending ceilings",
+      "D": "Provides end‑to‑end budget execution and accounting with a unified chart of accounts"
+    },
+    "correct_option": "D",
+    "correct_answer": "Provides end‑to‑end budget execution and accounting with a unified chart of accounts"
+  },
+  {
+    "id": 5,
+    "question": "Which statement about Appropriation Act is MOST accurate?",
+    "options": {
+      "A": "Provides legal authority for public expenditure within approved estimates and purposes",
+      "B": "Authorizes only capital spending while personnel costs come from warrants",
+      "C": "Is optional if an MDA generates adequate IGR",
+      "D": "Is an internal circular from the Accountant‑General to MDAs"
+    },
+    "correct_option": "A",
+    "correct_answer": "Provides legal authority for public expenditure within approved estimates and purposes"
+  },
+  {
+    "id": 6,
+    "question": "In Nigerian Financial Regulations, what BEST describes Appropriation Act?",
+    "options": {
+      "A": "Is an internal circular from the Accountant‑General to MDAs",
+      "B": "Provides legal authority for public expenditure within approved estimates and purposes",
+      "C": "Is optional if an MDA generates adequate IGR",
+      "D": "Authorizes only capital spending while personnel costs come from warrants"
+    },
+    "correct_option": "B",
+    "correct_answer": "Provides legal authority for public expenditure within approved estimates and purposes"
+  },
+  {
+    "id": 7,
+    "question": "Which statement about Fiscal Responsibility Act (FRA) 2007 is MOST accurate?",
+    "options": {
+      "A": "Abolishes the need for internal audit in MDAs",
+      "B": "Specifically prescribes stores management forms and bin cards",
+      "C": "Anchors the MTEF and debt sustainability rules to promote prudent management of public finances",
+      "D": "Creates the Bureau of Public Procurement and its regulatory functions"
+    },
+    "correct_option": "C",
+    "correct_answer": "Anchors the MTEF and debt sustainability rules to promote prudent management of public finances"
+  },
+  {
+    "id": 8,
+    "question": "In Nigerian Financial Regulations, what BEST describes Fiscal Responsibility Act (FRA) 2007?",
+    "options": {
+      "A": "Creates the Bureau of Public Procurement and its regulatory functions",
+      "B": "Specifically prescribes stores management forms and bin cards",
+      "C": "Abolishes the need for internal audit in MDAs",
+      "D": "Anchors the MTEF and debt sustainability rules to promote prudent management of public finances"
+    },
+    "correct_option": "D",
+    "correct_answer": "Anchors the MTEF and debt sustainability rules to promote prudent management of public finances"
+  },
+  {
+    "id": 9,
+    "question": "Which statement about Vote Book (Commitment Control) is MOST accurate?",
+    "options": {
+      "A": "Tracks commitments against budget heads to prevent overspending",
+      "B": "Records only bank reconciliations and cash book balances",
+      "C": "Is the register used by stores to issue consumables",
+      "D": "Holds original contracts and title documents for fixed assets"
+    },
+    "correct_option": "A",
+    "correct_answer": "Tracks commitments against budget heads to prevent overspending"
+  },
+  {
+    "id": 10,
+    "question": "In Nigerian Financial Regulations, what BEST describes Vote Book (Commitment Control)?",
+    "options": {
+      "A": "Is the register used by stores to issue consumables",
+      "B": "Tracks commitments against budget heads to prevent overspending",
+      "C": "Holds original contracts and title documents for fixed assets",
+      "D": "Records only bank reconciliations and cash book balances"
+    },
+    "correct_option": "B",
+    "correct_answer": "Tracks commitments against budget heads to prevent overspending"
+  },
+  {
+    "id": 11,
+    "question": "Which statement about Virement is MOST accurate?",
+    "options": {
+      "A": "Means paying contractors directly from IGR without due process",
+      "B": "Authorizes carry‑over of unspent cash balances to next fiscal year automatically",
+      "C": "Legally re‑allocates funds within approved heads/sub‑heads subject to limits and approvals",
+      "D": "Introduces new spending not covered by the Appropriation Act"
+    },
+    "correct_option": "C",
+    "correct_answer": "Legally re‑allocates funds within approved heads/sub‑heads subject to limits and approvals"
+  },
+  {
+    "id": 12,
+    "question": "In Nigerian Financial Regulations, what BEST describes Virement?",
+    "options": {
+      "A": "Authorizes carry‑over of unspent cash balances to next fiscal year automatically",
+      "B": "Means paying contractors directly from IGR without due process",
+      "C": "Introduces new spending not covered by the Appropriation Act",
+      "D": "Legally re‑allocates funds within approved heads/sub‑heads subject to limits and approvals"
+    },
+    "correct_option": "D",
+    "correct_answer": "Legally re‑allocates funds within approved heads/sub‑heads subject to limits and approvals"
+  },
+  {
+    "id": 13,
+    "question": "Which statement about Payment Voucher (PV) controls is MOST accurate?",
+    "options": {
+      "A": "Must carry proper supporting documents, certification and authorized signatories before payment",
+      "B": "Requires no attachments when payments are under petty‑cash thresholds",
+      "C": "May be raised after payment as long as the ledger is updated",
+      "D": "Can be paid if any one officer verbally confirms urgency"
+    },
+    "correct_option": "A",
+    "correct_answer": "Must carry proper supporting documents, certification and authorized signatories before payment"
+  },
+  {
+    "id": 14,
+    "question": "In Nigerian Financial Regulations, what BEST describes Payment Voucher (PV) controls?",
+    "options": {
+      "A": "May be raised after payment as long as the ledger is updated",
+      "B": "Must carry proper supporting documents, certification and authorized signatories before payment",
+      "C": "Can be paid if any one officer verbally confirms urgency",
+      "D": "Requires no attachments when payments are under petty‑cash thresholds"
+    },
+    "correct_option": "B",
+    "correct_answer": "Must carry proper supporting documents, certification and authorized signatories before payment"
+  },
+  {
+    "id": 15,
+    "question": "Which statement about Bank Reconciliation is MOST accurate?",
+    "options": {
+      "A": "Replaces the need for cash book maintenance",
+      "B": "Confirms that stores ledgers tally with fixed asset registers",
+      "C": "Compares cash book with bank statements regularly to resolve variances",
+      "D": "Is done once at year‑end because interim differences are immaterial"
+    },
+    "correct_option": "C",
+    "correct_answer": "Compares cash book with bank statements regularly to resolve variances"
+  },
+  {
+    "id": 16,
+    "question": "In Nigerian Financial Regulations, what BEST describes Bank Reconciliation?",
+    "options": {
+      "A": "Confirms that stores ledgers tally with fixed asset registers",
+      "B": "Is done once at year‑end because interim differences are immaterial",
+      "C": "Replaces the need for cash book maintenance",
+      "D": "Compares cash book with bank statements regularly to resolve variances"
+    },
+    "correct_option": "D",
+    "correct_answer": "Compares cash book with bank statements regularly to resolve variances"
+  },
+  {
+    "id": 17,
+    "question": "Which statement about Imprest is MOST accurate?",
+    "options": {
+      "A": "A standing advance for minor recurrent expenses subject to retirement and replenishment procedures",
+      "B": "A contingency fund that can be spent without documentation",
+      "C": "An imprest holder’s personal allowance not subject to retirement",
+      "D": "A capital grant issued to contractors for mobilization advances"
+    },
+    "correct_option": "A",
+    "correct_answer": "A standing advance for minor recurrent expenses subject to retirement and replenishment procedures"
+  },
+  {
+    "id": 18,
+    "question": "In Nigerian Financial Regulations, what BEST describes Imprest?",
+    "options": {
+      "A": "A capital grant issued to contractors for mobilization advances",
+      "B": "A standing advance for minor recurrent expenses subject to retirement and replenishment procedures",
+      "C": "A contingency fund that can be spent without documentation",
+      "D": "An imprest holder’s personal allowance not subject to retirement"
+    },
+    "correct_option": "B",
+    "correct_answer": "A standing advance for minor recurrent expenses subject to retirement and replenishment procedures"
+  },
+  {
+    "id": 19,
+    "question": "Which statement about Internal Audit is MOST accurate?",
+    "options": {
+      "A": "Issues audit opinions on the whole of government financial statements",
+      "B": "Is responsible for setting monetary policy with the CBN",
+      "C": "Provides independent assurance on controls and pre‑payment checks within the MDA",
+      "D": "Approves the national budget and releases cash backing"
+    },
+    "correct_option": "C",
+    "correct_answer": "Provides independent assurance on controls and pre‑payment checks within the MDA"
+  },
+  {
+    "id": 20,
+    "question": "In Nigerian Financial Regulations, what BEST describes Internal Audit?",
+    "options": {
+      "A": "Is responsible for setting monetary policy with the CBN",
+      "B": "Approves the national budget and releases cash backing",
+      "C": "Issues audit opinions on the whole of government financial statements",
+      "D": "Provides independent assurance on controls and pre‑payment checks within the MDA"
+    },
+    "correct_option": "D",
+    "correct_answer": "Provides independent assurance on controls and pre‑payment checks within the MDA"
+  },
+  {
+    "id": 21,
+    "question": "Which statement about Office of the Accountant‑General of the Federation (OAGF) is MOST accurate?",
+    "options": {
+      "A": "Responsible for treasury management, accounting standards and issuance of Financial Regulations",
+      "B": "Chairs the National Assembly Public Accounts Committees",
+      "C": "Registers all federal contractors and maintains the BPP portal",
+      "D": "Conducts external audits and certifies MDAs’ accounts annually"
+    },
+    "correct_option": "A",
+    "correct_answer": "Responsible for treasury management, accounting standards and issuance of Financial Regulations"
+  },
+  {
+    "id": 22,
+    "question": "In Nigerian Financial Regulations, what BEST describes Office of the Accountant‑General of the Federation (OAGF)?",
+    "options": {
+      "A": "Chairs the National Assembly Public Accounts Committees",
+      "B": "Responsible for treasury management, accounting standards and issuance of Financial Regulations",
+      "C": "Registers all federal contractors and maintains the BPP portal",
+      "D": "Conducts external audits and certifies MDAs’ accounts annually"
+    },
+    "correct_option": "B",
+    "correct_answer": "Responsible for treasury management, accounting standards and issuance of Financial Regulations"
+  },
+  {
+    "id": 23,
+    "question": "Which statement about Office of the Auditor‑General for the Federation (OAuGF) is MOST accurate?",
+    "options": {
+      "A": "Issues cash warrants and release schedules to MDAs",
+      "B": "Prepares and executes the national budget for all MDAs",
+      "C": "Conducts independent external audit and reports to the legislature on public accounts",
+      "D": "Approves all procurements above national thresholds"
+    },
+    "correct_option": "C",
+    "correct_answer": "Conducts independent external audit and reports to the legislature on public accounts"
+  },
+  {
+    "id": 24,
+    "question": "In Nigerian Financial Regulations, what BEST describes Office of the Auditor‑General for the Federation (OAuGF)?",
+    "options": {
+      "A": "Prepares and executes the national budget for all MDAs",
+      "B": "Issues cash warrants and release schedules to MDAs",
+      "C": "Approves all procurements above national thresholds",
+      "D": "Conducts independent external audit and reports to the legislature on public accounts"
+    },
+    "correct_option": "D",
+    "correct_answer": "Conducts independent external audit and reports to the legislature on public accounts"
+  },
+  {
+    "id": 25,
+    "question": "Which statement about Revenue Collection is MOST accurate?",
+    "options": {
+      "A": "Official receipts must be issued and collections promptly lodged into TSA‑designated accounts",
+      "B": "IGR may be spent directly by departments before lodgment",
+      "C": "Collections can be held by officers until month‑end to ease lodgment",
+      "D": "Receipts are optional if a POS slip exists"
+    },
+    "correct_option": "A",
+    "correct_answer": "Official receipts must be issued and collections promptly lodged into TSA‑designated accounts"
+  },
+  {
+    "id": 26,
+    "question": "In Nigerian Financial Regulations, what BEST describes Revenue Collection?",
+    "options": {
+      "A": "Collections can be held by officers until month‑end to ease lodgment",
+      "B": "Official receipts must be issued and collections promptly lodged into TSA‑designated accounts",
+      "C": "IGR may be spent directly by departments before lodgment",
+      "D": "Receipts are optional if a POS slip exists"
+    },
+    "correct_option": "B",
+    "correct_answer": "Official receipts must be issued and collections promptly lodged into TSA‑designated accounts"
+  },
+  {
+    "id": 27,
+    "question": "Which statement about Chart of Accounts (CoA) is MOST accurate?",
+    "options": {
+      "A": "Lists suppliers’ phone numbers for easy reference",
+      "B": "Is a register of fixed assets grouped by location",
+      "C": "Classifies transactions uniformly by fund, function, programme, economic and administrative codes",
+      "D": "Shows only bank account numbers and signatories"
+    },
+    "correct_option": "C",
+    "correct_answer": "Classifies transactions uniformly by fund, function, programme, economic and administrative codes"
+  },
+  {
+    "id": 28,
+    "question": "In Nigerian Financial Regulations, what BEST describes Chart of Accounts (CoA)?",
+    "options": {
+      "A": "Lists suppliers’ phone numbers for easy reference",
+      "B": "Shows only bank account numbers and signatories",
+      "C": "Is a register of fixed assets grouped by location",
+      "D": "Classifies transactions uniformly by fund, function, programme, economic and administrative codes"
+    },
+    "correct_option": "D",
+    "correct_answer": "Classifies transactions uniformly by fund, function, programme, economic and administrative codes"
+  },
+  {
+    "id": 29,
+    "question": "Which statement about Cash Backing is MOST accurate?",
+    "options": {
+      "A": "Release of cash/authority to incur expenditure to support commitments in the budget",
+      "B": "The legalization of supplementary appropriations by the court",
+      "C": "The reconciliation of TSA sub‑accounts across commercial banks",
+      "D": "A guarantee from contractors to the MDA for performance"
+    },
+    "correct_option": "A",
+    "correct_answer": "Release of cash/authority to incur expenditure to support commitments in the budget"
+  },
+  {
+    "id": 30,
+    "question": "In Nigerian Financial Regulations, what BEST describes Cash Backing?",
+    "options": {
+      "A": "A guarantee from contractors to the MDA for performance",
+      "B": "Release of cash/authority to incur expenditure to support commitments in the budget",
+      "C": "The legalization of supplementary appropriations by the court",
+      "D": "The reconciliation of TSA sub‑accounts across commercial banks"
+    },
+    "correct_option": "B",
+    "correct_answer": "Release of cash/authority to incur expenditure to support commitments in the budget"
+  },
+  {
+    "id": 31,
+    "question": "Which statement about Public Stores Management is MOST accurate?",
+    "options": {
+      "A": "Keeps no documentary trail because consumables are low‑value",
+      "B": "Relies solely on supplier invoices without receipt documentation",
+      "C": "Uses SRV/SIV, bin cards and periodic stock‑taking to safeguard stores",
+      "D": "Records issues only at year‑end to save time"
+    },
+    "correct_option": "C",
+    "correct_answer": "Uses SRV/SIV, bin cards and periodic stock‑taking to safeguard stores"
+  },
+  {
+    "id": 32,
+    "question": "In Nigerian Financial Regulations, what BEST describes Public Stores Management?",
+    "options": {
+      "A": "Records issues only at year‑end to save time",
+      "B": "Keeps no documentary trail because consumables are low‑value",
+      "C": "Relies solely on supplier invoices without receipt documentation",
+      "D": "Uses SRV/SIV, bin cards and periodic stock‑taking to safeguard stores"
+    },
+    "correct_option": "D",
+    "correct_answer": "Uses SRV/SIV, bin cards and periodic stock‑taking to safeguard stores"
+  },
+  {
+    "id": 33,
+    "question": "Which statement about Losses and Write‑Off is MOST accurate?",
+    "options": {
+      "A": "Loss of public money must be reported, investigated and disposed per delegated authority",
+      "B": "May be ignored if below a manager’s tolerance level",
+      "C": "Is handled by HR without treasury involvement",
+      "D": "Can be set off informally against unrelated unpaid invoices"
+    },
+    "correct_option": "A",
+    "correct_answer": "Loss of public money must be reported, investigated and disposed per delegated authority"
+  },
+  {
+    "id": 34,
+    "question": "In Nigerian Financial Regulations, what BEST describes Losses and Write‑Off?",
+    "options": {
+      "A": "May be ignored if below a manager’s tolerance level",
+      "B": "Loss of public money must be reported, investigated and disposed per delegated authority",
+      "C": "Is handled by HR without treasury involvement",
+      "D": "Can be set off informally against unrelated unpaid invoices"
+    },
+    "correct_option": "B",
+    "correct_answer": "Loss of public money must be reported, investigated and disposed per delegated authority"
+  },
+  {
+    "id": 35,
+    "question": "Which statement about Advances is MOST accurate?",
+    "options": {
+      "A": "Capital grants that convert to equity in suppliers",
+      "B": "Ledger adjustments with no supporting documentation",
+      "C": "Temporary payments to officers/contractors that must be retired within specified timelines",
+      "D": "Permanent allowances that need no retirement"
+    },
+    "correct_option": "C",
+    "correct_answer": "Temporary payments to officers/contractors that must be retired within specified timelines"
+  },
+  {
+    "id": 36,
+    "question": "In Nigerian Financial Regulations, what BEST describes Advances?",
+    "options": {
+      "A": "Permanent allowances that need no retirement",
+      "B": "Ledger adjustments with no supporting documentation",
+      "C": "Capital grants that convert to equity in suppliers",
+      "D": "Temporary payments to officers/contractors that must be retired within specified timelines"
+    },
+    "correct_option": "D",
+    "correct_answer": "Temporary payments to officers/contractors that must be retired within specified timelines"
+  },
+  {
+    "id": 37,
+    "question": "Which statement about E‑Payment Policy is MOST accurate?",
+    "options": {
+      "A": "Promotes electronic funds transfer; discourages cash handling to reduce risk and leakage",
+      "B": "Eliminates the need for pre‑payment checks by internal audit",
+      "C": "Requires all MDAs to pay only in physical cash for transparency",
+      "D": "Allows anonymous payments to speed up urgent transactions"
+    },
+    "correct_option": "A",
+    "correct_answer": "Promotes electronic funds transfer; discourages cash handling to reduce risk and leakage"
+  },
+  {
+    "id": 38,
+    "question": "In Nigerian Financial Regulations, what BEST describes E‑Payment Policy?",
+    "options": {
+      "A": "Requires all MDAs to pay only in physical cash for transparency",
+      "B": "Promotes electronic funds transfer; discourages cash handling to reduce risk and leakage",
+      "C": "Allows anonymous payments to speed up urgent transactions",
+      "D": "Eliminates the need for pre‑payment checks by internal audit"
+    },
+    "correct_option": "B",
+    "correct_answer": "Promotes electronic funds transfer; discourages cash handling to reduce risk and leakage"
+  },
+  {
+    "id": 39,
+    "question": "Which statement about Payroll Controls (IPPIS) is MOST accurate?",
+    "options": {
+      "A": "Allows MDAs to pay staff directly from IGR without TSA",
+      "B": "Replaces budgetary control by allowing unlimited personnel costs",
+      "C": "Centralizes personnel data and payroll to reduce ghost workers and enhance control",
+      "D": "Outsources salary approvals to commercial banks"
+    },
+    "correct_option": "C",
+    "correct_answer": "Centralizes personnel data and payroll to reduce ghost workers and enhance control"
+  },
+  {
+    "id": 40,
+    "question": "In Nigerian Financial Regulations, what BEST describes Payroll Controls (IPPIS)?",
+    "options": {
+      "A": "Outsources salary approvals to commercial banks",
+      "B": "Allows MDAs to pay staff directly from IGR without TSA",
+      "C": "Replaces budgetary control by allowing unlimited personnel costs",
+      "D": "Centralizes personnel data and payroll to reduce ghost workers and enhance control"
+    },
+    "correct_option": "D",
+    "correct_answer": "Centralizes personnel data and payroll to reduce ghost workers and enhance control"
+  },
+  {
+    "id": 41,
+    "question": "Which statement about Year‑End Procedures is MOST accurate?",
+    "options": {
+      "A": "Involve cut‑off, ledger closure, schedules and financial statements in line with standards",
+      "B": "Allow informal rounding to clear suspense accounts",
+      "C": "Suspend bank reconciliations until the audit begins",
+      "D": "Permit back‑dating of payments to exhaust balances"
+    },
+    "correct_option": "A",
+    "correct_answer": "Involve cut‑off, ledger closure, schedules and financial statements in line with standards"
+  },
+  {
+    "id": 42,
+    "question": "In Nigerian Financial Regulations, what BEST describes Year‑End Procedures?",
+    "options": {
+      "A": "Allow informal rounding to clear suspense accounts",
+      "B": "Involve cut‑off, ledger closure, schedules and financial statements in line with standards",
+      "C": "Permit back‑dating of payments to exhaust balances",
+      "D": "Suspend bank reconciliations until the audit begins"
+    },
+    "correct_option": "B",
+    "correct_answer": "Involve cut‑off, ledger closure, schedules and financial statements in line with standards"
+  },
+  {
+    "id": 43,
+    "question": "Which statement about Commitment vs. Payment is MOST accurate?",
+    "options": {
+      "A": "Commitment and payment are synonymous in treasury terms",
+      "B": "Commitments are recorded only after cash has been paid",
+      "C": "A commitment records a legal obligation; payment settles the liability after due process",
+      "D": "Payment creates the budget provision used by commitment"
+    },
+    "correct_option": "C",
+    "correct_answer": "A commitment records a legal obligation; payment settles the liability after due process"
+  },
+  {
+    "id": 44,
+    "question": "In Nigerian Financial Regulations, what BEST describes Commitment vs. Payment?",
+    "options": {
+      "A": "Commitment and payment are synonymous in treasury terms",
+      "B": "Commitments are recorded only after cash has been paid",
+      "C": "Payment creates the budget provision used by commitment",
+      "D": "A commitment records a legal obligation; payment settles the liability after due process"
+    },
+    "correct_option": "D",
+    "correct_answer": "A commitment records a legal obligation; payment settles the liability after due process"
+  },
+  {
+    "id": 45,
+    "question": "Which statement about Segregation of Duties is MOST accurate?",
+    "options": {
+      "A": "Different officers initiate, verify, approve and record transactions to reduce risk",
+      "B": "Applies only to procurement, not to treasury operations",
+      "C": "Consolidates all roles in one officer for efficiency",
+      "D": "Is optional when transactions are small"
+    },
+    "correct_option": "A",
+    "correct_answer": "Different officers initiate, verify, approve and record transactions to reduce risk"
+  },
+  {
+    "id": 46,
+    "question": "In Nigerian Financial Regulations, what BEST describes Segregation of Duties?",
+    "options": {
+      "A": "Applies only to procurement, not to treasury operations",
+      "B": "Different officers initiate, verify, approve and record transactions to reduce risk",
+      "C": "Consolidates all roles in one officer for efficiency",
+      "D": "Is optional when transactions are small"
+    },
+    "correct_option": "B",
+    "correct_answer": "Different officers initiate, verify, approve and record transactions to reduce risk"
+  },
+  {
+    "id": 47,
+    "question": "Which statement about Retirement of Imprest/Advance is MOST accurate?",
+    "options": {
+      "A": "Needs no documents if the officer verbally explains expenses",
+      "B": "Can be replaced with signed IOUs from colleagues",
+      "C": "Requires original receipts, approvals and timely submission of retirement vouchers",
+      "D": "Is unnecessary if the balance is returned"
+    },
+    "correct_option": "C",
+    "correct_answer": "Requires original receipts, approvals and timely submission of retirement vouchers"
+  },
+  {
+    "id": 48,
+    "question": "In Nigerian Financial Regulations, what BEST describes Retirement of Imprest/Advance?",
+    "options": {
+      "A": "Is unnecessary if the balance is returned",
+      "B": "Can be replaced with signed IOUs from colleagues",
+      "C": "Needs no documents if the officer verbally explains expenses",
+      "D": "Requires original receipts, approvals and timely submission of retirement vouchers"
+    },
+    "correct_option": "D",
+    "correct_answer": "Requires original receipts, approvals and timely submission of retirement vouchers"
+  },
+  {
+    "id": 49,
+    "question": "Which statement about Documentary Evidence is MOST accurate?",
+    "options": {
+      "A": "Invoices, delivery notes, inspection certificates and receipts support payment claims",
+      "B": "Internal memos alone can replace external documents",
+      "C": "WhatsApp chats and SMS suffice as legal evidence for payment",
+      "D": "Only supplier quotations are needed when prices are fair"
+    },
+    "correct_option": "A",
+    "correct_answer": "Invoices, delivery notes, inspection certificates and receipts support payment claims"
+  },
+  {
+    "id": 50,
+    "question": "In Nigerian Financial Regulations, what BEST describes Documentary Evidence?",
+    "options": {
+      "A": "Internal memos alone can replace external documents",
+      "B": "Invoices, delivery notes, inspection certificates and receipts support payment claims",
+      "C": "WhatsApp chats and SMS suffice as legal evidence for payment",
+      "D": "Only supplier quotations are needed when prices are fair"
+    },
+    "correct_option": "B",
+    "correct_answer": "Invoices, delivery notes, inspection certificates and receipts support payment claims"
+  },
+  {
+    "id": 51,
+    "question": "Which statement about Fixed Asset Register is MOST accurate?",
+    "options": {
+      "A": "Is updated only when assets are disposed",
+      "B": "Is optional for assets below capitalization threshold",
+      "C": "Tracks acquisition, location, custodian, depreciation and disposal of assets",
+      "D": "Contains only photos of assets for recognition"
+    },
+    "correct_option": "C",
+    "correct_answer": "Tracks acquisition, location, custodian, depreciation and disposal of assets"
+  },
+  {
+    "id": 52,
+    "question": "In Nigerian Financial Regulations, what BEST describes Fixed Asset Register?",
+    "options": {
+      "A": "Is updated only when assets are disposed",
+      "B": "Contains only photos of assets for recognition",
+      "C": "Is optional for assets below capitalization threshold",
+      "D": "Tracks acquisition, location, custodian, depreciation and disposal of assets"
+    },
+    "correct_option": "D",
+    "correct_answer": "Tracks acquisition, location, custodian, depreciation and disposal of assets"
+  },
+  {
+    "id": 53,
+    "question": "Which statement about Unauthorised Expenditure is MOST accurate?",
+    "options": {
+      "A": "Any spending without legal appropriation or approval contravenes regulations",
+      "B": "Can be approved retrospectively by the supplier",
+      "C": "Is acceptable when revenue performance is strong",
+      "D": "Becomes legal if recorded in the cash book"
+    },
+    "correct_option": "A",
+    "correct_answer": "Any spending without legal appropriation or approval contravenes regulations"
+  },
+  {
+    "id": 54,
+    "question": "In Nigerian Financial Regulations, what BEST describes Unauthorised Expenditure?",
+    "options": {
+      "A": "Becomes legal if recorded in the cash book",
+      "B": "Any spending without legal appropriation or approval contravenes regulations",
+      "C": "Is acceptable when revenue performance is strong",
+      "D": "Can be approved retrospectively by the supplier"
+    },
+    "correct_option": "B",
+    "correct_answer": "Any spending without legal appropriation or approval contravenes regulations"
+  },
+  {
+    "id": 55,
+    "question": "Which statement about Suspense Accounts is MOST accurate?",
+    "options": {
+      "A": "Off‑balance records that never affect the trial balance",
+      "B": "Permanent reserves for long‑term obligations",
+      "C": "Temporary holding accounts that must be analysed and cleared promptly",
+      "D": "Personal accounts used by imprest holders"
+    },
+    "correct_option": "C",
+    "correct_answer": "Temporary holding accounts that must be analysed and cleared promptly"
+  },
+  {
+    "id": 56,
+    "question": "In Nigerian Financial Regulations, what BEST describes Suspense Accounts?",
+    "options": {
+      "A": "Personal accounts used by imprest holders",
+      "B": "Off‑balance records that never affect the trial balance",
+      "C": "Permanent reserves for long‑term obligations",
+      "D": "Temporary holding accounts that must be analysed and cleared promptly"
+    },
+    "correct_option": "D",
+    "correct_answer": "Temporary holding accounts that must be analysed and cleared promptly"
+  },
+  {
+    "id": 57,
+    "question": "Which statement about Third‑Party Confirmations is MOST accurate?",
+    "options": {
+      "A": "Independent confirmation of balances (e.g., banks, debtors) strengthens assurance",
+      "B": "Replace the need for reconciliations entirely",
+      "C": "Are performed only after payments to suppliers",
+      "D": "Are unnecessary if management assures integrity"
+    },
+    "correct_option": "A",
+    "correct_answer": "Independent confirmation of balances (e.g., banks, debtors) strengthens assurance"
+  },
+  {
+    "id": 58,
+    "question": "In Nigerian Financial Regulations, what BEST describes Third‑Party Confirmations?",
+    "options": {
+      "A": "Are unnecessary if management assures integrity",
+      "B": "Independent confirmation of balances (e.g., banks, debtors) strengthens assurance",
+      "C": "Are performed only after payments to suppliers",
+      "D": "Replace the need for reconciliations entirely"
+    },
+    "correct_option": "B",
+    "correct_answer": "Independent confirmation of balances (e.g., banks, debtors) strengthens assurance"
+  },
+  {
+    "id": 59,
+    "question": "Which statement about Cash Book is MOST accurate?",
+    "options": {
+      "A": "A fixed asset valuation schedule",
+      "B": "A budget planning document for MTEF scenarios",
+      "C": "Primary record of receipts and payments maintained in chronological order",
+      "D": "A ledger for staff leave records"
+    },
+    "correct_option": "C",
+    "correct_answer": "Primary record of receipts and payments maintained in chronological order"
+  },
+  {
+    "id": 60,
+    "question": "In Nigerian Financial Regulations, what BEST describes Cash Book?",
+    "options": {
+      "A": "A budget planning document for MTEF scenarios",
+      "B": "A ledger for staff leave records",
+      "C": "A fixed asset valuation schedule",
+      "D": "Primary record of receipts and payments maintained in chronological order"
+    },
+    "correct_option": "D",
+    "correct_answer": "Primary record of receipts and payments maintained in chronological order"
+  },
+  {
+    "id": 61,
+    "question": "Which statement about Controls over Revenue Waivers is MOST accurate?",
+    "options": {
+      "A": "Require legal basis and approvals; must be disclosed and tracked",
+      "B": "Are internal to MDAs and not disclosed",
+      "C": "Need no documentation when amounts are small",
+      "D": "Can be granted informally by collecting officers"
+    },
+    "correct_option": "A",
+    "correct_answer": "Require legal basis and approvals; must be disclosed and tracked"
+  },
+  {
+    "id": 62,
+    "question": "In Nigerian Financial Regulations, what BEST describes Controls over Revenue Waivers?",
+    "options": {
+      "A": "Can be granted informally by collecting officers",
+      "B": "Require legal basis and approvals; must be disclosed and tracked",
+      "C": "Need no documentation when amounts are small",
+      "D": "Are internal to MDAs and not disclosed"
+    },
+    "correct_option": "B",
+    "correct_answer": "Require legal basis and approvals; must be disclosed and tracked"
+  },
+  {
+    "id": 63,
+    "question": "Which statement about Contract Variations (Financial Perspective) is MOST accurate?",
+    "options": {
+      "A": "Only technical units approve variations; finance has no role",
+      "B": "Cash book entries serve as approval for variations",
+      "C": "Financial approvals must align with budget provisions and delegated limits",
+      "D": "Variations can be funded from any unrelated sub‑head"
+    },
+    "correct_option": "C",
+    "correct_answer": "Financial approvals must align with budget provisions and delegated limits"
+  },
+  {
+    "id": 64,
+    "question": "In Nigerian Financial Regulations, what BEST describes Contract Variations (Financial Perspective)?",
+    "options": {
+      "A": "Variations can be funded from any unrelated sub‑head",
+      "B": "Cash book entries serve as approval for variations",
+      "C": "Only technical units approve variations; finance has no role",
+      "D": "Financial approvals must align with budget provisions and delegated limits"
+    },
+    "correct_option": "D",
+    "correct_answer": "Financial approvals must align with budget provisions and delegated limits"
+  },
+  {
+    "id": 65,
+    "question": "Which statement about Procurement vs. Payment is MOST accurate?",
+    "options": {
+      "A": "Procurement awards do not replace treasury checks; payment requires additional due process",
+      "B": "Treasury must pay once a procurement committee signs minutes",
+      "C": "Payment vouchers can be skipped if there is an award letter",
+      "D": "Price reasonableness cancels the need for documentation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Procurement awards do not replace treasury checks; payment requires additional due process"
+  },
+  {
+    "id": 66,
+    "question": "In Nigerian Financial Regulations, what BEST describes Procurement vs. Payment?",
+    "options": {
+      "A": "Price reasonableness cancels the need for documentation",
+      "B": "Procurement awards do not replace treasury checks; payment requires additional due process",
+      "C": "Payment vouchers can be skipped if there is an award letter",
+      "D": "Treasury must pay once a procurement committee signs minutes"
+    },
+    "correct_option": "B",
+    "correct_answer": "Procurement awards do not replace treasury checks; payment requires additional due process"
+  },
+  {
+    "id": 67,
+    "question": "Which statement about Revenue Codes (e‑collection) is MOST accurate?",
+    "options": {
+      "A": "Codes apply only to cash payments, not electronic",
+      "B": "Collections are posted to any convenient code and regrouped later",
+      "C": "Each revenue stream uses designated codes/identifiers to ensure proper classification",
+      "D": "Codes are needed only for capital receipts"
+    },
+    "correct_option": "C",
+    "correct_answer": "Each revenue stream uses designated codes/identifiers to ensure proper classification"
+  },
+  {
+    "id": 68,
+    "question": "In Nigerian Financial Regulations, what BEST describes Revenue Codes (e‑collection)?",
+    "options": {
+      "A": "Codes apply only to cash payments, not electronic",
+      "B": "Codes are needed only for capital receipts",
+      "C": "Collections are posted to any convenient code and regrouped later",
+      "D": "Each revenue stream uses designated codes/identifiers to ensure proper classification"
+    },
+    "correct_option": "D",
+    "correct_answer": "Each revenue stream uses designated codes/identifiers to ensure proper classification"
+  },
+  {
+    "id": 69,
+    "question": "Which statement about Treasury Circulars is MOST accurate?",
+    "options": {
+      "A": "Clarify procedures and update Financial Regulations where applicable",
+      "B": "Authorize unilateral spending without budget",
+      "C": "Are optional suggestions with no bearing on controls",
+      "D": "Replace statutory provisions of the Appropriation Act"
+    },
+    "correct_option": "A",
+    "correct_answer": "Clarify procedures and update Financial Regulations where applicable"
+  },
+  {
+    "id": 70,
+    "question": "In Nigerian Financial Regulations, what BEST describes Treasury Circulars?",
+    "options": {
+      "A": "Are optional suggestions with no bearing on controls",
+      "B": "Clarify procedures and update Financial Regulations where applicable",
+      "C": "Replace statutory provisions of the Appropriation Act",
+      "D": "Authorize unilateral spending without budget"
+    },
+    "correct_option": "B",
+    "correct_answer": "Clarify procedures and update Financial Regulations where applicable"
+  },
+  {
+    "id": 71,
+    "question": "Which statement about Public Accounts Committees (PAC) is MOST accurate?",
+    "options": {
+      "A": "Issue cash warrants to MDAs for capital projects",
+      "B": "Approve suppliers for national framework agreements",
+      "C": "Legislative committees that review audit reports and oversight corrective actions",
+      "D": "Administer the TSA on behalf of the OAGF"
+    },
+    "correct_option": "C",
+    "correct_answer": "Legislative committees that review audit reports and oversight corrective actions"
+  },
+  {
+    "id": 72,
+    "question": "In Nigerian Financial Regulations, what BEST describes Public Accounts Committees (PAC)?",
+    "options": {
+      "A": "Approve suppliers for national framework agreements",
+      "B": "Issue cash warrants to MDAs for capital projects",
+      "C": "Administer the TSA on behalf of the OAGF",
+      "D": "Legislative committees that review audit reports and oversight corrective actions"
+    },
+    "correct_option": "D",
+    "correct_answer": "Legislative committees that review audit reports and oversight corrective actions"
+  },
+  {
+    "id": 73,
+    "question": "Which statement about Documentation Retention is MOST accurate?",
+    "options": {
+      "A": "Records must be retained and accessible for audit within prescribed periods",
+      "B": "Are held only by suppliers, not MDAs",
+      "C": "Are optional if the project is complete",
+      "D": "May be destroyed once scanned into email"
+    },
+    "correct_option": "A",
+    "correct_answer": "Records must be retained and accessible for audit within prescribed periods"
+  },
+  {
+    "id": 74,
+    "question": "In Nigerian Financial Regulations, what BEST describes Documentation Retention?",
+    "options": {
+      "A": "Are optional if the project is complete",
+      "B": "Records must be retained and accessible for audit within prescribed periods",
+      "C": "May be destroyed once scanned into email",
+      "D": "Are held only by suppliers, not MDAs"
+    },
+    "correct_option": "B",
+    "correct_answer": "Records must be retained and accessible for audit within prescribed periods"
+  },
+  {
+    "id": 75,
+    "question": "Which statement about Delegation of Authority is MOST accurate?",
+    "options": {
+      "A": "Financial limits do not apply to donor‑funded projects",
+      "B": "Any officer can approve if absent signatories delay",
+      "C": "Approvals follow documented limits; delegation does not remove accountability",
+      "D": "Delegation shifts accountability to the most junior officer"
+    },
+    "correct_option": "C",
+    "correct_answer": "Approvals follow documented limits; delegation does not remove accountability"
+  },
+  {
+    "id": 76,
+    "question": "In Nigerian Financial Regulations, what BEST describes Delegation of Authority?",
+    "options": {
+      "A": "Delegation shifts accountability to the most junior officer",
+      "B": "Any officer can approve if absent signatories delay",
+      "C": "Financial limits do not apply to donor‑funded projects",
+      "D": "Approvals follow documented limits; delegation does not remove accountability"
+    },
+    "correct_option": "D",
+    "correct_answer": "Approvals follow documented limits; delegation does not remove accountability"
+  },
+  {
+    "id": 77,
+    "question": "Which statement about Donor‑Funded Projects (Financial Control) is MOST accurate?",
+    "options": {
+      "A": "Must comply with donor rules and national regulations where applicable",
+      "B": "Post expenditures only after grant closure",
+      "C": "Operate outside the TSA by default",
+      "D": "Need no national control once donor guidelines exist"
+    },
+    "correct_option": "A",
+    "correct_answer": "Must comply with donor rules and national regulations where applicable"
+  },
+  {
+    "id": 78,
+    "question": "In Nigerian Financial Regulations, what BEST describes Donor‑Funded Projects (Financial Control)?",
+    "options": {
+      "A": "Operate outside the TSA by default",
+      "B": "Must comply with donor rules and national regulations where applicable",
+      "C": "Need no national control once donor guidelines exist",
+      "D": "Post expenditures only after grant closure"
+    },
+    "correct_option": "B",
+    "correct_answer": "Must comply with donor rules and national regulations where applicable"
+  },
+  {
+    "id": 79,
+    "question": "Which statement about Asset Disposal is MOST accurate?",
+    "options": {
+      "A": "Can be done via informal auction by department heads",
+      "B": "Proceeds may be retained by the unit to fund welfare",
+      "C": "Requires valuation, approvals, transparency and proper accounting for proceeds",
+      "D": "Needs no records if assets are obsolete"
+    },
+    "correct_option": "C",
+    "correct_answer": "Requires valuation, approvals, transparency and proper accounting for proceeds"
+  },
+  {
+    "id": 80,
+    "question": "In Nigerian Financial Regulations, what BEST describes Asset Disposal?",
+    "options": {
+      "A": "Proceeds may be retained by the unit to fund welfare",
+      "B": "Can be done via informal auction by department heads",
+      "C": "Needs no records if assets are obsolete",
+      "D": "Requires valuation, approvals, transparency and proper accounting for proceeds"
+    },
+    "correct_option": "D",
+    "correct_answer": "Requires valuation, approvals, transparency and proper accounting for proceeds"
+  },
+  {
+    "id": 81,
+    "question": "Which statement about Travel and Duty Tour Controls is MOST accurate?",
+    "options": {
+      "A": "Require prior approvals, evidence of travel and retirement of advances",
+      "B": "Allow per diem to be drawn repeatedly without travel",
+      "C": "Permit officers to transfer advances to colleagues",
+      "D": "Do not require retirement if receipts are misplaced"
+    },
+    "correct_option": "A",
+    "correct_answer": "Require prior approvals, evidence of travel and retirement of advances"
+  },
+  {
+    "id": 82,
+    "question": "In Nigerian Financial Regulations, what BEST describes Travel and Duty Tour Controls?",
+    "options": {
+      "A": "Allow per diem to be drawn repeatedly without travel",
+      "B": "Require prior approvals, evidence of travel and retirement of advances",
+      "C": "Permit officers to transfer advances to colleagues",
+      "D": "Do not require retirement if receipts are misplaced"
+    },
+    "correct_option": "B",
+    "correct_answer": "Require prior approvals, evidence of travel and retirement of advances"
+  },
+  {
+    "id": 83,
+    "question": "Which statement about Grant and Subvention Accounting is MOST accurate?",
+    "options": {
+      "A": "Record grants as stores issues to beneficiaries",
+      "B": "Replace audit requirements due to third‑party oversight",
+      "C": "Recognize transfers, conditions and performance reporting in line with CoA",
+      "D": "Permit direct cash payments without evidence"
+    },
+    "correct_option": "C",
+    "correct_answer": "Recognize transfers, conditions and performance reporting in line with CoA"
+  },
+  {
+    "id": 84,
+    "question": "In Nigerian Financial Regulations, what BEST describes Grant and Subvention Accounting?",
+    "options": {
+      "A": "Permit direct cash payments without evidence",
+      "B": "Replace audit requirements due to third‑party oversight",
+      "C": "Record grants as stores issues to beneficiaries",
+      "D": "Recognize transfers, conditions and performance reporting in line with CoA"
+    },
+    "correct_option": "D",
+    "correct_answer": "Recognize transfers, conditions and performance reporting in line with CoA"
+  },
+  {
+    "id": 85,
+    "question": "Which statement about Contingency/Service‑Wide Votes (Financial Control) is MOST accurate?",
+    "options": {
+      "A": "Accessed through due approvals; still subject to budget and cash management rules",
+      "B": "Do not require documentation once urgency is cited",
+      "C": "Can finance any item bypassing budget classification",
+      "D": "Are private reserves of the approving authority"
+    },
+    "correct_option": "A",
+    "correct_answer": "Accessed through due approvals; still subject to budget and cash management rules"
+  },
+  {
+    "id": 86,
+    "question": "In Nigerian Financial Regulations, what BEST describes Contingency/Service‑Wide Votes (Financial Control)?",
+    "options": {
+      "A": "Can finance any item bypassing budget classification",
+      "B": "Accessed through due approvals; still subject to budget and cash management rules",
+      "C": "Do not require documentation once urgency is cited",
+      "D": "Are private reserves of the approving authority"
+    },
+    "correct_option": "B",
+    "correct_answer": "Accessed through due approvals; still subject to budget and cash management rules"
+  },
+  {
+    "id": 87,
+    "question": "Which statement about Risk Management in Treasury is MOST accurate?",
+    "options": {
+      "A": "Eliminates the need for reconciliations",
+      "B": "Focuses only on procurement prices",
+      "C": "Identifies, assesses and mitigates financial risks including fraud and error",
+      "D": "Is a HR function unrelated to finance"
+    },
+    "correct_option": "C",
+    "correct_answer": "Identifies, assesses and mitigates financial risks including fraud and error"
+  },
+  {
+    "id": 88,
+    "question": "In Nigerian Financial Regulations, what BEST describes Risk Management in Treasury?",
+    "options": {
+      "A": "Eliminates the need for reconciliations",
+      "B": "Focuses only on procurement prices",
+      "C": "Is a HR function unrelated to finance",
+      "D": "Identifies, assesses and mitigates financial risks including fraud and error"
+    },
+    "correct_option": "D",
+    "correct_answer": "Identifies, assesses and mitigates financial risks including fraud and error"
+  },
+  {
+    "id": 89,
+    "question": "Which statement about Performance Reporting is MOST accurate?",
+    "options": {
+      "A": "Links budget execution with outputs/outcomes through periodic reports",
+      "B": "Replaces the audited financial statements",
+      "C": "Concentrates solely on bank balances",
+      "D": "Is optional when projects are delayed"
+    },
+    "correct_option": "A",
+    "correct_answer": "Links budget execution with outputs/outcomes through periodic reports"
+  },
+  {
+    "id": 90,
+    "question": "In Nigerian Financial Regulations, what BEST describes Performance Reporting?",
+    "options": {
+      "A": "Replaces the audited financial statements",
+      "B": "Links budget execution with outputs/outcomes through periodic reports",
+      "C": "Concentrates solely on bank balances",
+      "D": "Is optional when projects are delayed"
+    },
+    "correct_option": "B",
+    "correct_answer": "Links budget execution with outputs/outcomes through periodic reports"
+  },
+  {
+    "id": 91,
+    "question": "Which statement about Pre‑audit Stamps and Checks is MOST accurate?",
+    "options": {
+      "A": "Are ceremonial and can be skipped for regular vendors",
+      "B": "Apply only to personnel emoluments",
+      "C": "Indicate internal audit verification of documents before payment",
+      "D": "Are used after payment to tidy files"
+    },
+    "correct_option": "C",
+    "correct_answer": "Indicate internal audit verification of documents before payment"
+  },
+  {
+    "id": 92,
+    "question": "In Nigerian Financial Regulations, what BEST describes Pre‑audit Stamps and Checks?",
+    "options": {
+      "A": "Apply only to personnel emoluments",
+      "B": "Are ceremonial and can be skipped for regular vendors",
+      "C": "Are used after payment to tidy files",
+      "D": "Indicate internal audit verification of documents before payment"
+    },
+    "correct_option": "D",
+    "correct_answer": "Indicate internal audit verification of documents before payment"
+  },
+  {
+    "id": 93,
+    "question": "Which statement about Procurement Thresholds (Financial Interface) is MOST accurate?",
+    "options": {
+      "A": "Financial approvals must reflect delegated spending limits tied to thresholds",
+      "B": "Thresholds apply only to federal projects in Abuja",
+      "C": "Any officer can approve any amount once the vendor is known",
+      "D": "Thresholds govern only capital projects, not recurrent"
+    },
+    "correct_option": "A",
+    "correct_answer": "Financial approvals must reflect delegated spending limits tied to thresholds"
+  },
+  {
+    "id": 94,
+    "question": "In Nigerian Financial Regulations, what BEST describes Procurement Thresholds (Financial Interface)?",
+    "options": {
+      "A": "Thresholds govern only capital projects, not recurrent",
+      "B": "Financial approvals must reflect delegated spending limits tied to thresholds",
+      "C": "Any officer can approve any amount once the vendor is known",
+      "D": "Thresholds apply only to federal projects in Abuja"
+    },
+    "correct_option": "B",
+    "correct_answer": "Financial approvals must reflect delegated spending limits tied to thresholds"
+  },
+  {
+    "id": 95,
+    "question": "Which statement about Journal Vouchers (JVs) is MOST accurate?",
+    "options": {
+      "A": "Authorize procurement awards",
+      "B": "Serve as receipts for cash collections",
+      "C": "Used to adjust ledger entries with narration and authority; not for cash payment",
+      "D": "Replace payment vouchers for e‑payments"
+    },
+    "correct_option": "C",
+    "correct_answer": "Used to adjust ledger entries with narration and authority; not for cash payment"
+  },
+  {
+    "id": 96,
+    "question": "In Nigerian Financial Regulations, what BEST describes Journal Vouchers (JVs)?",
+    "options": {
+      "A": "Replace payment vouchers for e‑payments",
+      "B": "Authorize procurement awards",
+      "C": "Serve as receipts for cash collections",
+      "D": "Used to adjust ledger entries with narration and authority; not for cash payment"
+    },
+    "correct_option": "D",
+    "correct_answer": "Used to adjust ledger entries with narration and authority; not for cash payment"
+  },
+  {
+    "id": 97,
+    "question": "Which statement about Withholding and VAT Remittances is MOST accurate?",
+    "options": {
+      "A": "Statutory deductions must be computed, withheld and remitted to the relevant authorities",
+      "B": "Only contractors, not MDAs, are responsible for remitting",
+      "C": "Deductions can be ignored for small suppliers",
+      "D": "Remittance is optional if cash flow is tight"
+    },
+    "correct_option": "A",
+    "correct_answer": "Statutory deductions must be computed, withheld and remitted to the relevant authorities"
+  },
+  {
+    "id": 98,
+    "question": "In Nigerian Financial Regulations, what BEST describes Withholding and VAT Remittances?",
+    "options": {
+      "A": "Deductions can be ignored for small suppliers",
+      "B": "Statutory deductions must be computed, withheld and remitted to the relevant authorities",
+      "C": "Only contractors, not MDAs, are responsible for remitting",
+      "D": "Remittance is optional if cash flow is tight"
+    },
+    "correct_option": "B",
+    "correct_answer": "Statutory deductions must be computed, withheld and remitted to the relevant authorities"
+  },
+  {
+    "id": 99,
+    "question": "Which statement about Public Financial Management (PFM) Objectives is MOST accurate?",
+    "options": {
+      "A": "Prioritize speed over controls in all cases",
+      "B": "Focus solely on minimizing paperwork",
+      "C": "Ensure legality, transparency, accountability and value for money in use of public funds",
+      "D": "Allow discretion to replace rules when convenient"
+    },
+    "correct_option": "C",
+    "correct_answer": "Ensure legality, transparency, accountability and value for money in use of public funds"
+  },
+  {
+    "id": 100,
+    "question": "In Nigerian Financial Regulations, what BEST describes Public Financial Management (PFM) Objectives?",
+    "options": {
+      "A": "Prioritize speed over controls in all cases",
+      "B": "Allow discretion to replace rules when convenient",
+      "C": "Focus solely on minimizing paperwork",
+      "D": "Ensure legality, transparency, accountability and value for money in use of public funds"
+    },
+    "correct_option": "D",
+    "correct_answer": "Ensure legality, transparency, accountability and value for money in use of public funds"
+  },
+  {
+    "id": 101,
+    "question": "Ministry of Education's Director of Finance & Accounts receives an invoice for supplies without delivery note or inspection certificate. Under Financial Regulations, the MOST appropriate action is to:",
+    "options": {
+      "A": "Request complete supporting documents and withhold payment until verification is concluded",
+      "B": "Raise a journal voucher to clear the liability without documents",
+      "C": "Record as stores received based on invoice alone",
+      "D": "Pay immediately since the supplier is pre‑qualified"
+    },
+    "correct_option": "A",
+    "correct_answer": "Request complete supporting documents and withhold payment until verification is concluded"
+  },
+  {
+    "id": 102,
+    "question": "During bank reconciliation, FCTA Transport Secretariat notices a long‑outstanding credit in bank not in cash book. The BEST control response is to:",
+    "options": {
+      "A": "Reverse random cash book entries until balances agree",
+      "B": "Investigate and post the appropriate cash book entry with narration and authority",
+      "C": "Ignore it as a favourable variance",
+      "D": "Close the account and open a new TSA sub‑account"
+    },
+    "correct_option": "B",
+    "correct_answer": "Investigate and post the appropriate cash book entry with narration and authority"
+  },
+  {
+    "id": 103,
+    "question": "Internal Auditor at Ministry of Water Resources wants to fund an item not in the Appropriation Act by moving funds from another sub‑head. Which is MOST compliant?",
+    "options": {
+      "A": "Pay from IGR before lodgment to TSA",
+      "B": "Charge the item to any available code and regularize later",
+      "C": "Seek lawful virement or supplementary appropriation in line with limits and approvals",
+      "D": "Split the payment to bypass approval limits"
+    },
+    "correct_option": "C",
+    "correct_answer": "Seek lawful virement or supplementary appropriation in line with limits and approvals"
+  },
+  {
+    "id": 104,
+    "question": "A cashier at Ministry of Education holds revenue for a week to batch lodgment. Under the rules, the BEST practice is to:",
+    "options": {
+      "A": "Hand over collections to the supplier as part‑payment",
+      "B": "Retain cash until end of month to reduce bank charges",
+      "C": "Offset petty expenses before lodgment",
+      "D": "Lodge collections promptly in TSA‑designated accounts and issue official receipts"
+    },
+    "correct_option": "D",
+    "correct_answer": "Lodge collections promptly in TSA‑designated accounts and issue official receipts"
+  },
+  {
+    "id": 105,
+    "question": "At Ministry of Education, the Bursar requests imprest replenishment without retiring prior spend. The MOST appropriate response is to:",
+    "options": {
+      "A": "Insist on proper retirement with original receipts before replenishment",
+      "B": "Convert the imprest to a permanent allowance",
+      "C": "Approve replenishment since the expenses were urgent",
+      "D": "Post the amount to suspense and forget the retirement"
+    },
+    "correct_option": "A",
+    "correct_answer": "Insist on proper retirement with original receipts before replenishment"
+  },
+  {
+    "id": 106,
+    "question": "Internal audit at National Bureau of Statistics discovers a PV without pre‑audit stamp. The BEST course of action is to:",
+    "options": {
+      "A": "Proceed with payment to avoid delaying suppliers",
+      "B": "Return the PV for verification and evidence of checks before payment",
+      "C": "File the PV; pre‑audit is optional if signatories approved",
+      "D": "Generate a memo after payment to explain the omission"
+    },
+    "correct_option": "B",
+    "correct_answer": "Return the PV for verification and evidence of checks before payment"
+  },
+  {
+    "id": 107,
+    "question": "Head of Accounts at Ministry of Health has two related duties: preparing PVs and authorizing them. What should be done to comply with segregation of duties?",
+    "options": {
+      "A": "Allow the officer to continue both roles to ensure speed",
+      "B": "Add more signatures after payment instead",
+      "C": "Reassign responsibilities so initiation, verification and approval are performed by different officers",
+      "D": "Keep roles combined but write an annual undertaking letter"
+    },
+    "correct_option": "C",
+    "correct_answer": "Reassign responsibilities so initiation, verification and approval are performed by different officers"
+  },
+  {
+    "id": 108,
+    "question": "A contractor to Ministry of Water Resources requests payment based only on award letter; no invoice or delivery. What is the MOST compliant response?",
+    "options": {
+      "A": "Raise a JV to recognize expense now and pay later",
+      "B": "Convert the claim to an advance without documents",
+      "C": "Pay 70% and take a promissory note for the rest",
+      "D": "Decline payment until documentary evidence and certifications are provided"
+    },
+    "correct_option": "D",
+    "correct_answer": "Decline payment until documentary evidence and certifications are provided"
+  },
+  {
+    "id": 109,
+    "question": "The Bursar at Federal College of Education identifies material stock differences during stock‑taking. The FIRST appropriate step is to:",
+    "options": {
+      "A": "Report and investigate discrepancies; update records and initiate loss procedures if necessary",
+      "B": "Write off differences informally to balance bin cards",
+      "C": "Ignore differences if they favour the MDA",
+      "D": "Dispose affected items without valuation to avoid delay"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report and investigate discrepancies; update records and initiate loss procedures if necessary"
+  },
+  {
+    "id": 110,
+    "question": "At Ministry of Health, a duty tour advance is overdue for retirement. The MOST appropriate measure is to:",
+    "options": {
+      "A": "Issue another advance to cover the previous one",
+      "B": "Formally demand retirement with evidence; recover from salary if necessary per rules",
+      "C": "Charge the amount to welfare expenses",
+      "D": "Ignore since the officer verbally confirmed travel"
+    },
+    "correct_option": "B",
+    "correct_answer": "Formally demand retirement with evidence; recover from salary if necessary per rules"
+  },
+  {
+    "id": 111,
+    "question": "Ministry of Water Resources receives donor funds with specific reporting requirements. The BEST financial control is to:",
+    "options": {
+      "A": "Post transactions after project closure to ease reporting",
+      "B": "Spend directly in cash to avoid TSA delays",
+      "C": "Comply with donor rules while aligning with national regulations and CoA classifications",
+      "D": "Apply only donor rules and ignore national controls"
+    },
+    "correct_option": "C",
+    "correct_answer": "Comply with donor rules while aligning with national regulations and CoA classifications"
+  },
+  {
+    "id": 112,
+    "question": "A PV at National Bureau of Statistics lacks tax deduction schedules. The MOST appropriate action is to:",
+    "options": {
+      "A": "Ignore deductions for SMEs",
+      "B": "Pay full amount and let supplier remit taxes later",
+      "C": "Post deductions to suspense indefinitely",
+      "D": "Compute, withhold and arrange remittance of statutory deductions with schedules"
+    },
+    "correct_option": "D",
+    "correct_answer": "Compute, withhold and arrange remittance of statutory deductions with schedules"
+  },
+  {
+    "id": 113,
+    "question": "Bank charges posted by the bank but not in cash book are found at River Basin Authority. The BEST corrective action is to:",
+    "options": {
+      "A": "Record the charges with proper narration and supporting bank advice",
+      "B": "Wait for year‑end to batch all adjustments",
+      "C": "Increase revenue to offset the charge",
+      "D": "Dispute them without review and delete the bank statement"
+    },
+    "correct_option": "A",
+    "correct_answer": "Record the charges with proper narration and supporting bank advice"
+  },
+  {
+    "id": 114,
+    "question": "The Director of Finance & Accounts at FCTA Transport Secretariat pressures payment citing 'urgency' despite incomplete file. The COMPLIANT response is to:",
+    "options": {
+      "A": "Split the claim to a level that requires fewer checks",
+      "B": "Insist on complete documentation and approvals before any payment",
+      "C": "Seek a verbal approval from the most senior officer",
+      "D": "Pay now and raise documents later"
+    },
+    "correct_option": "B",
+    "correct_answer": "Insist on complete documentation and approvals before any payment"
+  },
+  {
+    "id": 115,
+    "question": "A supplier to Ministry of Works delivered items but SRV was not raised. The MOST appropriate step is to:",
+    "options": {
+      "A": "Use SIV to record receipt instead of SRV",
+      "B": "Skip SRV since delivery notes exist",
+      "C": "Conduct inspection, raise SRV and update stores and financial records before payment",
+      "D": "Pay immediately; SRV can be prepared after payment"
+    },
+    "correct_option": "C",
+    "correct_answer": "Conduct inspection, raise SRV and update stores and financial records before payment"
+  },
+  {
+    "id": 116,
+    "question": "At Federal Teaching Hospital, the cash book shows a debit balance disagreeing with bank statement. The FIRST control step is to:",
+    "options": {
+      "A": "Write off the difference to miscellaneous expenses",
+      "B": "Stop updating the cash book until audit",
+      "C": "Transfer the balance to another account to hide it",
+      "D": "Perform detailed reconciliation to identify timing and posting differences"
+    },
+    "correct_option": "D",
+    "correct_answer": "Perform detailed reconciliation to identify timing and posting differences"
+  },
+  {
+    "id": 117,
+    "question": "The Procurement Officer at Ministry of Works proposes paying from IGR before lodgment to TSA. The COMPLIANT position is:",
+    "options": {
+      "A": "Reject the proposal; revenues should be receipted and lodged to TSA before any spending",
+      "B": "Allow once a quarter to fast‑track projects",
+      "C": "Approve if IGR is sufficient to cover the bill",
+      "D": "Treat as imprest to be regularized later"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reject the proposal; revenues should be receipted and lodged to TSA before any spending"
+  },
+  {
+    "id": 118,
+    "question": "A multi‑year project at Federal Teaching Hospital needs additional funds beyond the head. The MOST lawful route is:",
+    "options": {
+      "A": "Record as off‑balance sheet to avoid budget impact",
+      "B": "Seek supplementary appropriation or lawful reallocation within limits",
+      "C": "Ask the supplier to finance and recover with interest",
+      "D": "Charge unrelated sub‑heads and fix later"
+    },
+    "correct_option": "B",
+    "correct_answer": "Seek supplementary appropriation or lawful reallocation within limits"
+  },
+  {
+    "id": 119,
+    "question": "During external audit, Ministry of Education cannot produce PV supports. The BEST control lesson is to:",
+    "options": {
+      "A": "Rely on staff memory to explain transactions",
+      "B": "Destroy old files to reduce clutter",
+      "C": "Strengthen records retention and retrieval in line with regulations",
+      "D": "Request the auditor to accept verbal assurances"
+    },
+    "correct_option": "C",
+    "correct_answer": "Strengthen records retention and retrieval in line with regulations"
+  },
+  {
+    "id": 120,
+    "question": "A Project Accountant at Ministry of Education wants to recognize expense and pay later via JV. The CORRECT approach is:",
+    "options": {
+      "A": "Pay cash and post JV afterwards as evidence",
+      "B": "Raise a memo to convert JV to cash voucher",
+      "C": "Use JV as PV substitute if urgent",
+      "D": "Use JVs only for ledger adjustments, not to authorize cash payments"
+    },
+    "correct_option": "D",
+    "correct_answer": "Use JVs only for ledger adjustments, not to authorize cash payments"
+  },
+  {
+    "id": 121,
+    "question": "Federal Teaching Hospital's Bursar receives an invoice for supplies without delivery note or inspection certificate. Under Financial Regulations, the MOST appropriate action is to:",
+    "options": {
+      "A": "Request complete supporting documents and withhold payment until verification is concluded",
+      "B": "Record as stores received based on invoice alone",
+      "C": "Raise a journal voucher to clear the liability without documents",
+      "D": "Pay immediately since the supplier is pre‑qualified"
+    },
+    "correct_option": "A",
+    "correct_answer": "Request complete supporting documents and withhold payment until verification is concluded"
+  },
+  {
+    "id": 122,
+    "question": "During bank reconciliation, FCTA Transport Secretariat notices a long‑outstanding credit in bank not in cash book. The BEST control response is to:",
+    "options": {
+      "A": "Reverse random cash book entries until balances agree",
+      "B": "Investigate and post the appropriate cash book entry with narration and authority",
+      "C": "Ignore it as a favourable variance",
+      "D": "Close the account and open a new TSA sub‑account"
+    },
+    "correct_option": "B",
+    "correct_answer": "Investigate and post the appropriate cash book entry with narration and authority"
+  },
+  {
+    "id": 123,
+    "question": "Permanent Secretary at River Basin Authority wants to fund an item not in the Appropriation Act by moving funds from another sub‑head. Which is MOST compliant?",
+    "options": {
+      "A": "Pay from IGR before lodgment to TSA",
+      "B": "Charge the item to any available code and regularize later",
+      "C": "Seek lawful virement or supplementary appropriation in line with limits and approvals",
+      "D": "Split the payment to bypass approval limits"
+    },
+    "correct_option": "C",
+    "correct_answer": "Seek lawful virement or supplementary appropriation in line with limits and approvals"
+  },
+  {
+    "id": 124,
+    "question": "A cashier at Ministry of Education holds revenue for a week to batch lodgment. Under the rules, the BEST practice is to:",
+    "options": {
+      "A": "Offset petty expenses before lodgment",
+      "B": "Retain cash until end of month to reduce bank charges",
+      "C": "Hand over collections to the supplier as part‑payment",
+      "D": "Lodge collections promptly in TSA‑designated accounts and issue official receipts"
+    },
+    "correct_option": "D",
+    "correct_answer": "Lodge collections promptly in TSA‑designated accounts and issue official receipts"
+  },
+  {
+    "id": 125,
+    "question": "At Ministry of Education, the Permanent Secretary requests imprest replenishment without retiring prior spend. The MOST appropriate response is to:",
+    "options": {
+      "A": "Insist on proper retirement with original receipts before replenishment",
+      "B": "Post the amount to suspense and forget the retirement",
+      "C": "Convert the imprest to a permanent allowance",
+      "D": "Approve replenishment since the expenses were urgent"
+    },
+    "correct_option": "A",
+    "correct_answer": "Insist on proper retirement with original receipts before replenishment"
+  },
+  {
+    "id": 126,
+    "question": "Internal audit at FCTA Transport Secretariat discovers a PV without pre‑audit stamp. The BEST course of action is to:",
+    "options": {
+      "A": "File the PV; pre‑audit is optional if signatories approved",
+      "B": "Return the PV for verification and evidence of checks before payment",
+      "C": "Generate a memo after payment to explain the omission",
+      "D": "Proceed with payment to avoid delaying suppliers"
+    },
+    "correct_option": "B",
+    "correct_answer": "Return the PV for verification and evidence of checks before payment"
+  },
+  {
+    "id": 127,
+    "question": "Bursar at Federal Teaching Hospital has two related duties: preparing PVs and authorizing them. What should be done to comply with segregation of duties?",
+    "options": {
+      "A": "Add more signatures after payment instead",
+      "B": "Keep roles combined but write an annual undertaking letter",
+      "C": "Reassign responsibilities so initiation, verification and approval are performed by different officers",
+      "D": "Allow the officer to continue both roles to ensure speed"
+    },
+    "correct_option": "C",
+    "correct_answer": "Reassign responsibilities so initiation, verification and approval are performed by different officers"
+  },
+  {
+    "id": 128,
+    "question": "A contractor to Ministry of Water Resources requests payment based only on award letter; no invoice or delivery. What is the MOST compliant response?",
+    "options": {
+      "A": "Pay 70% and take a promissory note for the rest",
+      "B": "Raise a JV to recognize expense now and pay later",
+      "C": "Convert the claim to an advance without documents",
+      "D": "Decline payment until documentary evidence and certifications are provided"
+    },
+    "correct_option": "D",
+    "correct_answer": "Decline payment until documentary evidence and certifications are provided"
+  },
+  {
+    "id": 129,
+    "question": "The Procurement Officer at Ministry of Health identifies material stock differences during stock‑taking. The FIRST appropriate step is to:",
+    "options": {
+      "A": "Report and investigate discrepancies; update records and initiate loss procedures if necessary",
+      "B": "Ignore differences if they favour the MDA",
+      "C": "Dispose affected items without valuation to avoid delay",
+      "D": "Write off differences informally to balance bin cards"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report and investigate discrepancies; update records and initiate loss procedures if necessary"
+  },
+  {
+    "id": 130,
+    "question": "At FCTA Transport Secretariat, a duty tour advance is overdue for retirement. The MOST appropriate measure is to:",
+    "options": {
+      "A": "Charge the amount to welfare expenses",
+      "B": "Formally demand retirement with evidence; recover from salary if necessary per rules",
+      "C": "Issue another advance to cover the previous one",
+      "D": "Ignore since the officer verbally confirmed travel"
+    },
+    "correct_option": "B",
+    "correct_answer": "Formally demand retirement with evidence; recover from salary if necessary per rules"
+  },
+  {
+    "id": 131,
+    "question": "Ministry of Water Resources receives donor funds with specific reporting requirements. The BEST financial control is to:",
+    "options": {
+      "A": "Spend directly in cash to avoid TSA delays",
+      "B": "Post transactions after project closure to ease reporting",
+      "C": "Comply with donor rules while aligning with national regulations and CoA classifications",
+      "D": "Apply only donor rules and ignore national controls"
+    },
+    "correct_option": "C",
+    "correct_answer": "Comply with donor rules while aligning with national regulations and CoA classifications"
+  },
+  {
+    "id": 132,
+    "question": "A PV at National Bureau of Statistics lacks tax deduction schedules. The MOST appropriate action is to:",
+    "options": {
+      "A": "Post deductions to suspense indefinitely",
+      "B": "Ignore deductions for SMEs",
+      "C": "Pay full amount and let supplier remit taxes later",
+      "D": "Compute, withhold and arrange remittance of statutory deductions with schedules"
+    },
+    "correct_option": "D",
+    "correct_answer": "Compute, withhold and arrange remittance of statutory deductions with schedules"
+  },
+  {
+    "id": 133,
+    "question": "Bank charges posted by the bank but not in cash book are found at River Basin Authority. The BEST corrective action is to:",
+    "options": {
+      "A": "Record the charges with proper narration and supporting bank advice",
+      "B": "Increase revenue to offset the charge",
+      "C": "Wait for year‑end to batch all adjustments",
+      "D": "Dispute them without review and delete the bank statement"
+    },
+    "correct_option": "A",
+    "correct_answer": "Record the charges with proper narration and supporting bank advice"
+  },
+  {
+    "id": 134,
+    "question": "The Project Accountant at Ministry of Works pressures payment citing 'urgency' despite incomplete file. The COMPLIANT response is to:",
+    "options": {
+      "A": "Seek a verbal approval from the most senior officer",
+      "B": "Insist on complete documentation and approvals before any payment",
+      "C": "Split the claim to a level that requires fewer checks",
+      "D": "Pay now and raise documents later"
+    },
+    "correct_option": "B",
+    "correct_answer": "Insist on complete documentation and approvals before any payment"
+  },
+  {
+    "id": 135,
+    "question": "A supplier to Federal Teaching Hospital delivered items but SRV was not raised. The MOST appropriate step is to:",
+    "options": {
+      "A": "Use SIV to record receipt instead of SRV",
+      "B": "Skip SRV since delivery notes exist",
+      "C": "Conduct inspection, raise SRV and update stores and financial records before payment",
+      "D": "Pay immediately; SRV can be prepared after payment"
+    },
+    "correct_option": "C",
+    "correct_answer": "Conduct inspection, raise SRV and update stores and financial records before payment"
+  },
+  {
+    "id": 136,
+    "question": "At FCTA Transport Secretariat, the cash book shows a debit balance disagreeing with bank statement. The FIRST control step is to:",
+    "options": {
+      "A": "Stop updating the cash book until audit",
+      "B": "Write off the difference to miscellaneous expenses",
+      "C": "Transfer the balance to another account to hide it",
+      "D": "Perform detailed reconciliation to identify timing and posting differences"
+    },
+    "correct_option": "D",
+    "correct_answer": "Perform detailed reconciliation to identify timing and posting differences"
+  },
+  {
+    "id": 137,
+    "question": "The Internal Auditor at National Space Research Agency proposes paying from IGR before lodgment to TSA. The COMPLIANT position is:",
+    "options": {
+      "A": "Reject the proposal; revenues should be receipted and lodged to TSA before any spending",
+      "B": "Approve if IGR is sufficient to cover the bill",
+      "C": "Allow once a quarter to fast‑track projects",
+      "D": "Treat as imprest to be regularized later"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reject the proposal; revenues should be receipted and lodged to TSA before any spending"
+  },
+  {
+    "id": 138,
+    "question": "A multi‑year project at Federal College of Education needs additional funds beyond the head. The MOST lawful route is:",
+    "options": {
+      "A": "Record as off‑balance sheet to avoid budget impact",
+      "B": "Seek supplementary appropriation or lawful reallocation within limits",
+      "C": "Ask the supplier to finance and recover with interest",
+      "D": "Charge unrelated sub‑heads and fix later"
+    },
+    "correct_option": "B",
+    "correct_answer": "Seek supplementary appropriation or lawful reallocation within limits"
+  },
+  {
+    "id": 139,
+    "question": "During external audit, Ministry of Works cannot produce PV supports. The BEST control lesson is to:",
+    "options": {
+      "A": "Destroy old files to reduce clutter",
+      "B": "Rely on staff memory to explain transactions",
+      "C": "Strengthen records retention and retrieval in line with regulations",
+      "D": "Request the auditor to accept verbal assurances"
+    },
+    "correct_option": "C",
+    "correct_answer": "Strengthen records retention and retrieval in line with regulations"
+  },
+  {
+    "id": 140,
+    "question": "A Store Officer at National Bureau of Statistics wants to recognize expense and pay later via JV. The CORRECT approach is:",
+    "options": {
+      "A": "Pay cash and post JV afterwards as evidence",
+      "B": "Raise a memo to convert JV to cash voucher",
+      "C": "Use JV as PV substitute if urgent",
+      "D": "Use JVs only for ledger adjustments, not to authorize cash payments"
+    },
+    "correct_option": "D",
+    "correct_answer": "Use JVs only for ledger adjustments, not to authorize cash payments"
+  },
+  {
+    "id": 141,
+    "question": "Federal College of Education's Procurement Officer receives an invoice for supplies without delivery note or inspection certificate. Under Financial Regulations, the MOST appropriate action is to:",
+    "options": {
+      "A": "Request complete supporting documents and withhold payment until verification is concluded",
+      "B": "Record as stores received based on invoice alone",
+      "C": "Pay immediately since the supplier is pre‑qualified",
+      "D": "Raise a journal voucher to clear the liability without documents"
+    },
+    "correct_option": "A",
+    "correct_answer": "Request complete supporting documents and withhold payment until verification is concluded"
+  },
+  {
+    "id": 142,
+    "question": "During bank reconciliation, Federal Teaching Hospital notices a long‑outstanding credit in bank not in cash book. The BEST control response is to:",
+    "options": {
+      "A": "Reverse random cash book entries until balances agree",
+      "B": "Investigate and post the appropriate cash book entry with narration and authority",
+      "C": "Close the account and open a new TSA sub‑account",
+      "D": "Ignore it as a favourable variance"
+    },
+    "correct_option": "B",
+    "correct_answer": "Investigate and post the appropriate cash book entry with narration and authority"
+  },
+  {
+    "id": 143,
+    "question": "Director of Finance & Accounts at Ministry of Water Resources wants to fund an item not in the Appropriation Act by moving funds from another sub‑head. Which is MOST compliant?",
+    "options": {
+      "A": "Charge the item to any available code and regularize later",
+      "B": "Pay from IGR before lodgment to TSA",
+      "C": "Seek lawful virement or supplementary appropriation in line with limits and approvals",
+      "D": "Split the payment to bypass approval limits"
+    },
+    "correct_option": "C",
+    "correct_answer": "Seek lawful virement or supplementary appropriation in line with limits and approvals"
+  },
+  {
+    "id": 144,
+    "question": "A cashier at Federal Teaching Hospital holds revenue for a week to batch lodgment. Under the rules, the BEST practice is to:",
+    "options": {
+      "A": "Hand over collections to the supplier as part‑payment",
+      "B": "Offset petty expenses before lodgment",
+      "C": "Retain cash until end of month to reduce bank charges",
+      "D": "Lodge collections promptly in TSA‑designated accounts and issue official receipts"
+    },
+    "correct_option": "D",
+    "correct_answer": "Lodge collections promptly in TSA‑designated accounts and issue official receipts"
+  },
+  {
+    "id": 145,
+    "question": "At FCTA Transport Secretariat, the Head of Accounts requests imprest replenishment without retiring prior spend. The MOST appropriate response is to:",
+    "options": {
+      "A": "Insist on proper retirement with original receipts before replenishment",
+      "B": "Convert the imprest to a permanent allowance",
+      "C": "Post the amount to suspense and forget the retirement",
+      "D": "Approve replenishment since the expenses were urgent"
+    },
+    "correct_option": "A",
+    "correct_answer": "Insist on proper retirement with original receipts before replenishment"
+  },
+  {
+    "id": 146,
+    "question": "Internal audit at Ministry of Water Resources discovers a PV without pre‑audit stamp. The BEST course of action is to:",
+    "options": {
+      "A": "Proceed with payment to avoid delaying suppliers",
+      "B": "Return the PV for verification and evidence of checks before payment",
+      "C": "File the PV; pre‑audit is optional if signatories approved",
+      "D": "Generate a memo after payment to explain the omission"
+    },
+    "correct_option": "B",
+    "correct_answer": "Return the PV for verification and evidence of checks before payment"
+  },
+  {
+    "id": 147,
+    "question": "Procurement Officer at Federal Teaching Hospital has two related duties: preparing PVs and authorizing them. What should be done to comply with segregation of duties?",
+    "options": {
+      "A": "Keep roles combined but write an annual undertaking letter",
+      "B": "Add more signatures after payment instead",
+      "C": "Reassign responsibilities so initiation, verification and approval are performed by different officers",
+      "D": "Allow the officer to continue both roles to ensure speed"
+    },
+    "correct_option": "C",
+    "correct_answer": "Reassign responsibilities so initiation, verification and approval are performed by different officers"
+  },
+  {
+    "id": 148,
+    "question": "A contractor to River Basin Authority requests payment based only on award letter; no invoice or delivery. What is the MOST compliant response?",
+    "options": {
+      "A": "Convert the claim to an advance without documents",
+      "B": "Pay 70% and take a promissory note for the rest",
+      "C": "Raise a JV to recognize expense now and pay later",
+      "D": "Decline payment until documentary evidence and certifications are provided"
+    },
+    "correct_option": "D",
+    "correct_answer": "Decline payment until documentary evidence and certifications are provided"
+  },
+  {
+    "id": 149,
+    "question": "The Internal Auditor at River Basin Authority identifies material stock differences during stock‑taking. The FIRST appropriate step is to:",
+    "options": {
+      "A": "Report and investigate discrepancies; update records and initiate loss procedures if necessary",
+      "B": "Ignore differences if they favour the MDA",
+      "C": "Write off differences informally to balance bin cards",
+      "D": "Dispose affected items without valuation to avoid delay"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report and investigate discrepancies; update records and initiate loss procedures if necessary"
+  },
+  {
+    "id": 150,
+    "question": "At FCTA Transport Secretariat, a duty tour advance is overdue for retirement. The MOST appropriate measure is to:",
+    "options": {
+      "A": "Ignore since the officer verbally confirmed travel",
+      "B": "Formally demand retirement with evidence; recover from salary if necessary per rules",
+      "C": "Charge the amount to welfare expenses",
+      "D": "Issue another advance to cover the previous one"
+    },
+    "correct_option": "B",
+    "correct_answer": "Formally demand retirement with evidence; recover from salary if necessary per rules"
+  },
+  {
+    "id": 151,
+    "question": "Ministry of Water Resources receives donor funds with specific reporting requirements. The BEST financial control is to:",
+    "options": {
+      "A": "Apply only donor rules and ignore national controls",
+      "B": "Spend directly in cash to avoid TSA delays",
+      "C": "Comply with donor rules while aligning with national regulations and CoA classifications",
+      "D": "Post transactions after project closure to ease reporting"
+    },
+    "correct_option": "C",
+    "correct_answer": "Comply with donor rules while aligning with national regulations and CoA classifications"
+  },
+  {
+    "id": 152,
+    "question": "A PV at Federal College of Education lacks tax deduction schedules. The MOST appropriate action is to:",
+    "options": {
+      "A": "Post deductions to suspense indefinitely",
+      "B": "Ignore deductions for SMEs",
+      "C": "Pay full amount and let supplier remit taxes later",
+      "D": "Compute, withhold and arrange remittance of statutory deductions with schedules"
+    },
+    "correct_option": "D",
+    "correct_answer": "Compute, withhold and arrange remittance of statutory deductions with schedules"
+  },
+  {
+    "id": 153,
+    "question": "Bank charges posted by the bank but not in cash book are found at National Space Research Agency. The BEST corrective action is to:",
+    "options": {
+      "A": "Record the charges with proper narration and supporting bank advice",
+      "B": "Dispute them without review and delete the bank statement",
+      "C": "Increase revenue to offset the charge",
+      "D": "Wait for year‑end to batch all adjustments"
+    },
+    "correct_option": "A",
+    "correct_answer": "Record the charges with proper narration and supporting bank advice"
+  },
+  {
+    "id": 154,
+    "question": "The Cashier at National Space Research Agency pressures payment citing 'urgency' despite incomplete file. The COMPLIANT response is to:",
+    "options": {
+      "A": "Pay now and raise documents later",
+      "B": "Insist on complete documentation and approvals before any payment",
+      "C": "Split the claim to a level that requires fewer checks",
+      "D": "Seek a verbal approval from the most senior officer"
+    },
+    "correct_option": "B",
+    "correct_answer": "Insist on complete documentation and approvals before any payment"
+  },
+  {
+    "id": 155,
+    "question": "A supplier to Federal Teaching Hospital delivered items but SRV was not raised. The MOST appropriate step is to:",
+    "options": {
+      "A": "Pay immediately; SRV can be prepared after payment",
+      "B": "Use SIV to record receipt instead of SRV",
+      "C": "Conduct inspection, raise SRV and update stores and financial records before payment",
+      "D": "Skip SRV since delivery notes exist"
+    },
+    "correct_option": "C",
+    "correct_answer": "Conduct inspection, raise SRV and update stores and financial records before payment"
+  },
+  {
+    "id": 156,
+    "question": "At Ministry of Works, the cash book shows a debit balance disagreeing with bank statement. The FIRST control step is to:",
+    "options": {
+      "A": "Transfer the balance to another account to hide it",
+      "B": "Write off the difference to miscellaneous expenses",
+      "C": "Stop updating the cash book until audit",
+      "D": "Perform detailed reconciliation to identify timing and posting differences"
+    },
+    "correct_option": "D",
+    "correct_answer": "Perform detailed reconciliation to identify timing and posting differences"
+  },
+  {
+    "id": 157,
+    "question": "The Head of Accounts at River Basin Authority proposes paying from IGR before lodgment to TSA. The COMPLIANT position is:",
+    "options": {
+      "A": "Reject the proposal; revenues should be receipted and lodged to TSA before any spending",
+      "B": "Allow once a quarter to fast‑track projects",
+      "C": "Treat as imprest to be regularized later",
+      "D": "Approve if IGR is sufficient to cover the bill"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reject the proposal; revenues should be receipted and lodged to TSA before any spending"
+  },
+  {
+    "id": 158,
+    "question": "A multi‑year project at Ministry of Health needs additional funds beyond the head. The MOST lawful route is:",
+    "options": {
+      "A": "Record as off‑balance sheet to avoid budget impact",
+      "B": "Seek supplementary appropriation or lawful reallocation within limits",
+      "C": "Charge unrelated sub‑heads and fix later",
+      "D": "Ask the supplier to finance and recover with interest"
+    },
+    "correct_option": "B",
+    "correct_answer": "Seek supplementary appropriation or lawful reallocation within limits"
+  },
+  {
+    "id": 159,
+    "question": "During external audit, Ministry of Works cannot produce PV supports. The BEST control lesson is to:",
+    "options": {
+      "A": "Destroy old files to reduce clutter",
+      "B": "Request the auditor to accept verbal assurances",
+      "C": "Strengthen records retention and retrieval in line with regulations",
+      "D": "Rely on staff memory to explain transactions"
+    },
+    "correct_option": "C",
+    "correct_answer": "Strengthen records retention and retrieval in line with regulations"
+  },
+  {
+    "id": 160,
+    "question": "A Bursar at National Bureau of Statistics wants to recognize expense and pay later via JV. The CORRECT approach is:",
+    "options": {
+      "A": "Raise a memo to convert JV to cash voucher",
+      "B": "Pay cash and post JV afterwards as evidence",
+      "C": "Use JV as PV substitute if urgent",
+      "D": "Use JVs only for ledger adjustments, not to authorize cash payments"
+    },
+    "correct_option": "D",
+    "correct_answer": "Use JVs only for ledger adjustments, not to authorize cash payments"
+  },
+  {
+    "id": 161,
+    "question": "Ministry of Education's Cashier receives an invoice for supplies without delivery note or inspection certificate. Under Financial Regulations, the MOST appropriate action is to:",
+    "options": {
+      "A": "Request complete supporting documents and withhold payment until verification is concluded",
+      "B": "Pay immediately since the supplier is pre‑qualified",
+      "C": "Raise a journal voucher to clear the liability without documents",
+      "D": "Record as stores received based on invoice alone"
+    },
+    "correct_option": "A",
+    "correct_answer": "Request complete supporting documents and withhold payment until verification is concluded"
+  },
+  {
+    "id": 162,
+    "question": "During bank reconciliation, National Bureau of Statistics notices a long‑outstanding credit in bank not in cash book. The BEST control response is to:",
+    "options": {
+      "A": "Close the account and open a new TSA sub‑account",
+      "B": "Investigate and post the appropriate cash book entry with narration and authority",
+      "C": "Ignore it as a favourable variance",
+      "D": "Reverse random cash book entries until balances agree"
+    },
+    "correct_option": "B",
+    "correct_answer": "Investigate and post the appropriate cash book entry with narration and authority"
+  },
+  {
+    "id": 163,
+    "question": "Permanent Secretary at River Basin Authority wants to fund an item not in the Appropriation Act by moving funds from another sub‑head. Which is MOST compliant?",
+    "options": {
+      "A": "Charge the item to any available code and regularize later",
+      "B": "Pay from IGR before lodgment to TSA",
+      "C": "Seek lawful virement or supplementary appropriation in line with limits and approvals",
+      "D": "Split the payment to bypass approval limits"
+    },
+    "correct_option": "C",
+    "correct_answer": "Seek lawful virement or supplementary appropriation in line with limits and approvals"
+  },
+  {
+    "id": 164,
+    "question": "A cashier at FCTA Transport Secretariat holds revenue for a week to batch lodgment. Under the rules, the BEST practice is to:",
+    "options": {
+      "A": "Retain cash until end of month to reduce bank charges",
+      "B": "Hand over collections to the supplier as part‑payment",
+      "C": "Offset petty expenses before lodgment",
+      "D": "Lodge collections promptly in TSA‑designated accounts and issue official receipts"
+    },
+    "correct_option": "D",
+    "correct_answer": "Lodge collections promptly in TSA‑designated accounts and issue official receipts"
+  },
+  {
+    "id": 165,
+    "question": "At Ministry of Health, the Head of Accounts requests imprest replenishment without retiring prior spend. The MOST appropriate response is to:",
+    "options": {
+      "A": "Insist on proper retirement with original receipts before replenishment",
+      "B": "Post the amount to suspense and forget the retirement",
+      "C": "Convert the imprest to a permanent allowance",
+      "D": "Approve replenishment since the expenses were urgent"
+    },
+    "correct_option": "A",
+    "correct_answer": "Insist on proper retirement with original receipts before replenishment"
+  },
+  {
+    "id": 166,
+    "question": "Internal audit at Federal College of Education discovers a PV without pre‑audit stamp. The BEST course of action is to:",
+    "options": {
+      "A": "File the PV; pre‑audit is optional if signatories approved",
+      "B": "Return the PV for verification and evidence of checks before payment",
+      "C": "Generate a memo after payment to explain the omission",
+      "D": "Proceed with payment to avoid delaying suppliers"
+    },
+    "correct_option": "B",
+    "correct_answer": "Return the PV for verification and evidence of checks before payment"
+  },
+  {
+    "id": 167,
+    "question": "Head of Accounts at Federal Teaching Hospital has two related duties: preparing PVs and authorizing them. What should be done to comply with segregation of duties?",
+    "options": {
+      "A": "Allow the officer to continue both roles to ensure speed",
+      "B": "Add more signatures after payment instead",
+      "C": "Reassign responsibilities so initiation, verification and approval are performed by different officers",
+      "D": "Keep roles combined but write an annual undertaking letter"
+    },
+    "correct_option": "C",
+    "correct_answer": "Reassign responsibilities so initiation, verification and approval are performed by different officers"
+  },
+  {
+    "id": 168,
+    "question": "A contractor to FCTA Transport Secretariat requests payment based only on award letter; no invoice or delivery. What is the MOST compliant response?",
+    "options": {
+      "A": "Pay 70% and take a promissory note for the rest",
+      "B": "Raise a JV to recognize expense now and pay later",
+      "C": "Convert the claim to an advance without documents",
+      "D": "Decline payment until documentary evidence and certifications are provided"
+    },
+    "correct_option": "D",
+    "correct_answer": "Decline payment until documentary evidence and certifications are provided"
+  },
+  {
+    "id": 169,
+    "question": "The Budget Officer at Ministry of Works identifies material stock differences during stock‑taking. The FIRST appropriate step is to:",
+    "options": {
+      "A": "Report and investigate discrepancies; update records and initiate loss procedures if necessary",
+      "B": "Ignore differences if they favour the MDA",
+      "C": "Dispose affected items without valuation to avoid delay",
+      "D": "Write off differences informally to balance bin cards"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report and investigate discrepancies; update records and initiate loss procedures if necessary"
+  },
+  {
+    "id": 170,
+    "question": "At Ministry of Health, a duty tour advance is overdue for retirement. The MOST appropriate measure is to:",
+    "options": {
+      "A": "Ignore since the officer verbally confirmed travel",
+      "B": "Formally demand retirement with evidence; recover from salary if necessary per rules",
+      "C": "Charge the amount to welfare expenses",
+      "D": "Issue another advance to cover the previous one"
+    },
+    "correct_option": "B",
+    "correct_answer": "Formally demand retirement with evidence; recover from salary if necessary per rules"
+  },
+  {
+    "id": 171,
+    "question": "Federal College of Education receives donor funds with specific reporting requirements. The BEST financial control is to:",
+    "options": {
+      "A": "Spend directly in cash to avoid TSA delays",
+      "B": "Post transactions after project closure to ease reporting",
+      "C": "Comply with donor rules while aligning with national regulations and CoA classifications",
+      "D": "Apply only donor rules and ignore national controls"
+    },
+    "correct_option": "C",
+    "correct_answer": "Comply with donor rules while aligning with national regulations and CoA classifications"
+  },
+  {
+    "id": 172,
+    "question": "A PV at Federal College of Education lacks tax deduction schedules. The MOST appropriate action is to:",
+    "options": {
+      "A": "Pay full amount and let supplier remit taxes later",
+      "B": "Ignore deductions for SMEs",
+      "C": "Post deductions to suspense indefinitely",
+      "D": "Compute, withhold and arrange remittance of statutory deductions with schedules"
+    },
+    "correct_option": "D",
+    "correct_answer": "Compute, withhold and arrange remittance of statutory deductions with schedules"
+  },
+  {
+    "id": 173,
+    "question": "Bank charges posted by the bank but not in cash book are found at FCTA Transport Secretariat. The BEST corrective action is to:",
+    "options": {
+      "A": "Record the charges with proper narration and supporting bank advice",
+      "B": "Wait for year‑end to batch all adjustments",
+      "C": "Increase revenue to offset the charge",
+      "D": "Dispute them without review and delete the bank statement"
+    },
+    "correct_option": "A",
+    "correct_answer": "Record the charges with proper narration and supporting bank advice"
+  },
+  {
+    "id": 174,
+    "question": "The Procurement Officer at National Space Research Agency pressures payment citing 'urgency' despite incomplete file. The COMPLIANT response is to:",
+    "options": {
+      "A": "Pay now and raise documents later",
+      "B": "Insist on complete documentation and approvals before any payment",
+      "C": "Seek a verbal approval from the most senior officer",
+      "D": "Split the claim to a level that requires fewer checks"
+    },
+    "correct_option": "B",
+    "correct_answer": "Insist on complete documentation and approvals before any payment"
+  },
+  {
+    "id": 175,
+    "question": "A supplier to Ministry of Works delivered items but SRV was not raised. The MOST appropriate step is to:",
+    "options": {
+      "A": "Use SIV to record receipt instead of SRV",
+      "B": "Skip SRV since delivery notes exist",
+      "C": "Conduct inspection, raise SRV and update stores and financial records before payment",
+      "D": "Pay immediately; SRV can be prepared after payment"
+    },
+    "correct_option": "C",
+    "correct_answer": "Conduct inspection, raise SRV and update stores and financial records before payment"
+  },
+  {
+    "id": 176,
+    "question": "At Ministry of Works, the cash book shows a debit balance disagreeing with bank statement. The FIRST control step is to:",
+    "options": {
+      "A": "Stop updating the cash book until audit",
+      "B": "Write off the difference to miscellaneous expenses",
+      "C": "Transfer the balance to another account to hide it",
+      "D": "Perform detailed reconciliation to identify timing and posting differences"
+    },
+    "correct_option": "D",
+    "correct_answer": "Perform detailed reconciliation to identify timing and posting differences"
+  },
+  {
+    "id": 177,
+    "question": "The Director of Finance & Accounts at Federal College of Education proposes paying from IGR before lodgment to TSA. The COMPLIANT position is:",
+    "options": {
+      "A": "Reject the proposal; revenues should be receipted and lodged to TSA before any spending",
+      "B": "Allow once a quarter to fast‑track projects",
+      "C": "Treat as imprest to be regularized later",
+      "D": "Approve if IGR is sufficient to cover the bill"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reject the proposal; revenues should be receipted and lodged to TSA before any spending"
+  },
+  {
+    "id": 178,
+    "question": "A multi‑year project at National Space Research Agency needs additional funds beyond the head. The MOST lawful route is:",
+    "options": {
+      "A": "Charge unrelated sub‑heads and fix later",
+      "B": "Seek supplementary appropriation or lawful reallocation within limits",
+      "C": "Ask the supplier to finance and recover with interest",
+      "D": "Record as off‑balance sheet to avoid budget impact"
+    },
+    "correct_option": "B",
+    "correct_answer": "Seek supplementary appropriation or lawful reallocation within limits"
+  },
+  {
+    "id": 179,
+    "question": "During external audit, River Basin Authority cannot produce PV supports. The BEST control lesson is to:",
+    "options": {
+      "A": "Rely on staff memory to explain transactions",
+      "B": "Request the auditor to accept verbal assurances",
+      "C": "Strengthen records retention and retrieval in line with regulations",
+      "D": "Destroy old files to reduce clutter"
+    },
+    "correct_option": "C",
+    "correct_answer": "Strengthen records retention and retrieval in line with regulations"
+  },
+  {
+    "id": 180,
+    "question": "A Project Accountant at Ministry of Education wants to recognize expense and pay later via JV. The CORRECT approach is:",
+    "options": {
+      "A": "Raise a memo to convert JV to cash voucher",
+      "B": "Pay cash and post JV afterwards as evidence",
+      "C": "Use JV as PV substitute if urgent",
+      "D": "Use JVs only for ledger adjustments, not to authorize cash payments"
+    },
+    "correct_option": "D",
+    "correct_answer": "Use JVs only for ledger adjustments, not to authorize cash payments"
+  },
+  {
+    "id": 181,
+    "question": "FCTA Transport Secretariat's Procurement Officer receives an invoice for supplies without delivery note or inspection certificate. Under Financial Regulations, the MOST appropriate action is to:",
+    "options": {
+      "A": "Request complete supporting documents and withhold payment until verification is concluded",
+      "B": "Raise a journal voucher to clear the liability without documents",
+      "C": "Pay immediately since the supplier is pre‑qualified",
+      "D": "Record as stores received based on invoice alone"
+    },
+    "correct_option": "A",
+    "correct_answer": "Request complete supporting documents and withhold payment until verification is concluded"
+  },
+  {
+    "id": 182,
+    "question": "During bank reconciliation, Ministry of Health notices a long‑outstanding credit in bank not in cash book. The BEST control response is to:",
+    "options": {
+      "A": "Ignore it as a favourable variance",
+      "B": "Investigate and post the appropriate cash book entry with narration and authority",
+      "C": "Close the account and open a new TSA sub‑account",
+      "D": "Reverse random cash book entries until balances agree"
+    },
+    "correct_option": "B",
+    "correct_answer": "Investigate and post the appropriate cash book entry with narration and authority"
+  },
+  {
+    "id": 183,
+    "question": "Head of Accounts at National Space Research Agency wants to fund an item not in the Appropriation Act by moving funds from another sub‑head. Which is MOST compliant?",
+    "options": {
+      "A": "Charge the item to any available code and regularize later",
+      "B": "Pay from IGR before lodgment to TSA",
+      "C": "Seek lawful virement or supplementary appropriation in line with limits and approvals",
+      "D": "Split the payment to bypass approval limits"
+    },
+    "correct_option": "C",
+    "correct_answer": "Seek lawful virement or supplementary appropriation in line with limits and approvals"
+  },
+  {
+    "id": 184,
+    "question": "A cashier at Ministry of Education holds revenue for a week to batch lodgment. Under the rules, the BEST practice is to:",
+    "options": {
+      "A": "Hand over collections to the supplier as part‑payment",
+      "B": "Retain cash until end of month to reduce bank charges",
+      "C": "Offset petty expenses before lodgment",
+      "D": "Lodge collections promptly in TSA‑designated accounts and issue official receipts"
+    },
+    "correct_option": "D",
+    "correct_answer": "Lodge collections promptly in TSA‑designated accounts and issue official receipts"
+  },
+  {
+    "id": 185,
+    "question": "At Ministry of Education, the Permanent Secretary requests imprest replenishment without retiring prior spend. The MOST appropriate response is to:",
+    "options": {
+      "A": "Insist on proper retirement with original receipts before replenishment",
+      "B": "Post the amount to suspense and forget the retirement",
+      "C": "Approve replenishment since the expenses were urgent",
+      "D": "Convert the imprest to a permanent allowance"
+    },
+    "correct_option": "A",
+    "correct_answer": "Insist on proper retirement with original receipts before replenishment"
+  },
+  {
+    "id": 186,
+    "question": "Internal audit at Ministry of Works discovers a PV without pre‑audit stamp. The BEST course of action is to:",
+    "options": {
+      "A": "File the PV; pre‑audit is optional if signatories approved",
+      "B": "Return the PV for verification and evidence of checks before payment",
+      "C": "Proceed with payment to avoid delaying suppliers",
+      "D": "Generate a memo after payment to explain the omission"
+    },
+    "correct_option": "B",
+    "correct_answer": "Return the PV for verification and evidence of checks before payment"
+  },
+  {
+    "id": 187,
+    "question": "Permanent Secretary at River Basin Authority has two related duties: preparing PVs and authorizing them. What should be done to comply with segregation of duties?",
+    "options": {
+      "A": "Add more signatures after payment instead",
+      "B": "Keep roles combined but write an annual undertaking letter",
+      "C": "Reassign responsibilities so initiation, verification and approval are performed by different officers",
+      "D": "Allow the officer to continue both roles to ensure speed"
+    },
+    "correct_option": "C",
+    "correct_answer": "Reassign responsibilities so initiation, verification and approval are performed by different officers"
+  },
+  {
+    "id": 188,
+    "question": "A contractor to Ministry of Works requests payment based only on award letter; no invoice or delivery. What is the MOST compliant response?",
+    "options": {
+      "A": "Convert the claim to an advance without documents",
+      "B": "Raise a JV to recognize expense now and pay later",
+      "C": "Pay 70% and take a promissory note for the rest",
+      "D": "Decline payment until documentary evidence and certifications are provided"
+    },
+    "correct_option": "D",
+    "correct_answer": "Decline payment until documentary evidence and certifications are provided"
+  },
+  {
+    "id": 189,
+    "question": "The Bursar at Federal College of Education identifies material stock differences during stock‑taking. The FIRST appropriate step is to:",
+    "options": {
+      "A": "Report and investigate discrepancies; update records and initiate loss procedures if necessary",
+      "B": "Dispose affected items without valuation to avoid delay",
+      "C": "Write off differences informally to balance bin cards",
+      "D": "Ignore differences if they favour the MDA"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report and investigate discrepancies; update records and initiate loss procedures if necessary"
+  },
+  {
+    "id": 190,
+    "question": "At National Bureau of Statistics, a duty tour advance is overdue for retirement. The MOST appropriate measure is to:",
+    "options": {
+      "A": "Issue another advance to cover the previous one",
+      "B": "Formally demand retirement with evidence; recover from salary if necessary per rules",
+      "C": "Ignore since the officer verbally confirmed travel",
+      "D": "Charge the amount to welfare expenses"
+    },
+    "correct_option": "B",
+    "correct_answer": "Formally demand retirement with evidence; recover from salary if necessary per rules"
+  },
+  {
+    "id": 191,
+    "question": "Federal College of Education receives donor funds with specific reporting requirements. The BEST financial control is to:",
+    "options": {
+      "A": "Post transactions after project closure to ease reporting",
+      "B": "Apply only donor rules and ignore national controls",
+      "C": "Comply with donor rules while aligning with national regulations and CoA classifications",
+      "D": "Spend directly in cash to avoid TSA delays"
+    },
+    "correct_option": "C",
+    "correct_answer": "Comply with donor rules while aligning with national regulations and CoA classifications"
+  },
+  {
+    "id": 192,
+    "question": "A PV at FCTA Transport Secretariat lacks tax deduction schedules. The MOST appropriate action is to:",
+    "options": {
+      "A": "Post deductions to suspense indefinitely",
+      "B": "Ignore deductions for SMEs",
+      "C": "Pay full amount and let supplier remit taxes later",
+      "D": "Compute, withhold and arrange remittance of statutory deductions with schedules"
+    },
+    "correct_option": "D",
+    "correct_answer": "Compute, withhold and arrange remittance of statutory deductions with schedules"
+  },
+  {
+    "id": 193,
+    "question": "Bank charges posted by the bank but not in cash book are found at Federal Teaching Hospital. The BEST corrective action is to:",
+    "options": {
+      "A": "Record the charges with proper narration and supporting bank advice",
+      "B": "Wait for year‑end to batch all adjustments",
+      "C": "Dispute them without review and delete the bank statement",
+      "D": "Increase revenue to offset the charge"
+    },
+    "correct_option": "A",
+    "correct_answer": "Record the charges with proper narration and supporting bank advice"
+  },
+  {
+    "id": 194,
+    "question": "The Budget Officer at Federal College of Education pressures payment citing 'urgency' despite incomplete file. The COMPLIANT response is to:",
+    "options": {
+      "A": "Seek a verbal approval from the most senior officer",
+      "B": "Insist on complete documentation and approvals before any payment",
+      "C": "Split the claim to a level that requires fewer checks",
+      "D": "Pay now and raise documents later"
+    },
+    "correct_option": "B",
+    "correct_answer": "Insist on complete documentation and approvals before any payment"
+  },
+  {
+    "id": 195,
+    "question": "A supplier to Ministry of Education delivered items but SRV was not raised. The MOST appropriate step is to:",
+    "options": {
+      "A": "Skip SRV since delivery notes exist",
+      "B": "Use SIV to record receipt instead of SRV",
+      "C": "Conduct inspection, raise SRV and update stores and financial records before payment",
+      "D": "Pay immediately; SRV can be prepared after payment"
+    },
+    "correct_option": "C",
+    "correct_answer": "Conduct inspection, raise SRV and update stores and financial records before payment"
+  },
+  {
+    "id": 196,
+    "question": "At Ministry of Water Resources, the cash book shows a debit balance disagreeing with bank statement. The FIRST control step is to:",
+    "options": {
+      "A": "Stop updating the cash book until audit",
+      "B": "Write off the difference to miscellaneous expenses",
+      "C": "Transfer the balance to another account to hide it",
+      "D": "Perform detailed reconciliation to identify timing and posting differences"
+    },
+    "correct_option": "D",
+    "correct_answer": "Perform detailed reconciliation to identify timing and posting differences"
+  },
+  {
+    "id": 197,
+    "question": "The Director of Finance & Accounts at Federal Teaching Hospital proposes paying from IGR before lodgment to TSA. The COMPLIANT position is:",
+    "options": {
+      "A": "Reject the proposal; revenues should be receipted and lodged to TSA before any spending",
+      "B": "Allow once a quarter to fast‑track projects",
+      "C": "Approve if IGR is sufficient to cover the bill",
+      "D": "Treat as imprest to be regularized later"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reject the proposal; revenues should be receipted and lodged to TSA before any spending"
+  },
+  {
+    "id": 198,
+    "question": "A multi‑year project at National Space Research Agency needs additional funds beyond the head. The MOST lawful route is:",
+    "options": {
+      "A": "Ask the supplier to finance and recover with interest",
+      "B": "Seek supplementary appropriation or lawful reallocation within limits",
+      "C": "Record as off‑balance sheet to avoid budget impact",
+      "D": "Charge unrelated sub‑heads and fix later"
+    },
+    "correct_option": "B",
+    "correct_answer": "Seek supplementary appropriation or lawful reallocation within limits"
+  },
+  {
+    "id": 199,
+    "question": "During external audit, Ministry of Water Resources cannot produce PV supports. The BEST control lesson is to:",
+    "options": {
+      "A": "Request the auditor to accept verbal assurances",
+      "B": "Rely on staff memory to explain transactions",
+      "C": "Strengthen records retention and retrieval in line with regulations",
+      "D": "Destroy old files to reduce clutter"
+    },
+    "correct_option": "C",
+    "correct_answer": "Strengthen records retention and retrieval in line with regulations"
+  },
+  {
+    "id": 200,
+    "question": "A Director of Finance & Accounts at Ministry of Water Resources wants to recognize expense and pay later via JV. The CORRECT approach is:",
+    "options": {
+      "A": "Raise a memo to convert JV to cash voucher",
+      "B": "Pay cash and post JV afterwards as evidence",
+      "C": "Use JV as PV substitute if urgent",
+      "D": "Use JVs only for ledger adjustments, not to authorize cash payments"
+    },
+    "correct_option": "D",
+    "correct_answer": "Use JVs only for ledger adjustments, not to authorize cash payments"
+  }
+]

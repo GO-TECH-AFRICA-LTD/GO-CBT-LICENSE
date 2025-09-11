@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "question": "A GL-13 is to act as Director indefinitely. PSR-compliant step:",
+    "options": {
+      "A": "Allow indefinite acting",
+      "B": "Limit acting appointment duration and obtain proper approvals",
+      "C": "No documentation needed",
+      "D": "Backdate acting to last year"
+    },
+    "correct_option": "B",
+    "correct_answer": "Limit acting appointment duration and obtain proper approvals"
+  },
+  {
+    "id": 2,
+    "question": "Evaluation shows the lowest evaluated responsive bidder, but FCTA Transport management prefers a legacy supplier. What should the committee recommend?",
+    "options": {
+      "A": "Cancel the process without cause",
+      "B": "Split the award between both suppliers",
+      "C": "Recommend award to the bidder ranked first by the published criteria",
+      "D": "Recommend the legacy supplier to maintain relationships"
+    },
+    "correct_option": "C",
+    "correct_answer": "Recommend award to the bidder ranked first by the published criteria"
+  },
+  {
+    "id": 3,
+    "question": "The lowest-priced bid fails a mandatory technical requirement. How do you proceed?",
+    "options": {
+      "A": "Give provisional award",
+      "B": "Award because of savings",
+      "C": "Negotiate the requirement away",
+      "D": "Disqualify—the bid is non-responsive"
+    },
+    "correct_option": "D",
+    "correct_answer": "Disqualify—the bid is non-responsive"
+  },
+  {
+    "id": 4,
+    "question": "Which control best supports ICT disaster recovery?",
+    "options": {
+      "A": "Daily manual emails",
+      "B": "Regular tested backups and offsite/replicated storage",
+      "C": "Disabling antivirus",
+      "D": "Using shared passwords"
+    },
+    "correct_option": "B",
+    "correct_answer": "Regular tested backups and offsite/replicated storage"
+  },
+  {
+    "id": 5,
+    "question": "You receive a gift basket from a regular supplier during evaluation week. What should you do?",
+    "options": {
+      "A": "Accept and share with team",
+      "B": "Politely decline or record in gifts/hospitality register per policy",
+      "C": "Sell it and donate proceeds",
+      "D": "Hide it to avoid trouble"
+    },
+    "correct_option": "B",
+    "correct_answer": "Politely decline or record in gifts/hospitality register per policy"
+  },
+  {
+    "id": 6,
+    "question": "Your MDA prepares custom bidding documents that omit key statutory clauses. Recommendation:",
+    "options": {
+      "A": "Use standard bidding documents/templates and include mandatory clauses",
+      "B": "Let bidders suggest clauses",
+      "C": "Publish without legal review",
+      "D": "Proceed for speed"
+    },
+    "correct_option": "A",
+    "correct_answer": "Use standard bidding documents/templates and include mandatory clauses"
+  },
+  {
+    "id": 7,
+    "question": "A GL-14 staff requests 7 extra days of casual leave immediately after annual leave. What should HR do?",
+    "options": {
+      "A": "Approve—casual leave is unlimited",
+      "B": "Decline—no such thing as casual leave in PSR",
+      "C": "Approve within PSR limits and service exigencies",
+      "D": "Convert to study leave automatically"
+    },
+    "correct_option": "C",
+    "correct_answer": "Approve within PSR limits and service exigencies"
+  },
+  {
+    "id": 8,
+    "question": "A whistleblower fears retaliation after reporting fraud signals. Your response should be to:",
+    "options": {
+      "A": "Ignore without action",
+      "B": "Tell them to be bold",
+      "C": "Promise promotion for cooperation",
+      "D": "Protect identity and use proper channels with anti-retaliation measures"
+    },
+    "correct_option": "D",
+    "correct_answer": "Protect identity and use proper channels with anti-retaliation measures"
+  },
+  {
+    "id": 9,
+    "question": "Old government vehicles need disposal. Correct approach is:",
+    "options": {
+      "A": "Gift them to staff",
+      "B": "Auction/trade-in per approved disposal procedures and valuation",
+      "C": "Sell privately to reduce paperwork",
+      "D": "Write-off without record"
+    },
+    "correct_option": "B",
+    "correct_answer": "Auction/trade-in per approved disposal procedures and valuation"
+  },
+  {
+    "id": 10,
+    "question": "For a rural water project, what step increases sustainability and acceptance?",
+    "options": {
+      "A": "Deliver without training",
+      "B": "Ignore the community",
+      "C": "Engage community stakeholders and include O&M plans",
+      "D": "Award to the chief’s company"
+    },
+    "correct_option": "C",
+    "correct_answer": "Engage community stakeholders and include O&M plans"
+  },
+  {
+    "id": 11,
+    "question": "Documents contain confidential budget strategies. Best handling is:",
+    "options": {
+      "A": "Classify appropriately and restrict access",
+      "B": "Email to personal accounts for backup",
+      "C": "Print and keep at home",
+      "D": "Leave on shared drive without controls"
+    },
+    "correct_option": "A",
+    "correct_answer": "Classify appropriately and restrict access"
+  },
+  {
+    "id": 12,
+    "question": "The lowest-priced bid fails a mandatory technical requirement. How do you proceed?",
+    "options": {
+      "A": "Negotiate the requirement away",
+      "B": "Disqualify—the bid is non-responsive",
+      "C": "Give provisional award",
+      "D": "Award because of savings"
+    },
+    "correct_option": "B",
+    "correct_answer": "Disqualify—the bid is non-responsive"
+  },
+  {
+    "id": 13,
+    "question": "Your MDA prepares custom bidding documents that omit key statutory clauses. Recommendation:",
+    "options": {
+      "A": "Let bidders suggest clauses",
+      "B": "Publish without legal review",
+      "C": "Proceed for speed",
+      "D": "Use standard bidding documents/templates and include mandatory clauses"
+    },
+    "correct_option": "D",
+    "correct_answer": "Use standard bidding documents/templates and include mandatory clauses"
+  },
+  {
+    "id": 14,
+    "question": "As Chair of FCDA's bid opening, a bidder asks to submit a missing Bid Security after opening. What should you do to preserve fairness?",
+    "options": {
+      "A": "Allow if all bidders agree at opening",
+      "B": "Accept but mark for clarification during evaluation",
+      "C": "Ask BPP for retrospective approval to add documents",
+      "D": "Disallow—material eligibility documents cannot be added after the deadline"
+    },
+    "correct_option": "D",
+    "correct_answer": "Disallow—material eligibility documents cannot be added after the deadline"
+  },
+  {
+    "id": 15,
+    "question": "Your MDA plans to rent office space for 10 years. The compliant step is to:",
+    "options": {
+      "A": "Obtain proper approvals, valuation, and fiscal vetting",
+      "B": "Pay in cash to secure a discount",
+      "C": "Use the contractor’s valuation",
+      "D": "Proceed without valuation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Obtain proper approvals, valuation, and fiscal vetting"
+  },
+  {
+    "id": 16,
+    "question": "An officer loses an official laptop containing sensitive data. First action?",
+    "options": {
+      "A": "Request vendor discount on the next purchase",
+      "B": "Buy a new laptop quietly",
+      "C": "Report the loss, trigger Board of Survey, and inform ICT for security containment",
+      "D": "Keep quiet to avoid a query"
+    },
+    "correct_option": "C",
+    "correct_answer": "Report the loss, trigger Board of Survey, and inform ICT for security containment"
+  },
+  {
+    "id": 17,
+    "question": "Public correspondence has piled up. A good administrative control is to:",
+    "options": {
+      "A": "Reply only VIP letters",
+      "B": "Delete non-urgent mails",
+      "C": "Ignore old letters",
+      "D": "Adopt service-wide response timelines and track compliance"
+    },
+    "correct_option": "D",
+    "correct_answer": "Adopt service-wide response timelines and track compliance"
+  },
+  {
+    "id": 18,
+    "question": "During a disciplinary hearing, the officer asks to bring a colleague as companion. What is best?",
+    "options": {
+      "A": "Refuse—only lawyers allowed",
+      "B": "Allow a companion in line with fair hearing and policy",
+      "C": "Disallow all companions",
+      "D": "Permit only if the companion is from HR"
+    },
+    "correct_option": "B",
+    "correct_answer": "Allow a companion in line with fair hearing and policy"
+  },
+  {
+    "id": 19,
+    "question": "You’re asked to shred old payment vouchers to create space without records. Correct step is:",
+    "options": {
+      "A": "Obey the instruction",
+      "B": "Digitize only and ignore schedules",
+      "C": "Follow records retention/disposal schedule with approvals and documentation",
+      "D": "Burn quietly"
+    },
+    "correct_option": "C",
+    "correct_answer": "Follow records retention/disposal schedule with approvals and documentation"
+  },
+  {
+    "id": 20,
+    "question": "You observe signals of collusion between two bidders. What should you do?",
+    "options": {
+      "A": "Split the award",
+      "B": "Seek price reductions from both",
+      "C": "Ignore—competition exists anyway",
+      "D": "Report red flags, consider referral, and apply sanctions as provided by law"
+    },
+    "correct_option": "D",
+    "correct_answer": "Report red flags, consider referral, and apply sanctions as provided by law"
+  },
+  {
+    "id": 21,
+    "question": "An ICT service lacks uptime commitments. Best control is to:",
+    "options": {
+      "A": "Pay more to encourage performance",
+      "B": "Remove monitoring",
+      "C": "Hope for the best",
+      "D": "Include a Service Level Agreement with KPIs and penalties"
+    },
+    "correct_option": "D",
+    "correct_answer": "Include a Service Level Agreement with KPIs and penalties"
+  },
+  {
+    "id": 22,
+    "question": "A special assistant requests access to procurement documents before public opening. Your best response is:",
+    "options": {
+      "A": "Share drafts to maintain good relations",
+      "B": "Explain confidentiality and release only what is public at the proper stage",
+      "C": "Give a private briefing with likely winners",
+      "D": "Send all documents by email and mark 'confidential'"
+    },
+    "correct_option": "B",
+    "correct_answer": "Explain confidentiality and release only what is public at the proper stage"
+  },
+  {
+    "id": 23,
+    "question": "You’re asked to shred old payment vouchers to create space without records. Correct step is:",
+    "options": {
+      "A": "Obey the instruction",
+      "B": "Digitize only and ignore schedules",
+      "C": "Follow records retention/disposal schedule with approvals and documentation",
+      "D": "Burn quietly"
+    },
+    "correct_option": "C",
+    "correct_answer": "Follow records retention/disposal schedule with approvals and documentation"
+  },
+  {
+    "id": 24,
+    "question": "Two-stage tendering is most suitable when:",
+    "options": {
+      "A": "Only one vendor exists",
+      "B": "Budget is small",
+      "C": "Requirements are simple and standard",
+      "D": "Requirements are complex and need initial technical dialogue before final bids"
+    },
+    "correct_option": "D",
+    "correct_answer": "Requirements are complex and need initial technical dialogue before final bids"
+  },
+  {
+    "id": 25,
+    "question": "Staff submit excessive overtime claims without prior approval. Correct action:",
+    "options": {
+      "A": "Convert to casual leave",
+      "B": "Ignore all overtime henceforth",
+      "C": "Pay because they worked",
+      "D": "Require prior approval and verify against policy limits"
+    },
+    "correct_option": "D",
+    "correct_answer": "Require prior approval and verify against policy limits"
+  },
+  {
+    "id": 26,
+    "question": "For a consultancy, which payment term best aligns with control?",
+    "options": {
+      "A": "End-of-year lump sum",
+      "B": "100% upfront",
+      "C": "Milestone-based payments against deliverables",
+      "D": "Cash payments weekly"
+    },
+    "correct_option": "C",
+    "correct_answer": "Milestone-based payments against deliverables"
+  },
+  {
+    "id": 27,
+    "question": "For a sensitive post in finance, what pre-employment control is appropriate?",
+    "options": {
+      "A": "No checks to fill quickly",
+      "B": "Background/security checks as required",
+      "C": "Ask for social media handles only",
+      "D": "Skip because of political pressure"
+    },
+    "correct_option": "B",
+    "correct_answer": "Background/security checks as required"
+  },
+  {
+    "id": 28,
+    "question": "A permanent secretary requests access to procurement documents before public opening. Your best response is:",
+    "options": {
+      "A": "Give a private briefing with likely winners",
+      "B": "Send all documents by email and mark 'confidential'",
+      "C": "Share drafts to maintain good relations",
+      "D": "Explain confidentiality and release only what is public at the proper stage"
+    },
+    "correct_option": "D",
+    "correct_answer": "Explain confidentiality and release only what is public at the proper stage"
+  },
+  {
+    "id": 29,
+    "question": "After opening, you find an arithmetic error in a bid's totals. What is permissible?",
+    "options": {
+      "A": "Average the figures with another bid",
+      "B": "Correct arithmetic errors transparently as provided in the solicitation",
+      "C": "Invite the bidder to change unit rates",
+      "D": "Disqualify the bid for any error"
+    },
+    "correct_option": "B",
+    "correct_answer": "Correct arithmetic errors transparently as provided in the solicitation"
+  },
+  {
+    "id": 30,
+    "question": "A contractor requests cash payment because “the bank network is down.” The compliant action is:",
+    "options": {
+      "A": "Issue a cheque from imprest",
+      "B": "Pay through TSA/e-payment only",
+      "C": "Give an IOU pending network restoration",
+      "D": "Pay cash and regularize later"
+    },
+    "correct_option": "B",
+    "correct_answer": "Pay through TSA/e-payment only"
+  },
+  {
+    "id": 31,
+    "question": "A staff requests compassionate leave for a bereavement. Correct handling is:",
+    "options": {
+      "A": "Approve within PSR provisions",
+      "B": "Convert to annual leave only",
+      "C": "Defer until next quarter",
+      "D": "Deny—no such leave"
+    },
+    "correct_option": "A",
+    "correct_answer": "Approve within PSR provisions"
+  },
+  {
+    "id": 32,
+    "question": "A GL-13 is to act as Director indefinitely. PSR-compliant step:",
+    "options": {
+      "A": "No documentation needed",
+      "B": "Backdate acting to last year",
+      "C": "Allow indefinite acting",
+      "D": "Limit acting appointment duration and obtain proper approvals"
+    },
+    "correct_option": "D",
+    "correct_answer": "Limit acting appointment duration and obtain proper approvals"
+  },
+  {
+    "id": 33,
+    "question": "After an approved scope change, the contractor requests a variation. Proper response is:",
+    "options": {
+      "A": "Process variation per contract terms and approval thresholds",
+      "B": "Tell contractor to absorb costs",
+      "C": "Variations are illegal",
+      "D": "Approve any amount requested"
+    },
+    "correct_option": "A",
+    "correct_answer": "Process variation per contract terms and approval thresholds"
+  },
+  {
+    "id": 34,
+    "question": "You observe signals of collusion between two bidders. What should you do?",
+    "options": {
+      "A": "Seek price reductions from both",
+      "B": "Ignore—competition exists anyway",
+      "C": "Report red flags, consider referral, and apply sanctions as provided by law",
+      "D": "Split the award"
+    },
+    "correct_option": "C",
+    "correct_answer": "Report red flags, consider referral, and apply sanctions as provided by law"
+  },
+  {
+    "id": 35,
+    "question": "An officer uses an official vehicle for a private trip out of state. Proper response:",
+    "options": {
+      "A": "Reimburse fuel only",
+      "B": "Let the officer sign an undertaking",
+      "C": "Ignore—it’s after hours",
+      "D": "Apply policy: restrict use to official duties and enforce sanctions"
+    },
+    "correct_option": "D",
+    "correct_answer": "Apply policy: restrict use to official duties and enforce sanctions"
+  },
+  {
+    "id": 36,
+    "question": "There is an injury in the office due to faulty wiring. What should management do?",
+    "options": {
+      "A": "Ignore—minor incident",
+      "B": "Report/record the incident, provide care, and fix hazards promptly",
+      "C": "Deduct from staff salary",
+      "D": "Publish names on notice board"
+    },
+    "correct_option": "B",
+    "correct_answer": "Report/record the incident, provide care, and fix hazards promptly"
+  },
+  {
+    "id": 37,
+    "question": "An ICT service lacks uptime commitments. Best control is to:",
+    "options": {
+      "A": "Remove monitoring",
+      "B": "Hope for the best",
+      "C": "Include a Service Level Agreement with KPIs and penalties",
+      "D": "Pay more to encourage performance"
+    },
+    "correct_option": "C",
+    "correct_answer": "Include a Service Level Agreement with KPIs and penalties"
+  },
+  {
+    "id": 38,
+    "question": "A calculation mistake is discovered in the evaluation report before approval. What should the committee do?",
+    "options": {
+      "A": "Send it to legal to hide liability",
+      "B": "Ignore to save time",
+      "C": "Quietly change the report date",
+      "D": "Re-evaluate transparently and correct the report with minutes"
+    },
+    "correct_option": "D",
+    "correct_answer": "Re-evaluate transparently and correct the report with minutes"
+  },
+  {
+    "id": 39,
+    "question": "After an approved scope change, the contractor requests a variation. Proper response is:",
+    "options": {
+      "A": "Approve any amount requested",
+      "B": "Process variation per contract terms and approval thresholds",
+      "C": "Tell contractor to absorb costs",
+      "D": "Variations are illegal"
+    },
+    "correct_option": "B",
+    "correct_answer": "Process variation per contract terms and approval thresholds"
+  },
+  {
+    "id": 40,
+    "question": "You’re asked to shred old payment vouchers to create space without records. Correct step is:",
+    "options": {
+      "A": "Follow records retention/disposal schedule with approvals and documentation",
+      "B": "Burn quietly",
+      "C": "Obey the instruction",
+      "D": "Digitize only and ignore schedules"
+    },
+    "correct_option": "A",
+    "correct_answer": "Follow records retention/disposal schedule with approvals and documentation"
+  },
+  {
+    "id": 41,
+    "question": "A GL-13 is to act as Director indefinitely. PSR-compliant step:",
+    "options": {
+      "A": "Backdate acting to last year",
+      "B": "Allow indefinite acting",
+      "C": "Limit acting appointment duration and obtain proper approvals",
+      "D": "No documentation needed"
+    },
+    "correct_option": "C",
+    "correct_answer": "Limit acting appointment duration and obtain proper approvals"
+  },
+  {
+    "id": 42,
+    "question": "A staff posts confidential minutes on social media. This violates:",
+    "options": {
+      "A": "Budget circular",
+      "B": "Nothing—it’s freedom of expression",
+      "C": "Official secrecy/confidentiality policies and may breach PSR",
+      "D": "Only social media etiquette"
+    },
+    "correct_option": "C",
+    "correct_answer": "Official secrecy/confidentiality policies and may breach PSR"
+  },
+  {
+    "id": 43,
+    "question": "For official records and minutes, the expected language/format is:",
+    "options": {
+      "A": "Any slang used by staff",
+      "B": "Clear official English with standard formats and sign-offs",
+      "C": "Voice notes only",
+      "D": "Acronyms without expansion"
+    },
+    "correct_option": "B",
+    "correct_answer": "Clear official English with standard formats and sign-offs"
+  },
+  {
+    "id": 44,
+    "question": "Your outstation collects revenue in cash. What is the correct control step?",
+    "options": {
+      "A": "Keep in safe until month-end",
+      "B": "Daily lodgment into TSA and issue receipts",
+      "C": "Use for petty expenses to save time",
+      "D": "Transfer to staff account to lodge later"
+    },
+    "correct_option": "B",
+    "correct_answer": "Daily lodgment into TSA and issue receipts"
+  },
+  {
+    "id": 45,
+    "question": "Mid-contract, the supplier’s performance security expires. What is required?",
+    "options": {
+      "A": "Ignore until project completion",
+      "B": "Replace with a letter of comfort",
+      "C": "Renew/replace the performance security immediately",
+      "D": "Accept a promissory note"
+    },
+    "correct_option": "C",
+    "correct_answer": "Renew/replace the performance security immediately"
+  },
+  {
+    "id": 46,
+    "question": "Stores received items without an inspection/acceptance certificate. Next step is:",
+    "options": {
+      "A": "Post to ledger anyway",
+      "B": "Create GRN based on invoice alone",
+      "C": "Insist on inspection/acceptance certificate before posting",
+      "D": "Pay first to avoid delay"
+    },
+    "correct_option": "C",
+    "correct_answer": "Insist on inspection/acceptance certificate before posting"
+  },
+  {
+    "id": 47,
+    "question": "A whistleblower fears retaliation after reporting fraud signals. Your response should be to:",
+    "options": {
+      "A": "Protect identity and use proper channels with anti-retaliation measures",
+      "B": "Ignore without action",
+      "C": "Tell them to be bold",
+      "D": "Promise promotion for cooperation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Protect identity and use proper channels with anti-retaliation measures"
+  },
+  {
+    "id": 48,
+    "question": "A whistleblower fears retaliation after reporting fraud signals. Your response should be to:",
+    "options": {
+      "A": "Promise promotion for cooperation",
+      "B": "Protect identity and use proper channels with anti-retaliation measures",
+      "C": "Ignore without action",
+      "D": "Tell them to be bold"
+    },
+    "correct_option": "B",
+    "correct_answer": "Protect identity and use proper channels with anti-retaliation measures"
+  },
+  {
+    "id": 49,
+    "question": "Your unit operates a petty cash imprest. What is correct practice?",
+    "options": {
+      "A": "Retire imprest with receipts before replenishment",
+      "B": "Use cash for vendor payments above thresholds",
+      "C": "Keep imprest at home for safety",
+      "D": "Top up before retiring previous imprest"
+    },
+    "correct_option": "A",
+    "correct_answer": "Retire imprest with receipts before replenishment"
+  },
+  {
+    "id": 50,
+    "question": "At opening, the panel forgot to announce bid security details. What should be done?",
+    "options": {
+      "A": "Record the omission in the minutes and proceed lawfully",
+      "B": "Ignore entirely",
+      "C": "Fix during evaluation without record",
+      "D": "Cancel opening and restart"
+    },
+    "correct_option": "A",
+    "correct_answer": "Record the omission in the minutes and proceed lawfully"
+  },
+  {
+    "id": 51,
+    "question": "An officer requests study leave with pay for a private diploma unrelated to official duties. The decision should be:",
+    "options": {
+      "A": "Convert to annual leave",
+      "B": "Approve with pay",
+      "C": "Approve without pay",
+      "D": "Decline—study must align with service needs"
+    },
+    "correct_option": "D",
+    "correct_answer": "Decline—study must align with service needs"
+  },
+  {
+    "id": 52,
+    "question": "Processing personal data should follow:",
+    "options": {
+      "A": "Only manager’s instructions",
+      "B": "Vendor preferences",
+      "C": "No rules—data is in the office",
+      "D": "Data protection principles (lawful basis, minimization, security)"
+    },
+    "correct_option": "D",
+    "correct_answer": "Data protection principles (lawful basis, minimization, security)"
+  },
+  {
+    "id": 53,
+    "question": "Processing personal data should follow:",
+    "options": {
+      "A": "Data protection principles (lawful basis, minimization, security)",
+      "B": "Only manager’s instructions",
+      "C": "Vendor preferences",
+      "D": "No rules—data is in the office"
+    },
+    "correct_option": "A",
+    "correct_answer": "Data protection principles (lawful basis, minimization, security)"
+  },
+  {
+    "id": 54,
+    "question": "During evaluation, a member shares interim scores outside the committee. This breaches:",
+    "options": {
+      "A": "Confidentiality of evaluation",
+      "B": "FOI Act",
+      "C": "Budget circular",
+      "D": "Nothing—it’s transparency"
+    },
+    "correct_option": "A",
+    "correct_answer": "Confidentiality of evaluation"
+  },
+  {
+    "id": 55,
+    "question": "A project is tagged 'urgent' every year to avoid competition. Correct approach is to:",
+    "options": {
+      "A": "Rotate vendors to appear fair",
+      "B": "Accept tradition",
+      "C": "Single-source annually",
+      "D": "Plan properly and use a competitive method; perennial 'urgency' is not an emergency"
+    },
+    "correct_option": "D",
+    "correct_answer": "Plan properly and use a competitive method; perennial 'urgency' is not an emergency"
+  },
+  {
+    "id": 56,
+    "question": "An officer requests study leave with pay for a private diploma unrelated to official duties. The decision should be:",
+    "options": {
+      "A": "Approve without pay",
+      "B": "Decline—study must align with service needs",
+      "C": "Convert to annual leave",
+      "D": "Approve with pay"
+    },
+    "correct_option": "B",
+    "correct_answer": "Decline—study must align with service needs"
+  },
+  {
+    "id": 57,
+    "question": "A GL-16 applies to take 45 consecutive days of annual leave. What should be approved?",
+    "options": {
+      "A": "45 days annual leave at once",
+      "B": "30 days annual leave; balance via appropriate leave types if eligible",
+      "C": "Deny all leave requests",
+      "D": "Convert excess to overtime"
+    },
+    "correct_option": "B",
+    "correct_answer": "30 days annual leave; balance via appropriate leave types if eligible"
+  },
+  {
+    "id": 58,
+    "question": "A unit proposes splitting a ₦30,000,000 procurement into four smaller lots to stay below approval thresholds. This is:",
+    "options": {
+      "A": "Allowed if urgent",
+      "B": "Prudent planning",
+      "C": "Allowed if the same vendor is used",
+      "D": "Prohibited procurement splitting"
+    },
+    "correct_option": "D",
+    "correct_answer": "Prohibited procurement splitting"
+  },
+  {
+    "id": 59,
+    "question": "A staff posts confidential minutes on social media. This violates:",
+    "options": {
+      "A": "Only social media etiquette",
+      "B": "Budget circular",
+      "C": "Nothing—it’s freedom of expression",
+      "D": "Official secrecy/confidentiality policies and may breach PSR"
+    },
+    "correct_option": "D",
+    "correct_answer": "Official secrecy/confidentiality policies and may breach PSR"
+  },
+  {
+    "id": 60,
+    "question": "A bidder lodges a formal complaint after award. Correct handling is to:",
+    "options": {
+      "A": "Ignore because award is final",
+      "B": "Use the procurement complaints/review mechanism per law",
+      "C": "Call the bidder to placate them",
+      "D": "Blacklist automatically"
+    },
+    "correct_option": "B",
+    "correct_answer": "Use the procurement complaints/review mechanism per law"
+  },
+  {
+    "id": 61,
+    "question": "Finance detects mismatched vendor names and accounts. Best control is to:",
+    "options": {
+      "A": "Verify vendor details via BVN/TSA vendor master before payment",
+      "B": "Ask the vendor to write an undertaking",
+      "C": "Split the payment over time",
+      "D": "Proceed if the bank confirmed payment"
+    },
+    "correct_option": "A",
+    "correct_answer": "Verify vendor details via BVN/TSA vendor master before payment"
+  },
+  {
+    "id": 62,
+    "question": "A bidder lodges a formal complaint after award. Correct handling is to:",
+    "options": {
+      "A": "Use the procurement complaints/review mechanism per law",
+      "B": "Call the bidder to placate them",
+      "C": "Blacklist automatically",
+      "D": "Ignore because award is final"
+    },
+    "correct_option": "A",
+    "correct_answer": "Use the procurement complaints/review mechanism per law"
+  },
+  {
+    "id": 63,
+    "question": "At bid opening, what record is essential?",
+    "options": {
+      "A": "Oral announcements without records",
+      "B": "A private WhatsApp chat",
+      "C": "Attendance register and minutes capturing key details",
+      "D": "Selfies of the panel"
+    },
+    "correct_option": "C",
+    "correct_answer": "Attendance register and minutes capturing key details"
+  },
+  {
+    "id": 64,
+    "question": "Two-stage tendering is most suitable when:",
+    "options": {
+      "A": "Requirements are simple and standard",
+      "B": "Requirements are complex and need initial technical dialogue before final bids",
+      "C": "Only one vendor exists",
+      "D": "Budget is small"
+    },
+    "correct_option": "B",
+    "correct_answer": "Requirements are complex and need initial technical dialogue before final bids"
+  },
+  {
+    "id": 65,
+    "question": "A staff posts confidential minutes on social media. This violates:",
+    "options": {
+      "A": "Official secrecy/confidentiality policies and may breach PSR",
+      "B": "Only social media etiquette",
+      "C": "Budget circular",
+      "D": "Nothing—it’s freedom of expression"
+    },
+    "correct_option": "A",
+    "correct_answer": "Official secrecy/confidentiality policies and may breach PSR"
+  },
+  {
+    "id": 66,
+    "question": "A staff posts confidential minutes on social media. This violates:",
+    "options": {
+      "A": "Budget circular",
+      "B": "Nothing—it’s freedom of expression",
+      "C": "Official secrecy/confidentiality policies and may breach PSR",
+      "D": "Only social media etiquette"
+    },
+    "correct_option": "C",
+    "correct_answer": "Official secrecy/confidentiality policies and may breach PSR"
+  },
+  {
+    "id": 67,
+    "question": "For official records and minutes, the expected language/format is:",
+    "options": {
+      "A": "Voice notes only",
+      "B": "Acronyms without expansion",
+      "C": "Any slang used by staff",
+      "D": "Clear official English with standard formats and sign-offs"
+    },
+    "correct_option": "D",
+    "correct_answer": "Clear official English with standard formats and sign-offs"
+  },
+  {
+    "id": 68,
+    "question": "A unit proposes splitting a ₦60,000,000 procurement into four smaller lots to stay below approval thresholds. This is:",
+    "options": {
+      "A": "Allowed if the same vendor is used",
+      "B": "Prohibited procurement splitting",
+      "C": "Allowed if urgent",
+      "D": "Prudent planning"
+    },
+    "correct_option": "B",
+    "correct_answer": "Prohibited procurement splitting"
+  },
+  {
+    "id": 69,
+    "question": "After an approved scope change, the contractor requests a variation. Proper response is:",
+    "options": {
+      "A": "Approve any amount requested",
+      "B": "Process variation per contract terms and approval thresholds",
+      "C": "Tell contractor to absorb costs",
+      "D": "Variations are illegal"
+    },
+    "correct_option": "B",
+    "correct_answer": "Process variation per contract terms and approval thresholds"
+  },
+  {
+    "id": 70,
+    "question": "As Chair of FCTA Transport's bid opening, a bidder asks to submit a missing ITF certificate after opening. What should you do to preserve fairness?",
+    "options": {
+      "A": "Accept but mark for clarification during evaluation",
+      "B": "Ask BPP for retrospective approval to add documents",
+      "C": "Disallow—material eligibility documents cannot be added after the deadline",
+      "D": "Allow if all bidders agree at opening"
+    },
+    "correct_option": "C",
+    "correct_answer": "Disallow—material eligibility documents cannot be added after the deadline"
+  },
+  {
+    "id": 71,
+    "question": "Old government vehicles need disposal. Correct approach is:",
+    "options": {
+      "A": "Gift them to staff",
+      "B": "Auction/trade-in per approved disposal procedures and valuation",
+      "C": "Sell privately to reduce paperwork",
+      "D": "Write-off without record"
+    },
+    "correct_option": "B",
+    "correct_answer": "Auction/trade-in per approved disposal procedures and valuation"
+  },
+  {
+    "id": 72,
+    "question": "Staff submit excessive overtime claims without prior approval. Correct action:",
+    "options": {
+      "A": "Convert to casual leave",
+      "B": "Ignore all overtime henceforth",
+      "C": "Pay because they worked",
+      "D": "Require prior approval and verify against policy limits"
+    },
+    "correct_option": "D",
+    "correct_answer": "Require prior approval and verify against policy limits"
+  },
+  {
+    "id": 73,
+    "question": "A GL-13 is to act as Director indefinitely. PSR-compliant step:",
+    "options": {
+      "A": "Backdate acting to last year",
+      "B": "Allow indefinite acting",
+      "C": "Limit acting appointment duration and obtain proper approvals",
+      "D": "No documentation needed"
+    },
+    "correct_option": "C",
+    "correct_answer": "Limit acting appointment duration and obtain proper approvals"
+  },
+  {
+    "id": 74,
+    "question": "An officer loses an official laptop containing sensitive data. First action?",
+    "options": {
+      "A": "Keep quiet to avoid a query",
+      "B": "Request vendor discount on the next purchase",
+      "C": "Buy a new laptop quietly",
+      "D": "Report the loss, trigger Board of Survey, and inform ICT for security containment"
+    },
+    "correct_option": "D",
+    "correct_answer": "Report the loss, trigger Board of Survey, and inform ICT for security containment"
+  },
+  {
+    "id": 75,
+    "question": "Public correspondence has piled up. A good administrative control is to:",
+    "options": {
+      "A": "Delete non-urgent mails",
+      "B": "Ignore old letters",
+      "C": "Adopt service-wide response timelines and track compliance",
+      "D": "Reply only VIP letters"
+    },
+    "correct_option": "C",
+    "correct_answer": "Adopt service-wide response timelines and track compliance"
+  },
+  {
+    "id": 76,
+    "question": "Using Request for Quotations (shopping), the minimum number of quotes typically sought is:",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "At least three where practicable",
+      "D": "Ten"
+    },
+    "correct_option": "C",
+    "correct_answer": "At least three where practicable"
+  },
+  {
+    "id": 77,
+    "question": "A bidder lodges a formal complaint after award. Correct handling is to:",
+    "options": {
+      "A": "Call the bidder to placate them",
+      "B": "Blacklist automatically",
+      "C": "Ignore because award is final",
+      "D": "Use the procurement complaints/review mechanism per law"
+    },
+    "correct_option": "D",
+    "correct_answer": "Use the procurement complaints/review mechanism per law"
+  },
+  {
+    "id": 78,
+    "question": "Your MDA has an approved framework agreement for ICT consumables. How should call-offs be made?",
+    "options": {
+      "A": "By random selection of any supplier",
+      "B": "Per the framework terms (ranking/mini-competition) and within ceiling values",
+      "C": "By asking end-users to pick vendors",
+      "D": "Through sole-sourcing for speed"
+    },
+    "correct_option": "B",
+    "correct_answer": "Per the framework terms (ranking/mini-competition) and within ceiling values"
+  },
+  {
+    "id": 79,
+    "question": "A unit proposes splitting a ₦85,000,000 procurement into four smaller lots to stay below approval thresholds. This is:",
+    "options": {
+      "A": "Prohibited procurement splitting",
+      "B": "Allowed if urgent",
+      "C": "Prudent planning",
+      "D": "Allowed if the same vendor is used"
+    },
+    "correct_option": "A",
+    "correct_answer": "Prohibited procurement splitting"
+  },
+  {
+    "id": 80,
+    "question": "A director instructs you to backdate minutes to align with a decision already taken. Proper action is:",
+    "options": {
+      "A": "Comply quietly",
+      "B": "Refuse and maintain accurate records; escalate if pressured",
+      "C": "Adjust and mark as 'corrected' without explanation",
+      "D": "Delete the draft"
+    },
+    "correct_option": "B",
+    "correct_answer": "Refuse and maintain accurate records; escalate if pressured"
+  },
+  {
+    "id": 81,
+    "question": "A director instructs you to backdate minutes to align with a decision already taken. Proper action is:",
+    "options": {
+      "A": "Comply quietly",
+      "B": "Refuse and maintain accurate records; escalate if pressured",
+      "C": "Adjust and mark as 'corrected' without explanation",
+      "D": "Delete the draft"
+    },
+    "correct_option": "B",
+    "correct_answer": "Refuse and maintain accurate records; escalate if pressured"
+  },
+  {
+    "id": 82,
+    "question": "After opening, you find an arithmetic error in a bid's totals. What is permissible?",
+    "options": {
+      "A": "Invite the bidder to change unit rates",
+      "B": "Disqualify the bid for any error",
+      "C": "Average the figures with another bid",
+      "D": "Correct arithmetic errors transparently as provided in the solicitation"
+    },
+    "correct_option": "D",
+    "correct_answer": "Correct arithmetic errors transparently as provided in the solicitation"
+  },
+  {
+    "id": 83,
+    "question": "Store records show a variance between ledger and physical count. What control step should occur next?",
+    "options": {
+      "A": "Pay the storekeeper to settle it",
+      "B": "Replace the items personally",
+      "C": "Constitute a Board of Survey and adjust records based on findings",
+      "D": "Ignore since the variance is small"
+    },
+    "correct_option": "C",
+    "correct_answer": "Constitute a Board of Survey and adjust records based on findings"
+  },
+  {
+    "id": 84,
+    "question": "Monthly bank reconciliation has not been done for two months. What should the DFA direct?",
+    "options": {
+      "A": "Immediate reconciliation and explanation of variances",
+      "B": "Stop all payments indefinitely",
+      "C": "Replace the cashier immediately",
+      "D": "Ignore until year-end"
+    },
+    "correct_option": "A",
+    "correct_answer": "Immediate reconciliation and explanation of variances"
+  },
+  {
+    "id": 85,
+    "question": "Two-stage tendering is most suitable when:",
+    "options": {
+      "A": "Budget is small",
+      "B": "Requirements are simple and standard",
+      "C": "Requirements are complex and need initial technical dialogue before final bids",
+      "D": "Only one vendor exists"
+    },
+    "correct_option": "C",
+    "correct_answer": "Requirements are complex and need initial technical dialogue before final bids"
+  },
+  {
+    "id": 86,
+    "question": "A bid arrives 1 hour after the deadline. What should the opening panel do?",
+    "options": {
+      "A": "Accept if the courier was delayed",
+      "B": "Reject—late bids are not opened",
+      "C": "Open but mark 'late'",
+      "D": "Accept in fairness"
+    },
+    "correct_option": "B",
+    "correct_answer": "Reject—late bids are not opened"
+  },
+  {
+    "id": 87,
+    "question": "A whistleblower fears retaliation after reporting fraud signals. Your response should be to:",
+    "options": {
+      "A": "Ignore without action",
+      "B": "Tell them to be bold",
+      "C": "Promise promotion for cooperation",
+      "D": "Protect identity and use proper channels with anti-retaliation measures"
+    },
+    "correct_option": "D",
+    "correct_answer": "Protect identity and use proper channels with anti-retaliation measures"
+  },
+  {
+    "id": 88,
+    "question": "Documents contain confidential budget strategies. Best handling is:",
+    "options": {
+      "A": "Email to personal accounts for backup",
+      "B": "Print and keep at home",
+      "C": "Leave on shared drive without controls",
+      "D": "Classify appropriately and restrict access"
+    },
+    "correct_option": "D",
+    "correct_answer": "Classify appropriately and restrict access"
+  },
+  {
+    "id": 89,
+    "question": "An officer with an unretired travel advance requests another advance. What applies?",
+    "options": {
+      "A": "Decline until the previous advance is retired",
+      "B": "Approve but reduce the amount",
+      "C": "Convert to salary advance",
+      "D": "Approve to encourage field work"
+    },
+    "correct_option": "A",
+    "correct_answer": "Decline until the previous advance is retired"
+  },
+  {
+    "id": 90,
+    "question": "For a major works contract, which insurance control is most appropriate?",
+    "options": {
+      "A": "Works insurance (CAR) and third-party liability as required",
+      "B": "No insurance to cut cost",
+      "C": "Insurance after practical completion",
+      "D": "Contractor’s staff medical only"
+    },
+    "correct_option": "A",
+    "correct_answer": "Works insurance (CAR) and third-party liability as required"
+  },
+  {
+    "id": 91,
+    "question": "A contractor requests 30% advance payment on a works contract. What must be provided first?",
+    "options": {
+      "A": "A letter of comfort from the contractor",
+      "B": "Nothing—advance is standard",
+      "C": "A performance guarantee only",
+      "D": "An advance payment guarantee from an acceptable institution"
+    },
+    "correct_option": "D",
+    "correct_answer": "An advance payment guarantee from an acceptable institution"
+  },
+  {
+    "id": 92,
+    "question": "The lowest-priced bid fails a mandatory technical requirement. How do you proceed?",
+    "options": {
+      "A": "Award because of savings",
+      "B": "Negotiate the requirement away",
+      "C": "Disqualify—the bid is non-responsive",
+      "D": "Give provisional award"
+    },
+    "correct_option": "C",
+    "correct_answer": "Disqualify—the bid is non-responsive"
+  },
+  {
+    "id": 93,
+    "question": "Your MDA plans to rent office space for 10 years. The compliant step is to:",
+    "options": {
+      "A": "Proceed without valuation",
+      "B": "Obtain proper approvals, valuation, and fiscal vetting",
+      "C": "Pay in cash to secure a discount",
+      "D": "Use the contractor’s valuation"
+    },
+    "correct_option": "B",
+    "correct_answer": "Obtain proper approvals, valuation, and fiscal vetting"
+  },
+  {
+    "id": 94,
+    "question": "Your MDA prepares custom bidding documents that omit key statutory clauses. Recommendation:",
+    "options": {
+      "A": "Publish without legal review",
+      "B": "Proceed for speed",
+      "C": "Use standard bidding documents/templates and include mandatory clauses",
+      "D": "Let bidders suggest clauses"
+    },
+    "correct_option": "C",
+    "correct_answer": "Use standard bidding documents/templates and include mandatory clauses"
+  },
+  {
+    "id": 95,
+    "question": "Your MDA prepares custom bidding documents that omit key statutory clauses. Recommendation:",
+    "options": {
+      "A": "Publish without legal review",
+      "B": "Proceed for speed",
+      "C": "Use standard bidding documents/templates and include mandatory clauses",
+      "D": "Let bidders suggest clauses"
+    },
+    "correct_option": "C",
+    "correct_answer": "Use standard bidding documents/templates and include mandatory clauses"
+  },
+  {
+    "id": 96,
+    "question": "As Chair of FCTA Health's bid opening, a bidder asks to submit a missing Bid Security after opening. What should you do to preserve fairness?",
+    "options": {
+      "A": "Disallow—material eligibility documents cannot be added after the deadline",
+      "B": "Allow if all bidders agree at opening",
+      "C": "Accept but mark for clarification during evaluation",
+      "D": "Ask BPP for retrospective approval to add documents"
+    },
+    "correct_option": "A",
+    "correct_answer": "Disallow—material eligibility documents cannot be added after the deadline"
+  },
+  {
+    "id": 97,
+    "question": "Your outstation collects revenue in cash. What is the correct control step?",
+    "options": {
+      "A": "Keep in safe until month-end",
+      "B": "Daily lodgment into TSA and issue receipts",
+      "C": "Use for petty expenses to save time",
+      "D": "Transfer to staff account to lodge later"
+    },
+    "correct_option": "B",
+    "correct_answer": "Daily lodgment into TSA and issue receipts"
+  },
+  {
+    "id": 98,
+    "question": "A GL-15 staff requests 7 extra days of casual leave immediately after annual leave. What should HR do?",
+    "options": {
+      "A": "Approve—casual leave is unlimited",
+      "B": "Decline—no such thing as casual leave in PSR",
+      "C": "Approve within PSR limits and service exigencies",
+      "D": "Convert to study leave automatically"
+    },
+    "correct_option": "C",
+    "correct_answer": "Approve within PSR limits and service exigencies"
+  },
+  {
+    "id": 99,
+    "question": "Best practice in internal control requires segregation of duties. Which combination violates it most?",
+    "options": {
+      "A": "Independent internal audit reviews",
+      "B": "Different officers raising, checking, and approving PVs",
+      "C": "One officer initiates, approves, and pays",
+      "D": "Dual signatories on payments"
+    },
+    "correct_option": "C",
+    "correct_answer": "One officer initiates, approves, and pays"
+  },
+  {
+    "id": 100,
+    "question": "A staff requests compassionate leave for a bereavement. Correct handling is:",
+    "options": {
+      "A": "Approve within PSR provisions",
+      "B": "Convert to annual leave only",
+      "C": "Defer until next quarter",
+      "D": "Deny—no such leave"
+    },
+    "correct_option": "A",
+    "correct_answer": "Approve within PSR provisions"
+  },
+  {
+    "id": 101,
+    "question": "A whistleblower fears retaliation after reporting fraud signals. Your response should be to:",
+    "options": {
+      "A": "Ignore without action",
+      "B": "Tell them to be bold",
+      "C": "Promise promotion for cooperation",
+      "D": "Protect identity and use proper channels with anti-retaliation measures"
+    },
+    "correct_option": "D",
+    "correct_answer": "Protect identity and use proper channels with anti-retaliation measures"
+  },
+  {
+    "id": 102,
+    "question": "At the next meeting, what should be done to previous minutes?",
+    "options": {
+      "A": "Formally confirm/correct and adopt",
+      "B": "Rewrite from memory",
+      "C": "Share via WhatsApp only",
+      "D": "Ignore and move on"
+    },
+    "correct_option": "A",
+    "correct_answer": "Formally confirm/correct and adopt"
+  },
+  {
+    "id": 103,
+    "question": "A probationary officer receives poor performance reviews. What next?",
+    "options": {
+      "A": "Extend probation or terminate per PSR provisions",
+      "B": "Promote to motivate",
+      "C": "Transfer to another unit immediately",
+      "D": "Confirm regardless"
+    },
+    "correct_option": "A",
+    "correct_answer": "Extend probation or terminate per PSR provisions"
+  },
+  {
+    "id": 104,
+    "question": "During verification, you detect possible over-invoicing. Next step:",
+    "options": {
+      "A": "Reduce amount unilaterally and pay",
+      "B": "Approve if budget is available",
+      "C": "Negotiate a discount quietly",
+      "D": "Suspend processing and escalate for investigation"
+    },
+    "correct_option": "D",
+    "correct_answer": "Suspend processing and escalate for investigation"
+  },
+  {
+    "id": 105,
+    "question": "A contractor requests cash payment because “the bank network is down.” The compliant action is:",
+    "options": {
+      "A": "Pay cash and regularize later",
+      "B": "Issue a cheque from imprest",
+      "C": "Pay through TSA/e-payment only",
+      "D": "Give an IOU pending network restoration"
+    },
+    "correct_option": "C",
+    "correct_answer": "Pay through TSA/e-payment only"
+  },
+  {
+    "id": 106,
+    "question": "Travel claims exceed approved per diem rates. Finance should:",
+    "options": {
+      "A": "Apply approved rates and reject excesses",
+      "B": "Pay and regularize later",
+      "C": "Convert to honorarium",
+      "D": "Pay if receipts look genuine"
+    },
+    "correct_option": "A",
+    "correct_answer": "Apply approved rates and reject excesses"
+  },
+  {
+    "id": 107,
+    "question": "You observe signals of collusion between two bidders. What should you do?",
+    "options": {
+      "A": "Report red flags, consider referral, and apply sanctions as provided by law",
+      "B": "Split the award",
+      "C": "Seek price reductions from both",
+      "D": "Ignore—competition exists anyway"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report red flags, consider referral, and apply sanctions as provided by law"
+  },
+  {
+    "id": 108,
+    "question": "During verification, you detect possible over-invoicing. Next step:",
+    "options": {
+      "A": "Negotiate a discount quietly",
+      "B": "Suspend processing and escalate for investigation",
+      "C": "Reduce amount unilaterally and pay",
+      "D": "Approve if budget is available"
+    },
+    "correct_option": "B",
+    "correct_answer": "Suspend processing and escalate for investigation"
+  },
+  {
+    "id": 109,
+    "question": "Incoming/outgoing official letters should be recorded in:",
+    "options": {
+      "A": "Personal notepads",
+      "B": "A registry/dispatch book or digital registry system",
+      "C": "WhatsApp messages",
+      "D": "Random spreadsheets alone"
+    },
+    "correct_option": "B",
+    "correct_answer": "A registry/dispatch book or digital registry system"
+  },
+  {
+    "id": 110,
+    "question": "You receive a gift basket from a regular supplier during evaluation week. What should you do?",
+    "options": {
+      "A": "Hide it to avoid trouble",
+      "B": "Accept and share with team",
+      "C": "Politely decline or record in gifts/hospitality register per policy",
+      "D": "Sell it and donate proceeds"
+    },
+    "correct_option": "C",
+    "correct_answer": "Politely decline or record in gifts/hospitality register per policy"
+  },
+  {
+    "id": 111,
+    "question": "An officer bypasses their Director and writes directly to the Minister on a routine matter. What is the proper corrective action?",
+    "options": {
+      "A": "Issue a query for absenteeism",
+      "B": "Counsel on proper channel per PSR and re-route the memo",
+      "C": "Forward to the SGF for action",
+      "D": "Praise initiative to speed decision-making"
+    },
+    "correct_option": "B",
+    "correct_answer": "Counsel on proper channel per PSR and re-route the memo"
+  },
+  {
+    "id": 112,
+    "question": "Incoming/outgoing official letters should be recorded in:",
+    "options": {
+      "A": "WhatsApp messages",
+      "B": "Random spreadsheets alone",
+      "C": "Personal notepads",
+      "D": "A registry/dispatch book or digital registry system"
+    },
+    "correct_option": "D",
+    "correct_answer": "A registry/dispatch book or digital registry system"
+  },
+  {
+    "id": 113,
+    "question": "During a disciplinary hearing, the officer asks to bring a colleague as companion. What is best?",
+    "options": {
+      "A": "Permit only if the companion is from HR",
+      "B": "Refuse—only lawyers allowed",
+      "C": "Allow a companion in line with fair hearing and policy",
+      "D": "Disallow all companions"
+    },
+    "correct_option": "C",
+    "correct_answer": "Allow a companion in line with fair hearing and policy"
+  },
+  {
+    "id": 114,
+    "question": "Finance is asked to pay for works not yet executed to ‘meet year-end’. Correct action is:",
+    "options": {
+      "A": "Pay half",
+      "B": "Pay and adjust later",
+      "C": "Raise accrual only",
+      "D": "Refuse—no payment without certified performance"
+    },
+    "correct_option": "D",
+    "correct_answer": "Refuse—no payment without certified performance"
+  },
+  {
+    "id": 115,
+    "question": "A calculation mistake is discovered in the evaluation report before approval. What should the committee do?",
+    "options": {
+      "A": "Quietly change the report date",
+      "B": "Re-evaluate transparently and correct the report with minutes",
+      "C": "Send it to legal to hide liability",
+      "D": "Ignore to save time"
+    },
+    "correct_option": "B",
+    "correct_answer": "Re-evaluate transparently and correct the report with minutes"
+  },
+  {
+    "id": 116,
+    "question": "An officer requests study leave with pay for a private diploma unrelated to official duties. The decision should be:",
+    "options": {
+      "A": "Approve without pay",
+      "B": "Decline—study must align with service needs",
+      "C": "Convert to annual leave",
+      "D": "Approve with pay"
+    },
+    "correct_option": "B",
+    "correct_answer": "Decline—study must align with service needs"
+  },
+  {
+    "id": 117,
+    "question": "A GL-14 officer is habitually late citing traffic. What is the PSR-compliant approach?",
+    "options": {
+      "A": "Suspend immediately",
+      "B": "Deduct from annual leave days",
+      "C": "Do nothing—it’s common",
+      "D": "Apply progressive discipline: counsel, then written warning if persistent"
+    },
+    "correct_option": "D",
+    "correct_answer": "Apply progressive discipline: counsel, then written warning if persistent"
+  },
+  {
+    "id": 118,
+    "question": "A vendor is found to have submitted forged documents. What should the MDA pursue?",
+    "options": {
+      "A": "Allow them to withdraw quietly",
+      "B": "A warning letter only",
+      "C": "Sanctions/blacklisting per law and referral to authorities",
+      "D": "Confiscation of bid security only"
+    },
+    "correct_option": "C",
+    "correct_answer": "Sanctions/blacklisting per law and referral to authorities"
+  },
+  {
+    "id": 119,
+    "question": "A bidder offers to sponsor refreshments for the pre-bid conference. What should you do?",
+    "options": {
+      "A": "Accept but declare it later",
+      "B": "Decline to avoid conflict of interest and perception issues",
+      "C": "Allow only if all bidders sponsor jointly",
+      "D": "Accept—it saves government funds"
+    },
+    "correct_option": "B",
+    "correct_answer": "Decline to avoid conflict of interest and perception issues"
+  },
+  {
+    "id": 120,
+    "question": "Two-stage tendering is most suitable when:",
+    "options": {
+      "A": "Requirements are simple and standard",
+      "B": "Requirements are complex and need initial technical dialogue before final bids",
+      "C": "Only one vendor exists",
+      "D": "Budget is small"
+    },
+    "correct_option": "B",
+    "correct_answer": "Requirements are complex and need initial technical dialogue before final bids"
+  },
+  {
+    "id": 121,
+    "question": "You notice the same vendor bank details appear under two different names on multiple PVs. What should you do first?",
+    "options": {
+      "A": "Pay one PV and hold the other",
+      "B": "Approve quickly to avoid delay",
+      "C": "Flag for Internal Audit and verify TSA/BVN vendor master details",
+      "D": "Ignore—it happens often"
+    },
+    "correct_option": "C",
+    "correct_answer": "Flag for Internal Audit and verify TSA/BVN vendor master details"
+  },
+  {
+    "id": 122,
+    "question": "A GL-16 applies to take 45 consecutive days of annual leave. What should be approved?",
+    "options": {
+      "A": "Convert excess to overtime",
+      "B": "45 days annual leave at once",
+      "C": "30 days annual leave; balance via appropriate leave types if eligible",
+      "D": "Deny all leave requests"
+    },
+    "correct_option": "C",
+    "correct_answer": "30 days annual leave; balance via appropriate leave types if eligible"
+  },
+  {
+    "id": 123,
+    "question": "Internal Audit queries unsupported payments. Your best response is:",
+    "options": {
+      "A": "Provide supporting documents promptly and strengthen controls",
+      "B": "Blame the cashier solely",
+      "C": "Return the funds from IGR immediately",
+      "D": "Ignore—it will pass"
+    },
+    "correct_option": "A",
+    "correct_answer": "Provide supporting documents promptly and strengthen controls"
+  },
+  {
+    "id": 124,
+    "question": "Your MDA has an approved framework agreement for ICT consumables. How should call-offs be made?",
+    "options": {
+      "A": "Per the framework terms (ranking/mini-competition) and within ceiling values",
+      "B": "By asking end-users to pick vendors",
+      "C": "Through sole-sourcing for speed",
+      "D": "By random selection of any supplier"
+    },
+    "correct_option": "A",
+    "correct_answer": "Per the framework terms (ranking/mini-competition) and within ceiling values"
+  },
+  {
+    "id": 125,
+    "question": "A whistleblower fears retaliation after reporting fraud signals. Your response should be to:",
+    "options": {
+      "A": "Promise promotion for cooperation",
+      "B": "Protect identity and use proper channels with anti-retaliation measures",
+      "C": "Ignore without action",
+      "D": "Tell them to be bold"
+    },
+    "correct_option": "B",
+    "correct_answer": "Protect identity and use proper channels with anti-retaliation measures"
+  },
+  {
+    "id": 126,
+    "question": "An officer bypasses their Director and writes directly to the Minister on a routine matter. What is the proper corrective action?",
+    "options": {
+      "A": "Forward to the SGF for action",
+      "B": "Praise initiative to speed decision-making",
+      "C": "Issue a query for absenteeism",
+      "D": "Counsel on proper channel per PSR and re-route the memo"
+    },
+    "correct_option": "D",
+    "correct_answer": "Counsel on proper channel per PSR and re-route the memo"
+  },
+  {
+    "id": 127,
+    "question": "You’re asked to shred old payment vouchers to create space without records. Correct step is:",
+    "options": {
+      "A": "Obey the instruction",
+      "B": "Digitize only and ignore schedules",
+      "C": "Follow records retention/disposal schedule with approvals and documentation",
+      "D": "Burn quietly"
+    },
+    "correct_option": "C",
+    "correct_answer": "Follow records retention/disposal schedule with approvals and documentation"
+  },
+  {
+    "id": 128,
+    "question": "Finance detects mismatched vendor names and accounts. Best control is to:",
+    "options": {
+      "A": "Ask the vendor to write an undertaking",
+      "B": "Split the payment over time",
+      "C": "Proceed if the bank confirmed payment",
+      "D": "Verify vendor details via BVN/TSA vendor master before payment"
+    },
+    "correct_option": "D",
+    "correct_answer": "Verify vendor details via BVN/TSA vendor master before payment"
+  },
+  {
+    "id": 129,
+    "question": "The contractor exceeded completion date without approval. What applies?",
+    "options": {
+      "A": "Pay early to encourage speed",
+      "B": "Terminate immediately without review",
+      "C": "Grant more time verbally",
+      "D": "Apply liquidated damages per contract terms"
+    },
+    "correct_option": "D",
+    "correct_answer": "Apply liquidated damages per contract terms"
+  },
+  {
+    "id": 130,
+    "question": "A procurement staff has a sibling working with a bidding firm. Required action is to:",
+    "options": {
+      "A": "Declare the conflict and step aside from the process",
+      "B": "Secretly score the firm low",
+      "C": "Destroy the staff’s records",
+      "D": "Ignore if the staff is professional"
+    },
+    "correct_option": "A",
+    "correct_answer": "Declare the conflict and step aside from the process"
+  },
+  {
+    "id": 131,
+    "question": "An officer loses an official laptop containing sensitive data. First action?",
+    "options": {
+      "A": "Request vendor discount on the next purchase",
+      "B": "Buy a new laptop quietly",
+      "C": "Report the loss, trigger Board of Survey, and inform ICT for security containment",
+      "D": "Keep quiet to avoid a query"
+    },
+    "correct_option": "C",
+    "correct_answer": "Report the loss, trigger Board of Survey, and inform ICT for security containment"
+  },
+  {
+    "id": 132,
+    "question": "The contractor requests final payment but a snag list remains. Correct action:",
+    "options": {
+      "A": "Release payment and write a warning",
+      "B": "Pay—snags are minor",
+      "C": "Pay 50% pending completion",
+      "D": "Withhold final payment until completion certificate is issued"
+    },
+    "correct_option": "D",
+    "correct_answer": "Withhold final payment until completion certificate is issued"
+  },
+  {
+    "id": 133,
+    "question": "An officer bypasses their Director and writes directly to the Minister on a routine matter. What is the proper corrective action?",
+    "options": {
+      "A": "Praise initiative to speed decision-making",
+      "B": "Issue a query for absenteeism",
+      "C": "Counsel on proper channel per PSR and re-route the memo",
+      "D": "Forward to the SGF for action"
+    },
+    "correct_option": "C",
+    "correct_answer": "Counsel on proper channel per PSR and re-route the memo"
+  },
+  {
+    "id": 134,
+    "question": "Processing personal data should follow:",
+    "options": {
+      "A": "Only manager’s instructions",
+      "B": "Vendor preferences",
+      "C": "No rules—data is in the office",
+      "D": "Data protection principles (lawful basis, minimization, security)"
+    },
+    "correct_option": "D",
+    "correct_answer": "Data protection principles (lawful basis, minimization, security)"
+  },
+  {
+    "id": 135,
+    "question": "An officer bypasses their Director and writes directly to the Minister on a routine matter. What is the proper corrective action?",
+    "options": {
+      "A": "Praise initiative to speed decision-making",
+      "B": "Issue a query for absenteeism",
+      "C": "Counsel on proper channel per PSR and re-route the memo",
+      "D": "Forward to the SGF for action"
+    },
+    "correct_option": "C",
+    "correct_answer": "Counsel on proper channel per PSR and re-route the memo"
+  },
+  {
+    "id": 136,
+    "question": "During evaluation, a member shares interim scores outside the committee. This breaches:",
+    "options": {
+      "A": "Confidentiality of evaluation",
+      "B": "FOI Act",
+      "C": "Budget circular",
+      "D": "Nothing—it’s transparency"
+    },
+    "correct_option": "A",
+    "correct_answer": "Confidentiality of evaluation"
+  },
+  {
+    "id": 137,
+    "question": "Old government vehicles need disposal. Correct approach is:",
+    "options": {
+      "A": "Write-off without record",
+      "B": "Gift them to staff",
+      "C": "Auction/trade-in per approved disposal procedures and valuation",
+      "D": "Sell privately to reduce paperwork"
+    },
+    "correct_option": "C",
+    "correct_answer": "Auction/trade-in per approved disposal procedures and valuation"
+  },
+  {
+    "id": 138,
+    "question": "An officer bypasses their Director and writes directly to the Minister on a routine matter. What is the proper corrective action?",
+    "options": {
+      "A": "Praise initiative to speed decision-making",
+      "B": "Issue a query for absenteeism",
+      "C": "Counsel on proper channel per PSR and re-route the memo",
+      "D": "Forward to the SGF for action"
+    },
+    "correct_option": "C",
+    "correct_answer": "Counsel on proper channel per PSR and re-route the memo"
+  },
+  {
+    "id": 139,
+    "question": "A GL-14 officer is habitually late citing traffic. What is the PSR-compliant approach?",
+    "options": {
+      "A": "Do nothing—it’s common",
+      "B": "Apply progressive discipline: counsel, then written warning if persistent",
+      "C": "Suspend immediately",
+      "D": "Deduct from annual leave days"
+    },
+    "correct_option": "B",
+    "correct_answer": "Apply progressive discipline: counsel, then written warning if persistent"
+  },
+  {
+    "id": 140,
+    "question": "A bidder lodges a formal complaint after award. Correct handling is to:",
+    "options": {
+      "A": "Ignore because award is final",
+      "B": "Use the procurement complaints/review mechanism per law",
+      "C": "Call the bidder to placate them",
+      "D": "Blacklist automatically"
+    },
+    "correct_option": "B",
+    "correct_answer": "Use the procurement complaints/review mechanism per law"
+  },
+  {
+    "id": 141,
+    "question": "You receive a gift basket from a regular supplier during evaluation week. What should you do?",
+    "options": {
+      "A": "Hide it to avoid trouble",
+      "B": "Accept and share with team",
+      "C": "Politely decline or record in gifts/hospitality register per policy",
+      "D": "Sell it and donate proceeds"
+    },
+    "correct_option": "C",
+    "correct_answer": "Politely decline or record in gifts/hospitality register per policy"
+  },
+  {
+    "id": 142,
+    "question": "An officer with an unretired travel advance requests another advance. What applies?",
+    "options": {
+      "A": "Approve to encourage field work",
+      "B": "Decline until the previous advance is retired",
+      "C": "Approve but reduce the amount",
+      "D": "Convert to salary advance"
+    },
+    "correct_option": "B",
+    "correct_answer": "Decline until the previous advance is retired"
+  },
+  {
+    "id": 143,
+    "question": "A construction project may affect wetlands. The compliant step is to:",
+    "options": {
+      "A": "Shift work to night",
+      "B": "Proceed—environment is secondary",
+      "C": "Conduct environmental/social impact processes and mitigation per law",
+      "D": "Ask contractor to ignore complaints"
+    },
+    "correct_option": "C",
+    "correct_answer": "Conduct environmental/social impact processes and mitigation per law"
+  },
+  {
+    "id": 144,
+    "question": "During evaluation, a member shares interim scores outside the committee. This breaches:",
+    "options": {
+      "A": "Nothing—it’s transparency",
+      "B": "Confidentiality of evaluation",
+      "C": "FOI Act",
+      "D": "Budget circular"
+    },
+    "correct_option": "B",
+    "correct_answer": "Confidentiality of evaluation"
+  },
+  {
+    "id": 145,
+    "question": "For new hires into sensitive roles, what control is appropriate?",
+    "options": {
+      "A": "No checks to fill fast",
+      "B": "Medical fitness certification as required",
+      "C": "Self-declaration only",
+      "D": "Social media review only"
+    },
+    "correct_option": "B",
+    "correct_answer": "Medical fitness certification as required"
+  },
+  {
+    "id": 146,
+    "question": "For a consultancy, what sequence is correct?",
+    "options": {
+      "A": "RFP → EOI → Negotiation → Award",
+      "B": "Shortlist → Award → EOI → RFP",
+      "C": "Award → EOI → Shortlist → RFP",
+      "D": "EOI → Shortlist → RFP → Evaluation"
+    },
+    "correct_option": "D",
+    "correct_answer": "EOI → Shortlist → RFP → Evaluation"
+  },
+  {
+    "id": 147,
+    "question": "A bid arrives 5 minutes after the deadline. What should the opening panel do?",
+    "options": {
+      "A": "Reject—late bids are not opened",
+      "B": "Open but mark 'late'",
+      "C": "Accept in fairness",
+      "D": "Accept if the courier was delayed"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reject—late bids are not opened"
+  },
+  {
+    "id": 148,
+    "question": "A director instructs you to backdate minutes to align with a decision already taken. Proper action is:",
+    "options": {
+      "A": "Adjust and mark as 'corrected' without explanation",
+      "B": "Delete the draft",
+      "C": "Comply quietly",
+      "D": "Refuse and maintain accurate records; escalate if pressured"
+    },
+    "correct_option": "D",
+    "correct_answer": "Refuse and maintain accurate records; escalate if pressured"
+  },
+  {
+    "id": 149,
+    "question": "Your unit operates a petty cash imprest. What is correct practice?",
+    "options": {
+      "A": "Keep imprest at home for safety",
+      "B": "Top up before retiring previous imprest",
+      "C": "Retire imprest with receipts before replenishment",
+      "D": "Use cash for vendor payments above thresholds"
+    },
+    "correct_option": "C",
+    "correct_answer": "Retire imprest with receipts before replenishment"
+  },
+  {
+    "id": 150,
+    "question": "An officer uses an official vehicle for a private trip out of state. Proper response:",
+    "options": {
+      "A": "Reimburse fuel only",
+      "B": "Let the officer sign an undertaking",
+      "C": "Ignore—it’s after hours",
+      "D": "Apply policy: restrict use to official duties and enforce sanctions"
+    },
+    "correct_option": "D",
+    "correct_answer": "Apply policy: restrict use to official duties and enforce sanctions"
+  },
+  {
+    "id": 151,
+    "question": "The contractor exceeded completion date without approval. What applies?",
+    "options": {
+      "A": "Pay early to encourage speed",
+      "B": "Terminate immediately without review",
+      "C": "Grant more time verbally",
+      "D": "Apply liquidated damages per contract terms"
+    },
+    "correct_option": "D",
+    "correct_answer": "Apply liquidated damages per contract terms"
+  },
+  {
+    "id": 152,
+    "question": "Political rallies are planned in the office car park during work hours. Policy says:",
+    "options": {
+      "A": "Allow for staff morale",
+      "B": "Prohibit electioneering in official premises and working hours",
+      "C": "Permit if majority agrees",
+      "D": "Let unions decide"
+    },
+    "correct_option": "B",
+    "correct_answer": "Prohibit electioneering in official premises and working hours"
+  },
+  {
+    "id": 153,
+    "question": "After a fire incident at Kuje station, your MDA needs generators immediately to restore operations. What is the compliant approach?",
+    "options": {
+      "A": "Use emergency procurement with written justification and value-for-money checks",
+      "B": "Single-source without documentation since lives were at risk",
+      "C": "Buy from a known vendor in cash and document later",
+      "D": "Ask the vendor to 'sponsor' supply and repay later"
+    },
+    "correct_option": "A",
+    "correct_answer": "Use emergency procurement with written justification and value-for-money checks"
+  },
+  {
+    "id": 154,
+    "question": "A bidder offers to sponsor refreshments for the pre-bid conference. What should you do?",
+    "options": {
+      "A": "Allow only if all bidders sponsor jointly",
+      "B": "Accept—it saves government funds",
+      "C": "Accept but declare it later",
+      "D": "Decline to avoid conflict of interest and perception issues"
+    },
+    "correct_option": "D",
+    "correct_answer": "Decline to avoid conflict of interest and perception issues"
+  },
+  {
+    "id": 155,
+    "question": "Old government vehicles need disposal. Correct approach is:",
+    "options": {
+      "A": "Sell privately to reduce paperwork",
+      "B": "Write-off without record",
+      "C": "Gift them to staff",
+      "D": "Auction/trade-in per approved disposal procedures and valuation"
+    },
+    "correct_option": "D",
+    "correct_answer": "Auction/trade-in per approved disposal procedures and valuation"
+  },
+  {
+    "id": 156,
+    "question": "Monthly bank reconciliation has not been done for two months. What should the DFA direct?",
+    "options": {
+      "A": "Immediate reconciliation and explanation of variances",
+      "B": "Stop all payments indefinitely",
+      "C": "Replace the cashier immediately",
+      "D": "Ignore until year-end"
+    },
+    "correct_option": "A",
+    "correct_answer": "Immediate reconciliation and explanation of variances"
+  },
+  {
+    "id": 157,
+    "question": "Store records show a variance between ledger and physical count. What control step should occur next?",
+    "options": {
+      "A": "Pay the storekeeper to settle it",
+      "B": "Replace the items personally",
+      "C": "Constitute a Board of Survey and adjust records based on findings",
+      "D": "Ignore since the variance is small"
+    },
+    "correct_option": "C",
+    "correct_answer": "Constitute a Board of Survey and adjust records based on findings"
+  },
+  {
+    "id": 158,
+    "question": "An officer requests exemption from asset declaration. What should be done?",
+    "options": {
+      "A": "Decline—comply with asset declaration laws",
+      "B": "Replace with an HR form",
+      "C": "Approve for senior officers",
+      "D": "Exempt if known to you"
+    },
+    "correct_option": "A",
+    "correct_answer": "Decline—comply with asset declaration laws"
+  },
+  {
+    "id": 159,
+    "question": "After an approved scope change, the contractor requests a variation. Proper response is:",
+    "options": {
+      "A": "Approve any amount requested",
+      "B": "Process variation per contract terms and approval thresholds",
+      "C": "Tell contractor to absorb costs",
+      "D": "Variations are illegal"
+    },
+    "correct_option": "B",
+    "correct_answer": "Process variation per contract terms and approval thresholds"
+  },
+  {
+    "id": 160,
+    "question": "Using Request for Quotations (shopping), the minimum number of quotes typically sought is:",
+    "options": {
+      "A": "At least three where practicable",
+      "B": "Ten",
+      "C": "One",
+      "D": "Two"
+    },
+    "correct_option": "A",
+    "correct_answer": "At least three where practicable"
+  },
+  {
+    "id": 161,
+    "question": "A director is transferred. What should be ensured for continuity?",
+    "options": {
+      "A": "No need—everyone knows their job",
+      "B": "Comprehensive handover notes and asset records",
+      "C": "Only verbal brief",
+      "D": "Let the new officer figure it out"
+    },
+    "correct_option": "B",
+    "correct_answer": "Comprehensive handover notes and asset records"
+  },
+  {
+    "id": 162,
+    "question": "An officer uses an official vehicle for a private trip out of state. Proper response:",
+    "options": {
+      "A": "Reimburse fuel only",
+      "B": "Let the officer sign an undertaking",
+      "C": "Ignore—it’s after hours",
+      "D": "Apply policy: restrict use to official duties and enforce sanctions"
+    },
+    "correct_option": "D",
+    "correct_answer": "Apply policy: restrict use to official duties and enforce sanctions"
+  },
+  {
+    "id": 163,
+    "question": "Travel claims exceed approved per diem rates. Finance should:",
+    "options": {
+      "A": "Pay if receipts look genuine",
+      "B": "Apply approved rates and reject excesses",
+      "C": "Pay and regularize later",
+      "D": "Convert to honorarium"
+    },
+    "correct_option": "B",
+    "correct_answer": "Apply approved rates and reject excesses"
+  },
+  {
+    "id": 164,
+    "question": "An officer requests study leave with pay for a private diploma unrelated to official duties. The decision should be:",
+    "options": {
+      "A": "Decline—study must align with service needs",
+      "B": "Convert to annual leave",
+      "C": "Approve with pay",
+      "D": "Approve without pay"
+    },
+    "correct_option": "A",
+    "correct_answer": "Decline—study must align with service needs"
+  },
+  {
+    "id": 165,
+    "question": "A unit proposes splitting a ₦25,000,000 procurement into four smaller lots to stay below approval thresholds. This is:",
+    "options": {
+      "A": "Allowed if urgent",
+      "B": "Prudent planning",
+      "C": "Allowed if the same vendor is used",
+      "D": "Prohibited procurement splitting"
+    },
+    "correct_option": "D",
+    "correct_answer": "Prohibited procurement splitting"
+  },
+  {
+    "id": 166,
+    "question": "Stores received items without an inspection/acceptance certificate. Next step is:",
+    "options": {
+      "A": "Insist on inspection/acceptance certificate before posting",
+      "B": "Pay first to avoid delay",
+      "C": "Post to ledger anyway",
+      "D": "Create GRN based on invoice alone"
+    },
+    "correct_option": "A",
+    "correct_answer": "Insist on inspection/acceptance certificate before posting"
+  },
+  {
+    "id": 167,
+    "question": "An ICT service lacks uptime commitments. Best control is to:",
+    "options": {
+      "A": "Remove monitoring",
+      "B": "Hope for the best",
+      "C": "Include a Service Level Agreement with KPIs and penalties",
+      "D": "Pay more to encourage performance"
+    },
+    "correct_option": "C",
+    "correct_answer": "Include a Service Level Agreement with KPIs and penalties"
+  },
+  {
+    "id": 168,
+    "question": "Documents contain confidential budget strategies. Best handling is:",
+    "options": {
+      "A": "Email to personal accounts for backup",
+      "B": "Print and keep at home",
+      "C": "Leave on shared drive without controls",
+      "D": "Classify appropriately and restrict access"
+    },
+    "correct_option": "D",
+    "correct_answer": "Classify appropriately and restrict access"
+  },
+  {
+    "id": 169,
+    "question": "Mid-year, a critical IT project was omitted from the approved procurement plan. What should happen first?",
+    "options": {
+      "A": "Single-source immediately",
+      "B": "Recode it under stationery",
+      "C": "Proceed without plan",
+      "D": "Update the procurement plan and obtain approvals"
+    },
+    "correct_option": "D",
+    "correct_answer": "Update the procurement plan and obtain approvals"
+  },
+  {
+    "id": 170,
+    "question": "Old government vehicles need disposal. Correct approach is:",
+    "options": {
+      "A": "Auction/trade-in per approved disposal procedures and valuation",
+      "B": "Sell privately to reduce paperwork",
+      "C": "Write-off without record",
+      "D": "Gift them to staff"
+    },
+    "correct_option": "A",
+    "correct_answer": "Auction/trade-in per approved disposal procedures and valuation"
+  },
+  {
+    "id": 171,
+    "question": "Management wants to award a consultancy without advertising because the expert is 'famous'. Correct approach:",
+    "options": {
+      "A": "Proceed directly",
+      "B": "Use appropriate method (e.g., QCBS) with proper solicitation",
+      "C": "Negotiate and record later",
+      "D": "Ask the expert to draft the ToR alone"
+    },
+    "correct_option": "B",
+    "correct_answer": "Use appropriate method (e.g., QCBS) with proper solicitation"
+  },
+  {
+    "id": 172,
+    "question": "A GL-16 applies to take 45 consecutive days of annual leave. What should be approved?",
+    "options": {
+      "A": "30 days annual leave; balance via appropriate leave types if eligible",
+      "B": "Deny all leave requests",
+      "C": "Convert excess to overtime",
+      "D": "45 days annual leave at once"
+    },
+    "correct_option": "A",
+    "correct_answer": "30 days annual leave; balance via appropriate leave types if eligible"
+  },
+  {
+    "id": 173,
+    "question": "A staff requests compassionate leave for a bereavement. Correct handling is:",
+    "options": {
+      "A": "Deny—no such leave",
+      "B": "Approve within PSR provisions",
+      "C": "Convert to annual leave only",
+      "D": "Defer until next quarter"
+    },
+    "correct_option": "B",
+    "correct_answer": "Approve within PSR provisions"
+  },
+  {
+    "id": 174,
+    "question": "As Chair of FCTA Agriculture's bid opening, a bidder asks to submit a missing Tax Clearance after opening. What should you do to preserve fairness?",
+    "options": {
+      "A": "Accept but mark for clarification during evaluation",
+      "B": "Ask BPP for retrospective approval to add documents",
+      "C": "Disallow—material eligibility documents cannot be added after the deadline",
+      "D": "Allow if all bidders agree at opening"
+    },
+    "correct_option": "C",
+    "correct_answer": "Disallow—material eligibility documents cannot be added after the deadline"
+  },
+  {
+    "id": 175,
+    "question": "After an approved scope change, the contractor requests a variation. Proper response is:",
+    "options": {
+      "A": "Approve any amount requested",
+      "B": "Process variation per contract terms and approval thresholds",
+      "C": "Tell contractor to absorb costs",
+      "D": "Variations are illegal"
+    },
+    "correct_option": "B",
+    "correct_answer": "Process variation per contract terms and approval thresholds"
+  },
+  {
+    "id": 176,
+    "question": "Two-stage tendering is most suitable when:",
+    "options": {
+      "A": "Requirements are complex and need initial technical dialogue before final bids",
+      "B": "Only one vendor exists",
+      "C": "Budget is small",
+      "D": "Requirements are simple and standard"
+    },
+    "correct_option": "A",
+    "correct_answer": "Requirements are complex and need initial technical dialogue before final bids"
+  },
+  {
+    "id": 177,
+    "question": "For a rural water project, what step increases sustainability and acceptance?",
+    "options": {
+      "A": "Ignore the community",
+      "B": "Engage community stakeholders and include O&M plans",
+      "C": "Award to the chief’s company",
+      "D": "Deliver without training"
+    },
+    "correct_option": "B",
+    "correct_answer": "Engage community stakeholders and include O&M plans"
+  },
+  {
+    "id": 178,
+    "question": "A unit proposes splitting a ₦25,000,000 procurement into four smaller lots to stay below approval thresholds. This is:",
+    "options": {
+      "A": "Allowed if urgent",
+      "B": "Prudent planning",
+      "C": "Allowed if the same vendor is used",
+      "D": "Prohibited procurement splitting"
+    },
+    "correct_option": "D",
+    "correct_answer": "Prohibited procurement splitting"
+  },
+  {
+    "id": 179,
+    "question": "Using Request for Quotations (shopping), the minimum number of quotes typically sought is:",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "At least three where practicable",
+      "D": "Ten"
+    },
+    "correct_option": "C",
+    "correct_answer": "At least three where practicable"
+  },
+  {
+    "id": 180,
+    "question": "An officer requests exemption from asset declaration. What should be done?",
+    "options": {
+      "A": "Replace with an HR form",
+      "B": "Approve for senior officers",
+      "C": "Exempt if known to you",
+      "D": "Decline—comply with asset declaration laws"
+    },
+    "correct_option": "D",
+    "correct_answer": "Decline—comply with asset declaration laws"
+  },
+  {
+    "id": 181,
+    "question": "A bidder’s tax clearance expired one week before submission. Treatment?",
+    "options": {
+      "A": "Ask FIRS to validate orally",
+      "B": "Accept because it’s recent",
+      "C": "Accept if they promise to renew",
+      "D": "Treat as non-responsive if the solicitation required current clearance"
+    },
+    "correct_option": "D",
+    "correct_answer": "Treat as non-responsive if the solicitation required current clearance"
+  },
+  {
+    "id": 182,
+    "question": "A commissioner's liaison requests access to procurement documents before public opening. Your best response is:",
+    "options": {
+      "A": "Explain confidentiality and release only what is public at the proper stage",
+      "B": "Give a private briefing with likely winners",
+      "C": "Send all documents by email and mark 'confidential'",
+      "D": "Share drafts to maintain good relations"
+    },
+    "correct_option": "A",
+    "correct_answer": "Explain confidentiality and release only what is public at the proper stage"
+  },
+  {
+    "id": 183,
+    "question": "A commissioner's liaison requests access to procurement documents before public opening. Your best response is:",
+    "options": {
+      "A": "Send all documents by email and mark 'confidential'",
+      "B": "Share drafts to maintain good relations",
+      "C": "Explain confidentiality and release only what is public at the proper stage",
+      "D": "Give a private briefing with likely winners"
+    },
+    "correct_option": "C",
+    "correct_answer": "Explain confidentiality and release only what is public at the proper stage"
+  },
+  {
+    "id": 184,
+    "question": "A staff posts confidential minutes on social media. This violates:",
+    "options": {
+      "A": "Nothing—it’s freedom of expression",
+      "B": "Official secrecy/confidentiality policies and may breach PSR",
+      "C": "Only social media etiquette",
+      "D": "Budget circular"
+    },
+    "correct_option": "B",
+    "correct_answer": "Official secrecy/confidentiality policies and may breach PSR"
+  },
+  {
+    "id": 185,
+    "question": "An officer uses an official vehicle for a private trip out of state. Proper response:",
+    "options": {
+      "A": "Ignore—it’s after hours",
+      "B": "Apply policy: restrict use to official duties and enforce sanctions",
+      "C": "Reimburse fuel only",
+      "D": "Let the officer sign an undertaking"
+    },
+    "correct_option": "B",
+    "correct_answer": "Apply policy: restrict use to official duties and enforce sanctions"
+  },
+  {
+    "id": 186,
+    "question": "You observe signals of collusion between two bidders. What should you do?",
+    "options": {
+      "A": "Report red flags, consider referral, and apply sanctions as provided by law",
+      "B": "Split the award",
+      "C": "Seek price reductions from both",
+      "D": "Ignore—competition exists anyway"
+    },
+    "correct_option": "A",
+    "correct_answer": "Report red flags, consider referral, and apply sanctions as provided by law"
+  },
+  {
+    "id": 187,
+    "question": "For new hires into sensitive roles, what control is appropriate?",
+    "options": {
+      "A": "Social media review only",
+      "B": "No checks to fill fast",
+      "C": "Medical fitness certification as required",
+      "D": "Self-declaration only"
+    },
+    "correct_option": "C",
+    "correct_answer": "Medical fitness certification as required"
+  },
+  {
+    "id": 188,
+    "question": "A director instructs you to backdate minutes to align with a decision already taken. Proper action is:",
+    "options": {
+      "A": "Delete the draft",
+      "B": "Comply quietly",
+      "C": "Refuse and maintain accurate records; escalate if pressured",
+      "D": "Adjust and mark as 'corrected' without explanation"
+    },
+    "correct_option": "C",
+    "correct_answer": "Refuse and maintain accurate records; escalate if pressured"
+  },
+  {
+    "id": 189,
+    "question": "A petition alleges bias by a panel member during promotion interviews. What should happen?",
+    "options": {
+      "A": "Escalate and recuse the member if conflict is established",
+      "B": "Share on social media for opinions",
+      "C": "Promote all candidates to avoid dispute",
+      "D": "Trash the petition"
+    },
+    "correct_option": "A",
+    "correct_answer": "Escalate and recuse the member if conflict is established"
+  },
+  {
+    "id": 190,
+    "question": "Evaluation shows the lowest evaluated responsive bidder, but FCDA management prefers a legacy supplier. What should the committee recommend?",
+    "options": {
+      "A": "Recommend the legacy supplier to maintain relationships",
+      "B": "Cancel the process without cause",
+      "C": "Split the award between both suppliers",
+      "D": "Recommend award to the bidder ranked first by the published criteria"
+    },
+    "correct_option": "D",
+    "correct_answer": "Recommend award to the bidder ranked first by the published criteria"
+  },
+  {
+    "id": 191,
+    "question": "During verification, you detect possible over-invoicing. Next step:",
+    "options": {
+      "A": "Reduce amount unilaterally and pay",
+      "B": "Approve if budget is available",
+      "C": "Negotiate a discount quietly",
+      "D": "Suspend processing and escalate for investigation"
+    },
+    "correct_option": "D",
+    "correct_answer": "Suspend processing and escalate for investigation"
+  },
+  {
+    "id": 192,
+    "question": "Stores received items without an inspection/acceptance certificate. Next step is:",
+    "options": {
+      "A": "Insist on inspection/acceptance certificate before posting",
+      "B": "Pay first to avoid delay",
+      "C": "Post to ledger anyway",
+      "D": "Create GRN based on invoice alone"
+    },
+    "correct_option": "A",
+    "correct_answer": "Insist on inspection/acceptance certificate before posting"
+  },
+  {
+    "id": 193,
+    "question": "There is an injury in the office due to faulty wiring. What should management do?",
+    "options": {
+      "A": "Ignore—minor incident",
+      "B": "Report/record the incident, provide care, and fix hazards promptly",
+      "C": "Deduct from staff salary",
+      "D": "Publish names on notice board"
+    },
+    "correct_option": "B",
+    "correct_answer": "Report/record the incident, provide care, and fix hazards promptly"
+  },
+  {
+    "id": 194,
+    "question": "You’re asked to shred old payment vouchers to create space without records. Correct step is:",
+    "options": {
+      "A": "Obey the instruction",
+      "B": "Digitize only and ignore schedules",
+      "C": "Follow records retention/disposal schedule with approvals and documentation",
+      "D": "Burn quietly"
+    },
+    "correct_option": "C",
+    "correct_answer": "Follow records retention/disposal schedule with approvals and documentation"
+  },
+  {
+    "id": 195,
+    "question": "Only one bid is responsive after evaluation. What is compliant?",
+    "options": {
+      "A": "Change criteria to fit more bidders",
+      "B": "Negotiate price and award if method allows and transparency is ensured",
+      "C": "Cancel because single bidder can never be awarded",
+      "D": "Add new bidders post-deadline"
+    },
+    "correct_option": "B",
+    "correct_answer": "Negotiate price and award if method allows and transparency is ensured"
+  },
+  {
+    "id": 196,
+    "question": "An officer on interdiction demands full salary. What applies?",
+    "options": {
+      "A": "Pay proportion per PSR until case concludes",
+      "B": "Stop all pay permanently",
+      "C": "Back-pay monthly",
+      "D": "Approve full salary"
+    },
+    "correct_option": "A",
+    "correct_answer": "Pay proportion per PSR until case concludes"
+  },
+  {
+    "id": 197,
+    "question": "After evaluation, management wants to add a new criterion. What applies?",
+    "options": {
+      "A": "Negotiate secretly",
+      "B": "Adjust scores informally",
+      "C": "Add it and rescore",
+      "D": "Maintain original criteria; if needed, re-advertise with new criteria"
+    },
+    "correct_option": "D",
+    "correct_answer": "Maintain original criteria; if needed, re-advertise with new criteria"
+  },
+  {
+    "id": 198,
+    "question": "Your outstation collects revenue in cash. What is the correct control step?",
+    "options": {
+      "A": "Transfer to staff account to lodge later",
+      "B": "Keep in safe until month-end",
+      "C": "Daily lodgment into TSA and issue receipts",
+      "D": "Use for petty expenses to save time"
+    },
+    "correct_option": "C",
+    "correct_answer": "Daily lodgment into TSA and issue receipts"
+  },
+  {
+    "id": 199,
+    "question": "Evaluation shows the lowest evaluated responsive bidder, but FCTA Education management prefers a legacy supplier. What should the committee recommend?",
+    "options": {
+      "A": "Recommend award to the bidder ranked first by the published criteria",
+      "B": "Recommend the legacy supplier to maintain relationships",
+      "C": "Cancel the process without cause",
+      "D": "Split the award between both suppliers"
+    },
+    "correct_option": "A",
+    "correct_answer": "Recommend award to the bidder ranked first by the published criteria"
+  },
+  {
+    "id": 200,
+    "question": "An interview panel member is a cousin to a candidate. What should happen?",
+    "options": {
+      "A": "Score the cousin low to offset bias",
+      "B": "Ask the chair to cover up",
+      "C": "Continue silently",
+      "D": "Disclose and recuse to avoid conflict"
+    },
+    "correct_option": "D",
+    "correct_answer": "Disclose and recuse to avoid conflict"
+  }
+]

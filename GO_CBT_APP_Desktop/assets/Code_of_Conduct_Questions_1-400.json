@@ -1,0 +1,4402 @@
+[
+  {
+    "number": 1,
+    "question": "What part of the Nigerian Constitution contains the Code of Conduct for public officers?",
+    "options": {
+      "A": "Chapter II",
+      "B": "Chapter IV",
+      "C": "Fifth Schedule, Part I",
+      "D": "Ninth Schedule"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 2,
+    "question": "Who enforces the Code of Conduct for public officers in Nigeria?",
+    "options": {
+      "A": "Public Complaints Commission",
+      "B": "Code of Conduct Bureau",
+      "C": "National Assembly",
+      "D": "Ministry of Justice"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 3,
+    "question": "What tribunal tries cases of code of conduct violations?",
+    "options": {
+      "A": "Supreme Court",
+      "B": "Court of Appeal",
+      "C": "Code of Conduct Tribunal",
+      "D": "Federal High Court"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 4,
+    "question": "What must a public officer declare upon assuming office?",
+    "options": {
+      "A": "Marital status",
+      "B": "Voter\u2019s card",
+      "C": "Assets and liabilities",
+      "D": "Bank Verification Number"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 5,
+    "question": "Which official may authorize a public officer to operate a foreign bank account?",
+    "options": {
+      "A": "Attorney General",
+      "B": "Senate President",
+      "C": "President",
+      "D": "Head of Service"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 6,
+    "question": "When must a public officer submit asset declaration?",
+    "options": {
+      "A": "Quarterly",
+      "B": "Once in 5 years",
+      "C": "On assumption and exit",
+      "D": "Before appointment letter"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 7,
+    "question": "The Code of Conduct prohibits public officers from holding:",
+    "options": {
+      "A": "Family property",
+      "B": "Personal savings",
+      "C": "Multiple political offices",
+      "D": "Religious positions"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 8,
+    "question": "Who appoints the members of the Code of Conduct Bureau?",
+    "options": {
+      "A": "Chief Justice",
+      "B": "President",
+      "C": "Senate",
+      "D": "House of Representatives"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 9,
+    "question": "Which schedule of the Constitution covers the Code of Conduct Tribunal?",
+    "options": {
+      "A": "Sixth",
+      "B": "Fifth",
+      "C": "Third",
+      "D": "Ninth"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 10,
+    "question": "How many members make up the Code of Conduct Bureau?",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "10",
+      "D": "9"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 11,
+    "question": "What is the punishment for false asset declaration?",
+    "options": {
+      "A": "Dismissal only",
+      "B": "Imprisonment only",
+      "C": "Penalty by the tribunal",
+      "D": "Demotion"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 12,
+    "question": "Which of these actions violates the Code of Conduct?",
+    "options": {
+      "A": "Reporting corruption",
+      "B": "Giving public gift to family",
+      "C": "Asset declaration",
+      "D": "Wearing uniform"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 13,
+    "question": "A public officer is prohibited from accepting:",
+    "options": {
+      "A": "Loans from banks",
+      "B": "Free health services",
+      "C": "Gifts related to official duties",
+      "D": "Monthly salary"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 14,
+    "question": "Asset declaration forms are submitted to:",
+    "options": {
+      "A": "EFCC",
+      "B": "ICPC",
+      "C": "Code of Conduct Bureau",
+      "D": "National Assembly"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 15,
+    "question": "The Code of Conduct applies to:",
+    "options": {
+      "A": "Only politicians",
+      "B": "All public officers",
+      "C": "Retired officers",
+      "D": "Only civil servants"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 16,
+    "question": "Can a public officer be prosecuted for non-declaration of assets?",
+    "options": {
+      "A": "No",
+      "B": "Yes",
+      "C": "Only after retirement",
+      "D": "Only with Senate approval"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 17,
+    "question": "A public officer should not put himself in a position where:",
+    "options": {
+      "A": "He misses meetings",
+      "B": "Conflict of interest arises",
+      "C": "He reads newspapers",
+      "D": "He arrives late"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 18,
+    "question": "Who adjudicates violations of the Code of Conduct?",
+    "options": {
+      "A": "Magistrate Court",
+      "B": "Federal High Court",
+      "C": "Code of Conduct Tribunal",
+      "D": "Customary Court"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 19,
+    "question": "Can a public officer receive double remuneration?",
+    "options": {
+      "A": "Yes, if approved",
+      "B": "No",
+      "C": "Yes, if in two ministries",
+      "D": "Only during leave"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 20,
+    "question": "Which of these violates the Code of Conduct?",
+    "options": {
+      "A": "Living abroad after retirement",
+      "B": "Membership of a registered cooperative",
+      "C": "Engagement in business during office",
+      "D": "Annual leave"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 21,
+    "question": "Declaration of assets must be made:",
+    "options": {
+      "A": "Orally",
+      "B": "In writing",
+      "C": "Through the media",
+      "D": "To one\u2019s spouse"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 22,
+    "question": "Code of Conduct Tribunal decisions are binding on:",
+    "options": {
+      "A": "Civil servants only",
+      "B": "Private individuals",
+      "C": "All public officers",
+      "D": "Ministers alone"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 23,
+    "question": "The Tribunal may impose:",
+    "options": {
+      "A": "Fine only",
+      "B": "Jail term only",
+      "C": "Suspension or dismissal",
+      "D": "Community service"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 24,
+    "question": "Members of the military are:",
+    "options": {
+      "A": "Exempted",
+      "B": "Covered under separate rules",
+      "C": "Subject to the Code",
+      "D": "Not public officers"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 25,
+    "question": "Who can challenge a Tribunal decision?",
+    "options": {
+      "A": "Senate",
+      "B": "Public officer affected",
+      "C": "House of Assembly",
+      "D": "EFCC"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 26,
+    "question": "Which document provides a list of public officers covered by the Code?",
+    "options": {
+      "A": "Electoral Act",
+      "B": "Fifth Schedule",
+      "C": "Penal Code",
+      "D": "Civil Service Handbook"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 27,
+    "question": "Who investigates alleged violations of the Code?",
+    "options": {
+      "A": "Police",
+      "B": "ICPC",
+      "C": "Code of Conduct Bureau",
+      "D": "State Assembly"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 28,
+    "question": "Which of these is not a function of the Code of Conduct Bureau?",
+    "options": {
+      "A": "Receive complaints",
+      "B": "Enforce budget",
+      "C": "Examine asset declarations",
+      "D": "Monitor compliance"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 29,
+    "question": "The Tribunal can disqualify a public officer from:",
+    "options": {
+      "A": "Marriage",
+      "B": "Government contracts",
+      "C": "Voting",
+      "D": "Religion"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 30,
+    "question": "A public officer must not accept:",
+    "options": {
+      "A": "Birthday gifts",
+      "B": "Gifts connected with duty",
+      "C": "Bonus",
+      "D": "Travel allowance"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 31,
+    "question": "The Chairman of the Code of Conduct Bureau must be:",
+    "options": {
+      "A": "A lawyer",
+      "B": "A career civil servant",
+      "C": "Of unquestionable integrity",
+      "D": "A member of the judiciary"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 32,
+    "question": "Code of Conduct forms must be sworn before a:",
+    "options": {
+      "A": "Religious leader",
+      "B": "Judicial officer",
+      "C": "Public servant",
+      "D": "Notary public"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 33,
+    "question": "Which of these public officers is listed under the Code of Conduct scope?",
+    "options": {
+      "A": "Traditional rulers",
+      "B": "Political party members",
+      "C": "Permanent secretaries",
+      "D": "Bank managers"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 34,
+    "question": "The Code of Conduct prohibits part-time employment that:",
+    "options": {
+      "A": "Promotes charity",
+      "B": "Conflicts with public duty",
+      "C": "Involves education",
+      "D": "Occurs during holidays"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 35,
+    "question": "If a public officer engages in abuse of office, he is violating:",
+    "options": {
+      "A": "Civil Code",
+      "B": "Penal Code",
+      "C": "Code of Conduct",
+      "D": "Labour Act"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 36,
+    "question": "A Tribunal\u2019s disqualification order may last up to:",
+    "options": {
+      "A": "3 years",
+      "B": "5 years",
+      "C": "10 years",
+      "D": "Lifetime"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 37,
+    "question": "One major aim of the Code of Conduct is to:",
+    "options": {
+      "A": "Reduce salaries",
+      "B": "Monitor elections",
+      "C": "Ensure transparency",
+      "D": "Limit education access"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 38,
+    "question": "The Tribunal must have how many members to sit?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 39,
+    "question": "The final appeal from the Code of Conduct Tribunal lies with the:",
+    "options": {
+      "A": "Federal High Court",
+      "B": "National Assembly",
+      "C": "Court of Appeal",
+      "D": "Supreme Court"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 40,
+    "question": "What is required before a Tribunal decision takes effect?",
+    "options": {
+      "A": "Presidential assent",
+      "B": "Senate approval",
+      "C": "Full panel quorum",
+      "D": "Tribunal ruling"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 41,
+    "question": "Gifts that may influence official decisions are:",
+    "options": {
+      "A": "Encouraged",
+      "B": "Exempted",
+      "C": "Prohibited",
+      "D": "Taxable"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 42,
+    "question": "The Code of Conduct encourages all officers to:",
+    "options": {
+      "A": "Avoid vacations",
+      "B": "Keep wealth secret",
+      "C": "Uphold accountability",
+      "D": "Ignore budget limits"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 43,
+    "question": "The Bureau is mandated to receive complaints from:",
+    "options": {
+      "A": "Political parties only",
+      "B": "The Senate only",
+      "C": "Any Nigerian citizen",
+      "D": "Civil servants alone"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 44,
+    "question": "A public officer cannot use office for:",
+    "options": {
+      "A": "Personal interest",
+      "B": "Public interest",
+      "C": "Legal purposes",
+      "D": "Electoral duty"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 45,
+    "question": "Which of these is not under Code of Conduct jurisdiction?",
+    "options": {
+      "A": "Commissioners",
+      "B": "Special Advisers",
+      "C": "Judges",
+      "D": "Private entrepreneurs"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 46,
+    "question": "The Code of Conduct Bureau reports to the:",
+    "options": {
+      "A": "Chief Justice",
+      "B": "National Assembly",
+      "C": "President",
+      "D": "Federal Executive Council"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 47,
+    "question": "Which court has supervisory jurisdiction over the Tribunal?",
+    "options": {
+      "A": "Supreme Court",
+      "B": "Magistrate Court",
+      "C": "Sharia Court",
+      "D": "Industrial Court"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 48,
+    "question": "A spouse's property must be:",
+    "options": {
+      "A": "Ignored",
+      "B": "Declared",
+      "C": "Hidden",
+      "D": "Sold"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 49,
+    "question": "Upon retirement, asset declaration must be done within:",
+    "options": {
+      "A": "2 weeks",
+      "B": "30 days",
+      "C": "90 days",
+      "D": "6 months"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 50,
+    "question": "Code of Conduct violations can lead to:",
+    "options": {
+      "A": "Retirement bonus",
+      "B": "National award",
+      "C": "Dismissal from office",
+      "D": "Promotion"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 51,
+    "question": "Which of the following offices is exempted from the Code?",
+    "options": {
+      "A": "President",
+      "B": "Vice President",
+      "C": "None",
+      "D": "Minister"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 52,
+    "question": "Failure to declare assets amounts to:",
+    "options": {
+      "A": "Civil claim",
+      "B": "Disciplinary offence",
+      "C": "Breach of contract",
+      "D": "Misappropriation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 53,
+    "question": "Declaration of asset forms are kept:",
+    "options": {
+      "A": "Online",
+      "B": "With political party",
+      "C": "At the Bureau",
+      "D": "In local government office"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 54,
+    "question": "A breach of the Code can lead to:",
+    "options": {
+      "A": "Reinstatement",
+      "B": "Sanctions",
+      "C": "Promotion",
+      "D": "Transfers"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 55,
+    "question": "The Code prohibits owning shares in companies:",
+    "options": {
+      "A": "In Nigeria",
+      "B": "In conflict with official duties",
+      "C": "Abroad only",
+      "D": "In education"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 56,
+    "question": "Before appointment, what is required by the Bureau?",
+    "options": {
+      "A": "Income tax",
+      "B": "Health record",
+      "C": "Asset declaration",
+      "D": "Loan clearance"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 57,
+    "question": "Code of Conduct Bureau is part of:",
+    "options": {
+      "A": "Executive branch",
+      "B": "Legislative branch",
+      "C": "Judicial branch",
+      "D": "Local government"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 58,
+    "question": "Can a Tribunal\u2019s decision be appealed?",
+    "options": {
+      "A": "No",
+      "B": "Yes",
+      "C": "Only in Lagos",
+      "D": "With ministerial approval"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 59,
+    "question": "The Code applies to members of:",
+    "options": {
+      "A": "Family only",
+      "B": "Labour union",
+      "C": "Legislature",
+      "D": "Political groups"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 60,
+    "question": "A public officer must not award contracts to:",
+    "options": {
+      "A": "Registered contractors",
+      "B": "Family companies",
+      "C": "Public firms",
+      "D": "Licensed vendors"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 61,
+    "question": "Public officers are expected to act with:",
+    "options": {
+      "A": "Secrecy",
+      "B": "Impunity",
+      "C": "Integrity",
+      "D": "Indifference"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 62,
+    "question": "A complaint to the Bureau must be:",
+    "options": {
+      "A": "Anonymous",
+      "B": "Oral",
+      "C": "In writing",
+      "D": "Digital only"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 63,
+    "question": "Breach of the Code may attract all except:",
+    "options": {
+      "A": "Confiscation",
+      "B": "Disqualification",
+      "C": "Promotion",
+      "D": "Removal from office"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 64,
+    "question": "The Tribunal cannot impose:",
+    "options": {
+      "A": "Retirement",
+      "B": "Community service",
+      "C": "Suspension",
+      "D": "Dismissal"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 65,
+    "question": "The Code of Conduct promotes:",
+    "options": {
+      "A": "Tribalism",
+      "B": "Corruption",
+      "C": "Accountability",
+      "D": "Wealth hoarding"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 66,
+    "question": "A public officer may be excused if:",
+    "options": {
+      "A": "He is influential",
+      "B": "He reports voluntarily",
+      "C": "The President intervenes",
+      "D": "The breach is minor"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 67,
+    "question": "A Tribunal conviction results in:",
+    "options": {
+      "A": "Transfer",
+      "B": "Warning",
+      "C": "Sanctions",
+      "D": "Appointment"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 68,
+    "question": "Which of these acts is allowed under the Code?",
+    "options": {
+      "A": "Bribery",
+      "B": "Misuse of funds",
+      "C": "Declaration of assets",
+      "D": "Contract inflation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 69,
+    "question": "The Code is intended to ensure:",
+    "options": {
+      "A": "Revenue collection",
+      "B": "Fair elections",
+      "C": "Public service ethics",
+      "D": "Government employment"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 70,
+    "question": "If an officer fails to declare property, he is:",
+    "options": {
+      "A": "Compliant",
+      "B": "Ignored",
+      "C": "In breach",
+      "D": "Exempt"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 71,
+    "question": "Code of Conduct Bureau is a body created by:",
+    "options": {
+      "A": "Military decree",
+      "B": "Executive fiat",
+      "C": "Constitution",
+      "D": "Presidential order"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 72,
+    "question": "Who among the following must declare assets?",
+    "options": {
+      "A": "Private business owner",
+      "B": "Traditional ruler",
+      "C": "Judge",
+      "D": "Civil rights activist"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 73,
+    "question": "The Code protects public office from:",
+    "options": {
+      "A": "Transparency",
+      "B": "Accountability",
+      "C": "Abuse and corruption",
+      "D": "Budgeting"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 74,
+    "question": "Use of public funds for personal use is:",
+    "options": {
+      "A": "Permitted",
+      "B": "Prohibited",
+      "C": "Overlooked",
+      "D": "Encouraged"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 75,
+    "question": "What is the Tribunal\u2019s punishment for a first-time offender?",
+    "options": {
+      "A": "Warning",
+      "B": "Disqualification",
+      "C": "Transfer",
+      "D": "Immunity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 76,
+    "question": "The Code discourages:",
+    "options": {
+      "A": "Selflessness",
+      "B": "Public welfare",
+      "C": "Impartiality",
+      "D": "Conflict of interest"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 77,
+    "question": "Which one is a violation?",
+    "options": {
+      "A": "Receiving salary",
+      "B": "Accepting duty gift",
+      "C": "Declaring assets",
+      "D": "Submitting complaints"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 78,
+    "question": "The Code applies at:",
+    "options": {
+      "A": "Federal level only",
+      "B": "State level only",
+      "C": "All government levels",
+      "D": "Private sector"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 79,
+    "question": "Can a whistleblower report to the Bureau?",
+    "options": {
+      "A": "No",
+      "B": "Yes",
+      "C": "Only with police",
+      "D": "Through political party"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 80,
+    "question": "The Bureau is guided by the:",
+    "options": {
+      "A": "Criminal Code",
+      "B": "Constitution",
+      "C": "EFCC Act",
+      "D": "Finance Act"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 81,
+    "question": "All assets declared must be:",
+    "options": {
+      "A": "Secret",
+      "B": "Certified",
+      "C": "Accurate",
+      "D": "Anonymous"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 82,
+    "question": "A public officer may be exempted by:",
+    "options": {
+      "A": "Bureau",
+      "B": "President",
+      "C": "Senate",
+      "D": "No one"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 83,
+    "question": "Code of Conduct Tribunal is part of the:",
+    "options": {
+      "A": "Executive",
+      "B": "Judiciary",
+      "C": "Legislature",
+      "D": "Police"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 84,
+    "question": "A judge may face the Tribunal if:",
+    "options": {
+      "A": "He is retired",
+      "B": "He violates the Code",
+      "C": "He is suspended",
+      "D": "He is elected"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 85,
+    "question": "What is the main purpose of asset declaration?",
+    "options": {
+      "A": "Promotion",
+      "B": "Bribery",
+      "C": "Transparency",
+      "D": "Secrecy"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 86,
+    "question": "Which gift is allowable?",
+    "options": {
+      "A": "Duty-related cash",
+      "B": "Official bribery",
+      "C": "Personal inheritance",
+      "D": "Kickbacks"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 87,
+    "question": "One of the functions of the Bureau is to:",
+    "options": {
+      "A": "Punish offenders",
+      "B": "Prosecute terrorists",
+      "C": "Monitor asset declarations",
+      "D": "Review electoral rolls"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 88,
+    "question": "What document must accompany asset declaration?",
+    "options": {
+      "A": "Tax receipt",
+      "B": "Bank statement",
+      "C": "Sworn affidavit",
+      "D": "Birth certificate"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 89,
+    "question": "Can the Tribunal jail offenders?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "Only on weekends",
+      "D": "Only in Lagos"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 90,
+    "question": "Which public officer must declare assets?",
+    "options": {
+      "A": "Chief Judge",
+      "B": "Traditional title holder",
+      "C": "NGO leader",
+      "D": "Religious head"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 91,
+    "question": "The Code fosters:",
+    "options": {
+      "A": "Nepotism",
+      "B": "Transparency",
+      "C": "Secrecy",
+      "D": "Tribalism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 92,
+    "question": "Who may lodge a complaint with the Bureau?",
+    "options": {
+      "A": "Government only",
+      "B": "Political parties",
+      "C": "Any citizen",
+      "D": "Military alone"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 93,
+    "question": "What makes asset declaration invalid?",
+    "options": {
+      "A": "Handwriting",
+      "B": "Omission of assets",
+      "C": "Multiple copies",
+      "D": "Date error"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 94,
+    "question": "The Tribunal\u2019s ruling is:",
+    "options": {
+      "A": "Advisory",
+      "B": "Enforceable",
+      "C": "Optional",
+      "D": "Informal"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 95,
+    "question": "Who cannot serve on the Bureau?",
+    "options": {
+      "A": "Citizen with criminal record",
+      "B": "Academic",
+      "C": "Retired judge",
+      "D": "Accountant"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 96,
+    "question": "The Bureau protects against:",
+    "options": {
+      "A": "Competence",
+      "B": "Accountability",
+      "C": "Corruption",
+      "D": "Sanity"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 97,
+    "question": "Using public position for private gain is:",
+    "options": {
+      "A": "Innovation",
+      "B": "Allowed",
+      "C": "Misconduct",
+      "D": "Reward"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 98,
+    "question": "Multiple asset declarations are required during:",
+    "options": {
+      "A": "Vacation",
+      "B": "Transfer",
+      "C": "Assumption and exit",
+      "D": "Marriage"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 99,
+    "question": "One consequence of violating the Code is:",
+    "options": {
+      "A": "Grant of leave",
+      "B": "Commendation",
+      "C": "Loss of office",
+      "D": "Extension of tenure"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 100,
+    "question": "The Tribunal\u2019s decision is appealable at:",
+    "options": {
+      "A": "High Court",
+      "B": "Court of Appeal",
+      "C": "Code of Conduct Bureau",
+      "D": "Police HQ"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 101,
+    "question": "The Code of Conduct Tribunal can recommend which of the following?",
+    "options": {
+      "A": "Public apology",
+      "B": "Promotion",
+      "C": "Reinstatement",
+      "D": "Disqualification from public office"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 102,
+    "question": "A public officer\u2019s liabilities must be:",
+    "options": {
+      "A": "Ignored",
+      "B": "Hidden",
+      "C": "Declared",
+      "D": "Postponed"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 103,
+    "question": "What does the Code of Conduct discourage in financial dealings?",
+    "options": {
+      "A": "Transparency",
+      "B": "Double bookkeeping",
+      "C": "Annual reporting",
+      "D": "Retirement savings"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 104,
+    "question": "Which of these is a core value promoted by the Code?",
+    "options": {
+      "A": "Secrecy",
+      "B": "Accountability",
+      "C": "Political partisanship",
+      "D": "Lobbying"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 105,
+    "question": "What is the main focus of the Code of Conduct for public officers?",
+    "options": {
+      "A": "Political campaigns",
+      "B": "Revenue generation",
+      "C": "Ethical behavior",
+      "D": "Taxation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 106,
+    "question": "What should be the nature of gifts declared by a public officer?",
+    "options": {
+      "A": "Anonymous",
+      "B": "Inflated",
+      "C": "Reasonable",
+      "D": "Disclosed"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 107,
+    "question": "The Code prohibits participation in which type of business without permission?",
+    "options": {
+      "A": "Consultancy",
+      "B": "Farming",
+      "C": "Retail",
+      "D": "Any private business"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 108,
+    "question": "A false declaration of asset is considered:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Technical error",
+      "C": "Misconduct",
+      "D": "Political strategy"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 109,
+    "question": "Public officers may hold shares only when:",
+    "options": {
+      "A": "Declared to political party",
+      "B": "Placed in a blind trust",
+      "C": "Registered in spouse\u2019s name",
+      "D": "Used for public interest"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 110,
+    "question": "Who can file a complaint to the Code of Conduct Bureau?",
+    "options": {
+      "A": "Public officers only",
+      "B": "Politicians only",
+      "C": "Any individual",
+      "D": "The President only"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 111,
+    "question": "Which of these bodies can investigate corruption in public office?",
+    "options": {
+      "A": "Code of Conduct Bureau",
+      "B": "INEC",
+      "C": "NBC",
+      "D": "NAFDAC"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 112,
+    "question": "The Code of Conduct covers which of these scenarios?",
+    "options": {
+      "A": "Private estate ownership",
+      "B": "Official misconduct",
+      "C": "Political activism",
+      "D": "Academic qualification"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 113,
+    "question": "Which of the following can be punished by the Tribunal?",
+    "options": {
+      "A": "False declaration",
+      "B": "Early retirement",
+      "C": "Public speaking",
+      "D": "Career change"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 114,
+    "question": "The Code of Conduct Bureau ensures compliance by:",
+    "options": {
+      "A": "Arresting citizens",
+      "B": "Reviewing budgets",
+      "C": "Monitoring declarations",
+      "D": "Organizing elections"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 115,
+    "question": "A public officer must not use public property for:",
+    "options": {
+      "A": "Office work",
+      "B": "Official travel",
+      "C": "Personal business",
+      "D": "Departmental goals"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 116,
+    "question": "The Code of Conduct applies to:",
+    "options": {
+      "A": "Retired officers only",
+      "B": "Only permanent staff",
+      "C": "All who hold public office",
+      "D": "Appointees over age 40"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 117,
+    "question": "Which of the following encourages corruption?",
+    "options": {
+      "A": "Budget planning",
+      "B": "Transparent procurement",
+      "C": "Concealment of assets",
+      "D": "Whistleblowing"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 118,
+    "question": "A person convicted by the Tribunal can be barred from office for:",
+    "options": {
+      "A": "1 year",
+      "B": "2 years",
+      "C": "5 years",
+      "D": "10 years"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 119,
+    "question": "The asset declaration must include:",
+    "options": {
+      "A": "Only cash",
+      "B": "Only landed property",
+      "C": "All assets and liabilities",
+      "D": "Electoral history"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 120,
+    "question": "A conflict of interest occurs when a public officer:",
+    "options": {
+      "A": "Resigns from service",
+      "B": "Pays taxes",
+      "C": "Makes decisions that benefit himself",
+      "D": "Works with community leaders"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 121,
+    "question": "What must accompany every declaration submitted?",
+    "options": {
+      "A": "Letter of employment",
+      "B": "Proof of identification",
+      "C": "Sworn affidavit",
+      "D": "Police clearance"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 122,
+    "question": "Which of the following offices is listed in the Fifth Schedule?",
+    "options": {
+      "A": "Traditional head",
+      "B": "Minister",
+      "C": "Imam",
+      "D": "Market leader"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 123,
+    "question": "Which value does the Code NOT promote?",
+    "options": {
+      "A": "Honesty",
+      "B": "Loyalty",
+      "C": "Secrecy",
+      "D": "Transparency"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 124,
+    "question": "Failure to submit asset declaration form within the required time is:",
+    "options": {
+      "A": "Ignored",
+      "B": "Rewarded",
+      "C": "Violation",
+      "D": "Advised"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 125,
+    "question": "Declaration of assets helps in:",
+    "options": {
+      "A": "Job creation",
+      "B": "Political competition",
+      "C": "Corruption detection",
+      "D": "Infrastructure planning"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 126,
+    "question": "A member of the Tribunal must be:",
+    "options": {
+      "A": "Politically active",
+      "B": "A journalist",
+      "C": "A legal practitioner",
+      "D": "A legislator"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 127,
+    "question": "The Bureau has the power to:",
+    "options": {
+      "A": "Imprison",
+      "B": "Examine asset records",
+      "C": "Enact laws",
+      "D": "Issue contracts"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 128,
+    "question": "What is expected from a public officer after leaving office?",
+    "options": {
+      "A": "Loan repayment",
+      "B": "Asset declaration",
+      "C": "Contract award",
+      "D": "Political neutrality"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 129,
+    "question": "Which of these is not a sanction under the Tribunal?",
+    "options": {
+      "A": "Dismissal",
+      "B": "Suspension",
+      "C": "Public commendation",
+      "D": "Disqualification"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 130,
+    "question": "A public officer who fails to declare liabilities is:",
+    "options": {
+      "A": "Compliant",
+      "B": "Innocent",
+      "C": "In violation",
+      "D": "Loyal"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 131,
+    "question": "The Code of Conduct encourages:",
+    "options": {
+      "A": "Tax evasion",
+      "B": "Impunity",
+      "C": "Discipline",
+      "D": "Nepotism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 132,
+    "question": "The Tribunal\u2019s decision can be appealed at the:",
+    "options": {
+      "A": "State High Court",
+      "B": "Court of Appeal",
+      "C": "Magistrate Court",
+      "D": "House of Reps"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 133,
+    "question": "Which asset must not be omitted in a declaration?",
+    "options": {
+      "A": "Pet",
+      "B": "Vehicle",
+      "C": "House",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 134,
+    "question": "The CCB ensures public officers act:",
+    "options": {
+      "A": "With fear",
+      "B": "Without scrutiny",
+      "C": "Ethically",
+      "D": "Secretly"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 135,
+    "question": "Accepting bribes falls under:",
+    "options": {
+      "A": "Official allowance",
+      "B": "Code of Conduct violation",
+      "C": "Leave benefit",
+      "D": "Conflict resolution"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 136,
+    "question": "Who is responsible for initiating prosecution?",
+    "options": {
+      "A": "Attorney General",
+      "B": "CCB",
+      "C": "DSS",
+      "D": "Civil Defence"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 137,
+    "question": "The Fifth Schedule is primarily about:",
+    "options": {
+      "A": "Judicial autonomy",
+      "B": "Legislative budgeting",
+      "C": "Public service conduct",
+      "D": "Election timelines"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 138,
+    "question": "Tribunal sittings must be presided over by a:",
+    "options": {
+      "A": "Police officer",
+      "B": "Retired judge",
+      "C": "Serving judge",
+      "D": "Community leader"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 139,
+    "question": "A public officer found guilty may be asked to:",
+    "options": {
+      "A": "Seek reelection",
+      "B": "Run for Senate",
+      "C": "Vacate office",
+      "D": "Extend tenure"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 140,
+    "question": "False asset declaration constitutes:",
+    "options": {
+      "A": "Ethical breach",
+      "B": "Legal compliance",
+      "C": "Office routine",
+      "D": "Public service excellence"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 141,
+    "question": "Which document is essential during declaration?",
+    "options": {
+      "A": "Voter\u2019s card",
+      "B": "Passport",
+      "C": "Form from CCB",
+      "D": "Travel history"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 142,
+    "question": "Accepting gifts related to duty may lead to:",
+    "options": {
+      "A": "Retirement",
+      "B": "Promotion",
+      "C": "Sanctions",
+      "D": "Loan approval"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 143,
+    "question": "Declaration must include assets owned by:",
+    "options": {
+      "A": "Employer",
+      "B": "Spouse and children",
+      "C": "Colleagues",
+      "D": "Neighbours"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 144,
+    "question": "Tribunal sittings are conducted in:",
+    "options": {
+      "A": "Secret",
+      "B": "Open court",
+      "C": "Executive session",
+      "D": "Private office"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 145,
+    "question": "Public officers are advised to:",
+    "options": {
+      "A": "Hide properties",
+      "B": "Avoid scrutiny",
+      "C": "Declare accurately",
+      "D": "Sell assets"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 146,
+    "question": "Who may not act as a member of the Tribunal?",
+    "options": {
+      "A": "Lawyer",
+      "B": "Retired judge",
+      "C": "Active politician",
+      "D": "Civil servant"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 147,
+    "question": "Tribunal rulings are based on:",
+    "options": {
+      "A": "Evidence and law",
+      "B": "Media reports",
+      "C": "Political pressure",
+      "D": "Tradition"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 148,
+    "question": "The Code ensures that officials:",
+    "options": {
+      "A": "Work late",
+      "B": "Use public funds freely",
+      "C": "Avoid corruption",
+      "D": "Own multiple passports"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 149,
+    "question": "One objective of the Code is to:",
+    "options": {
+      "A": "Block transparency",
+      "B": "Promote wealth",
+      "C": "Prevent abuse of power",
+      "D": "Protect elite"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 150,
+    "question": "The CCB monitors officers to prevent:",
+    "options": {
+      "A": "Welfare distribution",
+      "B": "Election rigging",
+      "C": "Corruption and abuse",
+      "D": "Travel abroad"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 151,
+    "question": "The Bureau reports directly to the:",
+    "options": {
+      "A": "Judiciary",
+      "B": "Political parties",
+      "C": "President",
+      "D": "Labour unions"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 152,
+    "question": "Which of the following may cause removal from office?",
+    "options": {
+      "A": "Travel abroad",
+      "B": "Lack of certificate",
+      "C": "Breach of Code",
+      "D": "Political neutrality"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 153,
+    "question": "Property acquired with public funds and not declared is:",
+    "options": {
+      "A": "Inherited",
+      "B": "Lawful",
+      "C": "Illegal",
+      "D": "Justifiable"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 154,
+    "question": "The asset declaration aims to ensure:",
+    "options": {
+      "A": "Population census",
+      "B": "National award",
+      "C": "Honest service",
+      "D": "Tax refund"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 155,
+    "question": "All declarations are treated as:",
+    "options": {
+      "A": "Oral report",
+      "B": "Formal complaint",
+      "C": "Written affidavit",
+      "D": "Telephone conversation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 156,
+    "question": "Code of Conduct violation may lead to:",
+    "options": {
+      "A": "Fine and imprisonment",
+      "B": "Scholarship",
+      "C": "Promotion",
+      "D": "Salary increment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 157,
+    "question": "Which is considered misconduct under the Code?",
+    "options": {
+      "A": "Living modestly",
+      "B": "Declaring income",
+      "C": "Receiving bribe",
+      "D": "Applying for leave"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 158,
+    "question": "What must not be omitted in declarations?",
+    "options": {
+      "A": "Salary",
+      "B": "Family names",
+      "C": "Business interests",
+      "D": "Phone number"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 159,
+    "question": "Which of these ensures probity in office?",
+    "options": {
+      "A": "Asset concealment",
+      "B": "Code of Conduct",
+      "C": "Political manifesto",
+      "D": "Annual retreat"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 160,
+    "question": "Tribunal sittings follow:",
+    "options": {
+      "A": "Administrative rules",
+      "B": "Political opinion",
+      "C": "Judicial procedure",
+      "D": "Budget review"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 161,
+    "question": "CCB ensures financial:",
+    "options": {
+      "A": "Crime",
+      "B": "Mismanagement",
+      "C": "Transparency",
+      "D": "Secrecy"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 162,
+    "question": "A false declaration may result in:",
+    "options": {
+      "A": "Payment increase",
+      "B": "Award nomination",
+      "C": "Legal consequences",
+      "D": "Party membership"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 163,
+    "question": "The Code requires public officers to be:",
+    "options": {
+      "A": "Obedient only",
+      "B": "Effective only",
+      "C": "Honest and transparent",
+      "D": "Private citizens"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 164,
+    "question": "A person may be suspended pending:",
+    "options": {
+      "A": "Election",
+      "B": "Tribunal ruling",
+      "C": "Transfer",
+      "D": "Resignation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 165,
+    "question": "Which of the following statements is false?",
+    "options": {
+      "A": "Officers may accept duty gifts",
+      "B": "Declarations must be honest",
+      "C": "Tribunal decisions are binding",
+      "D": "Public interest must be protected"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 166,
+    "question": "The President may remove:",
+    "options": {
+      "A": "Judges",
+      "B": "Bureau members",
+      "C": "Lawyers",
+      "D": "Civil servants"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 167,
+    "question": "One benefit of the Code is:",
+    "options": {
+      "A": "Office monetization",
+      "B": "High corruption",
+      "C": "Ethical governance",
+      "D": "Free holidays"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 168,
+    "question": "What type of business interest must be declared?",
+    "options": {
+      "A": "Family trade",
+      "B": "Foreign shares",
+      "C": "Any interest",
+      "D": "Farming"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 169,
+    "question": "A Tribunal decision is effective when:",
+    "options": {
+      "A": "Printed in newspapers",
+      "B": "Witnessed by police",
+      "C": "Read and signed",
+      "D": "Delivered orally"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 170,
+    "question": "CCB investigates based on:",
+    "options": {
+      "A": "Gossip",
+      "B": "Formal complaints",
+      "C": "Anonymous blogs",
+      "D": "Tribunal orders"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 171,
+    "question": "Officers are advised to avoid:",
+    "options": {
+      "A": "Confidentiality",
+      "B": "Conflict of interest",
+      "C": "Fairness",
+      "D": "Openness"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 172,
+    "question": "Declarations are submitted to:",
+    "options": {
+      "A": "Political party",
+      "B": "Judicial Council",
+      "C": "Code of Conduct Bureau",
+      "D": "Auditor General"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 173,
+    "question": "Tribunal judgments are made in:",
+    "options": {
+      "A": "Isolation",
+      "B": "Team of politicians",
+      "C": "Panel of judges",
+      "D": "One-man decision"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 174,
+    "question": "Which law supports the Code?",
+    "options": {
+      "A": "Electoral Act",
+      "B": "Constitution",
+      "C": "Labour Act",
+      "D": "Education Act"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 175,
+    "question": "A person acting as proxy must also:",
+    "options": {
+      "A": "Declare assets",
+      "B": "Travel abroad",
+      "C": "Receive allowance",
+      "D": "Run for office"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 176,
+    "question": "The Code is binding on:",
+    "options": {
+      "A": "Pensioners",
+      "B": "Private citizens",
+      "C": "Public office holders",
+      "D": "Market traders"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 177,
+    "question": "The Code helps prevent:",
+    "options": {
+      "A": "Poverty",
+      "B": "Political loyalty",
+      "C": "Abuse of power",
+      "D": "Unionism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 178,
+    "question": "Officers must not give contracts to:",
+    "options": {
+      "A": "Foreign companies",
+      "B": "Business associates",
+      "C": "Local firms",
+      "D": "Corporate clients"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 179,
+    "question": "Tribunal punishment includes:",
+    "options": {
+      "A": "Bonus",
+      "B": "Leave",
+      "C": "Suspension",
+      "D": "Training"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 180,
+    "question": "Refusal to submit form is:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Enforceable",
+      "C": "Violation",
+      "D": "Optional"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 181,
+    "question": "The CCB maintains:",
+    "options": {
+      "A": "Financial accounts",
+      "B": "Asset registers",
+      "C": "Educational records",
+      "D": "Staff pension"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 182,
+    "question": "Tribunal decisions are:",
+    "options": {
+      "A": "Campaign slogans",
+      "B": "Legal opinions",
+      "C": "Binding rulings",
+      "D": "Suggestions"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 183,
+    "question": "One way to comply with the Code is to:",
+    "options": {
+      "A": "Declare on social media",
+      "B": "Fill fake information",
+      "C": "Submit accurate forms",
+      "D": "Avoid submission"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 184,
+    "question": "An officer who resigns must:",
+    "options": {
+      "A": "Ignore the Code",
+      "B": "Destroy files",
+      "C": "Declare exit assets",
+      "D": "Sign new contract"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 185,
+    "question": "Officers are encouraged to:",
+    "options": {
+      "A": "Own offshore accounts",
+      "B": "Operate hidden firms",
+      "C": "Live within means",
+      "D": "Misuse funds"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 186,
+    "question": "CCB helps reduce:",
+    "options": {
+      "A": "Transparency",
+      "B": "Accountability",
+      "C": "Corruption",
+      "D": "Merit"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 187,
+    "question": "Code of Conduct promotes:",
+    "options": {
+      "A": "Lawlessness",
+      "B": "Self-enrichment",
+      "C": "Integrity",
+      "D": "Secret deals"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 188,
+    "question": "False declaration attracts:",
+    "options": {
+      "A": "Salary bonus",
+      "B": "Award",
+      "C": "Sanctions",
+      "D": "Promotion"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 189,
+    "question": "Tribunal is empowered by:",
+    "options": {
+      "A": "Local council",
+      "B": "Ministry",
+      "C": "Constitution",
+      "D": "EFCC"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 190,
+    "question": "Asset forms must be completed:",
+    "options": {
+      "A": "In pencil",
+      "B": "Falsely",
+      "C": "Honestly",
+      "D": "Verbally"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 191,
+    "question": "Tribunal sanctions ensure:",
+    "options": {
+      "A": "Revenue",
+      "B": "Deterrence",
+      "C": "Celebrations",
+      "D": "Secrecy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 192,
+    "question": "Tribunal must follow:",
+    "options": {
+      "A": "Personal opinions",
+      "B": "Legal process",
+      "C": "Family wishes",
+      "D": "Religious rules"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 193,
+    "question": "Which is the goal of CCB?",
+    "options": {
+      "A": "Industrialization",
+      "B": "Infrastructure",
+      "C": "Public morality",
+      "D": "Party politics"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 194,
+    "question": "Tribunal serves as:",
+    "options": {
+      "A": "Budget committee",
+      "B": "Contract awarding board",
+      "C": "Disciplinary court",
+      "D": "Campaign team"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 195,
+    "question": "CCB verifies:",
+    "options": {
+      "A": "Birth records",
+      "B": "Employment history",
+      "C": "Asset declarations",
+      "D": "Exam results"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 196,
+    "question": "The Tribunal prevents:",
+    "options": {
+      "A": "Farming",
+      "B": "Contract awards",
+      "C": "Public misconduct",
+      "D": "Voting"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 197,
+    "question": "Refusal to cooperate with CCB is:",
+    "options": {
+      "A": "Acceptable",
+      "B": "Lawful",
+      "C": "Violation",
+      "D": "Optional"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 198,
+    "question": "Code of Conduct protects:",
+    "options": {
+      "A": "Government secrecy",
+      "B": "Elite interest",
+      "C": "Public trust",
+      "D": "Party agenda"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 199,
+    "question": "Which is an example of ethical failure?",
+    "options": {
+      "A": "Late coming",
+      "B": "False declaration",
+      "C": "Annual leave",
+      "D": "Project inspection"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 200,
+    "question": "Tribunal decisions affect:",
+    "options": {
+      "A": "Business registration",
+      "B": "Political affiliation",
+      "C": "Eligibility for office",
+      "D": "Religious association"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 201,
+    "question": "Who determines if an asset declaration is false?",
+    "options": {
+      "A": "National Assembly",
+      "B": "Code of Conduct Bureau",
+      "C": "Federal High Court",
+      "D": "Police Service Commission"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 202,
+    "question": "Code of Conduct rules prohibit public officers from:",
+    "options": {
+      "A": "Declaring income",
+      "B": "Paying tax",
+      "C": "Participating in business that conflicts with duty",
+      "D": "Serving multiple terms"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 203,
+    "question": "The Tribunal\u2019s authority includes:",
+    "options": {
+      "A": "Enacting laws",
+      "B": "Detaining witnesses",
+      "C": "Imposing penalties",
+      "D": "Dissolving unions"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 204,
+    "question": "A public officer who conceals assets is guilty of:",
+    "options": {
+      "A": "Negligence",
+      "B": "Misconduct",
+      "C": "Ethical breach",
+      "D": "Code violation"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 205,
+    "question": "Who may raise an alarm on asset falsification?",
+    "options": {
+      "A": "Friends",
+      "B": "CCB staff",
+      "C": "Any citizen",
+      "D": "Court registrar"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 206,
+    "question": "A Tribunal can bar an officer from contesting election for:",
+    "options": {
+      "A": "1 year",
+      "B": "2 years",
+      "C": "3 years",
+      "D": "10 years"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 207,
+    "question": "Declaration includes assets acquired:",
+    "options": {
+      "A": "Illegally",
+      "B": "Before office",
+      "C": "For relatives",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 208,
+    "question": "Which is not a requirement in the declaration form?",
+    "options": {
+      "A": "Account balance",
+      "B": "Political party",
+      "C": "Property value",
+      "D": "Liabilities"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 209,
+    "question": "One responsibility of the Tribunal is to:",
+    "options": {
+      "A": "Approve budgets",
+      "B": "Conduct investigations",
+      "C": "Issue binding decisions",
+      "D": "Write policies"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 210,
+    "question": "Who may NOT serve as a witness in Tribunal proceedings?",
+    "options": {
+      "A": "CCB officer",
+      "B": "Family member",
+      "C": "Anonymous source",
+      "D": "Civil servant"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 211,
+    "question": "Code of Conduct ensures that power is:",
+    "options": {
+      "A": "Consolidated",
+      "B": "Monetized",
+      "C": "Used ethically",
+      "D": "Hidden"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 212,
+    "question": "Which office does NOT fall under the Code\u2019s scope?",
+    "options": {
+      "A": "Minister",
+      "B": "Commissioner",
+      "C": "Pastor",
+      "D": "Special Adviser"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 213,
+    "question": "CCB may share information with:",
+    "options": {
+      "A": "Friends",
+      "B": "EFCC",
+      "C": "Local councils",
+      "D": "Religious groups"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 214,
+    "question": "How often must a public officer declare assets?",
+    "options": {
+      "A": "Once only",
+      "B": "Every 2 years",
+      "C": "On entry and exit",
+      "D": "At retirement"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 215,
+    "question": "Officers are expected to report:",
+    "options": {
+      "A": "Gifts received",
+      "B": "Tax refunds",
+      "C": "Monthly rent",
+      "D": "Electoral result"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 216,
+    "question": "The Tribunal cannot sit without:",
+    "options": {
+      "A": "Electricity",
+      "B": "Police",
+      "C": "Chairman and one member",
+      "D": "Presidential order"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 217,
+    "question": "What qualifies a person to lodge a Code violation complaint?",
+    "options": {
+      "A": "Must be a lawyer",
+      "B": "Must be a relative",
+      "C": "Must be Nigerian",
+      "D": "Must be CCB staff"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 218,
+    "question": "The legal instrument backing the Code is the:",
+    "options": {
+      "A": "1999 Constitution",
+      "B": "Police Act",
+      "C": "Evidence Act",
+      "D": "Public Order Act"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 219,
+    "question": "Which of the following is an example of abuse of office?",
+    "options": {
+      "A": "Using public staff for private work",
+      "B": "Attending meetings",
+      "C": "Retirement planning",
+      "D": "Annual declarations"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 220,
+    "question": "The CCB is a:",
+    "options": {
+      "A": "Judiciary committee",
+      "B": "Special court",
+      "C": "Federal executive body",
+      "D": "Political association"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 221,
+    "question": "Asset declaration helps expose:",
+    "options": {
+      "A": "Political opposition",
+      "B": "Nepotism",
+      "C": "Hidden wealth",
+      "D": "Leadership skills"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 222,
+    "question": "Which of the following enhances public trust?",
+    "options": {
+      "A": "Hidden earnings",
+      "B": "Transparency",
+      "C": "Self-promotion",
+      "D": "Wealth accumulation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 223,
+    "question": "The Tribunal is bound by:",
+    "options": {
+      "A": "Social norms",
+      "B": "Presidential orders",
+      "C": "Rule of law",
+      "D": "Voter registry"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 224,
+    "question": "Public officers are expected to act:",
+    "options": {
+      "A": "Politically",
+      "B": "Discreetly",
+      "C": "Fairly",
+      "D": "Secretively"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 225,
+    "question": "Which of these is illegal under the Code?",
+    "options": {
+      "A": "Independent thought",
+      "B": "Receiving bribes",
+      "C": "Taking leave",
+      "D": "Community service"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 226,
+    "question": "Tribunal proceedings must follow:",
+    "options": {
+      "A": "Party rules",
+      "B": "Legal procedure",
+      "C": "Union instruction",
+      "D": "Tradition"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 227,
+    "question": "Tribunal appeals go to the:",
+    "options": {
+      "A": "Senate",
+      "B": "Court of Appeal",
+      "C": "President",
+      "D": "EFCC"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 228,
+    "question": "False declarations may be punished with:",
+    "options": {
+      "A": "Promotions",
+      "B": "International transfer",
+      "C": "Fines and disqualification",
+      "D": "Salary increase"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 229,
+    "question": "Asset declaration forms are administered by the:",
+    "options": {
+      "A": "National Assembly",
+      "B": "Ministry of Finance",
+      "C": "Code of Conduct Bureau",
+      "D": "Judicial Council"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 230,
+    "question": "Public service is founded on:",
+    "options": {
+      "A": "Political loyalty",
+      "B": "Personal gain",
+      "C": "Integrity",
+      "D": "Ancestry"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 231,
+    "question": "Which of the following is allowed?",
+    "options": {
+      "A": "Using public office for private contracts",
+      "B": "Declaring assets truthfully",
+      "C": "Accepting bribes",
+      "D": "Hiding income"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 232,
+    "question": "The CCB investigates complaints by:",
+    "options": {
+      "A": "Summoning offenders",
+      "B": "Arresting all public officers",
+      "C": "Releasing press statements",
+      "D": "Voter registration"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 233,
+    "question": "Code violations undermine:",
+    "options": {
+      "A": "Political ambition",
+      "B": "Public confidence",
+      "C": "Private firms",
+      "D": "Religious freedom"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 234,
+    "question": "A public officer must declare assets of:",
+    "options": {
+      "A": "Spouse",
+      "B": "Friends",
+      "C": "Neighbors",
+      "D": "Foreign companies"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 235,
+    "question": "Tribunal members are selected from:",
+    "options": {
+      "A": "Political parties",
+      "B": "Judiciary",
+      "C": "Military",
+      "D": "Civil service"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 236,
+    "question": "Bribery is categorized as:",
+    "options": {
+      "A": "Negotiation",
+      "B": "Illegal enrichment",
+      "C": "Service delivery",
+      "D": "Political tool"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 237,
+    "question": "Which item is not required in a declaration form?",
+    "options": {
+      "A": "Shares",
+      "B": "Household items",
+      "C": "Loans",
+      "D": "Buildings"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 238,
+    "question": "One aim of the Code is to:",
+    "options": {
+      "A": "Inflate budgets",
+      "B": "Limit transparency",
+      "C": "Deter corruption",
+      "D": "Promote tribalism"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 239,
+    "question": "Asset declaration is meant to:",
+    "options": {
+      "A": "Mislead",
+      "B": "Confuse voters",
+      "C": "Monitor wealth",
+      "D": "Block elections"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 240,
+    "question": "An officer under investigation must:",
+    "options": {
+      "A": "Be promoted",
+      "B": "Be exonerated",
+      "C": "Cooperate",
+      "D": "Resign"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 241,
+    "question": "Tribunal can disqualify a person from:",
+    "options": {
+      "A": "Marriage",
+      "B": "Religion",
+      "C": "Political office",
+      "D": "Banking"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 242,
+    "question": "Gifts from foreign dignitaries must be:",
+    "options": {
+      "A": "Accepted and kept",
+      "B": "Rejected immediately",
+      "C": "Declared",
+      "D": "Auctioned"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 243,
+    "question": "Tribunal sanctions are meant to:",
+    "options": {
+      "A": "Discourage duty",
+      "B": "Deter violations",
+      "C": "Promote corruption",
+      "D": "Reward loyalty"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 244,
+    "question": "Tribunal decisions must be:",
+    "options": {
+      "A": "Secret",
+      "B": "Political",
+      "C": "Public and reasoned",
+      "D": "Personal"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 245,
+    "question": "Asset declaration may reduce:",
+    "options": {
+      "A": "Employment",
+      "B": "Foreign debt",
+      "C": "Fraud",
+      "D": "Revenue"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 246,
+    "question": "Public office is a position of:",
+    "options": {
+      "A": "Wealth",
+      "B": "Trust",
+      "C": "Business",
+      "D": "Family"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 247,
+    "question": "Integrity in office leads to:",
+    "options": {
+      "A": "Dismissal",
+      "B": "Legal battles",
+      "C": "Public confidence",
+      "D": "Crisis"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 248,
+    "question": "Officers are prohibited from engaging in:",
+    "options": {
+      "A": "Teaching",
+      "B": "Farming",
+      "C": "Commercial business",
+      "D": "Voluntary work"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 249,
+    "question": "When may Tribunal sit?",
+    "options": {
+      "A": "Only when politicians are free",
+      "B": "Upon CCB report",
+      "C": "After elections",
+      "D": "On weekends only"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 250,
+    "question": "One function of the Bureau is to:",
+    "options": {
+      "A": "Draft laws",
+      "B": "Fund campaigns",
+      "C": "Receive complaints",
+      "D": "Create taxes"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 251,
+    "question": "Undeclared assets are considered:",
+    "options": {
+      "A": "Lost",
+      "B": "Valid",
+      "C": "Illicit",
+      "D": "Unused"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 252,
+    "question": "Code of Conduct promotes:",
+    "options": {
+      "A": "Legal impunity",
+      "B": "Fairness",
+      "C": "Asset hoarding",
+      "D": "Double standard"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 253,
+    "question": "Tribunal members are appointed based on:",
+    "options": {
+      "A": "Family ties",
+      "B": "Religious beliefs",
+      "C": "Competence and integrity",
+      "D": "Political support"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 254,
+    "question": "Which of these is part of the declaration form?",
+    "options": {
+      "A": "Campaign slogan",
+      "B": "Certificate of origin",
+      "C": "Income sources",
+      "D": "Driving license"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 255,
+    "question": "A suspended officer cannot:",
+    "options": {
+      "A": "Take leave",
+      "B": "Attend training",
+      "C": "Exercise official power",
+      "D": "Pay tax"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 256,
+    "question": "Asset falsification is classified as:",
+    "options": {
+      "A": "Oversight",
+      "B": "Error",
+      "C": "Fraud",
+      "D": "Misinformation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 257,
+    "question": "The Bureau contributes to:",
+    "options": {
+      "A": "Budget padding",
+      "B": "Democratic ethics",
+      "C": "Inflation",
+      "D": "Media regulation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 258,
+    "question": "How long does it take for sanctions to take effect?",
+    "options": {
+      "A": "Immediately after conviction",
+      "B": "After one year",
+      "C": "When party approves",
+      "D": "After retirement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 259,
+    "question": "The Bureau\u2019s mandate excludes:",
+    "options": {
+      "A": "Asset verification",
+      "B": "Receiving petitions",
+      "C": "Investigating fraud",
+      "D": "Filing lawsuits"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 260,
+    "question": "Gift declaration helps to:",
+    "options": {
+      "A": "Trace corruption",
+      "B": "Delay promotions",
+      "C": "Fund elections",
+      "D": "Support parties"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 261,
+    "question": "The Tribunal is empowered by:",
+    "options": {
+      "A": "State law",
+      "B": "Constitution",
+      "C": "Budget Act",
+      "D": "Labour Act"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 262,
+    "question": "Failure to cooperate with CCB may lead to:",
+    "options": {
+      "A": "Loan approval",
+      "B": "Warning letter",
+      "C": "Tribunal prosecution",
+      "D": "Transfer abroad"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 263,
+    "question": "The Code helps in:",
+    "options": {
+      "A": "Building roads",
+      "B": "Moral reorientation",
+      "C": "Increasing tax",
+      "D": "Inflating contracts"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 264,
+    "question": "Declarations must be filled with:",
+    "options": {
+      "A": "Ink",
+      "B": "Pencil",
+      "C": "Email",
+      "D": "Verbal note"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 265,
+    "question": "Tribunal hearings are:",
+    "options": {
+      "A": "Optional",
+      "B": "Confidential",
+      "C": "Open to public",
+      "D": "Held abroad"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 266,
+    "question": "Tribunal cannot impose:",
+    "options": {
+      "A": "Dismissal",
+      "B": "Reinstatement",
+      "C": "Disqualification",
+      "D": "Suspension"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 267,
+    "question": "Officers must update asset declaration:",
+    "options": {
+      "A": "Every January",
+      "B": "On major asset change",
+      "C": "After holidays",
+      "D": "During election"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 268,
+    "question": "Asset declaration fosters:",
+    "options": {
+      "A": "Bribery",
+      "B": "Transparency",
+      "C": "Privacy",
+      "D": "Party supremacy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 269,
+    "question": "Tribunal judgments are enforced by:",
+    "options": {
+      "A": "Army",
+      "B": "Police",
+      "C": "DSS",
+      "D": "Judiciary"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 270,
+    "question": "CCB operates under:",
+    "options": {
+      "A": "Private law",
+      "B": "Executive arm",
+      "C": "Local council",
+      "D": "Customary law"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 271,
+    "question": "Tribunal functions include:",
+    "options": {
+      "A": "Training officers",
+      "B": "Punishing violators",
+      "C": "Organizing elections",
+      "D": "Collecting dues"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 272,
+    "question": "Officers must keep a copy of:",
+    "options": {
+      "A": "Employment letter",
+      "B": "Travel log",
+      "C": "Asset declaration",
+      "D": "Voting card"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 273,
+    "question": "What makes the Code effective?",
+    "options": {
+      "A": "Immunity",
+      "B": "Enforcement",
+      "C": "Silence",
+      "D": "Discretion"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 274,
+    "question": "Asset concealment may be seen as:",
+    "options": {
+      "A": "Cleverness",
+      "B": "Ethics",
+      "C": "Corruption",
+      "D": "Ambition"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 275,
+    "question": "Code of Conduct covers:",
+    "options": {
+      "A": "Private sector",
+      "B": "Religious leaders",
+      "C": "Public officials",
+      "D": "Artisans"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 276,
+    "question": "The Code discourages:",
+    "options": {
+      "A": "Family values",
+      "B": "Hard work",
+      "C": "Abuse of power",
+      "D": "Discipline"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 277,
+    "question": "Tribunal proceedings require:",
+    "options": {
+      "A": "Lawyer",
+      "B": "Journalist",
+      "C": "Evidence",
+      "D": "Party chairman"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 278,
+    "question": "All declared assets must be:",
+    "options": {
+      "A": "Guesswork",
+      "B": "Fictional",
+      "C": "Verifiable",
+      "D": "Exaggerated"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 279,
+    "question": "The Tribunal sits in:",
+    "options": {
+      "A": "Villages",
+      "B": "Anywhere in Nigeria",
+      "C": "Only in Abuja",
+      "D": "Only on Mondays"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 280,
+    "question": "Tribunal hearings can be:",
+    "options": {
+      "A": "Reopened on appeal",
+      "B": "Cancelled by party",
+      "C": "Transferred abroad",
+      "D": "Ignored by CCB"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 281,
+    "question": "If an officer dies in office, asset declaration:",
+    "options": {
+      "A": "Is irrelevant",
+      "B": "Is lost",
+      "C": "Still stands",
+      "D": "Is voided"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 282,
+    "question": "Which promotes public accountability?",
+    "options": {
+      "A": "Hidden income",
+      "B": "Secret allowances",
+      "C": "Asset declaration",
+      "D": "Private accounts"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 283,
+    "question": "The Tribunal helps to:",
+    "options": {
+      "A": "Protect party interests",
+      "B": "Enforce moral standards",
+      "C": "Celebrate leaders",
+      "D": "Elect politicians"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 284,
+    "question": "Declarations must be submitted:",
+    "options": {
+      "A": "To EFCC",
+      "B": "To DSS",
+      "C": "To CCB",
+      "D": "To Senate"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 285,
+    "question": "Tribunal judgments may include:",
+    "options": {
+      "A": "Award of contracts",
+      "B": "Disqualification",
+      "C": "Tax exemption",
+      "D": "Appointment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 286,
+    "question": "CCB officers act as:",
+    "options": {
+      "A": "Court judges",
+      "B": "Witnesses",
+      "C": "Election officials",
+      "D": "Contract staff"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 287,
+    "question": "A public officer must avoid:",
+    "options": {
+      "A": "Bribery",
+      "B": "Integrity",
+      "C": "Transparency",
+      "D": "Compliance"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 288,
+    "question": "Tribunal rulings are based on:",
+    "options": {
+      "A": "Emotional appeal",
+      "B": "Proof",
+      "C": "Apology",
+      "D": "Delay tactics"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 289,
+    "question": "Code of Conduct upholds:",
+    "options": {
+      "A": "Nepotism",
+      "B": "Honesty",
+      "C": "Tribalism",
+      "D": "Malpractice"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 290,
+    "question": "Which office is subject to asset declaration?",
+    "options": {
+      "A": "Governor",
+      "B": "Market leader",
+      "C": "Imam",
+      "D": "Artist"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 291,
+    "question": "Violation of the Code may lead to:",
+    "options": {
+      "A": "Gift",
+      "B": "Reward",
+      "C": "Dismissal",
+      "D": "Promotion"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 292,
+    "question": "CCB enhances:",
+    "options": {
+      "A": "Taxation",
+      "B": "Integrity in service",
+      "C": "Secret allowances",
+      "D": "Media coverage"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 293,
+    "question": "Declaration includes:",
+    "options": {
+      "A": "Pets",
+      "B": "Unregistered vehicles",
+      "C": "Known properties",
+      "D": "Office keys"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 294,
+    "question": "Officers must update their declarations:",
+    "options": {
+      "A": "Every 6 months",
+      "B": "On significant changes",
+      "C": "On public holidays",
+      "D": "At birthdays"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 295,
+    "question": "Tribunal members must be:",
+    "options": {
+      "A": "Honest",
+      "B": "Armed",
+      "C": "Political",
+      "D": "Retired civil servants"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 296,
+    "question": "Failure to declare assets results in:",
+    "options": {
+      "A": "Warning",
+      "B": "Commendation",
+      "C": "Tribunal prosecution",
+      "D": "Allowance"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 297,
+    "question": "Which is an obligation under the Code?",
+    "options": {
+      "A": "Asset falsification",
+      "B": "Honest disclosure",
+      "C": "Secrecy",
+      "D": "Political lobbying"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 298,
+    "question": "Tribunal is empowered to:",
+    "options": {
+      "A": "Campaign",
+      "B": "Impose sanctions",
+      "C": "Audit books",
+      "D": "Register voters"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 299,
+    "question": "Tribunal proceedings are open for:",
+    "options": {
+      "A": "Campaigning",
+      "B": "Monitoring",
+      "C": "Donation",
+      "D": "Enforcement"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 300,
+    "question": "A true declaration must include:",
+    "options": {
+      "A": "Wishes",
+      "B": "Rumors",
+      "C": "All known assets",
+      "D": "Party manifestos"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 301,
+    "question": "Which agency monitors the accuracy of declared assets?",
+    "options": {
+      "A": "Civil Defence",
+      "B": "Code of Conduct Bureau",
+      "C": "Police Force",
+      "D": "Ministry of Interior"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 302,
+    "question": "Tribunal hearings are generally conducted in:",
+    "options": {
+      "A": "Personal residences",
+      "B": "Public places",
+      "C": "Open court",
+      "D": "Private chambers"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 303,
+    "question": "Which of the following is mandatory upon appointment to public office?",
+    "options": {
+      "A": "Letter of employment",
+      "B": "Asset declaration",
+      "C": "Training certificate",
+      "D": "Security report"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 304,
+    "question": "What is the primary function of the Code of Conduct Tribunal?",
+    "options": {
+      "A": "Manage salaries",
+      "B": "Sanction violations",
+      "C": "Train officers",
+      "D": "Design campaigns"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 305,
+    "question": "A public officer receiving bribes is guilty of:",
+    "options": {
+      "A": "Professionalism",
+      "B": "Kindness",
+      "C": "Code violation",
+      "D": "Oversight"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 306,
+    "question": "Declarations must cover assets located in:",
+    "options": {
+      "A": "Nigeria only",
+      "B": "Foreign countries only",
+      "C": "Both local and foreign territories",
+      "D": "Abuja only"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 307,
+    "question": "Officers must not place themselves in situations of:",
+    "options": {
+      "A": "Financial liberty",
+      "B": "Conflict of interest",
+      "C": "Confidentiality",
+      "D": "National celebration"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 308,
+    "question": "Which of the following is a preventive measure against corruption?",
+    "options": {
+      "A": "Job rotation",
+      "B": "Bribery",
+      "C": "Asset declaration",
+      "D": "Tax avoidance"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 309,
+    "question": "Which of these officers must declare assets?",
+    "options": {
+      "A": "Primary school teacher",
+      "B": "Governor",
+      "C": "Traditional chief",
+      "D": "Taxi driver"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 310,
+    "question": "What kind of property must be declared?",
+    "options": {
+      "A": "Unregistered land",
+      "B": "Company shares",
+      "C": "Loan obligations",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 311,
+    "question": "CCB helps to build a culture of:",
+    "options": {
+      "A": "Secrecy",
+      "B": "Transparency",
+      "C": "Distrust",
+      "D": "Resistance"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 312,
+    "question": "CCB maintains which of the following records?",
+    "options": {
+      "A": "Criminal history",
+      "B": "Birth certificates",
+      "C": "Declaration forms",
+      "D": "Employment letters"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 313,
+    "question": "A public officer\u2019s declaration must be:",
+    "options": {
+      "A": "Estimated",
+      "B": "Complete",
+      "C": "Assumed",
+      "D": "Negotiated"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 314,
+    "question": "The Code requires officers to declare assets of:",
+    "options": {
+      "A": "Spouse and dependents",
+      "B": "Friends",
+      "C": "Political donors",
+      "D": "Neighbours"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 315,
+    "question": "The Code ensures all public officers are held:",
+    "options": {
+      "A": "Secretly",
+      "B": "Together",
+      "C": "Accountable",
+      "D": "In contempt"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 316,
+    "question": "The Tribunal may impose which of the following penalties?",
+    "options": {
+      "A": "Warning",
+      "B": "Disqualification",
+      "C": "Suspension",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 317,
+    "question": "Officers are expected to avoid situations that:",
+    "options": {
+      "A": "Require ethics",
+      "B": "Demand honesty",
+      "C": "Create moral conflict",
+      "D": "Invite scrutiny"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 318,
+    "question": "Tribunal hearings are conducted in accordance with:",
+    "options": {
+      "A": "Custom",
+      "B": "Civil Service rules",
+      "C": "Law",
+      "D": "Personal interest"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 319,
+    "question": "Which of the following demonstrates a breach of Code?",
+    "options": {
+      "A": "Filing tax returns",
+      "B": "Running a private company while in office",
+      "C": "Declaring assets",
+      "D": "Requesting leave"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 320,
+    "question": "The Fifth Schedule to the Constitution governs:",
+    "options": {
+      "A": "Electoral process",
+      "B": "Judicial reforms",
+      "C": "Code of Conduct",
+      "D": "Civil Service promotions"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 321,
+    "question": "The Code is meant to promote:",
+    "options": {
+      "A": "Public trust",
+      "B": "Tribal sentiment",
+      "C": "Media blackout",
+      "D": "Religious bias"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 322,
+    "question": "The CCB and CCT were established by:",
+    "options": {
+      "A": "Presidential memo",
+      "B": "National Assembly",
+      "C": "Constitution",
+      "D": "Federal Executive Council"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 323,
+    "question": "A public officer is required to declare:",
+    "options": {
+      "A": "Marriage plans",
+      "B": "Health conditions",
+      "C": "All material assets",
+      "D": "Blood type"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 324,
+    "question": "Which is an example of ethical leadership?",
+    "options": {
+      "A": "Concealing gifts",
+      "B": "Honest declaration",
+      "C": "Delayed form submission",
+      "D": "Bribe negotiation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 325,
+    "question": "Code of Conduct is applicable at:",
+    "options": {
+      "A": "Federal level",
+      "B": "State level",
+      "C": "Local government level",
+      "D": "All levels"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 326,
+    "question": "Public officers should not act in a manner that:",
+    "options": {
+      "A": "Serves public interest",
+      "B": "Conflicts with their duties",
+      "C": "Promotes fairness",
+      "D": "Encourages integrity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 327,
+    "question": "To enforce the Code, the CCB must:",
+    "options": {
+      "A": "Act arbitrarily",
+      "B": "Collaborate with Tribunal",
+      "C": "Ignore complaints",
+      "D": "Conduct media campaigns"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 328,
+    "question": "Tribunal penalties apply to:",
+    "options": {
+      "A": "Political party members only",
+      "B": "All public officers",
+      "C": "Foreign investors",
+      "D": "Citizens abroad"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 329,
+    "question": "Tribunal rulings are valid when:",
+    "options": {
+      "A": "Stamped by EFCC",
+      "B": "Approved by Senate",
+      "C": "Delivered in open court",
+      "D": "Published on social media"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 330,
+    "question": "Officers may avoid penalty if they:",
+    "options": {
+      "A": "Apologize in writing",
+      "B": "Prove error was unintentional",
+      "C": "Report themselves",
+      "D": "Join a political party"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 331,
+    "question": "A declaration form must be:",
+    "options": {
+      "A": "Exaggerated",
+      "B": "Signed and sworn",
+      "C": "Kept secret",
+      "D": "Sent via text"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 332,
+    "question": "Tribunal has power to:",
+    "options": {
+      "A": "Jail journalists",
+      "B": "Award scholarships",
+      "C": "Disqualify officers",
+      "D": "Elect leaders"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 333,
+    "question": "Which public officer is exempt from the Code?",
+    "options": {
+      "A": "None",
+      "B": "President",
+      "C": "Ambassador",
+      "D": "Minister"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 334,
+    "question": "Public officers must not engage in:",
+    "options": {
+      "A": "Transparency",
+      "B": "Outside business without approval",
+      "C": "Asset registration",
+      "D": "Declaration updates"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 335,
+    "question": "Ethical conduct in public service promotes:",
+    "options": {
+      "A": "Fear",
+      "B": "Competence",
+      "C": "Conflict",
+      "D": "Intimidation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 336,
+    "question": "A Tribunal ruling may be appealed to the:",
+    "options": {
+      "A": "Local Government Council",
+      "B": "Chief Magistrate",
+      "C": "Court of Appeal",
+      "D": "Public Complaints Commission"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 337,
+    "question": "Declaration of assets is done under:",
+    "options": {
+      "A": "Oath",
+      "B": "Suspicion",
+      "C": "Peer pressure",
+      "D": "Surveillance"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 338,
+    "question": "The Code guards against misuse of:",
+    "options": {
+      "A": "Private emails",
+      "B": "Public office",
+      "C": "Family property",
+      "D": "Academic record"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 339,
+    "question": "Public officials are expected to act:",
+    "options": {
+      "A": "Secretly",
+      "B": "In line with the law",
+      "C": "Without empathy",
+      "D": "Against protocol"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 340,
+    "question": "A repeated failure to declare assets may result in:",
+    "options": {
+      "A": "Commendation",
+      "B": "Expulsion",
+      "C": "Tribunal sanctions",
+      "D": "Exemption"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 341,
+    "question": "To maintain compliance, the CCB:",
+    "options": {
+      "A": "Monitors budgets",
+      "B": "Conducts interviews",
+      "C": "Reviews asset declarations",
+      "D": "Approves employment"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 342,
+    "question": "Officers can avoid conflict of interest by:",
+    "options": {
+      "A": "Delegating duties",
+      "B": "Not accepting certain roles",
+      "C": "Resigning immediately",
+      "D": "Filing complaints"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 343,
+    "question": "Tribunal may issue which form of sanction?",
+    "options": {
+      "A": "Official endorsement",
+      "B": "Warning or removal",
+      "C": "Loan approval",
+      "D": "Salary increment"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 344,
+    "question": "The ultimate goal of the Code is to promote:",
+    "options": {
+      "A": "State loyalty",
+      "B": "Personal ambition",
+      "C": "Ethical governance",
+      "D": "Partisanship"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 345,
+    "question": "Asset declaration discourages:",
+    "options": {
+      "A": "Transparency",
+      "B": "Corruption",
+      "C": "Due process",
+      "D": "Public confidence"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 346,
+    "question": "CCB exists to enforce:",
+    "options": {
+      "A": "Tax laws",
+      "B": "Civil codes",
+      "C": "Public morality",
+      "D": "Budget rules"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 347,
+    "question": "If a declared asset is found to be fake, it is:",
+    "options": {
+      "A": "Archived",
+      "B": "Rewarded",
+      "C": "Investigated",
+      "D": "Justified"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 348,
+    "question": "An ethical officer will avoid:",
+    "options": {
+      "A": "Declaration",
+      "B": "Gift reports",
+      "C": "Bias",
+      "D": "Honesty"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 349,
+    "question": "The Code promotes conduct that is:",
+    "options": {
+      "A": "Dishonest",
+      "B": "Fraudulent",
+      "C": "Transparent",
+      "D": "Manipulative"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 350,
+    "question": "A Tribunal decision may result in:",
+    "options": {
+      "A": "Salary increase",
+      "B": "Suspension from office",
+      "C": "Electoral appointment",
+      "D": "Judicial promotion"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 351,
+    "question": "Declaration form includes:",
+    "options": {
+      "A": "Spouse\u2019s income",
+      "B": "Personal opinions",
+      "C": "Medical history",
+      "D": "Travel plans"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 352,
+    "question": "Violation of the Code leads to:",
+    "options": {
+      "A": "Reinstatement",
+      "B": "Disciplinary action",
+      "C": "Foreign travel",
+      "D": "Transfer"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 353,
+    "question": "Tribunal proceedings are guided by:",
+    "options": {
+      "A": "Political instruction",
+      "B": "Law and fact",
+      "C": "Media opinion",
+      "D": "Senate recommendation"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 354,
+    "question": "A civil servant involved in private business may be:",
+    "options": {
+      "A": "Promoted",
+      "B": "Cautioned",
+      "C": "Tried by Tribunal",
+      "D": "Exempted"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 355,
+    "question": "Officers may lawfully receive gifts only when:",
+    "options": {
+      "A": "Related to official duty",
+      "B": "From family members",
+      "C": "Authorized by Code",
+      "D": "Kept secret"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 356,
+    "question": "Deliberate falsehood in declaration is treated as:",
+    "options": {
+      "A": "Insubordination",
+      "B": "Code violation",
+      "C": "Complaint",
+      "D": "Tribunal referral"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 357,
+    "question": "The CCB derives power from the:",
+    "options": {
+      "A": "Electoral Act",
+      "B": "Constitution",
+      "C": "Police Code",
+      "D": "Pension Law"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 358,
+    "question": "Public officers are expected to be:",
+    "options": {
+      "A": "Wealthy",
+      "B": "Accountable",
+      "C": "Intimidating",
+      "D": "Secretive"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 359,
+    "question": "Public office is a:",
+    "options": {
+      "A": "Business",
+      "B": "Privilege",
+      "C": "Birthright",
+      "D": "Commercial venture"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 360,
+    "question": "Code of Conduct is to protect:",
+    "options": {
+      "A": "Officials\u2019 wealth",
+      "B": "National interest",
+      "C": "Political allies",
+      "D": "CCB staff"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 361,
+    "question": "The Tribunal may summon:",
+    "options": {
+      "A": "Whistleblowers only",
+      "B": "Spouse and dependents",
+      "C": "Pressmen",
+      "D": "Celebrities"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 362,
+    "question": "The aim of declaration is to track:",
+    "options": {
+      "A": "Experience",
+      "B": "Service tenure",
+      "C": "Asset accumulation",
+      "D": "Marital status"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 363,
+    "question": "Tribunal decisions are:",
+    "options": {
+      "A": "Temporary",
+      "B": "Judicial",
+      "C": "Political",
+      "D": "Commercial"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 364,
+    "question": "CCB processes are built on:",
+    "options": {
+      "A": "Financial records",
+      "B": "Political agenda",
+      "C": "Personal views",
+      "D": "Legal principles"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 365,
+    "question": "Ignorance of the Code is:",
+    "options": {
+      "A": "A valid excuse",
+      "B": "No excuse",
+      "C": "Tribunal defense",
+      "D": "A requirement"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 366,
+    "question": "The Fifth Schedule outlines:",
+    "options": {
+      "A": "Police duties",
+      "B": "Code of Conduct",
+      "C": "Election calendar",
+      "D": "Party constitutions"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 367,
+    "question": "Declaration must reflect:",
+    "options": {
+      "A": "Political loyalty",
+      "B": "Actual ownership",
+      "C": "Religious bias",
+      "D": "Estimated value"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 368,
+    "question": "Who signs the declaration form?",
+    "options": {
+      "A": "President",
+      "B": "Notary public",
+      "C": "Declarant",
+      "D": "Registrar"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 369,
+    "question": "Which is an unethical act in public office?",
+    "options": {
+      "A": "Disclosure of wealth",
+      "B": "Nepotism",
+      "C": "Fairness",
+      "D": "Diligence"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 370,
+    "question": "Officers found in breach are punished by:",
+    "options": {
+      "A": "Bureaucrats",
+      "B": "Public",
+      "C": "Tribunal",
+      "D": "Commissions"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 371,
+    "question": "Tribunal judgments must be based on:",
+    "options": {
+      "A": "Newspaper reports",
+      "B": "Speculation",
+      "C": "Evidence",
+      "D": "Popularity"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 372,
+    "question": "Which of the following is a duty of the CCB?",
+    "options": {
+      "A": "Conduct elections",
+      "B": "Approve budgets",
+      "C": "Maintain asset records",
+      "D": "Regulate trade"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 373,
+    "question": "Officers should declare:",
+    "options": {
+      "A": "Only houses",
+      "B": "Vehicles and investments",
+      "C": "Everything they own",
+      "D": "Bank statements alone"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 374,
+    "question": "Declaration of liabilities includes:",
+    "options": {
+      "A": "School grades",
+      "B": "Tax documents",
+      "C": "Outstanding loans",
+      "D": "Medical bills"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 375,
+    "question": "Officers are permitted to:",
+    "options": {
+      "A": "Use state funds",
+      "B": "Mislead the Bureau",
+      "C": "Disclose all assets",
+      "D": "Refuse declaration"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 376,
+    "question": "Asset declaration deters:",
+    "options": {
+      "A": "Leadership",
+      "B": "Misconduct",
+      "C": "Transparency",
+      "D": "Justice"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 377,
+    "question": "Tribunal rulings are meant to:",
+    "options": {
+      "A": "Encourage bribery",
+      "B": "Deter abuse",
+      "C": "Fund elections",
+      "D": "Cancel laws"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 378,
+    "question": "Tribunal derives its legal authority from:",
+    "options": {
+      "A": "Electoral Law",
+      "B": "Penal Code",
+      "C": "Constitution",
+      "D": "Senate"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 379,
+    "question": "What guarantees the independence of the CCB?",
+    "options": {
+      "A": "Political parties",
+      "B": "Constitutional provision",
+      "C": "Presidential order",
+      "D": "EFCC support"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 380,
+    "question": "Declarations should be submitted:",
+    "options": {
+      "A": "Within 6 months of appointment",
+      "B": "At leisure",
+      "C": "When requested by media",
+      "D": "After salary payment"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 381,
+    "question": "Code of Conduct aims to:",
+    "options": {
+      "A": "Increase corruption",
+      "B": "Encourage secrecy",
+      "C": "Foster discipline",
+      "D": "Empower lobbyists"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 382,
+    "question": "Undue enrichment through office is:",
+    "options": {
+      "A": "Code compliant",
+      "B": "Punishable",
+      "C": "Acceptable",
+      "D": "Excusable"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 383,
+    "question": "Asset declaration is a tool for:",
+    "options": {
+      "A": "Personal gain",
+      "B": "Legal protection",
+      "C": "Transparency",
+      "D": "Public intimidation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 384,
+    "question": "The Tribunal functions under the:",
+    "options": {
+      "A": "Executive",
+      "B": "Legislative",
+      "C": "Judiciary",
+      "D": "EFCC"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 385,
+    "question": "Declaration forms are obtained from:",
+    "options": {
+      "A": "CCB",
+      "B": "EFCC",
+      "C": "INEC",
+      "D": "State Assembly"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 386,
+    "question": "Tribunal sittings require:",
+    "options": {
+      "A": "Media blackout",
+      "B": "One-man panel",
+      "C": "Chairman and one member",
+      "D": "Politician presence"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 387,
+    "question": "Asset concealment undermines:",
+    "options": {
+      "A": "Trust",
+      "B": "Service delivery",
+      "C": "Policy",
+      "D": "Budget"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 388,
+    "question": "Declaration must be:",
+    "options": {
+      "A": "False",
+      "B": "Accurate",
+      "C": "Withheld",
+      "D": "Incomplete"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 389,
+    "question": "CCB officers are expected to be:",
+    "options": {
+      "A": "Secretive",
+      "B": "Partisan",
+      "C": "Impartial",
+      "D": "Political"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 390,
+    "question": "Who cannot be a member of the Tribunal?",
+    "options": {
+      "A": "Retired judge",
+      "B": "Legal practitioner",
+      "C": "Sitting governor",
+      "D": "Experienced lawyer"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 391,
+    "question": "What determines the validity of a declaration?",
+    "options": {
+      "A": "Oath",
+      "B": "Age",
+      "C": "Popularity",
+      "D": "Region"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 392,
+    "question": "Tribunal appeals are filed at:",
+    "options": {
+      "A": "Supreme Court",
+      "B": "Court of Appeal",
+      "C": "EFCC",
+      "D": "House of Reps"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 393,
+    "question": "Which conduct violates the Code?",
+    "options": {
+      "A": "Honesty",
+      "B": "Confession",
+      "C": "Bribery",
+      "D": "Submission"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 394,
+    "question": "Officers must ensure their assets are:",
+    "options": {
+      "A": "Hidden",
+      "B": "Inflated",
+      "C": "Registered",
+      "D": "Undeclared"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 395,
+    "question": "Tribunal decisions are implemented by:",
+    "options": {
+      "A": "Executive Council",
+      "B": "National Assembly",
+      "C": "Judiciary",
+      "D": "INEC"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 396,
+    "question": "Code of Conduct is designed for:",
+    "options": {
+      "A": "Private firms",
+      "B": "Public officers",
+      "C": "Media",
+      "D": "Political parties"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 397,
+    "question": "CCB helps to ensure:",
+    "options": {
+      "A": "Rule of law",
+      "B": "Police neutrality",
+      "C": "Judicial influence",
+      "D": "Executive secrecy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 398,
+    "question": "A just society requires:",
+    "options": {
+      "A": "Concealment",
+      "B": "Transparency",
+      "C": "Fraud",
+      "D": "Nepotism"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 399,
+    "question": "Tribunal hearings promote:",
+    "options": {
+      "A": "Fear",
+      "B": "Accountability",
+      "C": "Silence",
+      "D": "Delay"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 400,
+    "question": "Public office must be exercised in:",
+    "options": {
+      "A": "Private interest",
+      "B": "Good faith",
+      "C": "Dishonesty",
+      "D": "Partisanship"
+    },
+    "answer": "B"
+  }
+]

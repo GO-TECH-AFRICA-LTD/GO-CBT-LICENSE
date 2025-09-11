@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "question": "Which body regulates the practice of Public Relations in Nigeria?",
+    "options": {
+      "A": "Nigerian Institute of Public Relations (NIPR)",
+      "B": "Advertising Practitioners Council of Nigeria (APCON)",
+      "C": "Nigerian Press Council (NPC)",
+      "D": "Nigerian Union of Journalists (NUJ)"
+    },
+    "correct_option": "A",
+    "correct_answer": "Nigerian Institute of Public Relations (NIPR)"
+  },
+  {
+    "id": 2,
+    "question": "In Nigeria, which year was the Nigerian Institute of Public Relations established?",
+    "options": {
+      "A": "1960",
+      "B": "1963",
+      "C": "1965",
+      "D": "1967"
+    },
+    "correct_option": "B",
+    "correct_answer": "1963"
+  },
+  {
+    "id": 3,
+    "question": "The core mandate of NIPR includes:",
+    "options": {
+      "A": "Promotion of advertising standards",
+      "B": "Licensing of PR practitioners",
+      "C": "Monitoring political campaigns",
+      "D": "Supervising TV broadcasting"
+    },
+    "correct_option": "C",
+    "correct_answer": "Monitoring political campaigns"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a primary function of Public Relations in Nigeria?",
+    "options": {
+      "A": "Revenue generation",
+      "B": "Stakeholder engagement",
+      "C": "Judicial interpretation",
+      "D": "Political lobbying"
+    },
+    "correct_option": "B",
+    "correct_answer": "Stakeholder engagement"
+  },
+  {
+    "id": 5,
+    "question": "Which Nigerian law backs the regulation of PR practice?",
+    "options": {
+      "A": "NIPR Decree No. 16 of 1990",
+      "B": "APCON Act of 1995",
+      "C": "NUJ Act of 1988",
+      "D": "National Broadcasting Commission Act 1992"
+    },
+    "correct_option": "A",
+    "correct_answer": "NIPR Decree No. 16 of 1990"
+  },
+  {
+    "id": 6,
+    "question": "Public Relations in Nigeria became professionalized through:",
+    "options": {
+      "A": "APCON registration",
+      "B": "Legal recognition of NIPR",
+      "C": "NUJ accreditation",
+      "D": "NBC licensing"
+    },
+    "correct_option": "B",
+    "correct_answer": "Legal recognition of NIPR"
+  },
+  {
+    "id": 7,
+    "question": "The first Nigerian to serve as NIPR President was:",
+    "options": {
+      "A": "Lateef Jakande",
+      "B": "Sam Blackie",
+      "C": "Adebola Osuntokun",
+      "D": "Abiodun Onitiri"
+    },
+    "correct_option": "C",
+    "correct_answer": "Adebola Osuntokun"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following best describes PR in Nigeria?",
+    "options": {
+      "A": "Paid media promotion",
+      "B": "Planned communication effort",
+      "C": "Random publicity",
+      "D": "Solely advertising"
+    },
+    "correct_option": "B",
+    "correct_answer": "Planned communication effort"
+  },
+  {
+    "id": 9,
+    "question": "In Nigeria, PR practice requires:",
+    "options": {
+      "A": "Membership in NUJ",
+      "B": "License from NIPR",
+      "C": "Approval from APCON",
+      "D": "Certificate from NBC"
+    },
+    "correct_option": "B",
+    "correct_answer": "License from NIPR"
+  },
+  {
+    "id": 10,
+    "question": "The Nigerian Institute of Public Relations headquarters is located in:",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Enugu",
+      "D": "Kaduna"
+    },
+    "correct_option": "A",
+    "correct_answer": "Abuja"
+  },
+  {
+    "id": 11,
+    "question": "A PR professional in Nigeria must adhere to:",
+    "options": {
+      "A": "APCON standards",
+      "B": "NUJ ethics",
+      "C": "NIPR Code of Conduct",
+      "D": "NBC rules"
+    },
+    "correct_option": "C",
+    "correct_answer": "NIPR Code of Conduct"
+  },
+  {
+    "id": 12,
+    "question": "The PR function in Nigerian ministries is usually headed by:",
+    "options": {
+      "A": "Information Officer",
+      "B": "Press Secretary",
+      "C": "Media Officer",
+      "D": "Communication Clerk"
+    },
+    "correct_option": "B",
+    "correct_answer": "Press Secretary"
+  },
+  {
+    "id": 13,
+    "question": "Which Nigerian sector uses PR most extensively?",
+    "options": {
+      "A": "Transport",
+      "B": "Banking",
+      "C": "Agriculture",
+      "D": "Fishing"
+    },
+    "correct_option": "B",
+    "correct_answer": "Banking"
+  },
+  {
+    "id": 14,
+    "question": "The most critical tool of PR practice in Nigeria is:",
+    "options": {
+      "A": "Radio jingles",
+      "B": "Media relations",
+      "C": "Billboard advertisement",
+      "D": "Court injunctions"
+    },
+    "correct_option": "B",
+    "correct_answer": "Media relations"
+  },
+  {
+    "id": 15,
+    "question": "A PR plan in Nigeria typically begins with:",
+    "options": {
+      "A": "Budget approval",
+      "B": "Situation analysis",
+      "C": "Staff recruitment",
+      "D": "Media placement"
+    },
+    "correct_option": "B",
+    "correct_answer": "Situation analysis"
+  },
+  {
+    "id": 16,
+    "question": "Who is regarded as the father of PR in Nigeria?",
+    "options": {
+      "A": "Dr. Nnamdi Azikiwe",
+      "B": "Sam Blackie",
+      "C": "Adebola Osuntokun",
+      "D": "Dele Giwa"
+    },
+    "correct_option": "C",
+    "correct_answer": "Adebola Osuntokun"
+  },
+  {
+    "id": 17,
+    "question": "In PR campaigns in Nigeria, evaluation helps to:",
+    "options": {
+      "A": "Reduce staff salary",
+      "B": "Measure effectiveness",
+      "C": "Avoid press release",
+      "D": "Ban media houses"
+    },
+    "correct_option": "B",
+    "correct_answer": "Measure effectiveness"
+  },
+  {
+    "id": 18,
+    "question": "Which Nigerian agency uses PR in crisis communication?",
+    "options": {
+      "A": "NNPC",
+      "B": "APCON",
+      "C": "CBN",
+      "D": "NBC"
+    },
+    "correct_option": "A",
+    "correct_answer": "NNPC"
+  },
+  {
+    "id": 19,
+    "question": "Public Relations in government is mostly concerned with:",
+    "options": {
+      "A": "Legislation drafting",
+      "B": "Image management",
+      "C": "Court judgment",
+      "D": "Budget sharing"
+    },
+    "correct_option": "B",
+    "correct_answer": "Image management"
+  },
+  {
+    "id": 20,
+    "question": "Which medium is most accessible for PR in rural Nigeria?",
+    "options": {
+      "A": "Radio",
+      "B": "Newspaper",
+      "C": "Social media",
+      "D": "Television"
+    },
+    "correct_option": "A",
+    "correct_answer": "Radio"
+  },
+  {
+    "id": 21,
+    "question": "In Nigeria, which group must register with NIPR?",
+    "options": {
+      "A": "Advertising firms",
+      "B": "PR practitioners",
+      "C": "Journalists",
+      "D": "Broadcasters"
+    },
+    "correct_option": "B",
+    "correct_answer": "PR practitioners"
+  },
+  {
+    "id": 22,
+    "question": "One of the challenges of PR practice in Nigeria is:",
+    "options": {
+      "A": "Media illiteracy",
+      "B": "Poor infrastructure",
+      "C": "High taxation",
+      "D": "Import bans"
+    },
+    "correct_option": "B",
+    "correct_answer": "Poor infrastructure"
+  },
+  {
+    "id": 23,
+    "question": "The PR Code of Ethics in Nigeria prohibits:",
+    "options": {
+      "A": "Lobbying",
+      "B": "Rumor spreading",
+      "C": "Media training",
+      "D": "Stakeholder engagement"
+    },
+    "correct_option": "B",
+    "correct_answer": "Rumor spreading"
+  },
+  {
+    "id": 24,
+    "question": "The role of PR in Nigerian electoral campaigns is mainly:",
+    "options": {
+      "A": "Image building",
+      "B": "Ballot counting",
+      "C": "Vote buying",
+      "D": "Party registration"
+    },
+    "correct_option": "A",
+    "correct_answer": "Image building"
+  },
+  {
+    "id": 25,
+    "question": "Which Nigerian organization runs annual PR conferences?",
+    "options": {
+      "A": "NUJ",
+      "B": "NIPR",
+      "C": "APCON",
+      "D": "CBN"
+    },
+    "correct_option": "B",
+    "correct_answer": "NIPR"
+  },
+  {
+    "id": 26,
+    "question": "Public Relations differs from advertising in Nigeria because PR:",
+    "options": {
+      "A": "Is cheaper than advertising",
+      "B": "Is non-personal communication",
+      "C": "Relies on earned media",
+      "D": "Avoids press releases"
+    },
+    "correct_option": "C",
+    "correct_answer": "Relies on earned media"
+  },
+  {
+    "id": 27,
+    "question": "Which Nigerian bank is known for strong PR branding campaigns?",
+    "options": {
+      "A": "Union Bank",
+      "B": "GTBank",
+      "C": "First Bank",
+      "D": "UBA"
+    },
+    "correct_option": "B",
+    "correct_answer": "GTBank"
+  },
+  {
+    "id": 28,
+    "question": "In Nigerian PR practice, \"house journal\" means:",
+    "options": {
+      "A": "A company’s newsletter",
+      "B": "National newspaper",
+      "C": "Radio broadcast",
+      "D": "Political pamphlet"
+    },
+    "correct_option": "A",
+    "correct_answer": "A company’s newsletter"
+  },
+  {
+    "id": 29,
+    "question": "Who appoints Press Secretaries in Nigerian government offices?",
+    "options": {
+      "A": "Civil Service Commission",
+      "B": "Minister or Governor",
+      "C": "Judiciary",
+      "D": "Senate"
+    },
+    "correct_option": "B",
+    "correct_answer": "Minister or Governor"
+  },
+  {
+    "id": 30,
+    "question": "In Nigeria, internal PR is often practiced through:",
+    "options": {
+      "A": "Employee bulletins",
+      "B": "Mass rallies",
+      "C": "Billboard adverts",
+      "D": "Court orders"
+    },
+    "correct_option": "A",
+    "correct_answer": "Employee bulletins"
+  },
+  {
+    "id": 31,
+    "question": "The major audience of PR in Nigeria is:",
+    "options": {
+      "A": "Politicians",
+      "B": "Stakeholders",
+      "C": "Judges",
+      "D": "Soldiers"
+    },
+    "correct_option": "B",
+    "correct_answer": "Stakeholders"
+  },
+  {
+    "id": 32,
+    "question": "Which Nigerian university was first to offer PR as a degree course?",
+    "options": {
+      "A": "University of Lagos",
+      "B": "University of Nigeria Nsukka",
+      "C": "Ahmadu Bello University",
+      "D": "University of Ibadan"
+    },
+    "correct_option": "B",
+    "correct_answer": "University of Nigeria Nsukka"
+  },
+  {
+    "id": 33,
+    "question": "Nigerian PR practitioners use research mainly for:",
+    "options": {
+      "A": "Employee promotions",
+      "B": "Strategy planning",
+      "C": "Court cases",
+      "D": "Import licenses"
+    },
+    "correct_option": "B",
+    "correct_answer": "Strategy planning"
+  },
+  {
+    "id": 34,
+    "question": "Which Nigerian law makes it illegal to practice PR without registration?",
+    "options": {
+      "A": "NIPR Act 1990",
+      "B": "NBC Act 1992",
+      "C": "APCON Act 1995",
+      "D": "NUJ Act 1988"
+    },
+    "correct_option": "A",
+    "correct_answer": "NIPR Act 1990"
+  },
+  {
+    "id": 35,
+    "question": "The first honorary fellow of NIPR was:",
+    "options": {
+      "A": "Dr. Nnamdi Azikiwe",
+      "B": "Chief Olusegun Obasanjo",
+      "C": "Alhaji Lateef Jakande",
+      "D": "Sir Abubakar Tafawa Balewa"
+    },
+    "correct_option": "C",
+    "correct_answer": "Alhaji Lateef Jakande"
+  },
+  {
+    "id": 36,
+    "question": "Public Relations is essential for Nigerian oil companies to:",
+    "options": {
+      "A": "Improve profits",
+      "B": "Manage host communities",
+      "C": "Import crude oil",
+      "D": "Avoid taxes"
+    },
+    "correct_option": "B",
+    "correct_answer": "Manage host communities"
+  },
+  {
+    "id": 37,
+    "question": "The practice of PR in Nigeria is distinguished from journalism because PR:",
+    "options": {
+      "A": "Seeks objectivity",
+      "B": "Focuses on corporate image",
+      "C": "Reports only crime",
+      "D": "Avoids communication"
+    },
+    "correct_option": "B",
+    "correct_answer": "Focuses on corporate image"
+  },
+  {
+    "id": 38,
+    "question": "The PR term “two-way communication” in Nigeria means:",
+    "options": {
+      "A": "Feedback system",
+      "B": "Radio broadcasting",
+      "C": "Court hearings",
+      "D": "TV drama"
+    },
+    "correct_option": "A",
+    "correct_answer": "Feedback system"
+  },
+  {
+    "id": 39,
+    "question": "Which Nigerian body licenses PR consultancy firms?",
+    "options": {
+      "A": "NIPR",
+      "B": "APCON",
+      "C": "NBC",
+      "D": "NUJ"
+    },
+    "correct_option": "A",
+    "correct_answer": "NIPR"
+  },
+  {
+    "id": 40,
+    "question": "Which Nigerian city is regarded as the hub of PR practice?",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Port Harcourt",
+      "D": "Kano"
+    },
+    "correct_option": "A",
+    "correct_answer": "Lagos"
+  },
+  {
+    "id": 41,
+    "question": "The national PR day in Nigeria is celebrated by:",
+    "options": {
+      "A": "NIPR",
+      "B": "NUJ",
+      "C": "NBC",
+      "D": "APCON"
+    },
+    "correct_option": "A",
+    "correct_answer": "NIPR"
+  },
+  {
+    "id": 42,
+    "question": "Which Nigerian PR tool is most useful for CSR campaigns?",
+    "options": {
+      "A": "Community relations",
+      "B": "Political rallies",
+      "C": "Billboard campaigns",
+      "D": "Election debates"
+    },
+    "correct_option": "A",
+    "correct_answer": "Community relations"
+  },
+  {
+    "id": 43,
+    "question": "In Nigeria, PR campaigns addressing fake news focus on:",
+    "options": {
+      "A": "Media literacy",
+      "B": "Import bans",
+      "C": "Taxation reforms",
+      "D": "Infrastructure building"
+    },
+    "correct_option": "A",
+    "correct_answer": "Media literacy"
+  },
+  {
+    "id": 44,
+    "question": "The highest honor given by NIPR is:",
+    "options": {
+      "A": "NIPR Fellowship",
+      "B": "Media Ambassador Award",
+      "C": "Press Secretary Award",
+      "D": "National Merit PR Badge"
+    },
+    "correct_option": "A",
+    "correct_answer": "NIPR Fellowship"
+  },
+  {
+    "id": 45,
+    "question": "PR crisis communication in Nigeria often uses:",
+    "options": {
+      "A": "Press releases",
+      "B": "Court summons",
+      "C": "Tax incentives",
+      "D": "Strikes"
+    },
+    "correct_option": "A",
+    "correct_answer": "Press releases"
+  },
+  {
+    "id": 46,
+    "question": "Which Nigerian telecommunications company is known for effective PR?",
+    "options": {
+      "A": "Globacom",
+      "B": "Airtel",
+      "C": "MTN",
+      "D": "9mobile"
+    },
+    "correct_option": "C",
+    "correct_answer": "MTN"
+  },
+  {
+    "id": 47,
+    "question": "PR measurement in Nigeria is often based on:",
+    "options": {
+      "A": "Media coverage",
+      "B": "Court approval",
+      "C": "Budget savings",
+      "D": "Staff salary"
+    },
+    "correct_option": "A",
+    "correct_answer": "Media coverage"
+  },
+  {
+    "id": 48,
+    "question": "Which Nigerian ministry oversees government PR activities?",
+    "options": {
+      "A": "Ministry of Labour",
+      "B": "Ministry of Information",
+      "C": "Ministry of Finance",
+      "D": "Ministry of Education"
+    },
+    "correct_option": "B",
+    "correct_answer": "Ministry of Information"
+  },
+  {
+    "id": 49,
+    "question": "In PR, “opinion leaders” in Nigeria often refer to:",
+    "options": {
+      "A": "Traditional rulers",
+      "B": "Court judges",
+      "C": "Civil servants",
+      "D": "Soldiers"
+    },
+    "correct_option": "A",
+    "correct_answer": "Traditional rulers"
+  },
+  {
+    "id": 50,
+    "question": "Which Nigerian PR campaign is aimed at youth empowerment?",
+    "options": {
+      "A": "YouWin",
+      "B": "Sure-P",
+      "C": "N-Power",
+      "D": "MTN Foundation"
+    },
+    "correct_option": "D",
+    "correct_answer": "MTN Foundation"
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is a key principle of PR in Nigeria?",
+    "options": {
+      "A": "Truth and transparency",
+      "B": "Political loyalty",
+      "C": "Profit maximization",
+      "D": "Suppression of facts"
+    },
+    "correct_option": "A",
+    "correct_answer": "Truth and transparency"
+  },
+  {
+    "id": 52,
+    "question": "In Nigerian PR practice, corporate social responsibility (CSR) is best described as:",
+    "options": {
+      "A": "Community support initiatives",
+      "B": "Political campaign funding",
+      "C": "Shareholder dividend payments",
+      "D": "Import substitution policy"
+    },
+    "correct_option": "A",
+    "correct_answer": "Community support initiatives"
+  },
+  {
+    "id": 53,
+    "question": "The Nigerian PR code discourages:",
+    "options": {
+      "A": "Deceptive communication",
+      "B": "Ethical practices",
+      "C": "Corporate branding",
+      "D": "Stakeholder feedback"
+    },
+    "correct_option": "A",
+    "correct_answer": "Deceptive communication"
+  },
+  {
+    "id": 54,
+    "question": "Which Nigerian sector uses lobbying as part of PR strategy?",
+    "options": {
+      "A": "Oil and Gas",
+      "B": "Judiciary",
+      "C": "Manufacturing",
+      "D": "Agriculture"
+    },
+    "correct_option": "A",
+    "correct_answer": "Oil and Gas"
+  },
+  {
+    "id": 55,
+    "question": "The NIPR recognizes PR as:",
+    "options": {
+      "A": "A management function",
+      "B": "A clerical job",
+      "C": "A court process",
+      "D": "A political party tool"
+    },
+    "correct_option": "A",
+    "correct_answer": "A management function"
+  },
+  {
+    "id": 56,
+    "question": "Which Nigerian leader’s government emphasized public enlightenment through PR?",
+    "options": {
+      "A": "Olusegun Obasanjo",
+      "B": "Goodluck Jonathan",
+      "C": "Yakubu Gowon",
+      "D": "Muhammadu Buhari"
+    },
+    "correct_option": "C",
+    "correct_answer": "Yakubu Gowon"
+  },
+  {
+    "id": 57,
+    "question": "The PR practice in Nigeria focuses mainly on:",
+    "options": {
+      "A": "Reputation management",
+      "B": "Financial auditing",
+      "C": "Product distribution",
+      "D": "Legal prosecution"
+    },
+    "correct_option": "A",
+    "correct_answer": "Reputation management"
+  },
+  {
+    "id": 58,
+    "question": "The PR tool “press release” is most effective in Nigeria when:",
+    "options": {
+      "A": "Distributed to mass media",
+      "B": "Restricted to top officials",
+      "C": "Hidden from public view",
+      "D": "Sent only to courts"
+    },
+    "correct_option": "A",
+    "correct_answer": "Distributed to mass media"
+  },
+  {
+    "id": 59,
+    "question": "Which Nigerian university offers a master’s degree in PR?",
+    "options": {
+      "A": "University of Lagos",
+      "B": "Bayero University",
+      "C": "University of Ibadan",
+      "D": "University of Nigeria Nsukka"
+    },
+    "correct_option": "A",
+    "correct_answer": "University of Lagos"
+  },
+  {
+    "id": 60,
+    "question": "Public Relations enhances democracy in Nigeria by:",
+    "options": {
+      "A": "Promoting dialogue between government and citizens",
+      "B": "Controlling election results",
+      "C": "Replacing legislators",
+      "D": "Imposing media bans"
+    },
+    "correct_option": "A",
+    "correct_answer": "Promoting dialogue between government and citizens"
+  },
+  {
+    "id": 61,
+    "question": "A PR officer in Nigeria should be skilled in:",
+    "options": {
+      "A": "Communication and writing",
+      "B": "Farming and trade",
+      "C": "Legal drafting",
+      "D": "Tax collection"
+    },
+    "correct_option": "A",
+    "correct_answer": "Communication and writing"
+  },
+  {
+    "id": 62,
+    "question": "Which of these is a CSR initiative by Nigerian banks?",
+    "options": {
+      "A": "Youth empowerment programs",
+      "B": "Vote mobilization",
+      "C": "Judicial reforms",
+      "D": "Import policies"
+    },
+    "correct_option": "A",
+    "correct_answer": "Youth empowerment programs"
+  },
+  {
+    "id": 63,
+    "question": "NIPR membership is required for:",
+    "options": {
+      "A": "Practicing PR legally in Nigeria",
+      "B": "Working as a journalist",
+      "C": "Contesting political office",
+      "D": "Becoming a broadcaster"
+    },
+    "correct_option": "A",
+    "correct_answer": "Practicing PR legally in Nigeria"
+  },
+  {
+    "id": 64,
+    "question": "Which Nigerian PR strategy is effective in community relations?",
+    "options": {
+      "A": "Town hall meetings",
+      "B": "Billboard advertising",
+      "C": "Election manifestos",
+      "D": "Court notices"
+    },
+    "correct_option": "A",
+    "correct_answer": "Town hall meetings"
+  },
+  {
+    "id": 65,
+    "question": "In Nigeria, PR complements journalism by:",
+    "options": {
+      "A": "Supplying factual information",
+      "B": "Manipulating stories",
+      "C": "Replacing reporters",
+      "D": "Avoiding news media"
+    },
+    "correct_option": "A",
+    "correct_answer": "Supplying factual information"
+  },
+  {
+    "id": 66,
+    "question": "The PR concept of “mutual understanding” in Nigeria means:",
+    "options": {
+      "A": "Harmonious relations between organizations and their publics",
+      "B": "Court settlements between parties",
+      "C": "Tax exemptions for firms",
+      "D": "Loan approvals by banks"
+    },
+    "correct_option": "A",
+    "correct_answer": "Harmonious relations between organizations and their publics"
+  },
+  {
+    "id": 67,
+    "question": "Which Nigerian PR activity focuses on employees?",
+    "options": {
+      "A": "Internal communication",
+      "B": "External press briefing",
+      "C": "Radio sponsorship",
+      "D": "Lobbying parliament"
+    },
+    "correct_option": "A",
+    "correct_answer": "Internal communication"
+  },
+  {
+    "id": 68,
+    "question": "In Nigeria, PR supports marketing by:",
+    "options": {
+      "A": "Building product credibility",
+      "B": "Fixing product prices",
+      "C": "Importing raw materials",
+      "D": "Collecting taxes"
+    },
+    "correct_option": "A",
+    "correct_answer": "Building product credibility"
+  },
+  {
+    "id": 69,
+    "question": "A major PR challenge in Nigeria today is:",
+    "options": {
+      "A": "Fake news and misinformation",
+      "B": "Excessive rainfall",
+      "C": "Population decline",
+      "D": "Cheap fuel importation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Fake news and misinformation"
+  },
+  {
+    "id": 70,
+    "question": "Nigerian PR practice emphasizes:",
+    "options": {
+      "A": "Ethics and integrity",
+      "B": "Political propaganda",
+      "C": "Media censorship",
+      "D": "Legal intimidation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Ethics and integrity"
+  },
+  {
+    "id": 71,
+    "question": "The PR officer in a Nigerian ministry reports directly to:",
+    "options": {
+      "A": "The Permanent Secretary",
+      "B": "The Senate",
+      "C": "The judiciary",
+      "D": "The National Assembly"
+    },
+    "correct_option": "A",
+    "correct_answer": "The Permanent Secretary"
+  },
+  {
+    "id": 72,
+    "question": "Which Nigerian industry heavily depends on PR crisis management?",
+    "options": {
+      "A": "Aviation",
+      "B": "Mining",
+      "C": "Agriculture",
+      "D": "Textile"
+    },
+    "correct_option": "A",
+    "correct_answer": "Aviation"
+  },
+  {
+    "id": 73,
+    "question": "In Nigeria, PR differs from propaganda because PR is:",
+    "options": {
+      "A": "Based on truth and credibility",
+      "B": "Focused on manipulation",
+      "C": "Meant to deceive the public",
+      "D": "Always political"
+    },
+    "correct_option": "A",
+    "correct_answer": "Based on truth and credibility"
+  },
+  {
+    "id": 74,
+    "question": "Which Nigerian media platform has the widest PR reach?",
+    "options": {
+      "A": "Radio",
+      "B": "Magazines",
+      "C": "Newspapers",
+      "D": "Blogs"
+    },
+    "correct_option": "A",
+    "correct_answer": "Radio"
+  },
+  {
+    "id": 75,
+    "question": "A PR professional in Nigeria should avoid:",
+    "options": {
+      "A": "Conflicts of interest",
+      "B": "Professional development",
+      "C": "Training programs",
+      "D": "Ethical reporting"
+    },
+    "correct_option": "A",
+    "correct_answer": "Conflicts of interest"
+  },
+  {
+    "id": 76,
+    "question": "Which Nigerian PR activity aims at policy acceptance?",
+    "options": {
+      "A": "Public enlightenment campaigns",
+      "B": "Court rulings",
+      "C": "Tax incentives",
+      "D": "Budget allocation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Public enlightenment campaigns"
+  },
+  {
+    "id": 77,
+    "question": "PR practice in Nigeria helps companies by:",
+    "options": {
+      "A": "Improving public trust",
+      "B": "Writing laws",
+      "C": "Banning imports",
+      "D": "Organizing elections"
+    },
+    "correct_option": "A",
+    "correct_answer": "Improving public trust"
+  },
+  {
+    "id": 78,
+    "question": "A common PR medium in Nigerian rural areas is:",
+    "options": {
+      "A": "Community radio",
+      "B": "International magazines",
+      "C": "Social media apps only",
+      "D": "Foreign TV channels"
+    },
+    "correct_option": "A",
+    "correct_answer": "Community radio"
+  },
+  {
+    "id": 79,
+    "question": "In Nigeria, PR helps prevent crises through:",
+    "options": {
+      "A": "Proactive communication",
+      "B": "Judicial orders",
+      "C": "Military intervention",
+      "D": "Budget increments"
+    },
+    "correct_option": "A",
+    "correct_answer": "Proactive communication"
+  },
+  {
+    "id": 80,
+    "question": "Which Nigerian sector requires constant PR engagement with host communities?",
+    "options": {
+      "A": "Oil and Gas",
+      "B": "Education",
+      "C": "Banking",
+      "D": "Agriculture"
+    },
+    "correct_option": "A",
+    "correct_answer": "Oil and Gas"
+  },
+  {
+    "id": 81,
+    "question": "The main difference between PR and marketing in Nigeria is that PR:",
+    "options": {
+      "A": "Focuses on building goodwill",
+      "B": "Concentrates on profit",
+      "C": "Fixes prices",
+      "D": "Avoids branding"
+    },
+    "correct_option": "A",
+    "correct_answer": "Focuses on building goodwill"
+  },
+  {
+    "id": 82,
+    "question": "Which Nigerian PR body organizes induction for new members?",
+    "options": {
+      "A": "NIPR",
+      "B": "APCON",
+      "C": "NUJ",
+      "D": "NBC"
+    },
+    "correct_option": "A",
+    "correct_answer": "NIPR"
+  },
+  {
+    "id": 83,
+    "question": "In Nigeria, “stakeholders” in PR practice include:",
+    "options": {
+      "A": "Employees, customers, and community",
+      "B": "Only politicians",
+      "C": "Only journalists",
+      "D": "Only government workers"
+    },
+    "correct_option": "A",
+    "correct_answer": "Employees, customers, and community"
+  },
+  {
+    "id": 84,
+    "question": "The Nigerian PR strategy of image repair involves:",
+    "options": {
+      "A": "Correcting public misconceptions",
+      "B": "Avoiding publicity",
+      "C": "Media blackout",
+      "D": "Staff retrenchment"
+    },
+    "correct_option": "A",
+    "correct_answer": "Correcting public misconceptions"
+  },
+  {
+    "id": 85,
+    "question": "In PR practice, Nigerian organizations use surveys to:",
+    "options": {
+      "A": "Assess public opinion",
+      "B": "Recruit staff",
+      "C": "Draft laws",
+      "D": "Approve taxes"
+    },
+    "correct_option": "A",
+    "correct_answer": "Assess public opinion"
+  },
+  {
+    "id": 86,
+    "question": "Which Nigerian PR approach involves dialogue with local chiefs?",
+    "options": {
+      "A": "Community relations",
+      "B": "Social media adverts",
+      "C": "International lobbying",
+      "D": "Legal arbitration"
+    },
+    "correct_option": "A",
+    "correct_answer": "Community relations"
+  },
+  {
+    "id": 87,
+    "question": "A press conference in Nigeria is an example of:",
+    "options": {
+      "A": "Media relations tool",
+      "B": "Judicial proceeding",
+      "C": "Political manifesto",
+      "D": "Budget defense"
+    },
+    "correct_option": "A",
+    "correct_answer": "Media relations tool"
+  },
+  {
+    "id": 88,
+    "question": "Which Nigerian PR principle promotes fairness?",
+    "options": {
+      "A": "Equity in communication",
+      "B": "Secrecy in media",
+      "C": "Political favoritism",
+      "D": "Corporate dictatorship"
+    },
+    "correct_option": "A",
+    "correct_answer": "Equity in communication"
+  },
+  {
+    "id": 89,
+    "question": "A PR officer in Nigeria must regularly engage:",
+    "options": {
+      "A": "Journalists and media houses",
+      "B": "Farmers and traders only",
+      "C": "Soldiers and police",
+      "D": "Courts and magistrates"
+    },
+    "correct_option": "A",
+    "correct_answer": "Journalists and media houses"
+  },
+  {
+    "id": 90,
+    "question": "The Nigerian PR function of image building applies mostly to:",
+    "options": {
+      "A": "Politicians and corporations",
+      "B": "Fishermen and farmers",
+      "C": "Judges and lawyers",
+      "D": "Military commanders"
+    },
+    "correct_option": "A",
+    "correct_answer": "Politicians and corporations"
+  },
+  {
+    "id": 91,
+    "question": "A PR campaign in Nigeria is considered effective if it:",
+    "options": {
+      "A": "Achieves set objectives",
+      "B": "Avoids the media",
+      "C": "Suppresses opposition",
+      "D": "Ignores stakeholders"
+    },
+    "correct_option": "A",
+    "correct_answer": "Achieves set objectives"
+  },
+  {
+    "id": 92,
+    "question": "In Nigeria, corporate image is improved by:",
+    "options": {
+      "A": "Consistent positive communication",
+      "B": "Frequent legal battles",
+      "C": "Political intimidation",
+      "D": "Court injunctions"
+    },
+    "correct_option": "A",
+    "correct_answer": "Consistent positive communication"
+  },
+  {
+    "id": 93,
+    "question": "The PR strategy of CSR in Nigeria enhances:",
+    "options": {
+      "A": "Corporate reputation",
+      "B": "Political power",
+      "C": "Import licenses",
+      "D": "Media censorship"
+    },
+    "correct_option": "A",
+    "correct_answer": "Corporate reputation"
+  },
+  {
+    "id": 94,
+    "question": "Which Nigerian PR campaign addressed HIV/AIDS awareness?",
+    "options": {
+      "A": "Heartbeat campaign",
+      "B": "Sure-P program",
+      "C": "Vision 2010",
+      "D": "Operation Feed the Nation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Heartbeat campaign"
+  },
+  {
+    "id": 95,
+    "question": "A Nigerian PR campaign that fights drug abuse is led by:",
+    "options": {
+      "A": "NDLEA",
+      "B": "APCON",
+      "C": "NUJ",
+      "D": "CBN"
+    },
+    "correct_option": "A",
+    "correct_answer": "NDLEA"
+  },
+  {
+    "id": 96,
+    "question": "The PR tool used in Nigeria to announce a new policy is:",
+    "options": {
+      "A": "Press release",
+      "B": "Tax form",
+      "C": "Court verdict",
+      "D": "Import license"
+    },
+    "correct_option": "A",
+    "correct_answer": "Press release"
+  },
+  {
+    "id": 97,
+    "question": "Which Nigerian PR principle emphasizes accountability?",
+    "options": {
+      "A": "Responsibility to the public",
+      "B": "Manipulation of facts",
+      "C": "Avoidance of communication",
+      "D": "Secrecy of records"
+    },
+    "correct_option": "A",
+    "correct_answer": "Responsibility to the public"
+  },
+  {
+    "id": 98,
+    "question": "In Nigeria, PR campaigns on girl-child education are driven by:",
+    "options": {
+      "A": "NGOs and government agencies",
+      "B": "Police and army",
+      "C": "Traders and farmers",
+      "D": "Courts and lawyers"
+    },
+    "correct_option": "A",
+    "correct_answer": "NGOs and government agencies"
+  },
+  {
+    "id": 99,
+    "question": "Which Nigerian organization uses PR to promote tourism?",
+    "options": {
+      "A": "Nigerian Tourism Development Corporation (NTDC)",
+      "B": "CBN",
+      "C": "APCON",
+      "D": "NUJ"
+    },
+    "correct_option": "A",
+    "correct_answer": "Nigerian Tourism Development Corporation (NTDC)"
+  },
+  {
+    "id": 100,
+    "question": "PR as a management tool in Nigeria is essential because it:",
+    "options": {
+      "A": "Builds trust and mutual respect",
+      "B": "Avoids corporate accountability",
+      "C": "Suppresses public opinion",
+      "D": "Promotes propaganda only"
+    },
+    "correct_option": "A",
+    "correct_answer": "Builds trust and mutual respect"
+  },
+  {
+    "id": 101,
+    "question": "Which of the following Nigerian sectors relies heavily on PR to manage public perception?",
+    "options": {
+      "A": "Oil and Gas",
+      "B": "Judiciary",
+      "C": "Mining",
+      "D": "Agriculture"
+    },
+    "correct_option": "B",
+    "correct_answer": "Judiciary"
+  },
+  {
+    "id": 102,
+    "question": "In Nigeria, the Public Relations role in corporate governance is to:",
+    "options": {
+      "A": "Strengthen transparency and accountability",
+      "B": "Organize political campaigns",
+      "C": "Enforce import laws",
+      "D": "Draft judicial verdicts"
+    },
+    "correct_option": "C",
+    "correct_answer": "Enforce import laws"
+  },
+  {
+    "id": 103,
+    "question": "The Nigerian PR strategy of community engagement is mostly applied in:",
+    "options": {
+      "A": "Host community relations in Niger Delta",
+      "B": "Judiciary reforms in Abuja",
+      "C": "Political party conventions",
+      "D": "Sports development in Lagos"
+    },
+    "correct_option": "D",
+    "correct_answer": "Sports development in Lagos"
+  },
+  {
+    "id": 104,
+    "question": "Which of the following best describes the PR role in Nigerian democracy?",
+    "options": {
+      "A": "Fostering communication between citizens and government",
+      "B": "Enforcing tax laws",
+      "C": "Influencing judicial rulings",
+      "D": "Controlling election outcomes"
+    },
+    "correct_option": "A",
+    "correct_answer": "Fostering communication between citizens and government"
+  },
+  {
+    "id": 105,
+    "question": "In Nigeria, PR campaigns on climate change focus on:",
+    "options": {
+      "A": "Environmental awareness",
+      "B": "Importation of energy equipment",
+      "C": "Political restructuring",
+      "D": "Court reforms"
+    },
+    "correct_option": "B",
+    "correct_answer": "Importation of energy equipment"
+  },
+  {
+    "id": 106,
+    "question": "Nigerian PR professionals use social media primarily for:",
+    "options": {
+      "A": "Instant feedback and engagement",
+      "B": "Drafting legislation",
+      "C": "Tax revenue collection",
+      "D": "Judicial arbitration"
+    },
+    "correct_option": "C",
+    "correct_answer": "Tax revenue collection"
+  },
+  {
+    "id": 107,
+    "question": "In Nigerian PR practice, press briefings are designed to:",
+    "options": {
+      "A": "Inform the public and clarify issues",
+      "B": "Select political leaders",
+      "C": "Approve budgets",
+      "D": "Conduct import trade"
+    },
+    "correct_option": "D",
+    "correct_answer": "Conduct import trade"
+  },
+  {
+    "id": 108,
+    "question": "Which Nigerian PR campaign was launched to promote girl-child education?",
+    "options": {
+      "A": "UNICEF “Educate the Girl”",
+      "B": "Operation Feed the Nation",
+      "C": "National Orientation Campaign",
+      "D": "Vision 2020"
+    },
+    "correct_option": "A",
+    "correct_answer": "UNICEF “Educate the Girl”"
+  },
+  {
+    "id": 109,
+    "question": "One of the greatest challenges of PR practice in Nigeria is:",
+    "options": {
+      "A": "Fake news proliferation",
+      "B": "Lack of crude oil",
+      "C": "Shortage of judges",
+      "D": "Excessive taxation"
+    },
+    "correct_option": "B",
+    "correct_answer": "Lack of crude oil"
+  },
+  {
+    "id": 110,
+    "question": "Which Nigerian communication medium has the fastest rural reach for PR?",
+    "options": {
+      "A": "Radio",
+      "B": "Internet",
+      "C": "Television",
+      "D": "Print newspapers"
+    },
+    "correct_option": "C",
+    "correct_answer": "Television"
+  },
+  {
+    "id": 111,
+    "question": "In Nigeria, NIPR was established to:",
+    "options": {
+      "A": "Regulate the PR profession",
+      "B": "Replace journalism practice",
+      "C": "Conduct political rallies",
+      "D": "Supervise advertising campaigns"
+    },
+    "correct_option": "D",
+    "correct_answer": "Supervise advertising campaigns"
+  },
+  {
+    "id": 112,
+    "question": "A PR officer in Nigeria preparing a press kit should include:",
+    "options": {
+      "A": "Fact sheets and press releases",
+      "B": "Court injunctions",
+      "C": "Tax assessment forms",
+      "D": "Import licenses"
+    },
+    "correct_option": "A",
+    "correct_answer": "Fact sheets and press releases"
+  },
+  {
+    "id": 113,
+    "question": "The Nigerian PR principle of “two-way communication” is essential because:",
+    "options": {
+      "A": "It ensures feedback between organizations and the public",
+      "B": "It prevents taxation policies",
+      "C": "It avoids media access",
+      "D": "It limits corporate reputation"
+    },
+    "correct_option": "B",
+    "correct_answer": "It prevents taxation policies"
+  },
+  {
+    "id": 114,
+    "question": "PR plays a key role in Nigerian crisis management by:",
+    "options": {
+      "A": "Restoring organizational image after scandals",
+      "B": "Drafting legal judgments",
+      "C": "Manipulating stock prices",
+      "D": "Organizing strikes"
+    },
+    "correct_option": "C",
+    "correct_answer": "Manipulating stock prices"
+  },
+  {
+    "id": 115,
+    "question": "The Nigerian Institute of Public Relations operates under which government ministry?",
+    "options": {
+      "A": "Ministry of Information and National Orientation",
+      "B": "Ministry of Justice",
+      "C": "Ministry of Finance",
+      "D": "Ministry of Labour"
+    },
+    "correct_option": "D",
+    "correct_answer": "Ministry of Labour"
+  },
+  {
+    "id": 116,
+    "question": "In Nigeria, an effective PR campaign begins with:",
+    "options": {
+      "A": "Research and situation analysis",
+      "B": "Advertising expenditure",
+      "C": "Import license approval",
+      "D": "Court registration"
+    },
+    "correct_option": "A",
+    "correct_answer": "Research and situation analysis"
+  },
+  {
+    "id": 117,
+    "question": "Which Nigerian PR practice is internal in nature?",
+    "options": {
+      "A": "Employee communication",
+      "B": "Community enlightenment",
+      "C": "Customer feedback",
+      "D": "Media briefings"
+    },
+    "correct_option": "B",
+    "correct_answer": "Community enlightenment"
+  },
+  {
+    "id": 118,
+    "question": "Which Nigerian multinational company is known for CSR PR campaigns in education?",
+    "options": {
+      "A": "MTN Foundation",
+      "B": "Dangote Group",
+      "C": "Nigerian Breweries",
+      "D": "UBA Foundation"
+    },
+    "correct_option": "C",
+    "correct_answer": "Nigerian Breweries"
+  },
+  {
+    "id": 119,
+    "question": "A PR practitioner in Nigeria must be guided by:",
+    "options": {
+      "A": "NIPR Code of Ethics",
+      "B": "APCON Act",
+      "C": "CBN Act",
+      "D": "NUJ constitution"
+    },
+    "correct_option": "D",
+    "correct_answer": "NUJ constitution"
+  },
+  {
+    "id": 120,
+    "question": "Which PR practice is widely used by Nigerian NGOs?",
+    "options": {
+      "A": "Advocacy communication",
+      "B": "Import control",
+      "C": "Judicial reform",
+      "D": "Taxation lobbying"
+    },
+    "correct_option": "A",
+    "correct_answer": "Advocacy communication"
+  },
+  {
+    "id": 121,
+    "question": "Nigerian PR campaigns against drug abuse are championed by:",
+    "options": {
+      "A": "NDLEA",
+      "B": "CBN",
+      "C": "NBC",
+      "D": "NUJ"
+    },
+    "correct_option": "B",
+    "correct_answer": "CBN"
+  },
+  {
+    "id": 122,
+    "question": "In Nigeria, PR practice in political parties is primarily to:",
+    "options": {
+      "A": "Build credibility and manage public opinion",
+      "B": "Replace electoral commission",
+      "C": "Draft constitutions",
+      "D": "Announce court rulings"
+    },
+    "correct_option": "C",
+    "correct_answer": "Draft constitutions"
+  },
+  {
+    "id": 123,
+    "question": "Which Nigerian PR activity builds trust with employees?",
+    "options": {
+      "A": "Regular staff meetings",
+      "B": "Political rallies",
+      "C": "Legal arbitration",
+      "D": "Tax incentives"
+    },
+    "correct_option": "D",
+    "correct_answer": "Tax incentives"
+  },
+  {
+    "id": 124,
+    "question": "Which Nigerian PR campaign helped in fighting polio?",
+    "options": {
+      "A": "National Immunization Campaign",
+      "B": "Operation Feed the Nation",
+      "C": "Green Revolution",
+      "D": "Vision 2010"
+    },
+    "correct_option": "A",
+    "correct_answer": "National Immunization Campaign"
+  },
+  {
+    "id": 125,
+    "question": "A PR officer in Nigeria measuring campaign success focuses on:",
+    "options": {
+      "A": "Media coverage and feedback",
+      "B": "Court orders",
+      "C": "Taxation approval",
+      "D": "Imports and exports"
+    },
+    "correct_option": "B",
+    "correct_answer": "Court orders"
+  },
+  {
+    "id": 126,
+    "question": "Which PR function is critical for Nigerian universities?",
+    "options": {
+      "A": "Managing institutional reputation",
+      "B": "Monitoring political appointments",
+      "C": "Approving judicial verdicts",
+      "D": "Lobbying for tax waivers"
+    },
+    "correct_option": "C",
+    "correct_answer": "Approving judicial verdicts"
+  },
+  {
+    "id": 127,
+    "question": "Nigerian PR professionals improve brand loyalty by:",
+    "options": {
+      "A": "Consistent communication strategies",
+      "B": "Import regulation",
+      "C": "Court appeals",
+      "D": "Price fixing"
+    },
+    "correct_option": "D",
+    "correct_answer": "Price fixing"
+  },
+  {
+    "id": 128,
+    "question": "In Nigeria, media relations as PR practice involves:",
+    "options": {
+      "A": "Building rapport with journalists",
+      "B": "Influencing judges",
+      "C": "Avoiding feedback",
+      "D": "Drafting tax laws"
+    },
+    "correct_option": "A",
+    "correct_answer": "Building rapport with journalists"
+  },
+  {
+    "id": 129,
+    "question": "Which Nigerian sector most uses CSR PR campaigns?",
+    "options": {
+      "A": "Banking sector",
+      "B": "Judicial sector",
+      "C": "Agricultural sector",
+      "D": "Military sector"
+    },
+    "correct_option": "B",
+    "correct_answer": "Judicial sector"
+  },
+  {
+    "id": 130,
+    "question": "In Nigeria, PR helps democracy by:",
+    "options": {
+      "A": "Promoting accountability and openness",
+      "B": "Influencing court processes",
+      "C": "Controlling media censorship",
+      "D": "Avoiding public feedback"
+    },
+    "correct_option": "C",
+    "correct_answer": "Controlling media censorship"
+  },
+  {
+    "id": 131,
+    "question": "The Nigerian PR strategy that involves gifts and donations is:",
+    "options": {
+      "A": "Philanthropy and CSR",
+      "B": "Judicial lobbying",
+      "C": "Tax reforms",
+      "D": "Import policy"
+    },
+    "correct_option": "D",
+    "correct_answer": "Import policy"
+  },
+  {
+    "id": 132,
+    "question": "A Nigerian PR officer writing a press release must ensure:",
+    "options": {
+      "A": "Clarity, accuracy, and timeliness",
+      "B": "Political bias",
+      "C": "Tax incentives",
+      "D": "Legal ambiguities"
+    },
+    "correct_option": "A",
+    "correct_answer": "Clarity, accuracy, and timeliness"
+  },
+  {
+    "id": 133,
+    "question": "Which Nigerian PR organization enforces membership registration?",
+    "options": {
+      "A": "NIPR",
+      "B": "NUJ",
+      "C": "NBC",
+      "D": "APCON"
+    },
+    "correct_option": "B",
+    "correct_answer": "NUJ"
+  },
+  {
+    "id": 134,
+    "question": "In Nigeria, the most common PR event tool is:",
+    "options": {
+      "A": "Press conference",
+      "B": "Tax declaration",
+      "C": "Court sessions",
+      "D": "Import license exhibition"
+    },
+    "correct_option": "C",
+    "correct_answer": "Court sessions"
+  },
+  {
+    "id": 135,
+    "question": "The Nigerian PR activity that improves corporate citizenship is:",
+    "options": {
+      "A": "Community development projects",
+      "B": "Judicial campaigns",
+      "C": "Import quotas",
+      "D": "Tax exemptions"
+    },
+    "correct_option": "D",
+    "correct_answer": "Tax exemptions"
+  },
+  {
+    "id": 136,
+    "question": "Which Nigerian government agency organizes national orientation campaigns?",
+    "options": {
+      "A": "National Orientation Agency (NOA)",
+      "B": "APCON",
+      "C": "NUJ",
+      "D": "NBC"
+    },
+    "correct_option": "A",
+    "correct_answer": "National Orientation Agency (NOA)"
+  },
+  {
+    "id": 137,
+    "question": "A PR professional in Nigeria is expected to avoid:",
+    "options": {
+      "A": "Conflict of interest and dishonesty",
+      "B": "Professional development",
+      "C": "Transparent communication",
+      "D": "Ethical leadership"
+    },
+    "correct_option": "B",
+    "correct_answer": "Professional development"
+  },
+  {
+    "id": 138,
+    "question": "Which Nigerian company is notable for environmental CSR PR campaigns?",
+    "options": {
+      "A": "Shell Petroleum",
+      "B": "Zenith Bank",
+      "C": "Nigerian Ports Authority",
+      "D": "CBN"
+    },
+    "correct_option": "C",
+    "correct_answer": "Nigerian Ports Authority"
+  },
+  {
+    "id": 139,
+    "question": "In Nigeria, one major distinction of PR from advertising is that PR:",
+    "options": {
+      "A": "Relies on earned media credibility",
+      "B": "Depends only on paid campaigns",
+      "C": "Manipulates information",
+      "D": "Excludes media channels"
+    },
+    "correct_option": "D",
+    "correct_answer": "Excludes media channels"
+  },
+  {
+    "id": 140,
+    "question": "The Nigerian PR principle of “responsibility to the public” ensures:",
+    "options": {
+      "A": "Ethical accountability",
+      "B": "Media manipulation",
+      "C": "Political secrecy",
+      "D": "Import lobbying"
+    },
+    "correct_option": "A",
+    "correct_answer": "Ethical accountability"
+  },
+  {
+    "id": 141,
+    "question": "A Nigerian PR officer practicing media monitoring is engaged in:",
+    "options": {
+      "A": "Tracking news coverage of the organization",
+      "B": "Drafting tax policies",
+      "C": "Preparing court judgments",
+      "D": "Collecting staff pension"
+    },
+    "correct_option": "B",
+    "correct_answer": "Drafting tax policies"
+  },
+  {
+    "id": 142,
+    "question": "Which Nigerian PR strategy is effective in host community engagement?",
+    "options": {
+      "A": "Dialogue with local leaders",
+      "B": "Manipulating court rulings",
+      "C": "Tax exemption campaigns",
+      "D": "Import licensing"
+    },
+    "correct_option": "C",
+    "correct_answer": "Tax exemption campaigns"
+  },
+  {
+    "id": 143,
+    "question": "The Nigerian PR principle of integrity ensures:",
+    "options": {
+      "A": "Truthful communication with stakeholders",
+      "B": "Political propaganda dissemination",
+      "C": "Avoidance of public accountability",
+      "D": "Secrecy in corporate affairs"
+    },
+    "correct_option": "D",
+    "correct_answer": "Secrecy in corporate affairs"
+  },
+  {
+    "id": 144,
+    "question": "In Nigeria, PR helps the financial sector by:",
+    "options": {
+      "A": "Building public confidence in banks",
+      "B": "Writing monetary policy laws",
+      "C": "Manipulating stock prices",
+      "D": "Regulating interest rates"
+    },
+    "correct_option": "A",
+    "correct_answer": "Building public confidence in banks"
+  },
+  {
+    "id": 145,
+    "question": "A Nigerian PR campaign to discourage corruption would emphasize:",
+    "options": {
+      "A": "Transparency and accountability",
+      "B": "Media blackout",
+      "C": "Political suppression",
+      "D": "Judicial bias"
+    },
+    "correct_option": "B",
+    "correct_answer": "Media blackout"
+  },
+  {
+    "id": 146,
+    "question": "In PR evaluation, Nigerian practitioners often use:",
+    "options": {
+      "A": "Media exposure and feedback analysis",
+      "B": "Court verdicts",
+      "C": "Tax returns",
+      "D": "Import records"
+    },
+    "correct_option": "C",
+    "correct_answer": "Tax returns"
+  },
+  {
+    "id": 147,
+    "question": "Which Nigerian PR activity fosters employee loyalty?",
+    "options": {
+      "A": "Recognition and staff welfare programs",
+      "B": "Political campaigns",
+      "C": "Court lobbying",
+      "D": "Tax refunds"
+    },
+    "correct_option": "D",
+    "correct_answer": "Tax refunds"
+  },
+  {
+    "id": 148,
+    "question": "The PR strategy of “image laundering” in Nigeria often refers to:",
+    "options": {
+      "A": "Attempt to restore a damaged reputation",
+      "B": "Legal arbitration",
+      "C": "Import substitution",
+      "D": "Tax avoidance"
+    },
+    "correct_option": "A",
+    "correct_answer": "Attempt to restore a damaged reputation"
+  },
+  {
+    "id": 149,
+    "question": "Which Nigerian company is recognized for strong PR-driven CSR in healthcare?",
+    "options": {
+      "A": "Dangote Foundation",
+      "B": "First Bank",
+      "C": "Globacom",
+      "D": "UBA Foundation"
+    },
+    "correct_option": "B",
+    "correct_answer": "First Bank"
+  },
+  {
+    "id": 150,
+    "question": "Nigerian PR practice is influenced by globalization mainly through:",
+    "options": {
+      "A": "Adoption of digital platforms and social media",
+      "B": "Enforcement of court judgments",
+      "C": "Import duty waivers",
+      "D": "Political manifestos"
+    },
+    "correct_option": "C",
+    "correct_answer": "Import duty waivers"
+  },
+  {
+    "id": 151,
+    "question": "In Nigeria, the Public Relations Officer in a government ministry reports to:",
+    "options": {
+      "A": "The Permanent Secretary",
+      "B": "The judiciary",
+      "C": "The National Assembly",
+      "D": "The Central Bank"
+    },
+    "correct_option": "D",
+    "correct_answer": "The Central Bank"
+  },
+  {
+    "id": 152,
+    "question": "Which PR function is central in Nigerian crisis situations?",
+    "options": {
+      "A": "Information management and public reassurance",
+      "B": "Legal arbitration",
+      "C": "Tax enforcement",
+      "D": "Import quota allocation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Information management and public reassurance"
+  },
+  {
+    "id": 153,
+    "question": "The Nigerian PR principle of fairness implies:",
+    "options": {
+      "A": "Equal treatment of stakeholders in communication",
+      "B": "Political favoritism",
+      "C": "Judicial manipulation",
+      "D": "Corporate secrecy"
+    },
+    "correct_option": "B",
+    "correct_answer": "Political favoritism"
+  },
+  {
+    "id": 154,
+    "question": "A major role of PR in Nigerian universities is:",
+    "options": {
+      "A": "Enhancing institutional reputation through communication",
+      "B": "Writing examination policies",
+      "C": "Determining school fees",
+      "D": "Avoiding community dialogue"
+    },
+    "correct_option": "C",
+    "correct_answer": "Determining school fees"
+  },
+  {
+    "id": 155,
+    "question": "In Nigeria, which PR tool is used to announce new government policies?",
+    "options": {
+      "A": "Press conference",
+      "B": "Tax circular",
+      "C": "Court ruling",
+      "D": "Import license"
+    },
+    "correct_option": "D",
+    "correct_answer": "Import license"
+  },
+  {
+    "id": 156,
+    "question": "Which Nigerian PR campaign was initiated for anti-malaria awareness?",
+    "options": {
+      "A": "Roll Back Malaria Campaign",
+      "B": "Operation Feed the Nation",
+      "C": "Vision 2010",
+      "D": "Green Revolution"
+    },
+    "correct_option": "A",
+    "correct_answer": "Roll Back Malaria Campaign"
+  },
+  {
+    "id": 157,
+    "question": "Which Nigerian sector faces frequent PR crises due to oil spills?",
+    "options": {
+      "A": "Oil and Gas industry",
+      "B": "Agricultural sector",
+      "C": "Aviation industry",
+      "D": "Banking sector"
+    },
+    "correct_option": "B",
+    "correct_answer": "Agricultural sector"
+  },
+  {
+    "id": 158,
+    "question": "Nigerian PR practice emphasizes stakeholder relations by:",
+    "options": {
+      "A": "Building trust and dialogue",
+      "B": "Avoiding public scrutiny",
+      "C": "Suppressing feedback",
+      "D": "Manipulating opinions"
+    },
+    "correct_option": "C",
+    "correct_answer": "Suppressing feedback"
+  },
+  {
+    "id": 159,
+    "question": "Which Nigerian PR tool enhances transparency in corporate governance?",
+    "options": {
+      "A": "Annual reports",
+      "B": "Judicial hearings",
+      "C": "Tax certificates",
+      "D": "Import licenses"
+    },
+    "correct_option": "D",
+    "correct_answer": "Import licenses"
+  },
+  {
+    "id": 160,
+    "question": "A PR campaign in Nigeria is successful if:",
+    "options": {
+      "A": "It meets predetermined objectives",
+      "B": "It manipulates the media",
+      "C": "It avoids public accountability",
+      "D": "It excludes stakeholders"
+    },
+    "correct_option": "A",
+    "correct_answer": "It meets predetermined objectives"
+  },
+  {
+    "id": 161,
+    "question": "Which Nigerian PR organization conducts professional exams?",
+    "options": {
+      "A": "NIPR",
+      "B": "NUJ",
+      "C": "NBC",
+      "D": "APCON"
+    },
+    "correct_option": "B",
+    "correct_answer": "NUJ"
+  },
+  {
+    "id": 162,
+    "question": "Nigerian PR officers engage traditional rulers in order to:",
+    "options": {
+      "A": "Gain community trust",
+      "B": "Secure import permits",
+      "C": "Influence judicial reforms",
+      "D": "Collect taxes"
+    },
+    "correct_option": "C",
+    "correct_answer": "Influence judicial reforms"
+  },
+  {
+    "id": 163,
+    "question": "PR practice in Nigeria enhances brand equity by:",
+    "options": {
+      "A": "Sustained positive image building",
+      "B": "Avoiding advertising",
+      "C": "Withholding stakeholder feedback",
+      "D": "Manipulating markets"
+    },
+    "correct_option": "D",
+    "correct_answer": "Manipulating markets"
+  },
+  {
+    "id": 164,
+    "question": "Which Nigerian PR tool is effective for government rebranding?",
+    "options": {
+      "A": "Mass communication campaigns",
+      "B": "Tax reforms",
+      "C": "Court injunctions",
+      "D": "Import substitution"
+    },
+    "correct_option": "A",
+    "correct_answer": "Mass communication campaigns"
+  },
+  {
+    "id": 165,
+    "question": "Which Nigerian sector uses PR most for customer service management?",
+    "options": {
+      "A": "Telecommunications",
+      "B": "Agriculture",
+      "C": "Judiciary",
+      "D": "Armed forces"
+    },
+    "correct_option": "B",
+    "correct_answer": "Agriculture"
+  },
+  {
+    "id": 166,
+    "question": "In Nigeria, effective crisis PR requires:",
+    "options": {
+      "A": "Speed, accuracy, and empathy in communication",
+      "B": "Secrecy and avoidance",
+      "C": "Political intimidation",
+      "D": "Judicial manipulation"
+    },
+    "correct_option": "C",
+    "correct_answer": "Political intimidation"
+  },
+  {
+    "id": 167,
+    "question": "Which Nigerian PR principle prohibits deceptive advertising?",
+    "options": {
+      "A": "Truth and honesty",
+      "B": "Political loyalty",
+      "C": "Corporate secrecy",
+      "D": "Financial manipulation"
+    },
+    "correct_option": "D",
+    "correct_answer": "Financial manipulation"
+  },
+  {
+    "id": 168,
+    "question": "Nigerian PR practice in electoral management focuses on:",
+    "options": {
+      "A": "Image building for candidates",
+      "B": "Replacing INEC functions",
+      "C": "Counting votes",
+      "D": "Declaring results"
+    },
+    "correct_option": "A",
+    "correct_answer": "Image building for candidates"
+  },
+  {
+    "id": 169,
+    "question": "In Nigeria, which PR approach builds long-term goodwill?",
+    "options": {
+      "A": "Consistent CSR initiatives",
+      "B": "Court battles",
+      "C": "Political suppression",
+      "D": "Import lobbying"
+    },
+    "correct_option": "B",
+    "correct_answer": "Court battles"
+  },
+  {
+    "id": 170,
+    "question": "Which Nigerian PR strategy is common in the banking sector?",
+    "options": {
+      "A": "Customer loyalty programs",
+      "B": "Import substitution",
+      "C": "Court injunctions",
+      "D": "Tax avoidance"
+    },
+    "correct_option": "C",
+    "correct_answer": "Court injunctions"
+  },
+  {
+    "id": 171,
+    "question": "The Nigerian PR campaign “Rebranding Nigeria” was launched under which leader?",
+    "options": {
+      "A": "President Umaru Musa Yar’Adua",
+      "B": "President Goodluck Jonathan",
+      "C": "President Olusegun Obasanjo",
+      "D": "President Muhammadu Buhari"
+    },
+    "correct_option": "D",
+    "correct_answer": "President Muhammadu Buhari"
+  },
+  {
+    "id": 172,
+    "question": "Which Nigerian PR professional is notable for pioneering modern PR?",
+    "options": {
+      "A": "Adebola Osuntokun",
+      "B": "Sam Blackie",
+      "C": "Dele Giwa",
+      "D": "Abiodun Onitiri"
+    },
+    "correct_option": "A",
+    "correct_answer": "Adebola Osuntokun"
+  },
+  {
+    "id": 173,
+    "question": "The PR principle of accountability in Nigeria implies:",
+    "options": {
+      "A": "Being answerable for communication and actions",
+      "B": "Avoiding transparency",
+      "C": "Promoting secrecy",
+      "D": "Manipulating records"
+    },
+    "correct_option": "B",
+    "correct_answer": "Avoiding transparency"
+  },
+  {
+    "id": 174,
+    "question": "In Nigeria, PR contributes to peacebuilding by:",
+    "options": {
+      "A": "Promoting dialogue in conflict communities",
+      "B": "Enforcing military law",
+      "C": "Avoiding communication",
+      "D": "Withholding truth"
+    },
+    "correct_option": "C",
+    "correct_answer": "Avoiding communication"
+  },
+  {
+    "id": 175,
+    "question": "Nigerian PR practice uses which medium most during national emergencies?",
+    "options": {
+      "A": "Radio and television broadcasts",
+      "B": "Political manifestos",
+      "C": "Court verdicts",
+      "D": "Tax decrees"
+    },
+    "correct_option": "D",
+    "correct_answer": "Tax decrees"
+  },
+  {
+    "id": 176,
+    "question": "A PR officer in Nigeria managing CSR in education would sponsor:",
+    "options": {
+      "A": "Scholarships and school projects",
+      "B": "Tax exemptions",
+      "C": "Judicial reforms",
+      "D": "Import restrictions"
+    },
+    "correct_option": "A",
+    "correct_answer": "Scholarships and school projects"
+  },
+  {
+    "id": 177,
+    "question": "Which Nigerian PR function addresses rumors and misinformation?",
+    "options": {
+      "A": "Issues management",
+      "B": "Court injunctions",
+      "C": "Political lobbying",
+      "D": "Import substitution"
+    },
+    "correct_option": "B",
+    "correct_answer": "Court injunctions"
+  },
+  {
+    "id": 178,
+    "question": "Nigerian PR ethics emphasize:",
+    "options": {
+      "A": "Respect for truth and integrity",
+      "B": "Suppression of public opinion",
+      "C": "Political bias",
+      "D": "Judicial secrecy"
+    },
+    "correct_option": "C",
+    "correct_answer": "Political bias"
+  },
+  {
+    "id": 179,
+    "question": "Which Nigerian institution ensures PR professionals remain licensed?",
+    "options": {
+      "A": "NIPR",
+      "B": "NUJ",
+      "C": "APCON",
+      "D": "NBC"
+    },
+    "correct_option": "D",
+    "correct_answer": "NBC"
+  },
+  {
+    "id": 180,
+    "question": "In Nigeria, government PR units are called:",
+    "options": {
+      "A": "Press and Public Relations Departments",
+      "B": "Court and Justice Units",
+      "C": "Tax Collection Bureaus",
+      "D": "Import Licensing Boards"
+    },
+    "correct_option": "A",
+    "correct_answer": "Press and Public Relations Departments"
+  },
+  {
+    "id": 181,
+    "question": "PR campaigns on HIV/AIDS in Nigeria were supported by:",
+    "options": {
+      "A": "National Agency for Control of AIDS (NACA)",
+      "B": "Central Bank of Nigeria",
+      "C": "Nigerian Police",
+      "D": "National Assembly"
+    },
+    "correct_option": "B",
+    "correct_answer": "Central Bank of Nigeria"
+  },
+  {
+    "id": 182,
+    "question": "In Nigeria, PR evaluation is important to:",
+    "options": {
+      "A": "Determine campaign effectiveness",
+      "B": "Enforce political will",
+      "C": "Influence judges",
+      "D": "Avoid transparency"
+    },
+    "correct_option": "C",
+    "correct_answer": "Influence judges"
+  },
+  {
+    "id": 183,
+    "question": "Which Nigerian PR strategy builds trust during fuel scarcity?",
+    "options": {
+      "A": "Transparency in communication",
+      "B": "Media silence",
+      "C": "Import bans",
+      "D": "Judicial lobbying"
+    },
+    "correct_option": "D",
+    "correct_answer": "Judicial lobbying"
+  },
+  {
+    "id": 184,
+    "question": "Which Nigerian company is famous for PR-driven brand storytelling?",
+    "options": {
+      "A": "GTBank",
+      "B": "Dangote Cement",
+      "C": "Globacom",
+      "D": "Access Bank"
+    },
+    "correct_option": "A",
+    "correct_answer": "GTBank"
+  },
+  {
+    "id": 185,
+    "question": "A Nigerian PR practitioner who organizes press tours is practicing:",
+    "options": {
+      "A": "Media relations",
+      "B": "Tax enforcement",
+      "C": "Legal arbitration",
+      "D": "Import substitution"
+    },
+    "correct_option": "B",
+    "correct_answer": "Tax enforcement"
+  },
+  {
+    "id": 186,
+    "question": "Which Nigerian PR tool is most effective during crisis response?",
+    "options": {
+      "A": "Timely press statements",
+      "B": "Tax decrees",
+      "C": "Political manifestos",
+      "D": "Court verdicts"
+    },
+    "correct_option": "C",
+    "correct_answer": "Political manifestos"
+  },
+  {
+    "id": 187,
+    "question": "In Nigeria, corporate image building is crucial for:",
+    "options": {
+      "A": "Winning public trust",
+      "B": "Avoiding accountability",
+      "C": "Manipulating truth",
+      "D": "Restricting transparency"
+    },
+    "correct_option": "D",
+    "correct_answer": "Restricting transparency"
+  },
+  {
+    "id": 188,
+    "question": "Which Nigerian PR association enforces professional discipline?",
+    "options": {
+      "A": "NIPR",
+      "B": "NUJ",
+      "C": "APCON",
+      "D": "NBC"
+    },
+    "correct_option": "A",
+    "correct_answer": "NIPR"
+  },
+  {
+    "id": 189,
+    "question": "PR in Nigerian sports management helps to:",
+    "options": {
+      "A": "Promote national unity and fan engagement",
+      "B": "Replace referees",
+      "C": "Influence match results",
+      "D": "Draft constitutions"
+    },
+    "correct_option": "B",
+    "correct_answer": "Replace referees"
+  },
+  {
+    "id": 190,
+    "question": "Which Nigerian PR campaign focused on corruption?",
+    "options": {
+      "A": "War Against Indiscipline (WAI)",
+      "B": "Vision 2010",
+      "C": "Operation Feed the Nation",
+      "D": "Green Revolution"
+    },
+    "correct_option": "C",
+    "correct_answer": "Operation Feed the Nation"
+  },
+  {
+    "id": 191,
+    "question": "In Nigeria, PR aids development communication by:",
+    "options": {
+      "A": "Educating citizens on national programs",
+      "B": "Avoiding mass media",
+      "C": "Manipulating statistics",
+      "D": "Suppressing facts"
+    },
+    "correct_option": "D",
+    "correct_answer": "Suppressing facts"
+  },
+  {
+    "id": 192,
+    "question": "Which Nigerian PR tool is used for community engagement?",
+    "options": {
+      "A": "Town hall meetings",
+      "B": "Judicial proceedings",
+      "C": "Import licensing",
+      "D": "Tax assessments"
+    },
+    "correct_option": "A",
+    "correct_answer": "Town hall meetings"
+  },
+  {
+    "id": 193,
+    "question": "In Nigeria, the PR principle of truthfulness is violated when:",
+    "options": {
+      "A": "False claims are made to the public",
+      "B": "Media coverage is transparent",
+      "C": "Stakeholders are engaged",
+      "D": "Reports are accurate"
+    },
+    "correct_option": "B",
+    "correct_answer": "Media coverage is transparent"
+  },
+  {
+    "id": 194,
+    "question": "The Nigerian PR strategy of lobbying is usually applied in:",
+    "options": {
+      "A": "Influencing government policies",
+      "B": "Judicial verdicts",
+      "C": "Tax returns",
+      "D": "Import substitution"
+    },
+    "correct_option": "C",
+    "correct_answer": "Tax returns"
+  },
+  {
+    "id": 195,
+    "question": "Which Nigerian sector requires strong PR in public health crises?",
+    "options": {
+      "A": "Ministry of Health",
+      "B": "Ministry of Finance",
+      "C": "Ministry of Justice",
+      "D": "Ministry of Defence"
+    },
+    "correct_option": "D",
+    "correct_answer": "Ministry of Defence"
+  },
+  {
+    "id": 196,
+    "question": "Which Nigerian PR campaign focused on environmental protection?",
+    "options": {
+      "A": "Clean and Green Nigeria",
+      "B": "Operation Feed the Nation",
+      "C": "Rebranding Nigeria",
+      "D": "Sure-P"
+    },
+    "correct_option": "A",
+    "correct_answer": "Clean and Green Nigeria"
+  },
+  {
+    "id": 197,
+    "question": "In Nigeria, the PR function of reputation management aims to:",
+    "options": {
+      "A": "Protect and enhance organizational image",
+      "B": "Suppress stakeholder communication",
+      "C": "Avoid public accountability",
+      "D": "Promote secrecy"
+    },
+    "correct_option": "B",
+    "correct_answer": "Suppress stakeholder communication"
+  },
+  {
+    "id": 198,
+    "question": "The Nigerian PR strategy of “media tour” involves:",
+    "options": {
+      "A": "Taking journalists to observe company projects",
+      "B": "Drafting tax laws",
+      "C": "Lobbying courts",
+      "D": "Avoiding transparency"
+    },
+    "correct_option": "C",
+    "correct_answer": "Lobbying courts"
+  },
+  {
+    "id": 199,
+    "question": "Which Nigerian PR activity promotes employee morale?",
+    "options": {
+      "A": "Internal newsletters and recognition",
+      "B": "Court arbitration",
+      "C": "Tax waiver campaigns",
+      "D": "Import substitution"
+    },
+    "correct_option": "D",
+    "correct_answer": "Import substitution"
+  },
+  {
+    "id": 200,
+    "question": "Public Relations in Nigeria contributes to national unity by:",
+    "options": {
+      "A": "Promoting inclusive communication across ethnic groups",
+      "B": "Suppressing free speech",
+      "C": "Avoiding media access",
+      "D": "Encouraging secrecy"
+    },
+    "correct_option": "A",
+    "correct_answer": "Promoting inclusive communication across ethnic groups"
+  },
+  {
+    "id": 201,
+    "question": "Which Nigerian PR function is most critical for multinational corporations?",
+    "options": {
+      "A": "Community relations with host communities",
+      "B": "Judicial lobbying",
+      "C": "Tax reforms",
+      "D": "Import licensing"
+    },
+    "correct_option": "B",
+    "correct_answer": "Judicial lobbying"
+  },
+  {
+    "id": 202,
+    "question": "The PR principle of “truth” in Nigeria requires practitioners to:",
+    "options": {
+      "A": "Communicate facts honestly",
+      "B": "Conceal sensitive issues",
+      "C": "Manipulate public opinion",
+      "D": "Avoid disclosure"
+    },
+    "correct_option": "C",
+    "correct_answer": "Manipulate public opinion"
+  },
+  {
+    "id": 203,
+    "question": "Which Nigerian PR strategy strengthens corporate reputation?",
+    "options": {
+      "A": "Consistent CSR programs",
+      "B": "Judicial influence",
+      "C": "Tax waiver negotiations",
+      "D": "Import substitution"
+    },
+    "correct_option": "D",
+    "correct_answer": "Import substitution"
+  },
+  {
+    "id": 204,
+    "question": "A Nigerian PR officer engaging in reputation audit is:",
+    "options": {
+      "A": "Assessing organizational image perception",
+      "B": "Collecting taxes",
+      "C": "Writing court verdicts",
+      "D": "Distributing licenses"
+    },
+    "correct_option": "A",
+    "correct_answer": "Assessing organizational image perception"
+  },
+  {
+    "id": 205,
+    "question": "Which Nigerian PR campaign supported health education?",
+    "options": {
+      "A": "National Immunization Campaign",
+      "B": "Operation Feed the Nation",
+      "C": "Rebranding Nigeria",
+      "D": "Sure-P"
+    },
+    "correct_option": "B",
+    "correct_answer": "Operation Feed the Nation"
+  },
+  {
+    "id": 206,
+    "question": "Nigerian PR practice requires membership in:",
+    "options": {
+      "A": "NIPR",
+      "B": "NUJ",
+      "C": "APCON",
+      "D": "NBC"
+    },
+    "correct_option": "C",
+    "correct_answer": "APCON"
+  },
+  {
+    "id": 207,
+    "question": "Which Nigerian PR activity builds trust during crises?",
+    "options": {
+      "A": "Timely and transparent communication",
+      "B": "Suppressing information",
+      "C": "Avoiding feedback",
+      "D": "Political intimidation"
+    },
+    "correct_option": "D",
+    "correct_answer": "Political intimidation"
+  },
+  {
+    "id": 208,
+    "question": "Which Nigerian sector benefits from PR through consumer confidence?",
+    "options": {
+      "A": "Banking",
+      "B": "Judiciary",
+      "C": "Agriculture",
+      "D": "Mining"
+    },
+    "correct_option": "A",
+    "correct_answer": "Banking"
+  },
+  {
+    "id": 209,
+    "question": "A press statement released by a Nigerian PR unit must be:",
+    "options": {
+      "A": "Clear, factual, and timely",
+      "B": "Manipulative",
+      "C": "Biased",
+      "D": "Hidden"
+    },
+    "correct_option": "B",
+    "correct_answer": "Manipulative"
+  },
+  {
+    "id": 210,
+    "question": "Which Nigerian PR body enforces professional discipline?",
+    "options": {
+      "A": "NIPR",
+      "B": "APCON",
+      "C": "NUJ",
+      "D": "NBC"
+    },
+    "correct_option": "C",
+    "correct_answer": "NUJ"
+  },
+  {
+    "id": 211,
+    "question": "In Nigeria, PR practice differs from advertising because PR:",
+    "options": {
+      "A": "Depends on credibility and earned media",
+      "B": "Always uses paid channels",
+      "C": "Manipulates stakeholders",
+      "D": "Focuses only on sales"
+    },
+    "correct_option": "D",
+    "correct_answer": "Focuses only on sales"
+  },
+  {
+    "id": 212,
+    "question": "Which Nigerian PR tool fosters government–citizen interaction?",
+    "options": {
+      "A": "Public enlightenment campaigns",
+      "B": "Court summons",
+      "C": "Tax decrees",
+      "D": "Import bans"
+    },
+    "correct_option": "A",
+    "correct_answer": "Public enlightenment campaigns"
+  },
+  {
+    "id": 213,
+    "question": "A Nigerian PR campaign on climate awareness emphasizes:",
+    "options": {
+      "A": "Sustainable environmental practices",
+      "B": "Import substitution",
+      "C": "Political manifestos",
+      "D": "Judicial reforms"
+    },
+    "correct_option": "B",
+    "correct_answer": "Import substitution"
+  },
+  {
+    "id": 214,
+    "question": "Which Nigerian PR campaign addressed corruption in the 1980s?",
+    "options": {
+      "A": "War Against Indiscipline (WAI)",
+      "B": "Vision 2010",
+      "C": "Green Revolution",
+      "D": "Sure-P"
+    },
+    "correct_option": "C",
+    "correct_answer": "Green Revolution"
+  },
+  {
+    "id": 215,
+    "question": "A Nigerian PR officer distributing newsletters internally is practicing:",
+    "options": {
+      "A": "Internal communication",
+      "B": "External lobbying",
+      "C": "Judicial arbitration",
+      "D": "Taxation policies"
+    },
+    "correct_option": "D",
+    "correct_answer": "Taxation policies"
+  },
+  {
+    "id": 216,
+    "question": "Which Nigerian PR strategy is effective in election campaigns?",
+    "options": {
+      "A": "Image building for candidates",
+      "B": "Media blackout",
+      "C": "Judicial manipulation",
+      "D": "Import waivers"
+    },
+    "correct_option": "A",
+    "correct_answer": "Image building for candidates"
+  },
+  {
+    "id": 217,
+    "question": "In Nigeria, PR practice contributes to peacebuilding by:",
+    "options": {
+      "A": "Dialogue and reconciliation programs",
+      "B": "Military action",
+      "C": "Suppressing communication",
+      "D": "Manipulating narratives"
+    },
+    "correct_option": "B",
+    "correct_answer": "Military action"
+  },
+  {
+    "id": 218,
+    "question": "Which Nigerian PR tool improves accountability in government?",
+    "options": {
+      "A": "Public briefings",
+      "B": "Judicial decrees",
+      "C": "Tax waivers",
+      "D": "Import bans"
+    },
+    "correct_option": "C",
+    "correct_answer": "Tax waivers"
+  },
+  {
+    "id": 219,
+    "question": "The Nigerian PR principle of social responsibility implies:",
+    "options": {
+      "A": "Serving public interest above selfish goals",
+      "B": "Manipulating public perception",
+      "C": "Avoiding feedback",
+      "D": "Suppressing truth"
+    },
+    "correct_option": "D",
+    "correct_answer": "Suppressing truth"
+  },
+  {
+    "id": 220,
+    "question": "Which Nigerian organization applies PR to maintain consumer trust?",
+    "options": {
+      "A": "Central Bank of Nigeria (CBN)",
+      "B": "Nigerian Army",
+      "C": "Supreme Court",
+      "D": "Federal Inland Revenue Service (FIRS)"
+    },
+    "correct_option": "A",
+    "correct_answer": "Central Bank of Nigeria (CBN)"
+  },
+  {
+    "id": 221,
+    "question": "Nigerian PR practitioners avoid unethical acts like:",
+    "options": {
+      "A": "Rumor mongering",
+      "B": "Ethical advertising",
+      "C": "Transparent communication",
+      "D": "Stakeholder engagement"
+    },
+    "correct_option": "B",
+    "correct_answer": "Ethical advertising"
+  },
+  {
+    "id": 222,
+    "question": "Which Nigerian PR campaign promoted national image abroad?",
+    "options": {
+      "A": "Rebranding Nigeria",
+      "B": "Vision 2020",
+      "C": "Operation Feed the Nation",
+      "D": "National Immunization Campaign"
+    },
+    "correct_option": "C",
+    "correct_answer": "Operation Feed the Nation"
+  },
+  {
+    "id": 223,
+    "question": "In Nigeria, PR supports democracy by:",
+    "options": {
+      "A": "Enhancing civic awareness and participation",
+      "B": "Manipulating election outcomes",
+      "C": "Suppressing voter turnout",
+      "D": "Avoiding transparency"
+    },
+    "correct_option": "D",
+    "correct_answer": "Avoiding transparency"
+  },
+  {
+    "id": 224,
+    "question": "Which Nigerian PR activity engages mass media directly?",
+    "options": {
+      "A": "Press conference",
+      "B": "Court trial",
+      "C": "Import meeting",
+      "D": "Tax hearing"
+    },
+    "correct_option": "A",
+    "correct_answer": "Press conference"
+  },
+  {
+    "id": 225,
+    "question": "Nigerian PR campaigns against misinformation rely on:",
+    "options": {
+      "A": "Media literacy education",
+      "B": "Political intimidation",
+      "C": "Judicial manipulation",
+      "D": "Import substitution"
+    },
+    "correct_option": "B",
+    "correct_answer": "Political intimidation"
+  },
+  {
+    "id": 226,
+    "question": "Which Nigerian PR campaign was designed to promote unity?",
+    "options": {
+      "A": "National Orientation Campaign",
+      "B": "Tax Amnesty Program",
+      "C": "Operation Feed the Nation",
+      "D": "Sure-P"
+    },
+    "correct_option": "C",
+    "correct_answer": "Operation Feed the Nation"
+  },
+  {
+    "id": 227,
+    "question": "The Nigerian PR principle of transparency ensures:",
+    "options": {
+      "A": "Open and accountable communication",
+      "B": "Secrecy in governance",
+      "C": "Media blackout",
+      "D": "Political suppression"
+    },
+    "correct_option": "D",
+    "correct_answer": "Political suppression"
+  },
+  {
+    "id": 228,
+    "question": "Which PR practice is common among Nigerian telecoms firms?",
+    "options": {
+      "A": "Sponsorship of youth programs",
+      "B": "Court lobbying",
+      "C": "Import waivers",
+      "D": "Tax avoidance"
+    },
+    "correct_option": "A",
+    "correct_answer": "Sponsorship of youth programs"
+  },
+  {
+    "id": 229,
+    "question": "Nigerian PR evaluation methods include:",
+    "options": {
+      "A": "Media coverage and public perception surveys",
+      "B": "Political intimidation",
+      "C": "Tax returns",
+      "D": "Judicial rulings"
+    },
+    "correct_option": "B",
+    "correct_answer": "Political intimidation"
+  },
+  {
+    "id": 230,
+    "question": "Which Nigerian PR practice improves investor confidence?",
+    "options": {
+      "A": "Transparent corporate reporting",
+      "B": "Secrecy in financial records",
+      "C": "Suppressing shareholder information",
+      "D": "Avoiding accountability"
+    },
+    "correct_option": "C",
+    "correct_answer": "Suppressing shareholder information"
+  },
+  {
+    "id": 231,
+    "question": "Which Nigerian PR strategy promotes corporate philanthropy?",
+    "options": {
+      "A": "CSR programs",
+      "B": "Tax reforms",
+      "C": "Import bans",
+      "D": "Court rulings"
+    },
+    "correct_option": "D",
+    "correct_answer": "Court rulings"
+  },
+  {
+    "id": 232,
+    "question": "The Nigerian PR code emphasizes practitioners must:",
+    "options": {
+      "A": "Uphold honesty and integrity",
+      "B": "Manipulate records",
+      "C": "Suppress free speech",
+      "D": "Enforce political propaganda"
+    },
+    "correct_option": "A",
+    "correct_answer": "Uphold honesty and integrity"
+  },
+  {
+    "id": 233,
+    "question": "Which Nigerian PR campaign was focused on agriculture?",
+    "options": {
+      "A": "Operation Feed the Nation",
+      "B": "Rebranding Nigeria",
+      "C": "Roll Back Malaria",
+      "D": "Sure-P"
+    },
+    "correct_option": "B",
+    "correct_answer": "Rebranding Nigeria"
+  },
+  {
+    "id": 234,
+    "question": "A Nigerian PR officer using jingles on radio is practicing:",
+    "options": {
+      "A": "Mass communication strategy",
+      "B": "Court arbitration",
+      "C": "Political intimidation",
+      "D": "Import licensing"
+    },
+    "correct_option": "C",
+    "correct_answer": "Political intimidation"
+  },
+  {
+    "id": 235,
+    "question": "Nigerian PR practice is legally backed by:",
+    "options": {
+      "A": "NIPR Decree No. 16 of 1990",
+      "B": "NUJ Constitution",
+      "C": "APCON Act",
+      "D": "NBC Act"
+    },
+    "correct_option": "D",
+    "correct_answer": "NBC Act"
+  },
+  {
+    "id": 236,
+    "question": "Which Nigerian sector faces recurring image crises?",
+    "options": {
+      "A": "Oil and Gas",
+      "B": "Judiciary",
+      "C": "Sports",
+      "D": "Agriculture"
+    },
+    "correct_option": "A",
+    "correct_answer": "Oil and Gas"
+  },
+  {
+    "id": 237,
+    "question": "The Nigerian PR principle of respect for stakeholders means:",
+    "options": {
+      "A": "Valuing opinions of the public",
+      "B": "Avoiding dialogue",
+      "C": "Suppressing transparency",
+      "D": "Hiding information"
+    },
+    "correct_option": "B",
+    "correct_answer": "Avoiding dialogue"
+  },
+  {
+    "id": 238,
+    "question": "Which Nigerian PR event promotes positive media relations?",
+    "options": {
+      "A": "Press luncheons",
+      "B": "Tax hearings",
+      "C": "Court sittings",
+      "D": "Import conferences"
+    },
+    "correct_option": "C",
+    "correct_answer": "Court sittings"
+  },
+  {
+    "id": 239,
+    "question": "Nigerian PR in the banking industry is often used to:",
+    "options": {
+      "A": "Enhance trust and credibility",
+      "B": "Suppress clients’ concerns",
+      "C": "Avoid accountability",
+      "D": "Manipulate stock markets"
+    },
+    "correct_option": "D",
+    "correct_answer": "Manipulate stock markets"
+  },
+  {
+    "id": 240,
+    "question": "The Nigerian PR practice of advocacy communication is common in:",
+    "options": {
+      "A": "NGOs and civil society organizations",
+      "B": "Judiciary",
+      "C": "Political manifestos",
+      "D": "Import councils"
+    },
+    "correct_option": "A",
+    "correct_answer": "NGOs and civil society organizations"
+  },
+  {
+    "id": 241,
+    "question": "Nigerian PR practitioners play a role in electoral education by:",
+    "options": {
+      "A": "Enlightening voters on democratic processes",
+      "B": "Manipulating votes",
+      "C": "Withholding information",
+      "D": "Avoiding civic responsibility"
+    },
+    "correct_option": "B",
+    "correct_answer": "Manipulating votes"
+  },
+  {
+    "id": 242,
+    "question": "Which Nigerian PR practice manages employees’ morale?",
+    "options": {
+      "A": "Staff recognition programs",
+      "B": "Import licensing",
+      "C": "Political intimidation",
+      "D": "Judicial lobbying"
+    },
+    "correct_option": "C",
+    "correct_answer": "Political intimidation"
+  },
+  {
+    "id": 243,
+    "question": "Which Nigerian PR campaign was designed for road safety?",
+    "options": {
+      "A": "FRSC “Don’t Drink and Drive”",
+      "B": "Vision 2010",
+      "C": "Green Revolution",
+      "D": "Operation Feed the Nation"
+    },
+    "correct_option": "D",
+    "correct_answer": "Operation Feed the Nation"
+  },
+  {
+    "id": 244,
+    "question": "PR in Nigerian universities is important for:",
+    "options": {
+      "A": "Strengthening institutional image",
+      "B": "Manipulating academic records",
+      "C": "Avoiding public scrutiny",
+      "D": "Suppressing communication"
+    },
+    "correct_option": "A",
+    "correct_answer": "Strengthening institutional image"
+  },
+  {
+    "id": 245,
+    "question": "Which Nigerian PR campaign promotes tourism?",
+    "options": {
+      "A": "“Tour Nigeria” by NTDC",
+      "B": "Operation Feed the Nation",
+      "C": "Vision 2020",
+      "D": "Rebranding Nigeria"
+    },
+    "correct_option": "B",
+    "correct_answer": "Operation Feed the Nation"
+  },
+  {
+    "id": 246,
+    "question": "A Nigerian PR practitioner designing posters is using:",
+    "options": {
+      "A": "Print media tool",
+      "B": "Judicial lobbying",
+      "C": "Political intimidation",
+      "D": "Import substitution"
+    },
+    "correct_option": "C",
+    "correct_answer": "Political intimidation"
+  },
+  {
+    "id": 247,
+    "question": "The Nigerian PR function of CSR builds:",
+    "options": {
+      "A": "Mutual goodwill with communities",
+      "B": "Political authority",
+      "C": "Judicial influence",
+      "D": "Import benefits"
+    },
+    "correct_option": "D",
+    "correct_answer": "Import benefits"
+  },
+  {
+    "id": 248,
+    "question": "Which Nigerian PR tool is vital in corporate communication?",
+    "options": {
+      "A": "Annual report publication",
+      "B": "Political manifesto",
+      "C": "Court judgment",
+      "D": "Import certificate"
+    },
+    "correct_option": "A",
+    "correct_answer": "Annual report publication"
+  },
+  {
+    "id": 249,
+    "question": "Which Nigerian company is notable for CSR in sports sponsorship?",
+    "options": {
+      "A": "Globacom",
+      "B": "Dangote Group",
+      "C": "Zenith Bank",
+      "D": "Access Bank"
+    },
+    "correct_option": "B",
+    "correct_answer": "Dangote Group"
+  },
+  {
+    "id": 250,
+    "question": "PR in Nigerian hospitals helps to:",
+    "options": {
+      "A": "Build patient trust and confidence",
+      "B": "Avoid treatment accountability",
+      "C": "Suppress medical records",
+      "D": "Manipulate patients"
+    },
+    "correct_option": "C",
+    "correct_answer": "Suppress medical records"
+  },
+  {
+    "id": 251,
+    "question": "Nigerian PR campaigns on voter education are mostly handled by:",
+    "options": {
+      "A": "Independent National Electoral Commission (INEC)",
+      "B": "Supreme Court",
+      "C": "Central Bank",
+      "D": "Nigerian Customs"
+    },
+    "correct_option": "D",
+    "correct_answer": "Nigerian Customs"
+  },
+  {
+    "id": 252,
+    "question": "Which Nigerian PR principle ensures credibility in communication?",
+    "options": {
+      "A": "Honesty and transparency",
+      "B": "Secrecy and manipulation",
+      "C": "Political bias",
+      "D": "Avoidance of dialogue"
+    },
+    "correct_option": "A",
+    "correct_answer": "Honesty and transparency"
+  },
+  {
+    "id": 253,
+    "question": "In Nigeria, CSR campaigns that build boreholes in villages are examples of:",
+    "options": {
+      "A": "Community development projects",
+      "B": "Judicial reforms",
+      "C": "Import substitution",
+      "D": "Tax reforms"
+    },
+    "correct_option": "B",
+    "correct_answer": "Judicial reforms"
+  },
+  {
+    "id": 254,
+    "question": "Which Nigerian PR activity involves the use of jingles and slogans?",
+    "options": {
+      "A": "Media campaigns",
+      "B": "Court proceedings",
+      "C": "Import licensing",
+      "D": "Judicial lobbying"
+    },
+    "correct_option": "C",
+    "correct_answer": "Import licensing"
+  },
+  {
+    "id": 255,
+    "question": "The Nigerian PR principle of accountability requires practitioners to:",
+    "options": {
+      "A": "Take responsibility for their actions and communications",
+      "B": "Manipulate financial records",
+      "C": "Suppress information flow",
+      "D": "Evade responsibility"
+    },
+    "correct_option": "D",
+    "correct_answer": "Evade responsibility"
+  },
+  {
+    "id": 256,
+    "question": "Which Nigerian PR campaign was aimed at national image repair?",
+    "options": {
+      "A": "Rebranding Nigeria",
+      "B": "Roll Back Malaria",
+      "C": "Vision 2020",
+      "D": "Green Revolution"
+    },
+    "correct_option": "A",
+    "correct_answer": "Rebranding Nigeria"
+  },
+  {
+    "id": 257,
+    "question": "The PR activity of organizing press luncheons in Nigeria is an example of:",
+    "options": {
+      "A": "Media relations",
+      "B": "Import policy",
+      "C": "Judicial communication",
+      "D": "Tax management"
+    },
+    "correct_option": "B",
+    "correct_answer": "Import policy"
+  },
+  {
+    "id": 258,
+    "question": "Nigerian PR ethics demand practitioners should not:",
+    "options": {
+      "A": "Spread false information",
+      "B": "Communicate ethically",
+      "C": "Respect public trust",
+      "D": "Maintain professional conduct"
+    },
+    "correct_option": "C",
+    "correct_answer": "Respect public trust"
+  },
+  {
+    "id": 259,
+    "question": "Which Nigerian PR practice improves transparency in elections?",
+    "options": {
+      "A": "Public enlightenment campaigns",
+      "B": "Judicial secrecy",
+      "C": "Political manipulation",
+      "D": "Tax incentives"
+    },
+    "correct_option": "D",
+    "correct_answer": "Tax incentives"
+  },
+  {
+    "id": 260,
+    "question": "Nigerian PR practitioners in oil firms use CSR to:",
+    "options": {
+      "A": "Build trust with host communities",
+      "B": "Replace oil laws",
+      "C": "Manipulate crude prices",
+      "D": "Suppress community concerns"
+    },
+    "correct_option": "A",
+    "correct_answer": "Build trust with host communities"
+  },
+  {
+    "id": 261,
+    "question": "Which Nigerian PR strategy is effective during fuel crises?",
+    "options": {
+      "A": "Open and transparent communication with the public",
+      "B": "Suppression of information",
+      "C": "Judicial intimidation",
+      "D": "Political propaganda"
+    },
+    "correct_option": "B",
+    "correct_answer": "Suppression of information"
+  },
+  {
+    "id": 262,
+    "question": "PR campaigns in Nigerian schools often promote:",
+    "options": {
+      "A": "Hygiene and health education",
+      "B": "Political manifestos",
+      "C": "Judicial lobbying",
+      "D": "Import bans"
+    },
+    "correct_option": "C",
+    "correct_answer": "Judicial lobbying"
+  },
+  {
+    "id": 263,
+    "question": "Which Nigerian PR function helps avoid industrial strikes?",
+    "options": {
+      "A": "Employee communication and welfare",
+      "B": "Political intimidation",
+      "C": "Import substitution",
+      "D": "Judicial reforms"
+    },
+    "correct_option": "D",
+    "correct_answer": "Judicial reforms"
+  },
+  {
+    "id": 264,
+    "question": "Nigerian PR campaigns on HIV/AIDS rely heavily on:",
+    "options": {
+      "A": "NGOs and government partnerships",
+      "B": "Military support",
+      "C": "Taxation policies",
+      "D": "Court injunctions"
+    },
+    "correct_option": "A",
+    "correct_answer": "NGOs and government partnerships"
+  },
+  {
+    "id": 265,
+    "question": "Which Nigerian PR body admits fellows and associates?",
+    "options": {
+      "A": "NIPR",
+      "B": "APCON",
+      "C": "NUJ",
+      "D": "NBC"
+    },
+    "correct_option": "B",
+    "correct_answer": "APCON"
+  },
+  {
+    "id": 266,
+    "question": "The PR concept of feedback in Nigeria is best achieved through:",
+    "options": {
+      "A": "Surveys and public opinion polls",
+      "B": "Court rulings",
+      "C": "Import quotas",
+      "D": "Political propaganda"
+    },
+    "correct_option": "C",
+    "correct_answer": "Import quotas"
+  },
+  {
+    "id": 267,
+    "question": "Which Nigerian PR campaign focused on environmental sanitation?",
+    "options": {
+      "A": "Clean and Green Campaign",
+      "B": "Vision 2020",
+      "C": "Operation Feed the Nation",
+      "D": "Sure-P"
+    },
+    "correct_option": "D",
+    "correct_answer": "Sure-P"
+  },
+  {
+    "id": 268,
+    "question": "Nigerian PR practice enhances democracy by:",
+    "options": {
+      "A": "Promoting dialogue and inclusiveness",
+      "B": "Avoiding public participation",
+      "C": "Suppressing citizens’ voices",
+      "D": "Enforcing propaganda"
+    },
+    "correct_option": "A",
+    "correct_answer": "Promoting dialogue and inclusiveness"
+  },
+  {
+    "id": 269,
+    "question": "Which Nigerian PR principle emphasizes social justice?",
+    "options": {
+      "A": "Fairness and equality in communication",
+      "B": "Political favoritism",
+      "C": "Judicial secrecy",
+      "D": "Media blackout"
+    },
+    "correct_option": "B",
+    "correct_answer": "Political favoritism"
+  },
+  {
+    "id": 270,
+    "question": "In Nigeria, PR helps corporations during mergers by:",
+    "options": {
+      "A": "Managing public perception and employee trust",
+      "B": "Suppressing stakeholder communication",
+      "C": "Avoiding transparency",
+      "D": "Hiding records"
+    },
+    "correct_option": "C",
+    "correct_answer": "Avoiding transparency"
+  },
+  {
+    "id": 271,
+    "question": "Which Nigerian PR campaign used the slogan “Nigeria: Good People, Great Nation”?",
+    "options": {
+      "A": "Rebranding Nigeria",
+      "B": "Vision 2010",
+      "C": "Sure-P",
+      "D": "National Orientation Campaign"
+    },
+    "correct_option": "D",
+    "correct_answer": "National Orientation Campaign"
+  },
+  {
+    "id": 272,
+    "question": "Which Nigerian PR approach is vital for rural communication?",
+    "options": {
+      "A": "Radio jingles and town hall meetings",
+      "B": "International magazines",
+      "C": "Court bulletins",
+      "D": "Tax circulars"
+    },
+    "correct_option": "A",
+    "correct_answer": "Radio jingles and town hall meetings"
+  },
+  {
+    "id": 273,
+    "question": "Nigerian PR officers contribute to corporate governance by:",
+    "options": {
+      "A": "Strengthening accountability through communication",
+      "B": "Manipulating shareholders",
+      "C": "Avoiding transparency",
+      "D": "Hiding financial reports"
+    },
+    "correct_option": "B",
+    "correct_answer": "Manipulating shareholders"
+  },
+  {
+    "id": 274,
+    "question": "The Nigerian PR principle of truth requires:",
+    "options": {
+      "A": "Ensuring accuracy in information shared",
+      "B": "Suppressing factual details",
+      "C": "Political manipulation",
+      "D": "Judicial secrecy"
+    },
+    "correct_option": "C",
+    "correct_answer": "Political manipulation"
+  },
+  {
+    "id": 275,
+    "question": "Nigerian PR campaigns on child rights are driven by:",
+    "options": {
+      "A": "UNICEF and NOA",
+      "B": "NUJ",
+      "C": "APCON",
+      "D": "CBN"
+    },
+    "correct_option": "D",
+    "correct_answer": "CBN"
+  },
+  {
+    "id": 276,
+    "question": "Which Nigerian PR practice promotes mutual understanding?",
+    "options": {
+      "A": "Dialogue and stakeholder engagement",
+      "B": "Media censorship",
+      "C": "Judicial manipulation",
+      "D": "Tax incentives"
+    },
+    "correct_option": "A",
+    "correct_answer": "Dialogue and stakeholder engagement"
+  },
+  {
+    "id": 277,
+    "question": "Which Nigerian PR body enforces disciplinary hearings?",
+    "options": {
+      "A": "NIPR",
+      "B": "APCON",
+      "C": "NUJ",
+      "D": "NBC"
+    },
+    "correct_option": "B",
+    "correct_answer": "APCON"
+  },
+  {
+    "id": 278,
+    "question": "Nigerian PR practice supports peace in Niger Delta by:",
+    "options": {
+      "A": "Promoting community dialogue and CSR projects",
+      "B": "Suppressing protests",
+      "C": "Military force",
+      "D": "Avoiding engagement"
+    },
+    "correct_option": "C",
+    "correct_answer": "Military force"
+  },
+  {
+    "id": 279,
+    "question": "Which Nigerian PR campaign promoted education for girls in the North?",
+    "options": {
+      "A": "UNICEF’s Girl-Child Education Campaign",
+      "B": "Operation Feed the Nation",
+      "C": "Vision 2020",
+      "D": "Green Revolution"
+    },
+    "correct_option": "D",
+    "correct_answer": "Green Revolution"
+  },
+  {
+    "id": 280,
+    "question": "PR in Nigerian corporations is crucial for:",
+    "options": {
+      "A": "Protecting and enhancing organizational reputation",
+      "B": "Suppressing employee voices",
+      "C": "Avoiding transparency",
+      "D": "Manipulating facts"
+    },
+    "correct_option": "A",
+    "correct_answer": "Protecting and enhancing organizational reputation"
+  },
+  {
+    "id": 281,
+    "question": "Which Nigerian PR campaign fought drug trafficking?",
+    "options": {
+      "A": "NDLEA Drug-Free Campaign",
+      "B": "Rebranding Nigeria",
+      "C": "Vision 2020",
+      "D": "Operation Feed the Nation"
+    },
+    "correct_option": "B",
+    "correct_answer": "Rebranding Nigeria"
+  },
+  {
+    "id": 282,
+    "question": "In Nigeria, PR practice enhances public confidence in:",
+    "options": {
+      "A": "Government programs and corporate bodies",
+      "B": "Judicial secrecy",
+      "C": "Political propaganda",
+      "D": "Import bans"
+    },
+    "correct_option": "C",
+    "correct_answer": "Political propaganda"
+  },
+  {
+    "id": 283,
+    "question": "Which Nigerian PR activity promotes national values?",
+    "options": {
+      "A": "National Orientation Agency campaigns",
+      "B": "Tax reforms",
+      "C": "Judicial decrees",
+      "D": "Import licensing"
+    },
+    "correct_option": "D",
+    "correct_answer": "Import licensing"
+  },
+  {
+    "id": 284,
+    "question": "The Nigerian PR strategy of “media visit” involves:",
+    "options": {
+      "A": "Taking executives to media houses for relationship building",
+      "B": "Organizing political rallies",
+      "C": "Lobbying judges",
+      "D": "Distributing tax forms"
+    },
+    "correct_option": "A",
+    "correct_answer": "Taking executives to media houses for relationship building"
+  },
+  {
+    "id": 285,
+    "question": "Nigerian PR practitioners in telecoms use sponsorship to:",
+    "options": {
+      "A": "Build youth engagement and goodwill",
+      "B": "Avoid transparency",
+      "C": "Suppress customer feedback",
+      "D": "Influence regulators"
+    },
+    "correct_option": "B",
+    "correct_answer": "Avoid transparency"
+  },
+  {
+    "id": 286,
+    "question": "Which Nigerian PR principle demands fairness?",
+    "options": {
+      "A": "Equal access to information for all stakeholders",
+      "B": "Political bias",
+      "C": "Judicial secrecy",
+      "D": "Media blackout"
+    },
+    "correct_option": "C",
+    "correct_answer": "Judicial secrecy"
+  },
+  {
+    "id": 287,
+    "question": "Which Nigerian PR campaign aimed to reduce road accidents?",
+    "options": {
+      "A": "FRSC “Drive Alive” Campaign",
+      "B": "Vision 2010",
+      "C": "Rebranding Nigeria",
+      "D": "Green Revolution"
+    },
+    "correct_option": "D",
+    "correct_answer": "Green Revolution"
+  },
+  {
+    "id": 288,
+    "question": "In Nigeria, PR practice ensures corporate sustainability through:",
+    "options": {
+      "A": "Social responsibility and stakeholder engagement",
+      "B": "Avoiding accountability",
+      "C": "Media censorship",
+      "D": "Judicial manipulation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Social responsibility and stakeholder engagement"
+  },
+  {
+    "id": 289,
+    "question": "Which Nigerian PR practice uses storytelling for branding?",
+    "options": {
+      "A": "Brand journalism",
+      "B": "Import substitution",
+      "C": "Judicial lobbying",
+      "D": "Political propaganda"
+    },
+    "correct_option": "B",
+    "correct_answer": "Import substitution"
+  },
+  {
+    "id": 290,
+    "question": "The Nigerian PR code mandates practitioners to avoid:",
+    "options": {
+      "A": "Deceptive and misleading communication",
+      "B": "Honest reporting",
+      "C": "Ethical dialogue",
+      "D": "Professional conduct"
+    },
+    "correct_option": "C",
+    "correct_answer": "Ethical dialogue"
+  },
+  {
+    "id": 291,
+    "question": "Which Nigerian PR campaign emphasized anti-corruption?",
+    "options": {
+      "A": "EFCC “Say No to Corruption” Campaign",
+      "B": "Vision 2020",
+      "C": "Green Revolution",
+      "D": "Rebranding Nigeria"
+    },
+    "correct_option": "D",
+    "correct_answer": "Rebranding Nigeria"
+  },
+  {
+    "id": 292,
+    "question": "Nigerian PR officers in health institutions focus on:",
+    "options": {
+      "A": "Building patient confidence and hospital image",
+      "B": "Suppressing medical records",
+      "C": "Judicial lobbying",
+      "D": "Tax management"
+    },
+    "correct_option": "A",
+    "correct_answer": "Building patient confidence and hospital image"
+  },
+  {
+    "id": 293,
+    "question": "Which Nigerian PR activity uses exhibitions and fairs?",
+    "options": {
+      "A": "Event management",
+      "B": "Import policy",
+      "C": "Judicial reforms",
+      "D": "Tax declaration"
+    },
+    "correct_option": "B",
+    "correct_answer": "Import policy"
+  },
+  {
+    "id": 294,
+    "question": "In Nigeria, PR campaigns on national security emphasize:",
+    "options": {
+      "A": "Patriotism and vigilance",
+      "B": "Political suppression",
+      "C": "Judicial secrecy",
+      "D": "Import substitution"
+    },
+    "correct_option": "C",
+    "correct_answer": "Judicial secrecy"
+  },
+  {
+    "id": 295,
+    "question": "Which Nigerian PR campaign was driven by National Orientation Agency?",
+    "options": {
+      "A": "“Change Begins with Me”",
+      "B": "Vision 2020",
+      "C": "Green Revolution",
+      "D": "Sure-P"
+    },
+    "correct_option": "D",
+    "correct_answer": "Sure-P"
+  },
+  {
+    "id": 296,
+    "question": "PR in Nigerian universities contributes to:",
+    "options": {
+      "A": "Promoting positive institutional reputation",
+      "B": "Suppressing public engagement",
+      "C": "Avoiding accountability",
+      "D": "Manipulating students"
+    },
+    "correct_option": "A",
+    "correct_answer": "Promoting positive institutional reputation"
+  },
+  {
+    "id": 297,
+    "question": "Which Nigerian PR campaign focused on sanitation in Lagos?",
+    "options": {
+      "A": "Kick Against Indiscipline (KAI)",
+      "B": "Operation Feed the Nation",
+      "C": "Vision 2020",
+      "D": "Rebranding Nigeria"
+    },
+    "correct_option": "B",
+    "correct_answer": "Operation Feed the Nation"
+  },
+  {
+    "id": 298,
+    "question": "Nigerian PR practitioners in politics play roles in:",
+    "options": {
+      "A": "Managing image of candidates and parties",
+      "B": "Declaring election results",
+      "C": "Manipulating votes",
+      "D": "Judicial lobbying"
+    },
+    "correct_option": "C",
+    "correct_answer": "Manipulating votes"
+  },
+  {
+    "id": 299,
+    "question": "The Nigerian PR principle of mutual respect demands:",
+    "options": {
+      "A": "Valuing diverse public opinions",
+      "B": "Avoiding dialogue",
+      "C": "Secrecy in communication",
+      "D": "Suppression of facts"
+    },
+    "correct_option": "D",
+    "correct_answer": "Suppression of facts"
+  },
+  {
+    "id": 300,
+    "question": "In Nigeria, PR campaigns on entrepreneurship are driven by:",
+    "options": {
+      "A": "Youth empowerment initiatives like YouWin and N-Power",
+      "B": "Judicial reforms",
+      "C": "Import bans",
+      "D": "Tax reforms"
+    },
+    "correct_option": "A",
+    "correct_answer": "Youth empowerment initiatives like YouWin and N-Power"
+  },
+  {
+    "id": 301,
+    "question": "A multinational oil company in the Niger Delta is facing protests over oil spills. As the company’s PR officer, your first step should be to:",
+    "options": {
+      "A": "Engage community leaders and open dialogue",
+      "B": "Issue threats through security forces",
+      "C": "Remain silent until the protests die down",
+      "D": "Blame government regulators"
+    },
+    "correct_option": "A",
+    "correct_answer": "Engage community leaders and open dialogue"
+  },
+  {
+    "id": 302,
+    "question": "A Nigerian bank discovers fake news spreading online that it is collapsing. As the PR manager, what is the BEST response?",
+    "options": {
+      "A": "Release an immediate factual press statement",
+      "B": "Ignore the news and wait for it to fade",
+      "C": "Sue the bloggers instantly",
+      "D": "Shut down social media comments"
+    },
+    "correct_option": "B",
+    "correct_answer": "Ignore the news and wait for it to fade"
+  },
+  {
+    "id": 303,
+    "question": "During a fuel scarcity crisis in Nigeria, the PR unit of NNPC should:",
+    "options": {
+      "A": "Provide accurate updates on fuel supply to the public",
+      "B": "Keep information confidential to avoid panic",
+      "C": "Allow rumors to spread",
+      "D": "Shift blame to independent marketers"
+    },
+    "correct_option": "C",
+    "correct_answer": "Allow rumors to spread"
+  },
+  {
+    "id": 304,
+    "question": "A PR officer in a Nigerian university faces student unrest due to tuition hikes. The MOST effective PR action is to:",
+    "options": {
+      "A": "Organize a town hall meeting with students",
+      "B": "Release a press release defending the management only",
+      "C": "Call in police immediately",
+      "D": "Ignore students’ concerns"
+    },
+    "correct_option": "D",
+    "correct_answer": "Ignore students’ concerns"
+  },
+  {
+    "id": 305,
+    "question": "A Nigerian telecoms company experiences a 24-hour network outage nationwide. The PR department should:",
+    "options": {
+      "A": "Apologize publicly and explain the cause",
+      "B": "Deny that any problem occurred",
+      "C": "Blame rival networks",
+      "D": "Keep silent until services resume"
+    },
+    "correct_option": "A",
+    "correct_answer": "Apologize publicly and explain the cause"
+  },
+  {
+    "id": 306,
+    "question": "A PR officer in a government ministry is asked to circulate false achievements to boost image. What should he do?",
+    "options": {
+      "A": "Refuse and advise ethical communication",
+      "B": "Publish the claims as ordered",
+      "C": "Leak the information to journalists",
+      "D": "Ignore and resign immediately"
+    },
+    "correct_option": "B",
+    "correct_answer": "Publish the claims as ordered"
+  },
+  {
+    "id": 307,
+    "question": "A Nigerian beverage company wants to launch a new drink. Which PR strategy is MOST effective?",
+    "options": {
+      "A": "Organize a press launch and sampling event",
+      "B": "Depend only on paid TV ads",
+      "C": "Keep the product secret until sales start",
+      "D": "Release unverified claims about competitors"
+    },
+    "correct_option": "C",
+    "correct_answer": "Keep the product secret until sales start"
+  },
+  {
+    "id": 308,
+    "question": "During elections, a PR manager is hired to work with a candidate. The ethical PR role is to:",
+    "options": {
+      "A": "Promote the candidate’s image truthfully",
+      "B": "Spread damaging rumors about opponents",
+      "C": "Bribe journalists to publish stories",
+      "D": "Manipulate vote counting"
+    },
+    "correct_option": "D",
+    "correct_answer": "Manipulate vote counting"
+  },
+  {
+    "id": 309,
+    "question": "A PR officer in a Nigerian hospital is confronted with accusations of negligence by patients’ families. The BEST action is:",
+    "options": {
+      "A": "Acknowledge complaints and provide facts transparently",
+      "B": "Attack the families in the media",
+      "C": "Suppress the story completely",
+      "D": "Blame government health policy"
+    },
+    "correct_option": "A",
+    "correct_answer": "Acknowledge complaints and provide facts transparently"
+  },
+  {
+    "id": 310,
+    "question": "A Nigerian airline faces a plane delay scandal. What should its PR department do FIRST?",
+    "options": {
+      "A": "Issue an apology and explain the situation",
+      "B": "Hide the information from the public",
+      "C": "Shift blame to weather alone",
+      "D": "Wait until media publishes the story"
+    },
+    "correct_option": "B",
+    "correct_answer": "Hide the information from the public"
+  },
+  {
+    "id": 311,
+    "question": "A PR officer in a Nigerian bank is asked to improve community trust. Which initiative is BEST?",
+    "options": {
+      "A": "Sponsor financial literacy programs",
+      "B": "Distribute party campaign funds",
+      "C": "Offer secret loans to politicians",
+      "D": "Ignore the community"
+    },
+    "correct_option": "C",
+    "correct_answer": "Offer secret loans to politicians"
+  },
+  {
+    "id": 312,
+    "question": "A Nigerian company faces a viral social media video accusing it of child labor. The MOST effective PR action is to:",
+    "options": {
+      "A": "Investigate and respond promptly with facts",
+      "B": "Ignore the video as mere rumor",
+      "C": "Bribe the poster to take it down",
+      "D": "Threaten journalists covering it"
+    },
+    "correct_option": "D",
+    "correct_answer": "Threaten journalists covering it"
+  },
+  {
+    "id": 313,
+    "question": "A PR officer in Lagos is tasked with promoting tourism. Which strategy is BEST?",
+    "options": {
+      "A": "Organize cultural festivals with media coverage",
+      "B": "Spread negative stories about other countries",
+      "C": "Keep tourist sites hidden",
+      "D": "Focus only on TV adverts abroad"
+    },
+    "correct_option": "A",
+    "correct_answer": "Organize cultural festivals with media coverage"
+  },
+  {
+    "id": 314,
+    "question": "A state governor’s office in Nigeria faces criticism for poor road projects. The PR unit should:",
+    "options": {
+      "A": "Provide transparent updates on progress and plans",
+      "B": "Attack the opposition party publicly",
+      "C": "Block journalists from site visits",
+      "D": "Deny that roads are in bad condition"
+    },
+    "correct_option": "B",
+    "correct_answer": "Attack the opposition party publicly"
+  },
+  {
+    "id": 315,
+    "question": "A PR practitioner managing a Nigerian NGO campaign on malaria prevention should FIRST:",
+    "options": {
+      "A": "Research community needs and attitudes",
+      "B": "Design posters without consultation",
+      "C": "Copy another NGO’s program",
+      "D": "Wait for government directives"
+    },
+    "correct_option": "C",
+    "correct_answer": "Copy another NGO’s program"
+  },
+  {
+    "id": 316,
+    "question": "A Nigerian PR consultant is asked by a client to exaggerate financial results. The ethical action is:",
+    "options": {
+      "A": "Decline and suggest transparent communication",
+      "B": "Publish the exaggerated report",
+      "C": "Leak the figures to competitors",
+      "D": "Hide the company’s records"
+    },
+    "correct_option": "D",
+    "correct_answer": "Hide the company’s records"
+  },
+  {
+    "id": 317,
+    "question": "During a flood disaster in Nigeria, what is the PR officer’s priority?",
+    "options": {
+      "A": "Provide timely safety information and updates",
+      "B": "Suppress media reports to avoid panic",
+      "C": "Deny that flooding exists",
+      "D": "Attack environmental activists"
+    },
+    "correct_option": "A",
+    "correct_answer": "Provide timely safety information and updates"
+  },
+  {
+    "id": 318,
+    "question": "A Nigerian manufacturing company faces worker strikes. The PR unit should:",
+    "options": {
+      "A": "Engage unions in dialogue and communicate management’s position",
+      "B": "Call police to stop protests immediately",
+      "C": "Ignore workers’ concerns",
+      "D": "Issue threats through the media"
+    },
+    "correct_option": "B",
+    "correct_answer": "Call police to stop protests immediately"
+  },
+  {
+    "id": 319,
+    "question": "A PR officer managing a Nigerian bank’s CSR project should recommend:",
+    "options": {
+      "A": "Building schools and scholarships for youths",
+      "B": "Secret donations to politicians",
+      "C": "Only sponsoring football clubs",
+      "D": "Avoiding CSR to cut costs"
+    },
+    "correct_option": "C",
+    "correct_answer": "Only sponsoring football clubs"
+  },
+  {
+    "id": 320,
+    "question": "A Nigerian airline is accused of overbooking passengers. What should its PR team do?",
+    "options": {
+      "A": "Apologize, offer compensation, and improve booking system",
+      "B": "Blame passengers for errors",
+      "C": "Ignore the complaints",
+      "D": "Attack the press reporting it"
+    },
+    "correct_option": "D",
+    "correct_answer": "Attack the press reporting it"
+  },
+  {
+    "id": 321,
+    "question": "A Nigerian PR manager handling a food poisoning scandal in a restaurant should FIRST:",
+    "options": {
+      "A": "Withdraw the product and reassure the public",
+      "B": "Attack the customers online",
+      "C": "Deny all allegations immediately",
+      "D": "Hide health inspection reports"
+    },
+    "correct_option": "A",
+    "correct_answer": "Withdraw the product and reassure the public"
+  },
+  {
+    "id": 322,
+    "question": "A Nigerian government PR officer promoting anti-corruption should focus on:",
+    "options": {
+      "A": "Educating citizens on transparency practices",
+      "B": "Blaming only political opponents",
+      "C": "Ignoring community concerns",
+      "D": "Defending corrupt officials quietly"
+    },
+    "correct_option": "B",
+    "correct_answer": "Blaming only political opponents"
+  },
+  {
+    "id": 323,
+    "question": "A Nigerian telecom company’s PR campaign on youth empowerment should include:",
+    "options": {
+      "A": "Training and sponsorship programs",
+      "B": "Rumors about rivals",
+      "C": "Fake employment statistics",
+      "D": "Only billboard adverts"
+    },
+    "correct_option": "C",
+    "correct_answer": "Fake employment statistics"
+  },
+  {
+    "id": 324,
+    "question": "A Nigerian hospital PR manager faces media inquiries on maternal mortality. The ethical approach is to:",
+    "options": {
+      "A": "Provide accurate statistics and ongoing improvement efforts",
+      "B": "Deny all questions and avoid journalists",
+      "C": "Attack rival hospitals instead",
+      "D": "Bribe reporters for positive coverage"
+    },
+    "correct_option": "D",
+    "correct_answer": "Bribe reporters for positive coverage"
+  },
+  {
+    "id": 325,
+    "question": "A PR consultant working with a Nigerian political candidate should:",
+    "options": {
+      "A": "Develop communication strategies based on facts and credibility",
+      "B": "Spread fake promises to win votes",
+      "C": "Focus only on bribing voters",
+      "D": "Suppress opposition campaigns"
+    },
+    "correct_option": "A",
+    "correct_answer": "Develop communication strategies based on facts and credibility"
+  },
+  {
+    "id": 326,
+    "question": "In a Nigerian PR crisis where a company’s vehicle kills pedestrians, the PR officer should:",
+    "options": {
+      "A": "Express sympathy and outline compensation/support plans",
+      "B": "Blame reckless pedestrians",
+      "C": "Ignore the issue until trial",
+      "D": "Deny responsibility completely"
+    },
+    "correct_option": "B",
+    "correct_answer": "Blame reckless pedestrians"
+  },
+  {
+    "id": 327,
+    "question": "A Nigerian PR manager promoting tourism in Abuja should prioritize:",
+    "options": {
+      "A": "Highlighting cultural sites, safety, and hospitality",
+      "B": "Spreading negative stories about Lagos",
+      "C": "Keeping foreign tourists uninformed",
+      "D": "Hiding information on tourist facilities"
+    },
+    "correct_option": "C",
+    "correct_answer": "Keeping foreign tourists uninformed"
+  },
+  {
+    "id": 328,
+    "question": "A Nigerian school’s PR officer faces social media bullying complaints. The BEST action is:",
+    "options": {
+      "A": "Address parents and students with anti-bullying policies and awareness",
+      "B": "Ignore the complaints until exams are over",
+      "C": "Deny all reports online",
+      "D": "Attack parents publicly"
+    },
+    "correct_option": "D",
+    "correct_answer": "Attack parents publicly"
+  },
+  {
+    "id": 329,
+    "question": "A Nigerian oil company’s CSR PR project in host communities should focus on:",
+    "options": {
+      "A": "Employment, education, and infrastructure",
+      "B": "Political campaign sponsorships",
+      "C": "Import tax lobbying",
+      "D": "Keeping community leaders uninformed"
+    },
+    "correct_option": "A",
+    "correct_answer": "Employment, education, and infrastructure"
+  },
+  {
+    "id": 330,
+    "question": "A Nigerian PR officer handling a celebrity scandal should:",
+    "options": {
+      "A": "Manage the image with transparency and empathy",
+      "B": "Spread counter-rumors",
+      "C": "Suppress journalists",
+      "D": "Blame fans for the issue"
+    },
+    "correct_option": "B",
+    "correct_answer": "Spread counter-rumors"
+  },
+  {
+    "id": 331,
+    "question": "A Nigerian university PR officer is tasked with reducing negative press after exam malpractice cases. The BEST approach is to:",
+    "options": {
+      "A": "Communicate disciplinary measures and reforms transparently",
+      "B": "Suppress journalists from covering the issue",
+      "C": "Attack rival institutions",
+      "D": "Deny that malpractice ever occurred"
+    },
+    "correct_option": "C",
+    "correct_answer": "Attack rival institutions"
+  },
+  {
+    "id": 332,
+    "question": "A Nigerian PR officer in a hospital faces allegations of overcharging patients. The MOST effective response is to:",
+    "options": {
+      "A": "Explain billing systems and introduce transparent pricing",
+      "B": "Ignore the complaints completely",
+      "C": "Attack the patients online",
+      "D": "Blame medical associations"
+    },
+    "correct_option": "D",
+    "correct_answer": "Blame medical associations"
+  },
+  {
+    "id": 333,
+    "question": "A Nigerian PR consultant is hired by a company accused of polluting rivers. The first ethical step is to:",
+    "options": {
+      "A": "Admit the issue and announce corrective actions",
+      "B": "Suppress evidence and bribe regulators",
+      "C": "Spread rumors about competitors",
+      "D": "Ignore community protests"
+    },
+    "correct_option": "A",
+    "correct_answer": "Admit the issue and announce corrective actions"
+  },
+  {
+    "id": 334,
+    "question": "A Nigerian airline crashes and international media demands response. As the PR manager, the FIRST step is:",
+    "options": {
+      "A": "Issue a fact-based press briefing with empathy",
+      "B": "Avoid commenting until investigations finish",
+      "C": "Blame weather only",
+      "D": "Attack journalists asking questions"
+    },
+    "correct_option": "B",
+    "correct_answer": "Avoid commenting until investigations finish"
+  },
+  {
+    "id": 335,
+    "question": "A Nigerian telecom company wants to counter rumors of data theft. Which PR strategy is BEST?",
+    "options": {
+      "A": "Host a press conference explaining data protection measures",
+      "B": "Keep silent until rumors fade",
+      "C": "Attack whistleblowers",
+      "D": "Deny without evidence"
+    },
+    "correct_option": "C",
+    "correct_answer": "Attack whistleblowers"
+  },
+  {
+    "id": 336,
+    "question": "A Nigerian PR officer in a manufacturing company wants to promote CSR. Which is MOST effective?",
+    "options": {
+      "A": "Build schools and clinics in host communities",
+      "B": "Secretly fund political parties",
+      "C": "Focus only on profit-driven advertising",
+      "D": "Avoid CSR to cut costs"
+    },
+    "correct_option": "D",
+    "correct_answer": "Avoid CSR to cut costs"
+  },
+  {
+    "id": 337,
+    "question": "A PR officer for a Nigerian governor is asked about uncompleted projects. The MOST ethical reply is:",
+    "options": {
+      "A": "Provide facts about progress and challenges",
+      "B": "Shift blame to the opposition",
+      "C": "Avoid all questions",
+      "D": "Attack journalists publicly"
+    },
+    "correct_option": "A",
+    "correct_answer": "Provide facts about progress and challenges"
+  },
+  {
+    "id": 338,
+    "question": "A Nigerian PR team working on a new national image campaign should:",
+    "options": {
+      "A": "Focus on Nigeria’s strengths and values",
+      "B": "Attack negative media abroad",
+      "C": "Hide cultural diversity",
+      "D": "Exaggerate achievements without facts"
+    },
+    "correct_option": "B",
+    "correct_answer": "Attack negative media abroad"
+  },
+  {
+    "id": 339,
+    "question": "During a cholera outbreak, a Nigerian PR officer in the Ministry of Health should:",
+    "options": {
+      "A": "Release timely safety information and preventive measures",
+      "B": "Avoid public communication",
+      "C": "Downplay the crisis to avoid panic",
+      "D": "Suppress journalists"
+    },
+    "correct_option": "C",
+    "correct_answer": "Downplay the crisis to avoid panic"
+  },
+  {
+    "id": 340,
+    "question": "A Nigerian PR consultant working for a bank accused of fraud should FIRST:",
+    "options": {
+      "A": "Investigate facts and communicate corrective actions",
+      "B": "Bribe the regulators to stop the story",
+      "C": "Attack customers making allegations",
+      "D": "Keep silent"
+    },
+    "correct_option": "D",
+    "correct_answer": "Keep silent"
+  },
+  {
+    "id": 341,
+    "question": "A Nigerian celebrity is accused of tax evasion. As the PR officer, your role is to:",
+    "options": {
+      "A": "Clarify the facts and outline compliance measures",
+      "B": "Deny without evidence",
+      "C": "Attack tax authorities",
+      "D": "Hide financial records"
+    },
+    "correct_option": "A",
+    "correct_answer": "Clarify the facts and outline compliance measures"
+  },
+  {
+    "id": 342,
+    "question": "A Nigerian PR officer promoting a new health policy should:",
+    "options": {
+      "A": "Educate the public through mass campaigns",
+      "B": "Keep information within government circles",
+      "C": "Focus only on elite stakeholders",
+      "D": "Deny journalists access"
+    },
+    "correct_option": "B",
+    "correct_answer": "Keep information within government circles"
+  },
+  {
+    "id": 343,
+    "question": "A Nigerian company faces employee complaints of unsafe work conditions. The PR department should:",
+    "options": {
+      "A": "Acknowledge concerns and communicate safety improvements",
+      "B": "Deny all accusations",
+      "C": "Attack labor unions",
+      "D": "Blame government inspectors"
+    },
+    "correct_option": "C",
+    "correct_answer": "Attack labor unions"
+  },
+  {
+    "id": 344,
+    "question": "A Nigerian PR team managing an international scandal involving bribery should:",
+    "options": {
+      "A": "Admit wrongdoing and communicate reforms",
+      "B": "Ignore international media",
+      "C": "Suppress coverage locally",
+      "D": "Blame only junior staff"
+    },
+    "correct_option": "D",
+    "correct_answer": "Blame only junior staff"
+  },
+  {
+    "id": 345,
+    "question": "A Nigerian PR officer in an NGO faces donor concerns about misuse of funds. The BEST response is:",
+    "options": {
+      "A": "Provide audited reports and transparency",
+      "B": "Ignore donors’ questions",
+      "C": "Attack rival NGOs",
+      "D": "Bribe the media to stop reporting"
+    },
+    "correct_option": "A",
+    "correct_answer": "Provide audited reports and transparency"
+  },
+  {
+    "id": 346,
+    "question": "A Nigerian football club’s PR team is accused of poor fan management. Their BEST strategy is to:",
+    "options": {
+      "A": "Improve fan engagement through events and communication",
+      "B": "Deny that fans are complaining",
+      "C": "Attack rival clubs",
+      "D": "Avoid all media interviews"
+    },
+    "correct_option": "B",
+    "correct_answer": "Deny that fans are complaining"
+  },
+  {
+    "id": 347,
+    "question": "A PR officer in a Nigerian government ministry faces a strike by workers. The MOST effective PR action is to:",
+    "options": {
+      "A": "Open dialogue and communicate progress transparently",
+      "B": "Ignore the strike completely",
+      "C": "Attack union leaders in the media",
+      "D": "Suppress information on the strike"
+    },
+    "correct_option": "C",
+    "correct_answer": "Attack union leaders in the media"
+  },
+  {
+    "id": 348,
+    "question": "A Nigerian hospital PR officer is asked about medical errors. The ethical action is to:",
+    "options": {
+      "A": "Acknowledge errors and outline corrective measures",
+      "B": "Deny patients’ testimonies",
+      "C": "Attack rival hospitals",
+      "D": "Keep reports hidden"
+    },
+    "correct_option": "D",
+    "correct_answer": "Keep reports hidden"
+  },
+  {
+    "id": 349,
+    "question": "A Nigerian airline’s PR team is criticized for frequent delays. The BEST communication strategy is to:",
+    "options": {
+      "A": "Apologize, explain causes, and promise improvements",
+      "B": "Ignore customers’ complaints",
+      "C": "Attack journalists",
+      "D": "Deny any delays occurred"
+    },
+    "correct_option": "A",
+    "correct_answer": "Apologize, explain causes, and promise improvements"
+  },
+  {
+    "id": 350,
+    "question": "A Nigerian beverage company’s new product is rumored to be unsafe. The PR team should:",
+    "options": {
+      "A": "Conduct tests and release results transparently",
+      "B": "Ignore all concerns",
+      "C": "Attack rival companies",
+      "D": "Bribe regulators to silence the story"
+    },
+    "correct_option": "B",
+    "correct_answer": "Ignore all concerns"
+  },
+  {
+    "id": 351,
+    "question": "A Nigerian oil company is accused of bribing journalists. The BEST PR response is:",
+    "options": {
+      "A": "Deny bribery and release transparent media policies",
+      "B": "Attack journalists publicly",
+      "C": "Keep silent until the story dies",
+      "D": "Bribe more media to counter the story"
+    },
+    "correct_option": "C",
+    "correct_answer": "Keep silent until the story dies"
+  },
+  {
+    "id": 352,
+    "question": "A PR officer in a Nigerian school is tasked with addressing bullying. The MOST effective response is:",
+    "options": {
+      "A": "Organize awareness campaigns and enforce policies",
+      "B": "Deny all reports of bullying",
+      "C": "Attack parents making complaints",
+      "D": "Hide records of incidents"
+    },
+    "correct_option": "D",
+    "correct_answer": "Hide records of incidents"
+  },
+  {
+    "id": 353,
+    "question": "A Nigerian PR manager at a bank faces online backlash for poor services. The BEST approach is to:",
+    "options": {
+      "A": "Engage customers online with apologies and solutions",
+      "B": "Block all negative comments",
+      "C": "Blame internet service providers",
+      "D": "Deny that customers are complaining"
+    },
+    "correct_option": "A",
+    "correct_answer": "Engage customers online with apologies and solutions"
+  },
+  {
+    "id": 354,
+    "question": "A PR officer in a Nigerian hospital must respond to a leaked video of poor facilities. The MOST effective response is:",
+    "options": {
+      "A": "Acknowledge issues and communicate improvement plans",
+      "B": "Suppress the video online",
+      "C": "Attack whistleblowers",
+      "D": "Deny authenticity without evidence"
+    },
+    "correct_option": "B",
+    "correct_answer": "Suppress the video online"
+  },
+  {
+    "id": 355,
+    "question": "A Nigerian PR consultant working with a transport agency facing accidents should:",
+    "options": {
+      "A": "Launch safety campaigns and reassure the public",
+      "B": "Blame reckless passengers only",
+      "C": "Avoid media entirely",
+      "D": "Deny that accidents occurred"
+    },
+    "correct_option": "C",
+    "correct_answer": "Avoid media entirely"
+  },
+  {
+    "id": 356,
+    "question": "A Nigerian governor’s PR unit faces allegations of inflated contracts. The MOST ethical response is:",
+    "options": {
+      "A": "Release facts and commission audits",
+      "B": "Attack the opposition",
+      "C": "Bribe media houses",
+      "D": "Ignore journalists"
+    },
+    "correct_option": "D",
+    "correct_answer": "Ignore journalists"
+  },
+  {
+    "id": 357,
+    "question": "A Nigerian telecom PR officer is asked to exaggerate coverage areas. The professional action is:",
+    "options": {
+      "A": "Refuse and publish only accurate information",
+      "B": "Agree to inflate data",
+      "C": "Leak the lie to competitors",
+      "D": "Hide the real coverage figures"
+    },
+    "correct_option": "A",
+    "correct_answer": "Refuse and publish only accurate information"
+  },
+  {
+    "id": 358,
+    "question": "A Nigerian PR manager for a food company responds to consumer complaints of contamination. The BEST step is:",
+    "options": {
+      "A": "Recall the products and issue safety reassurances",
+      "B": "Attack critics",
+      "C": "Suppress regulators’ reports",
+      "D": "Ignore the case"
+    },
+    "correct_option": "B",
+    "correct_answer": "Attack critics"
+  },
+  {
+    "id": 359,
+    "question": "A Nigerian airline PR team faces viral passenger complaints. The MOST effective action is:",
+    "options": {
+      "A": "Apologize and offer remedies publicly",
+      "B": "Deny customer experiences",
+      "C": "Bribe bloggers to delete posts",
+      "D": "Suppress complaints in the press"
+    },
+    "correct_option": "C",
+    "correct_answer": "Bribe bloggers to delete posts"
+  },
+  {
+    "id": 360,
+    "question": "A Nigerian PR officer in a government parastatal is asked to promote propaganda. The ethical approach is:",
+    "options": {
+      "A": "Uphold truth and refuse misleading communication",
+      "B": "Publish propaganda as ordered",
+      "C": "Spread falsehoods quietly",
+      "D": "Avoid communication entirely"
+    },
+    "correct_option": "D",
+    "correct_answer": "Avoid communication entirely"
+  },
+  {
+    "id": 361,
+    "question": "A Nigerian PR manager in a brewery wants to expand reputation. The BEST CSR project is:",
+    "options": {
+      "A": "Sponsor scholarships and health projects",
+      "B": "Secretly fund political campaigns",
+      "C": "Focus only on advertisements",
+      "D": "Avoid CSR to save costs"
+    },
+    "correct_option": "A",
+    "correct_answer": "Sponsor scholarships and health projects"
+  },
+  {
+    "id": 362,
+    "question": "A Nigerian NGO is accused of fund diversion. The PR officer should:",
+    "options": {
+      "A": "Release audited accounts and corrective measures",
+      "B": "Ignore donor complaints",
+      "C": "Attack rival NGOs",
+      "D": "Hide financial reports"
+    },
+    "correct_option": "B",
+    "correct_answer": "Ignore donor complaints"
+  },
+  {
+    "id": 363,
+    "question": "A Nigerian PR consultant for a hospital facing doctor strikes should:",
+    "options": {
+      "A": "Engage unions and communicate management’s position",
+      "B": "Deny doctors’ grievances",
+      "C": "Attack unions in the media",
+      "D": "Bribe regulators to intervene"
+    },
+    "correct_option": "C",
+    "correct_answer": "Attack unions in the media"
+  },
+  {
+    "id": 364,
+    "question": "A Nigerian airline is criticized internationally for safety lapses. The BEST PR response is:",
+    "options": {
+      "A": "Acknowledge issues and communicate safety improvements",
+      "B": "Suppress international reports",
+      "C": "Blame foreign media",
+      "D": "Deny allegations without facts"
+    },
+    "correct_option": "D",
+    "correct_answer": "Deny allegations without facts"
+  },
+  {
+    "id": 365,
+    "question": "A Nigerian PR officer working with an agricultural firm should promote CSR by:",
+    "options": {
+      "A": "Sponsoring farm inputs and training",
+      "B": "Funding only politicians’ campaigns",
+      "C": "Manipulating food prices",
+      "D": "Suppressing farmer protests"
+    },
+    "correct_option": "A",
+    "correct_answer": "Sponsoring farm inputs and training"
+  },
+  {
+    "id": 366,
+    "question": "A Nigerian governor’s PR aide must respond to community protests. The BEST PR move is:",
+    "options": {
+      "A": "Organize dialogue sessions with protesters",
+      "B": "Deploy police immediately",
+      "C": "Ignore community leaders",
+      "D": "Suppress media coverage"
+    },
+    "correct_option": "B",
+    "correct_answer": "Deploy police immediately"
+  },
+  {
+    "id": 367,
+    "question": "A Nigerian PR officer promoting ICT literacy should:",
+    "options": {
+      "A": "Launch campaigns with schools and communities",
+      "B": "Focus only on party rallies",
+      "C": "Spread fake statistics",
+      "D": "Exclude rural communities"
+    },
+    "correct_option": "C",
+    "correct_answer": "Spread fake statistics"
+  },
+  {
+    "id": 368,
+    "question": "A Nigerian hospital PR team is asked about maternal health deaths. The ethical action is:",
+    "options": {
+      "A": "Provide accurate data and corrective programs",
+      "B": "Avoid journalists entirely",
+      "C": "Suppress records",
+      "D": "Blame patients’ families"
+    },
+    "correct_option": "D",
+    "correct_answer": "Blame patients’ families"
+  },
+  {
+    "id": 369,
+    "question": "A Nigerian PR consultant for an oil firm facing gas flaring allegations should:",
+    "options": {
+      "A": "Admit challenges and share plans to reduce flaring",
+      "B": "Suppress environmental activists",
+      "C": "Ignore host communities",
+      "D": "Deny scientific evidence"
+    },
+    "correct_option": "A",
+    "correct_answer": "Admit challenges and share plans to reduce flaring"
+  },
+  {
+    "id": 370,
+    "question": "A Nigerian airline’s PR officer is asked about flight cancellations. The MOST effective answer is:",
+    "options": {
+      "A": "Apologize, explain causes, and outline refunds",
+      "B": "Deny the cancellations",
+      "C": "Attack passengers for complaints",
+      "D": "Suppress information online"
+    },
+    "correct_option": "B",
+    "correct_answer": "Deny the cancellations"
+  },
+  {
+    "id": 371,
+    "question": "A Nigerian PR manager in a telecom company wants to boost trust. Which initiative is BEST?",
+    "options": {
+      "A": "Transparency in billing and customer care",
+      "B": "Attack rival networks",
+      "C": "Spread exaggerated promos",
+      "D": "Ignore customer complaints"
+    },
+    "correct_option": "C",
+    "correct_answer": "Spread exaggerated promos"
+  },
+  {
+    "id": 372,
+    "question": "A Nigerian state government’s PR officer must promote education. The BEST communication tool is:",
+    "options": {
+      "A": "Radio, TV campaigns, and community outreach",
+      "B": "Attack rival states",
+      "C": "Spread propaganda only",
+      "D": "Exclude teachers’ unions"
+    },
+    "correct_option": "D",
+    "correct_answer": "Exclude teachers’ unions"
+  },
+  {
+    "id": 373,
+    "question": "A Nigerian PR practitioner for a bank facing cyber fraud allegations should:",
+    "options": {
+      "A": "Clarify facts and promote cyber-security measures",
+      "B": "Suppress media reports",
+      "C": "Blame customers",
+      "D": "Avoid communication"
+    },
+    "correct_option": "A",
+    "correct_answer": "Clarify facts and promote cyber-security measures"
+  },
+  {
+    "id": 374,
+    "question": "A Nigerian beverage PR team faces backlash over unhealthy ingredients. The BEST PR response is:",
+    "options": {
+      "A": "Conduct tests and communicate health assurances",
+      "B": "Ignore all complaints",
+      "C": "Bribe regulators",
+      "D": "Deny without proof"
+    },
+    "correct_option": "B",
+    "correct_answer": "Ignore all complaints"
+  },
+  {
+    "id": 375,
+    "question": "A Nigerian hospital PR officer is confronted with media on expired drugs. The ethical action is:",
+    "options": {
+      "A": "Admit and announce corrective measures",
+      "B": "Hide records of expired drugs",
+      "C": "Attack journalists",
+      "D": "Suppress reports"
+    },
+    "correct_option": "C",
+    "correct_answer": "Attack journalists"
+  },
+  {
+    "id": 376,
+    "question": "A Nigerian NGO PR officer is asked how funds are spent. The BEST action is:",
+    "options": {
+      "A": "Provide transparent financial breakdowns",
+      "B": "Avoid donor queries",
+      "C": "Attack rival NGOs",
+      "D": "Deny accountability"
+    },
+    "correct_option": "D",
+    "correct_answer": "Deny accountability"
+  },
+  {
+    "id": 377,
+    "question": "A Nigerian airline faces negative press after late salaries. The PR manager should:",
+    "options": {
+      "A": "Confirm challenges and share efforts to resolve them",
+      "B": "Suppress the story",
+      "C": "Attack staff in the media",
+      "D": "Ignore the situation"
+    },
+    "correct_option": "A",
+    "correct_answer": "Confirm challenges and share efforts to resolve them"
+  },
+  {
+    "id": 378,
+    "question": "A Nigerian PR consultant managing a scandal at a university should:",
+    "options": {
+      "A": "Acknowledge the issue and communicate reforms",
+      "B": "Attack rival schools",
+      "C": "Suppress student unions",
+      "D": "Deny reports entirely"
+    },
+    "correct_option": "B",
+    "correct_answer": "Attack rival schools"
+  },
+  {
+    "id": 379,
+    "question": "A Nigerian PR officer in a corporate firm is asked about layoffs. The MOST effective action is:",
+    "options": {
+      "A": "Communicate reasons clearly and offer staff support programs",
+      "B": "Hide the information",
+      "C": "Attack unions",
+      "D": "Deny layoffs occurred"
+    },
+    "correct_option": "C",
+    "correct_answer": "Attack unions"
+  },
+  {
+    "id": 380,
+    "question": "A Nigerian telecom PR manager faces billing fraud allegations. The BEST PR strategy is:",
+    "options": {
+      "A": "Provide transparent billing records and solutions",
+      "B": "Attack regulators",
+      "C": "Suppress complaints",
+      "D": "Deny fraud entirely"
+    },
+    "correct_option": "D",
+    "correct_answer": "Deny fraud entirely"
+  },
+  {
+    "id": 381,
+    "question": "A Nigerian PR officer handling a celebrity drug scandal should:",
+    "options": {
+      "A": "Admit facts and outline corrective actions",
+      "B": "Attack fans",
+      "C": "Suppress media",
+      "D": "Deny without evidence"
+    },
+    "correct_option": "A",
+    "correct_answer": "Admit facts and outline corrective actions"
+  },
+  {
+    "id": 382,
+    "question": "A Nigerian bank PR unit faces public anger after system failure. The BEST PR response is:",
+    "options": {
+      "A": "Apologize and explain corrective steps",
+      "B": "Ignore customers",
+      "C": "Attack rival banks",
+      "D": "Deny failure occurred"
+    },
+    "correct_option": "B",
+    "correct_answer": "Ignore customers"
+  },
+  {
+    "id": 383,
+    "question": "A Nigerian NGO’s PR officer promoting gender equality should:",
+    "options": {
+      "A": "Run awareness campaigns with communities",
+      "B": "Spread false statistics",
+      "C": "Exclude men from discussions",
+      "D": "Avoid rural areas"
+    },
+    "correct_option": "C",
+    "correct_answer": "Exclude men from discussions"
+  },
+  {
+    "id": 384,
+    "question": "A Nigerian government PR team faces international criticism over human rights. The BEST response is:",
+    "options": {
+      "A": "Engage with facts and communicate reforms",
+      "B": "Suppress foreign media",
+      "C": "Attack NGOs",
+      "D": "Deny all allegations"
+    },
+    "correct_option": "D",
+    "correct_answer": "Deny all allegations"
+  },
+  {
+    "id": 385,
+    "question": "A Nigerian PR officer handling a transport accident must:",
+    "options": {
+      "A": "Express sympathy and provide support details",
+      "B": "Ignore the victims’ families",
+      "C": "Attack the opposition party",
+      "D": "Deny the accident occurred"
+    },
+    "correct_option": "A",
+    "correct_answer": "Express sympathy and provide support details"
+  },
+  {
+    "id": 386,
+    "question": "A Nigerian corporate PR officer is asked to present annual reports. The BEST action is:",
+    "options": {
+      "A": "Publish transparent and accurate reports",
+      "B": "Hide figures",
+      "C": "Attack shareholders",
+      "D": "Manipulate numbers"
+    },
+    "correct_option": "B",
+    "correct_answer": "Hide figures"
+  },
+  {
+    "id": 387,
+    "question": "A Nigerian hospital PR officer facing protests should:",
+    "options": {
+      "A": "Dialogue with protesters and explain improvements",
+      "B": "Suppress protests with police",
+      "C": "Deny patients’ rights",
+      "D": "Attack staff in the media"
+    },
+    "correct_option": "C",
+    "correct_answer": "Deny patients’ rights"
+  },
+  {
+    "id": 388,
+    "question": "A Nigerian university PR officer faces negative press on cultism. The BEST action is:",
+    "options": {
+      "A": "Provide security updates and engage students",
+      "B": "Ignore journalists",
+      "C": "Attack rival universities",
+      "D": "Suppress information"
+    },
+    "correct_option": "D",
+    "correct_answer": "Suppress information"
+  },
+  {
+    "id": 389,
+    "question": "A Nigerian PR consultant hired to promote youth entrepreneurship should:",
+    "options": {
+      "A": "Highlight programs like N-Power and YouWin",
+      "B": "Spread fake statistics",
+      "C": "Avoid rural youths",
+      "D": "Suppress success stories"
+    },
+    "correct_option": "A",
+    "correct_answer": "Highlight programs like N-Power and YouWin"
+  },
+  {
+    "id": 390,
+    "question": "A Nigerian oil PR officer faces questions on subsidy fraud. The MOST ethical step is:",
+    "options": {
+      "A": "Provide transparent information within limits of investigation",
+      "B": "Blame only independent marketers",
+      "C": "Deny without facts",
+      "D": "Suppress regulators"
+    },
+    "correct_option": "B",
+    "correct_answer": "Blame only independent marketers"
+  },
+  {
+    "id": 391,
+    "question": "A Nigerian PR officer in a political party is accused of hate speech. The BEST response is:",
+    "options": {
+      "A": "Denounce hate speech and promote issue-based communication",
+      "B": "Attack rival politicians",
+      "C": "Suppress journalists",
+      "D": "Spread more propaganda"
+    },
+    "correct_option": "C",
+    "correct_answer": "Suppress journalists"
+  },
+  {
+    "id": 392,
+    "question": "A Nigerian PR consultant working for a hospital accused of neglecting rural patients should:",
+    "options": {
+      "A": "Develop outreach and health campaigns for rural areas",
+      "B": "Ignore rural communities",
+      "C": "Suppress media reports",
+      "D": "Attack NGOs"
+    },
+    "correct_option": "D",
+    "correct_answer": "Attack NGOs"
+  },
+  {
+    "id": 393,
+    "question": "A Nigerian telecom PR officer faces allegations of poor customer care. The BEST step is:",
+    "options": {
+      "A": "Improve services and communicate efforts transparently",
+      "B": "Attack customers online",
+      "C": "Deny all complaints",
+      "D": "Suppress service records"
+    },
+    "correct_option": "A",
+    "correct_answer": "Improve services and communicate efforts transparently"
+  },
+  {
+    "id": 394,
+    "question": "A Nigerian NGO PR officer is asked about failed projects. The BEST approach is:",
+    "options": {
+      "A": "Admit shortcomings and outline new strategies",
+      "B": "Blame rival NGOs",
+      "C": "Deny donor involvement",
+      "D": "Suppress reports"
+    },
+    "correct_option": "B",
+    "correct_answer": "Blame rival NGOs"
+  },
+  {
+    "id": 395,
+    "question": "A Nigerian PR manager in a transport company faces protests about high fares. The BEST action is:",
+    "options": {
+      "A": "Communicate reasons and explore solutions",
+      "B": "Attack commuters",
+      "C": "Ignore the protests",
+      "D": "Suppress the story"
+    },
+    "correct_option": "C",
+    "correct_answer": "Ignore the protests"
+  },
+  {
+    "id": 396,
+    "question": "A Nigerian bank PR officer faces fraud allegations. The BEST PR action is:",
+    "options": {
+      "A": "Provide facts, cooperate with investigations, and communicate measures",
+      "B": "Attack whistleblowers",
+      "C": "Deny without facts",
+      "D": "Hide records"
+    },
+    "correct_option": "D",
+    "correct_answer": "Hide records"
+  },
+  {
+    "id": 397,
+    "question": "A Nigerian hospital PR team responds to allegations of negligence by:",
+    "options": {
+      "A": "Explaining corrective steps and showing empathy",
+      "B": "Ignoring complaints",
+      "C": "Attacking media houses",
+      "D": "Blaming only nurses"
+    },
+    "correct_option": "A",
+    "correct_answer": "Explaining corrective steps and showing empathy"
+  },
+  {
+    "id": 398,
+    "question": "A Nigerian PR consultant for an airline facing international complaints should:",
+    "options": {
+      "A": "Provide transparent safety and service information",
+      "B": "Suppress international media",
+      "C": "Attack passengers",
+      "D": "Avoid engagement"
+    },
+    "correct_option": "B",
+    "correct_answer": "Suppress international media"
+  },
+  {
+    "id": 399,
+    "question": "A Nigerian university PR officer promoting research should:",
+    "options": {
+      "A": "Highlight success stories and publicize innovations",
+      "B": "Attack rival universities",
+      "C": "Suppress publications",
+      "D": "Hide research outputs"
+    },
+    "correct_option": "C",
+    "correct_answer": "Suppress publications"
+  },
+  {
+    "id": 400,
+    "question": "A Nigerian government PR officer is tasked with promoting national unity. The BEST approach is:",
+    "options": {
+      "A": "Launch inclusive campaigns celebrating diversity",
+      "B": "Spread propaganda against minorities",
+      "C": "Avoid citizen engagement",
+      "D": "Deny cultural identities"
+    },
+    "correct_option": "D",
+    "correct_answer": "Deny cultural identities"
+  }
+]
