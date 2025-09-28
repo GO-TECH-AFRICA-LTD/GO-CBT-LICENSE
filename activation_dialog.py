@@ -1,4 +1,4 @@
-# activation_dialog.py — classic layout (Activate / Buy License / Close), centered, logo auto-resize
+# activation_dialog.py — classic layout (Activate / Buy License / Close) with auto-size
 import tkinter as tk
 from tkinter import messagebox
 import datetime
@@ -9,6 +9,7 @@ PAY_URL = "https://paystack.shop/pay/hpv92fjpxf"
 SUPPORT_PHONE = "08066713410"
 LOGO_FILE = "gocbt_logo.png"  # optional
 
+# tiny logger to gocbt_crash.log
 def _alog(msg: str):
     try:
         with open("gocbt_crash.log", "a", encoding="utf-8") as f:
@@ -42,52 +43,81 @@ class ActivationDialog(tk.Toplevel):
     def __init__(self, master, buy_url: str = PAY_URL, on_activated=None):
         super().__init__(master)
         self.title(f"{APP_NAME} — Activation")
-        self.resizable(False, False)
+        self.resizable(True, True)  # allow resizing in case of very large scaling
         self.buy_url = buy_url
         self.on_activated = on_activated
 
-        outer = tk.Frame(self, padx=18, pady=18); outer.pack(fill="both", expand=True)
+        outer = tk.Frame(self, padx=18, pady=18)
+        outer.pack(fill="both", expand=True)
 
-        # logo (optional)
+        # logo (optional, auto-resized)
         self._logo_img = _load_logo_scaled(LOGO_FILE, 320, 160)
         if self._logo_img:
             tk.Label(outer, image=self._logo_img).pack(pady=(0, 8))
 
+        # title
         tk.Label(outer, text=f"{APP_NAME} (1 PC License)", font=("Segoe UI", 12, "bold")).pack(anchor="w", pady=(0, 6))
 
+        # email
         tk.Label(outer, text="Enter the email you paid with:").pack(anchor="w")
         self.email_var = tk.StringVar()
         tk.Entry(outer, textvariable=self.email_var, width=42).pack(pady=(0, 8))
 
+        # reference
         tk.Label(outer, text="Enter your Paystack payment reference:").pack(anchor="w")
         self.ref_var = tk.StringVar()
         tk.Entry(outer, textvariable=self.ref_var, width=42).pack(pady=(0, 12))
 
-        tk.Label(outer, text="Note: License binds to this PC. For another PC, purchase another license.",
-                 fg="#444").pack(anchor="w", pady=(0, 10))
+        # note
+        tk.Label(
+            outer,
+            text="Note: License binds to this PC. For another PC, purchase another license.",
+            fg="#444"
+        ).pack(anchor="w", pady=(0, 10))
 
-        btns = tk.Frame(outer); btns.pack(fill="x", pady=(4, 0))
+        # subtle separator so buttons are clearly visible
+        tk.Frame(outer, height=1, bg="#dddddd").pack(fill="x", pady=(6, 10))
+
+        # buttons row (classic)
+        btns = tk.Frame(outer)
+        btns.pack(fill="x", pady=(0, 0))
+
         self.btn_activate = tk.Button(btns, text="Activate", width=12, command=self._do_activate)
         self.btn_buy      = tk.Button(btns, text="Buy License", width=12, command=self._open_buy)
         self.btn_close    = tk.Button(btns, text="Close", width=10, command=self._on_close)
+
         self.btn_activate.pack(side="left")
         self.btn_buy.pack(side="left", padx=(8, 0))
         self.btn_close.pack(side="right")
 
+        # support line
         tk.Label(outer, text=f"Support: {SUPPORT_PHONE}", fg="#666").pack(anchor="e", pady=(12, 0))
 
+        # normal window close
         self.protocol("WM_DELETE_WINDOW", self._on_close)
+
+        # size to fit all content, then center and focus
         self.after(0, self._post_init_focus)
 
     def _post_init_focus(self):
         try:
-            # fixed geometry so it’s guaranteed visible
             self.update_idletasks()
-            self.geometry("600x360+120+120")
+            # Compute a size that fits the content; don’t force too small
+            req_w = max(self.winfo_reqwidth(), 640)
+            req_h = max(self.winfo_reqheight(), 480)
+            sw, sh = self.winfo_screenwidth(), self.winfo_screenheight()
+            # keep within 85% of screen in case of small screens
+            w = min(req_w, int(sw * 0.85))
+            h = min(req_h, int(sh * 0.85))
+            x, y = max(0, (sw - w)//2), max(0, (sh - h)//3)
+            self.geometry(f"{w}x{h}+{x}+{y}")
+
             self.lift()
             self.attributes("-topmost", True)
             self.focus_force()
             self.grab_set()
+
+            # nudge focus a few times in case another window steals it
             for d in (150, 300, 600, 900):
                 self.after(d, lambda w=self: (w.lift(), w.attributes("-topmost", True), w.focus_force()))
             self.after(1100, lambda w=self: w.attributes("-topmost", False))
@@ -121,11 +151,31 @@ class ActivationDialog(tk.Toplevel):
             messagebox.showwarning("Missing info", "Please enter email and reference.")
             return
 
-        self._disable_inputs(True); self.update_idletasks()
+        self._disable_inputs(True)
+        self.update_idletasks()
+
+                # ----- OLD (wrong arg order) -----
+        # res = activate_with_reference(email, ref)
+
+        # ----- NEW (explicit keyword args; use ref as license_key stand-in if you don't collect a separate key) -----
+        if not email or "@" not in email:
+            messagebox.showwarning("Missing info", "Please enter a valid email address.")
+            self._disable_inputs(False)
+            return
+        if not ref:
+            messagebox.showwarning("Missing info", "Please paste your Paystack reference.")
+            self._disable_inputs(False)
+            return
         try:
-            res = activate_with_reference(email, ref)
+            res = activate_with_reference(
+                license_key=ref or email,   # server doesn’t require key; use reference as stand-in
+                email=email,                # correct mapping
+                reference=ref               # critical for the server
+                # machine_id omitted -> client generates it
+            )
         except Exception as e:
             res = {"ok": False, "error": str(e)}
+
         self._disable_inputs(False)
 
         if isinstance(res, dict) and res.get("ok"):
@@ -135,7 +185,7 @@ class ActivationDialog(tk.Toplevel):
             self.destroy()
             if callable(cb):
                 try:
-                    self.after(0, cb)
+                    self.after(0, cb)  # hand off to app cleanly
                 except Exception:
                     cb()
         else:
