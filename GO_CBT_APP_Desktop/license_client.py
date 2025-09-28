@@ -342,6 +342,76 @@ def activate(license_key: str, user: Optional[str] = None, machine_id: Optional[
         _log(msg)
         return {"ok": False, "error": msg}
 
+def activate_with_reference(license_key: str,
+                            email: Optional[str] = None,
+                            user: Optional[str] = None,
+                            reference: Optional[str] = None,
+                            machine_id: Optional[str] = None) -> Dict[str, Any]:
+    """
+    Back-compat wrapper for UIs that pass a 'reference' (receipt/ref) and possibly 'user'.
+    Server requires: email, reference, machine_id.
+      - We map user -> email when email is not provided.
+      - We always include 'email' and 'machine_id' in the payload.
+    """
+    if not license_key or not isinstance(license_key, str):
+        return {"ok": False, "error": "License key is required."}
+    if requests is None:
+        return {"ok": False, "error": "requests module not available"}
+
+    # Normalize inputs
+    eml = (email or user or "").strip() or None
+    ref = (reference or "").strip() or None
+    mid = (machine_id or _machine_id())
+
+    # Client-side guardrails (clearer error before hitting server)
+    if not eml or not ref or not mid:
+        missing = []
+        if not eml: missing.append("email")
+        if not ref: missing.append("reference")
+        if not mid: missing.append("machine_id")
+        return {"ok": False, "error": f"{', '.join(missing)} required"}
+
+    payload = {
+        "license_key": license_key.strip(),
+        "email": eml,                 # <-- server expects 'email'
+        "reference": ref,             # <-- server expects 'reference'
+        "machine_id": mid,            # <-- explicitly include
+        "user": (user or email or "").strip() or None,  # optional, for server bookkeeping
+        "hostname": socket.gethostname(),
+        "platform": f"{platform.system()} {platform.release()} ({platform.machine()})",
+        "app": APP_NAME,
+    }
+
+    try:
+        s = _session()
+        _prewarm(s)
+        resp = s.post(f"{SERVER}/api/license/activate", json=payload, timeout=TIMEOUT, verify=_verify_param())
+        if resp.status_code >= 400:
+            try:
+                data = resp.json()
+                msg = data.get("error") or f"Activation failed ({resp.status_code})."
+            except Exception:
+                msg = f"Activation failed ({resp.status_code})."
+            return {"ok": False, "error": msg}
+
+        data = resp.json() if resp.content else {}
+        if not data or not data.get("ok"):
+            return {"ok": False, "error": data.get("error") or "Activation failed: unexpected server response."}
+
+        state = {
+            "product": data.get("product", APP_NAME),
+            "licensed_to": data.get("licensed_to") or eml,
+            "machine_id": mid,
+            "activated_at": data.get("activated_at") or _now_iso(),
+            "license_hint": f"****{license_key[-4:]}" if len(license_key) >= 4 else None,
+        }
+        _save_state(state)
+        return {"ok": True, **state}
+
+    except Exception as e:
+        msg = _normalize_error("Activation failed", e)
+        _log(msg)
+        return {"ok": False, "error": msg}
 
 def deactivate() -> Dict[str, Any]:
     """
