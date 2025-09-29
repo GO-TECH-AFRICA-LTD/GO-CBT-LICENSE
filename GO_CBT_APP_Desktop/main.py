@@ -129,6 +129,12 @@ def _import_portal():
         _log(f"student_portal import failed: {e!r}")
 
 def start_portal(root: tk.Tk):
+    # --- single-launch guard ---
+    if getattr(root, "_portal_started", False):
+        _log("portal already started; ignoring duplicate call")
+        return
+    root._portal_started = True
+    # ----------------------------
     """Create the portal widget and ensure the first screen is rendered (no blank window)."""
     _log("starting portal …")
     _import_portal()
@@ -303,66 +309,53 @@ def _ensure_activation(root: tk.Tk, on_ready):
 
 # ------------------------------ splash + launch ------------------------------
 def _run_splash_then_portal(root: tk.Tk):
-    """
-    Show the instructions splash, then the loading overlay, then launch the portal.
-    Includes a watchdog that falls back to the loading overlay if the splash
-    does not become visible quickly (prevents empty window).
-    """
     if GOCBT_SKIP_SPLASH:
         _log("GOCBT_SKIP_SPLASH=1 — skipping splash, going straight to portal")
         start_portal(root)
         return
 
+    # ---- guard to ensure we transition only once from splash → loader/portal
+    if getattr(root, "_splash_transition_done", False):
+        _log("splash transition already handled; skipping")
+        return
+    # ---------------------------------------------------------
+
     _log("showing splash …")
+
+    def _finish_once(next_step: str, fn):
+        # run exactly once
+        if getattr(root, "_splash_transition_done", False):
+            _log(f"splash transition already done; ignoring {next_step}")
+            return
+        root._splash_transition_done = True
+        try:
+            fn()
+        except Exception as ee:
+            _log(f"{next_step} failed: {ee!r}")
+            start_portal(root)
 
     def _fallback_to_loader(reason: str):
         _log(f"splash not visible → fallback to loader ({reason})")
-        try:
-            show_loading_intro(root, on_done=lambda: start_portal(root), duration_ms=3000)
-        except Exception as ee:
-            _log(f"show_loading_intro failed: {ee!r}")
-            start_portal(root)
+        _finish_once("fallback_to_loader", lambda: show_loading_intro(
+            root, on_done=lambda: start_portal(root), duration_ms=3000
+        ))
 
+    # create splash...
     try:
-        splash = SplashScreen(
-            root,
-            on_agree_callback=lambda: _after_splash(root),
-            title="GO CBT App — Instructions"
-        )
+        splash = SplashScreen(root, on_agree_callback=lambda: _finish_once(
+            "after_splash", lambda: show_loading_intro(
+                root, on_done=lambda: start_portal(root), duration_ms=3000
+            )
+        ), title="GO CBT App — Instructions")
+        # … your existing show/focus/center code …
     except Exception as e:
         _log(f"splash init failed: {e!r}")
         _fallback_to_loader("init-exception")
         return
 
-    # Try very hard to make the splash visible and focused
-    try:
-        _set_icon_if_available(splash)
-        _center_window(splash, 580, 430)
-
-        # Ensure it actually maps
-        try:
-            splash.deiconify()
-        except Exception:
-            pass
-        splash.update_idletasks()
-
-        try:
-            splash.transient(root)
-            splash.grab_set()
-        except Exception:
-            pass
-
-        try:
-            splash.lift()
-            splash.focus_force()
-            splash.attributes("-topmost", True)
-            splash.after(220, lambda: splash.attributes("-topmost", False))
-        except Exception:
-            pass
-    except Exception as e:
-        _log(f"splash show sequence failed: {e!r}")
-        _fallback_to_loader("show-sequence-exception")
-        return
+    # watchdogs (unchanged), but they call _fallback_to_loader(), which is now single-shot
+    root.after(600,  lambda: (splash.winfo_exists() and splash.winfo_ismapped()) or _fallback_to_loader("not-mapped"))
+    root.after(1200, lambda: (splash.winfo_exists() and splash.winfo_ismapped()) or _fallback_to_loader("destroyed"))
 
     # Watchdog: if the splash is not visible within 900ms, fallback to loader
     def _watch_splash_visibility():
@@ -390,9 +383,12 @@ def _run_splash_then_portal(root: tk.Tk):
     root.after(1200, _watch_splash_visibility)
 
 def _after_splash(root: tk.Tk):
+    if getattr(root, "_splash_transition_done", False):
+        _log("after_splash: transition already done; skipping")
+        return
+    root._splash_transition_done = True
     _log("splash accepted → launching portal")
     try:
-        # This displays the centered 420x280 logo overlay for ~3s (implemented inside splash_screen.py)
         show_loading_intro(root, on_done=lambda: start_portal(root), duration_ms=3000)
     except Exception:
         start_portal(root)

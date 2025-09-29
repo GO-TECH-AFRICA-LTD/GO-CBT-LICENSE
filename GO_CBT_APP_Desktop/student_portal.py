@@ -1,7 +1,17 @@
-
+# ---- student_portal.py (PUT NEAR THE TOP, REPLACES any 'from PIL import Image, ImageTk') ----
+import os
 import tkinter as tk
-from tkinter import messagebox
+from tkinter import ttk, messagebox
+    # --- Required: Pillow for background image handling (match the working file) ---
+# Required for background images
 from PIL import Image, ImageTk
+
+# Pillow 10+ / older compatibility
+try:
+    from PIL.Image import Resampling as _Resampling  # Pillow ≥10
+    RESAMPLE_FILTER = _Resampling.LANCZOS
+except Exception:
+    RESAMPLE_FILTER = getattr(Image, "LANCZOS", getattr(Image, "ANTIALIAS", Image.BICUBIC))
 
 import os, sys, random, json, glob, tempfile, webbrowser
 
@@ -313,6 +323,8 @@ class GO_CBT_App(tk.Frame):
         self.current_subject = None
         self.current_question_index = 0
         self.timer_id = None
+        self._timer_after_id = None
+        self.bind("<Destroy>", self._on_destroy, add="+")
         self.selected_option = tk.StringVar()
         self.nav_buttons = []
         self.cycle_start_indices = {}
@@ -341,6 +353,24 @@ class GO_CBT_App(tk.Frame):
 
     def _bind_close_to_default(self):
         self._bind_close_x_to(self.master.destroy)
+        
+        # ---------- Window-close helpers ----------
+    def stop_timer(self):
+        """Cancel any scheduled timer tick."""
+        aid = getattr(self, "_timer_after_id", None)
+        if aid:
+            try:
+                self.after_cancel(aid)
+            except Exception:
+                pass
+            self._timer_after_id = None
+
+    def _on_destroy(self, _evt=None):
+        """Ensure timers are cancelled when this widget goes away."""
+        try:
+            self.stop_timer()
+        except Exception:
+            pass
 
     # ---------- General helpers ----------
     def disable_all_buttons(self):
@@ -364,6 +394,106 @@ class GO_CBT_App(tk.Frame):
         self._bg_label = None
         self._bg_img = None
         self._bg_tk = None
+        
+    def on_data_ready(self):
+        """
+        Safe default handler called when question-bank loading finishes.
+        It attempts a few non-destructive actions to make the portal visible.
+        """
+        try:
+            # diagnostic log
+            try:
+                if 'diag_log' in globals():
+                    diag_log("on_data_ready: called")
+            except Exception:
+                pass
+
+            # 1) Ensure the root/toplevel is visible
+            try:
+                # if we have a top-level window
+                if hasattr(self, "deiconify") and callable(getattr(self, "deiconify")):
+                    try: self.deiconify()
+                    except Exception: pass
+                # focus window if possible
+                try:
+                    if hasattr(self, "focus_force") and callable(getattr(self, "focus_force")):
+                        try: self.focus_force()
+                        except Exception: pass
+                except Exception:
+                    pass
+            except Exception:
+                pass
+
+            # 2) Try to lift or pack the main_frame (common pattern)
+            try:
+                if hasattr(self, "main_frame"):
+                    try:
+                        mf = getattr(self, "main_frame")
+                        try:
+                            mf.lift()
+                        except Exception:
+                            pass
+                        try:
+                            # if not managed by pack/grid, attempt pack (best-effort)
+                            mf.pack(fill="both", expand=True)
+                        except Exception:
+                            pass
+                    except Exception:
+                        pass
+            except Exception:
+                pass
+
+            # 3) Call common builder methods if they exist (non-destructive)
+            for candidate in ("build_main_ui", "build_ui", "render_portal", "render_ui", "show_portal", "create_widgets", "setup_ui"):
+                try:
+                    if hasattr(self, candidate) and callable(getattr(self, candidate)):
+                        try:
+                            if 'diag_log' in globals(): diag_log(f"on_data_ready: calling {candidate}()")
+                            getattr(self, candidate)()
+                            if 'diag_log' in globals(): diag_log(f"on_data_ready: {candidate}() succeeded")
+                            # stop after first successful builder
+                            return
+                        except Exception as e:
+                            try:
+                                if 'diag_log' in globals(): diag_log(f"on_data_ready: {candidate}() failed: {repr(e)}")
+                            except Exception:
+                                pass
+                except Exception:
+                    pass
+
+            # 4) Enable a typical start button if present (best-effort)
+            try:
+                if hasattr(self, "start_button"):
+                    try:
+                        sb = getattr(self, "start_button")
+                        try:
+                            sb.configure(state="normal")
+                            try: sb.focus_set()
+                            except Exception: pass
+                        except Exception:
+                            pass
+                    except Exception:
+                        pass
+            except Exception:
+                pass
+
+            # 5) Final diagnostic fallback – list some attributes
+            try:
+                if 'diag_log' in globals():
+                    try:
+                        attrs = [n for n in dir(self) if not n.startswith("_")]
+                        diag_log("on_data_ready: post-hook attributes snapshot: " + ", ".join(attrs))
+                    except Exception:
+                        pass
+            except Exception:
+                pass
+
+        except Exception as e:
+            try:
+                if 'diag_log' in globals():
+                    diag_log("on_data_ready: unexpected error: " + repr(e))
+            except Exception:
+                pass
 
     # ---------- Question bank loader ----------
     def load_full_question_bank(self):
@@ -459,32 +589,38 @@ class GO_CBT_App(tk.Frame):
         full_bank["Psychometrics"] = load_questions_by_filename("Psychometrics.json")
         full_bank["Financial Regulations"] = load_questions_by_filename("Financial Regulations.json")
         full_bank["Public Procurement"] = load_questions_by_filename("Public Procurement.json")
-        full_bank["FCSSIP-25"] = load_questions_by_filename("FCSSIP25_MCQs.json")
+        full_bank["Federal Civil Service Strategic Implementation Plan 2025"] = load_questions_by_filename("FCSSIP25_MCQs.json")
         full_bank["CBN and Monetary Policy"] = load_questions_by_filename("CBN AND MONETARY POLICIES.json")
-        full_bank["FCTA and Its Operations"] = load_questions_by_filename("FCTA AND ITS OPERATIONS.json")
+        full_bank["FCTA and It's Operations"] = load_questions_by_filename("FCTA AND ITS OPERATIONS.json")
         full_bank["Comprehensive Competency Framework"] = load_questions_by_filename("CCF_100_MCQs.json")
         full_bank["Public Service Rules"] = load_questions_by_filename("PSR.json")
         full_bank["Education Profession"] = load_questions_by_filename("Education_Sector.json")
         full_bank["Medical/Health Profession"] = load_questions_by_filename("Health_MCQs.json")
-        full_bank["Tourism, Art & Culture Profession"] = load_questions_by_filename("TAC_MCQs.json")
-        full_bank["Transportation/Vehicle Inspection Profession"] = load_questions_by_filename("Transport_MCQs.json")
-        full_bank["Land/Urban & Regional Planning Profession"] = load_questions_by_filename("URP_MCQs.json")
-        full_bank["Agric Profession"] = load_questions_by_filename("Agric_MCQs.json")
-        full_bank["Social Welfare Profession"] = load_questions_by_filename("Social_MCQs.json")
-        full_bank["HRM/Admin Profession"] = load_questions_by_filename("HRM_MCQs.json")
+        full_bank["Tourism Development, Arts & Culture Profession"] = load_questions_by_filename("TAC_MCQs.json")
+        full_bank["Transportation & Vehicle Inspection Profession"] = load_questions_by_filename("Transport_MCQs.json")
+        full_bank["Lands, Housing & Urban Development Profession"] = load_questions_by_filename("URP_MCQs.json")
+        full_bank["Agriculture, Rural Development and Infrastructure Profession"] = load_questions_by_filename("Agric_MCQs.json")
+        full_bank["Social Welfare & Community Development Profession"] = load_questions_by_filename("Social_MCQs.json")
+        full_bank["Human Resource Management (Admin) Profession"] = load_questions_by_filename("HRM_MCQs.json")
         full_bank["Engineering Profession"] = load_questions_by_filename("Engineering_MCQs.json")
         full_bank["Civil Service Reforms & Policies"] = load_questions_by_filename("CCRP_MCQs.json")
         full_bank["Fire Service Profession"] = load_questions_by_filename("Fire_Service_MCQs.json")
         full_bank["General Knowledge"] = load_questions_by_filename("General Knowledge MCQs.json")
         full_bank["Expanded FCTA Structure & Functions"] = load_questions_by_filename("Expanded FCTA Structure & Functions.json")
         full_bank["Legal Profession"] = load_questions_by_filename("Legal_MCQs.json")
-        full_bank["Finance & Account Profession"] = load_questions_by_filename("Accounting_MCQs.json")
+        full_bank["Finance & Account, Budget and Audit Profession"] = load_questions_by_filename("Accounting_MCQs.json")
         full_bank["Architectural Profession"] = load_questions_by_filename("Architecture.json")
         full_bank["Information and Communication Technology Profession"] = load_questions_by_filename("ICT.json")
         full_bank["General Mock Test for All"] = load_questions_by_filename("GMT.json")
         full_bank["Surveying Profession"] = load_questions_by_filename("Surveying.json")
         full_bank["Journalism Profession"] = load_questions_by_filename("Journalism.json")
         full_bank["Public Relations Profession"] = load_questions_by_filename("Public Relations.json")
+        full_bank["Guidance & Counselling and Librarianship Professions"] = load_questions_by_filename("Guidance_Library_MCQs.json")
+        full_bank["Community & Public Health Profession"] = load_questions_by_filename("Community_Public_Health_MCQs.json")
+        full_bank["Environmental & Utilities Profession"] = load_questions_by_filename("Environment_Utilities_MCQs.json")
+        full_bank["Compliance/Regulatory Profession"] = load_questions_by_filename("Compliance_Regulatory_MCQs.json")
+        full_bank["Planning, Research & Statistics (PRS) Profession"] = load_questions_by_filename("Planning_Research_Statistics_MCQs.json")
+        full_bank["Protocol & Liaison, Public Affairs and Customer Service Profession"] = load_questions_by_filename("Protocol_PublicAffairs_CustomerService_MCQs.json")
 
         return full_bank
 
@@ -656,10 +792,7 @@ class GO_CBT_App(tk.Frame):
             all_questions.extend(qlist)
 
         if len(all_questions) < 100:
-            messagebox.showerror(
-                "Insufficient Questions",
-                "Not enough questions in the question bank (excluding Profession subjects) for simulation exam."
-            )
+            messagebox.showerror("Activation required", "Your GO CBT APP license is not active on this PC. Click OK to open the purchase page for simulation exam.")
             return
 
         random.shuffle(all_questions)
@@ -687,7 +820,7 @@ class GO_CBT_App(tk.Frame):
 
         questions_pool = self.shuffled_question_bank.get(subject, [])
         if len(questions_pool) == 0:
-            messagebox.showerror("No Questions", f"No questions available for subject: {subject}")
+            messagebox.showerror("Activation required", "Your GO CBT APP license is not active on this PC. Click OK to open the purchase page.")
             return
 
         start_index = self.cycle_start_indices.get(subject, 0)
@@ -708,30 +841,26 @@ class GO_CBT_App(tk.Frame):
     def _setup_exam_background(self):
         """
         Create/refresh the background image for the exam window.
-
-        - Safe if the previous background label was destroyed (after view switches)
-        - Recreates the label when needed
-        - Keeps strong references to avoid GC issues (PhotoImage)
-        - Resizes on window <Configure> with a guarded handler
-        - Falls back to a solid color if the image can't be found/loaded
+        - Looks up assets/exam_bg.(png|jpg), cbt_bg.(png|jpg), or bg.(png|jpg)
+        - Resizes with Pillow on window <Configure>
+        - Keeps references to avoid GC
+        - Falls back to a friendly solid color if not found/failed
         """
-        parent = self  # use the main frame as the background host
+        import os, tkinter as tk
+        from path_utils import asset_path
 
-        # 1) Locate a background image (try several common names)
-        candidates = ["exam_bg.jpg", "exam_bg.png",
-                      "cbt_bg.jpg", "cbt_bg.png",
-                      "bg.jpg", "bg.png"]
+        parent = self  # draw under the main frame
+
+        # 1) Candidate files in assets/
+        candidates = ["exam_bg.jpg", "exam_bg.png", "cbt_bg.jpg", "cbt_bg.png", "bg.jpg", "bg.png"]
         bg_path = None
-        try:
-            for name in candidates:
-                p = asset_path(name)
-                if os.path.exists(p):
-                    bg_path = p
-                    break
-        except Exception:
-            bg_path = None
+        for name in candidates:
+            p = asset_path(name)
+            if os.path.exists(p):
+                bg_path = p
+                break
 
-        # 2) If not found, remove any existing bg label and use a solid color
+        # 2) No image -> remove label and use a soft color
         if not bg_path:
             try:
                 if getattr(self, "_bg_label", None) and self._bg_label.winfo_exists():
@@ -742,26 +871,20 @@ class GO_CBT_App(tk.Frame):
             self._bg_src = None
             self._bg_tk = None
             try:
-                # Friendly fallback color
                 self.configure(bg="#e9f3ff")
             except Exception:
                 pass
             return
 
-        # 3) Ensure a background label exists and is attached to the parent
-        try:
-            _ensure_bg_label(self, parent)
-        except Exception:
-            # If helper is unavailable for any reason, create a basic label
-            if getattr(self, "_bg_label", None) is None or not self._bg_label.winfo_exists():
-                self._bg_label = tk.Label(parent, bd=0, highlightthickness=0)
-                self._bg_label.place(relx=0, rely=0, relwidth=1, relheight=1)
+        # 3) Ensure a background label exists
+        if getattr(self, "_bg_label", None) is None or not self._bg_label.winfo_exists():
+            self._bg_label = tk.Label(parent, bd=0, highlightthickness=0)
+            self._bg_label.place(relx=0, rely=0, relwidth=1, relheight=1)
 
-        # 4) Load the image once; keep the source for future resizes
+        # 4) Load source image
         try:
             self._bg_src = Image.open(bg_path).convert("RGBA")
-        except Exception as e:
-            # If loading fails, fall back to solid color without crashing the UI
+        except Exception:
             try:
                 if getattr(self, "_bg_label", None) and self._bg_label.winfo_exists():
                     self._bg_label.destroy()
@@ -776,7 +899,7 @@ class GO_CBT_App(tk.Frame):
                 pass
             return
 
-        # 5) Render it at the current window size
+        # 5) Render current size
         w = max(1, parent.winfo_width() or 1)
         h = max(1, parent.winfo_height() or 1)
         try:
@@ -785,19 +908,18 @@ class GO_CBT_App(tk.Frame):
             img = self._bg_src
         self._bg_tk = ImageTk.PhotoImage(img)
 
-        # Guard again in case the label got destroyed during the work above
         if getattr(self, "_bg_label", None) is None or not self._bg_label.winfo_exists():
-            _ensure_bg_label(self, parent)
+            self._bg_label = tk.Label(parent, bd=0, highlightthickness=0)
+            self._bg_label.place(relx=0, rely=0, relwidth=1, relheight=1)
 
         try:
             self._bg_label.configure(image=self._bg_tk)
-            self._bg_label.image = self._bg_tk  # prevent GC
-            self._bg_label.lower()              # ensure it stays behind content
+            self._bg_label.image = self._bg_tk   # keep reference
+            self._bg_label.lower()               # behind content
         except Exception:
             pass
 
-        # 6) Bind a single guarded resize handler (replace any previous binding)
-        #    Store the bind id so we can unbind specifically next time.
+        # 6) Bind resize (replace any existing binding)
         try:
             if hasattr(self, "_bg_bind_id") and self._bg_bind_id:
                 try:
@@ -808,7 +930,6 @@ class GO_CBT_App(tk.Frame):
             pass
 
         def _on_resize(evt):
-            # Only redraw if we still have a label + source and sane geometry
             if not getattr(self, "_bg_label", None) or not self._bg_label.winfo_exists():
                 return
             if not getattr(self, "_bg_src", None):
@@ -820,7 +941,7 @@ class GO_CBT_App(tk.Frame):
                 self._bg_tk = ImageTk.PhotoImage(img2)
                 if self._bg_label and self._bg_label.winfo_exists():
                     self._bg_label.configure(image=self._bg_tk)
-                    self._bg_label.image = self._bg_tk  # prevent GC
+                    self._bg_label.image = self._bg_tk
             except Exception:
                 pass
 
@@ -831,6 +952,8 @@ class GO_CBT_App(tk.Frame):
 
     # ---------- Exam Window ----------
     def show_exam_window(self):
+        self._setup_exam_background()
+    # ... then create/pack your content frames on top
         self._bind_close_to_default()
         self.clear_widgets()
 
@@ -1017,21 +1140,56 @@ class GO_CBT_App(tk.Frame):
             pass
 
     # ---------- Timer ----------
+        # ---------- Timer ----------
     def start_timer(self, seconds):
-        self.remaining = seconds
-        self.update_timer()
+        """Start/restart the exam countdown."""
+        import time
+        self.exam_end_ts = time.time() + int(seconds)
+        self.stop_timer()  # clear any old one
+        self._timer_after_id = self.after(1000, self.update_timer)
 
     def update_timer(self):
-        mins, secs = divmod(self.remaining, 60)
-        time_format = f"{mins:02d}:{secs:02d}"
-        if hasattr(self, 'timer_label') and self.timer_label:
-            self.timer_label.config(text=time_format)
-        if self.remaining > 0:
-            self.remaining -= 1
-            self.timer_id = self.after(1000, self.update_timer)
-        else:
-            messagebox.showinfo("Time's up", "Time is up! Your exam will be submitted automatically.")
-            self.submit_exam()
+        """Safe ticking timer; survives navigation and window closes."""
+        # Label guard
+        lbl = getattr(self, "timer_label", None)
+        if not lbl:
+            self.stop_timer()
+            return
+        try:
+            if not lbl.winfo_exists():
+                self.stop_timer()
+                return
+        except Exception:
+            self.stop_timer()
+            return
+
+        # Compute remaining
+        import time
+        end_ts = getattr(self, "exam_end_ts", None)
+        remaining = max(0, int(end_ts - time.time())) if end_ts else 0
+        mins, secs = divmod(remaining, 60)
+        hrs, mins = divmod(mins, 60)
+        time_format = f"{hrs:02}:{mins:02}:{secs:02}"
+
+        # Update label safely
+        try:
+            lbl.config(text=time_format)
+        except tk.TclError:
+            self.stop_timer()
+            return
+
+        # Time up?
+        if remaining <= 0:
+            self.stop_timer()
+            if hasattr(self, "submit_exam"):
+                try:
+                    self.submit_exam()
+                except Exception:
+                    pass
+            return
+
+        # Tick again
+        self._timer_after_id = self.after(1000, self.update_timer)
 
     # ---------- Submission flow ----------
     def confirm_submit(self):

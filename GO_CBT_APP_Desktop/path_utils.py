@@ -48,7 +48,15 @@ def asset_path(*parts: str) -> str:
 
 def find_app_icon() -> str | None:
     for d in assets_dir_candidates():
-        for name in ("new_app_icon.ico", "go_cbt.ico"):
+        for name in ("new_app_icon.ico","go_cbt.ico","app.ico","go_cbt_logo.ico","logo.ico"):
+            p = os.path.join(d, name)
+            if os.path.exists(p):
+                return p
+    return None
+
+def find_logo() -> str | None:
+    for d in assets_dir_candidates():
+        for name in ("go_cbt_logo.png","go_cbt_logo.gif","go_cbt.png","logo.png","splash.png","splash.gif"):
             p = os.path.join(d, name)
             if os.path.exists(p):
                 return p
